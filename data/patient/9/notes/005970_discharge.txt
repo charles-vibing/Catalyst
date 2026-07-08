@@ -1,0 +1,60 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005970
+
+ADMIT DATE: 2026-03-09
+DISCHARGE DATE: 2026-03-17
+DISCHARGE TIME: 11:00
+
+ATTENDING: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS: Left intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL DIAGNOSIS: Left intertrochanteric femur fracture (S72.141A)
+
+SECONDARY DIAGNOSES:
+- Atrial fibrillation (I48.91)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Osteoporosis (M81.0)
+
+PROCEDURES PERFORMED:
+- Left hip intramedullary nail (0QS606Z) on 04/13/2026
+
+HOSPITAL COURSE:
+Mr. Reeves was admitted after a mechanical fall with left intertrochanteric fracture. He was on warfarin for atrial fibrillation with INR 2.8 on admission. Warfarin was held and vitamin K 5 mg PO was given. INR corrected to 1.4 by 04/12. Surgery was performed on 04/13 without complication. Postoperatively, he had stable vital signs. Hemoglobin dropped from 11.2 to 10.5 g/dL on POD1, stable thereafter. Pain was controlled with acetaminophen and oxycodone. He was started on enoxaparin 40 mg SC daily for DVT prophylaxis on POD1. PT/OT evaluated and recommended discharge home with home health services. He was ambulating with a walker. Warfarin was restarted on 04/16 with a plan for INR monitoring by home health. He was discharged home with his daughter.
+
+DISCHARGE DISPOSITION: Home (01)
+
+DISCHARGE MEDICATIONS:
+- Warfarin 5 mg PO daily (restarted 04/16)
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D 1000 IU PO daily
+- Enoxaparin 40 mg SC daily (for 7 days post-discharge)
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+
+FOLLOW-UP APPOINTMENTS:
+- Orthopedic surgery follow-up: 2 weeks (04/30) with Dr. Mitchell
+- PCP follow-up: Not yet scheduled (patient to call)
+
+DISCHARGE INSTRUCTIONS:
+- Weight-bearing as tolerated with walker
+- Wound care: Keep incision clean and dry
+- Signs of infection: fever, redness, drainage – call clinic or go to ED
+- Resume warfarin as directed; home health will check INR
+- Follow up with orthopedics in 2 weeks
+
+CASE MANAGER: Nguyen, Lisa RN
+
+ATTENDING: Okonkwo, Chidi MD
+NPI: 1122334455
+
+SIGNED: Okonkwo, Chidi MD 2026-03-17T10:00:00-06:00

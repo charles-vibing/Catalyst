@@ -1,0 +1,92 @@
+MEMORIAL GENERAL HOSPITAL
+Anesthesia Preprocedure Evaluation
+
+Patient: Chen, Robert M
+MRN: 10048
+FIN: 004821
+DOB: 11/08/1943
+Date of Service: 03/11/2026
+Planned Procedure: Right hip hemiarthroplasty
+Planned OR Time: 03/11/2026 0730
+Location: OR 7 — Main Campus
+
+ANESTHESIOLOGIST:
+Patel, Rina MD
+
+SURGEON:
+Mitchell, Sarah MD
+
+PROCEDURE:
+Right hip hemiarthroplasty for intertrochanteric fracture
+
+ANESTHESIA PLAN:
+General endotracheal anesthesia
+Arterial line: not planned
+Central line: not planned
+Postoperative disposition: PACU, then floor
+
+ASA CLASS:
+III — severe systemic disease
+
+AIRWAY ASSESSMENT:
+Mallampati II
+Mouth opening normal
+Thyromental distance > 3 fingerbreadths
+Neck ROM limited by hip pain/positioning but adequate for intubation
+Previous intubation: unremarkable per patient (cholecystectomy)
+Anticipated airway: routine
+
+NPO STATUS:
+NPO since midnight for solids and clear liquids per protocol
+Last oral intake: 03/10/2026 2200
+
+HOME MEDICATIONS REVIEWED:
+Apixaban — held since admission per orthopedic/hemostasis protocol; last dose 03/10/2026 AM
+Lisinopril — held morning of surgery
+Metformin — held
+Furosemide — held morning of surgery
+Albuterol — available PRN
+Atorvastatin — continued
+
+ALLERGIES:
+Penicillin (rash), Sulfa drugs (hives)
+Premedication: none required beyond standard surgical antibiotics per surgeon
+
+CARDIAC HISTORY:
+Atrial fibrillation, rate controlled
+HFrEF, EF 35% (01/2026)
+Hypertension
+ECG today: atrial fibrillation, ventricular rate 82, no acute ischemic changes
+Functional capacity: < 4 METs (limited mobility at baseline, now non-ambulatory due to fracture)
+Active cardiac conditions: stable afib, compensated heart failure
+
+PULMONARY HISTORY:
+COPD, no home oxygen, former smoker
+Exam: diminished breath sounds, no wheeze, SpO2 95% on room air this morning
+Plan: avoid excessive opioids, bronchodilator PRN, lung-protective ventilation
+
+RENAL:
+CKD stage 3a, creatinine 1.3
+
+OTHER:
+Type 2 diabetes — glucose 142 this AM; insulin sliding scale ordered perioperatively
+Obesity: BMI 27
+
+LABS REVIEWED:
+Hgb 11.4, platelets 210
+INR 1.0, PT 12.4 (apixaban held)
+BMP within baseline
+
+RISK DISCUSSION:
+Risks of general anesthesia discussed including but not limited to dental injury, sore throat, nausea/vomiting, aspiration, cardiovascular instability, respiratory complications, and need for postoperative ventilation (low likelihood). Patient and daughter verbalized understanding. Questions answered.
+
+PLAN:
+- General anesthesia with standard ASA monitors plus consideration of arterial line if hemodynamic instability intraoperatively
+- Careful fluid management given CHF/CKD
+- Multimodal analgesia including regional consideration discussed; patient declined spinal at preop visit, proceeding with general
+- Postoperative nausea prophylaxis: ondansetron
+- PONV moderate risk
+
+Electronically signed by:
+Patel, Rina MD
+03/11/2026 0645

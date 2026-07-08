@@ -1,0 +1,81 @@
+{
+  "patient_id": 6,
+  "mrn": "10086",
+  "fin": "005700",
+  "extracted_at": "2026-02-27T10:45:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-005700-001",
+      "category": "Medication",
+      "description": "Enoxaparin 40 mg subcut daily",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-24T10:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-002",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-24T10:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-003",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-02-24T10:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-004",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-02-24T12:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-005",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-02-24T12:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-006",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-02-26T09:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-007",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Harris, Linda MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-02-26T11:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-008",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-02-26T11:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    },
+    {
+      "order_id": "ORD-005700-009",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated LLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-24T16:00:00-06:00",
+      "ordered_by": "Patel, Ravi MD"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "patient_id": 45,
+  "mrn": "10125",
+  "fin": "008965",
+  "extracted_at": "2026-08-11T12:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 65,
+      "risk_level": "High",
+      "recorded_at": "2026-08-07T15:00:00-06:00",
+      "factors": [
+        "History of falling",
+        "Secondary diagnosis (dementia)",
+        "IV/heparin lock",
+        "Gait/balance deficit",
+        "Age 88"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 60,
+      "risk_level": "High",
+      "recorded_at": "2026-08-09T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 16,
+      "risk_level": "Moderate risk",
+      "recorded_at": "2026-08-07T15:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 15,
+      "risk_level": "Moderate risk",
+      "recorded_at": "2026-08-09T08:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": true,
+      "recorded_at": "2026-08-08T14:00:00-06:00",
+      "features": [
+        "Acute onset and fluctuating course",
+        "Inattention",
+        "Disorganized thinking",
+        "Altered level of consciousness"
+      ]
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": true,
+      "recorded_at": "2026-08-09T08:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-08-10T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Left hip posterolateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-08-09T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Left hip posterolateral",
+      "status": "Clean, dry, intact, staples in place",
+      "recorded_at": "2026-08-11T08:00:00-06:00"
+    }
+  ]
+}

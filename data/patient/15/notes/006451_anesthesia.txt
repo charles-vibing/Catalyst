@@ -1,0 +1,33 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+
+Patient Name: MILLER, SUSAN A
+MRN: 10095
+DOB: 1955-06-12
+Sex: F
+FIN: 006451
+Date of Evaluation: 2026-04-09
+
+PROCEDURE: Right femoral shaft intramedullary nail fixation.
+
+HISTORY: 70-year-old female with hypertension. No prior surgeries. No anesthesia complications.
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati Class I, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.8 mg/dL
+
+ASA CLASS: II
+
+PLAN: General anesthesia with endotracheal intubation. Standard monitors. Antibiotic prophylaxis with cefazolin (no sulfa allergy to cefazolin).
+
+---
+
+Electronically signed by:
+Patel, Ravi MD
+Anesthesiology
+2026-04-09 07:30

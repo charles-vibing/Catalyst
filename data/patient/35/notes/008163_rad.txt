@@ -1,0 +1,26 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008163
+DOB: 1940-03-12
+Sex: F
+
+Exam Date: 2026-07-23
+Accession: RAD-2026-008163-01
+
+EXAMINATION: Chest X-ray 2 views
+
+CLINICAL INDICATION: Fever, dyspnea, cough; recent SNF stay.
+
+TECHNIQUE: PA and lateral chest.
+
+FINDINGS: There is a dense left lower lobe airspace opacity with air bronchograms. No pleural effusion. Cardiac silhouette normal. No pneumothorax. Left hip hardware is noted (IM nail) with satisfactory alignment.
+
+IMPRESSION: Left lower lobe pneumonia.
+
+Electronically signed by:
+Hartman, Rebecca MD
+Radiology
+2026-07-23 08:45

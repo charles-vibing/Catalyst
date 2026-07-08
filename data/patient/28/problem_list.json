@@ -1,0 +1,25 @@
+{
+  "patient_id": 28,
+  "extracted_at": "2026-06-14T15:00:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 201,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2010-03-15",
+      "last_reviewed": "2026-04-06"
+    },
+    {
+      "problem_id": 202,
+      "description": "Age-related osteoporosis",
+      "icd10": "M81.0",
+      "snomed": "64859006",
+      "status": "Active",
+      "onset_date": "2019-07-22",
+      "last_reviewed": "2025-11-05"
+    }
+  ]
+}

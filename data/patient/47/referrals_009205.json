@@ -1,0 +1,21 @@
+{
+  "patient_id": 47,
+  "mrn": "10127",
+  "fin": "009205",
+  "extracted_at": "2026-08-18T12:00:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-009205-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1234567890",
+      "referred_to": "Thompson, Richard MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-08-17T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-08-25T10:00:00-06:00"
+    }
+  ]
+}

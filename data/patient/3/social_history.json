@@ -1,0 +1,18 @@
+{
+  "patient_id": 3,
+  "mrn": "10061",
+  "extracted_at": "2026-02-06T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in second-floor apartment; son visits weekly and assists with groceries",
+  "functional_baseline": "Ambulated with rolling walker in apartment; required standby assist for stairs and bathing",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

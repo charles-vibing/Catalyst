@@ -1,0 +1,18 @@
+{
+  "patient_id": 34,
+  "mrn": "10114",
+  "extracted_at": "2026-07-14T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Former smoker",
+    "pack_years": 40,
+    "quit_date": "2015-01-01"
+  },
+  "alcohol": "Occasional - 2-3 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with spouse in single-family home; spouse is primary caregiver",
+  "functional_baseline": "Independent with ambulation, no assistive device; manages all ADLs",
+  "advance_directive": "On file - full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

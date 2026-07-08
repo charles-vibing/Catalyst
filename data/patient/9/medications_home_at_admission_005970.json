@@ -1,0 +1,70 @@
+{
+  "patient_id": 9,
+  "mrn": "10089",
+  "fin": "005970",
+  "extracted_at": "2026-03-09T14:30:00-06:00",
+  "source": "EPIC_MEDICATION_RECONCILIATION",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "warfarin",
+      "name_display": "Warfarin (COUMADIN) 5 mg tablet",
+      "rxnorm": "11289",
+      "sig": "Take 1 tablet (5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Held on admission",
+      "indication": "Atrial fibrillation",
+      "prescriber": "Miller, Susan MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Hypertension",
+      "prescriber": "Miller, Susan MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Continue",
+      "indication": "Hyperlipidemia",
+      "prescriber": "Miller, Susan MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "78496",
+      "sig": "Take 1 tablet (500 mg) by mouth twice daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "indication": "Osteoporosis",
+      "prescriber": "Miller, Susan MD"
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "vitamin D",
+      "name_display": "Vitamin D3 1000 IU tablet",
+      "rxnorm": "41245",
+      "sig": "Take 1 tablet (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Osteoporosis",
+      "prescriber": "Miller, Susan MD"
+    }
+  ]
+}

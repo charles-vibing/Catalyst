@@ -1,0 +1,10 @@
+MSH|^~\&|EPIC|MEMORIAL|INTERFACE|REGISTRY|20260426110000||ADT^A03|MSG202603271100|P|2.5
+EVN|A03|20260426110000
+PID|1||10097^^^MEMORIAL^MR||SULLIVAN^VINCENT^P||19400822|M|||1925 W LAWRENCE AVE^^SPRINGFIELD^IL^62704||(555)0123|||M|NON|1
+PV1|1|I|ORTH^4W^402||||1234567890^MITCHELL^SARAH^A^^^NPI|||ORTH||||7|||||006611|||||||||||||||||||||||||20260426110000
+DG1|1||S72.141A^Displaced intertrochanteric fracture of right femur^I10
+DG1|2||I50.22^Chronic systolic heart failure^I10
+DG1|3||E11.9^Type 2 diabetes mellitus^I10
+DG1|4||N18.30^Chronic kidney disease, stage 3^I10
+DG1|5||I10^Essential hypertension^I10
+DG1|6||N17.9^Acute kidney injury^I10

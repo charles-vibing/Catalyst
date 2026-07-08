@@ -1,0 +1,81 @@
+{
+  "patient_id": 48,
+  "mrn": "10128",
+  "fin": "009365",
+  "extracted_at": "2026-08-19T12:00:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-009365-001",
+      "category": "Medication",
+      "description": "Warfarin 5 mg PO daily (hold pre-op, resume post-op)",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-08-15T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-002",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-08-16T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-003",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-08-16T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-004",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-08-16T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-005",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-08-16T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-006",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-08-18T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-007",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Williams, Sarah MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-08-18T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-008",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-08-18T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-009365-009",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated RLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-08-16T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

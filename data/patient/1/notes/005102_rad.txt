@@ -1,0 +1,31 @@
+MEMORIAL GENERAL HOSPITAL
+Radiology Report
+
+Patient: Chen, Robert M
+MRN: 10048
+FIN: 005102
+DOB: 11/08/1943
+Exam Date: 03/26/2026 0535
+Accession: RAD-2026-005102-01
+
+EXAM:
+XR CHEST 2 VIEWS
+
+CLINICAL HISTORY:
+82-year-old male with shortness of breath and fever. Recent hip hemiarthroplasty.
+
+TECHNIQUE:
+PA and lateral chest radiographs.
+
+COMPARISON:
+None.
+
+FINDINGS:
+There is a new right lower lobe airspace opacity concerning for pneumonia. No pleural effusion or pneumothorax. Cardiomediastinal silhouette stable. No acute osseous abnormality of the visualized skeleton.
+
+IMPRESSION:
+Right lower lobe airspace opacity, compatible with pneumonia.
+
+Electronically signed by:
+Hartman, Lisa MD
+03/26/2026 0545

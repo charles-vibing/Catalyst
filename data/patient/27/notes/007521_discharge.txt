@@ -1,0 +1,71 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+PATIENT: Okoye, Dennis C.        MRN: 10107           FIN: 007521
+DOB: 1948-03-12                  SEX: M
+ADMIT DATE: 2026-06-09
+DISCHARGE DATE: 2026-06-14
+ATTENDING: Okonkwo, Chidi MD (Hospital Medicine)
+
+================================================================================
+ADMITTING DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL PROCEDURE:
+Right hip hemiarthroplasty (0SRB02A) on 2026-06-10
+
+DISCHARGE DIAGNOSES:
+1. Displaced right intertrochanteric femur fracture (S72.141A)
+2. Essential hypertension (I10)
+3. Age-related osteoporosis (M81.0)
+
+HOSPITAL COURSE:
+78-year-old male admitted after ground-level fall with right
+intertrochanteric femur fracture. Underwent right hip hemiarthroplasty
+on 2026-06-10 without complication. Post-operative course was
+unremarkable. Pain well-controlled with oral analgesics. Physical and
+occupational therapy evaluations were performed; patient made good
+progress with weight-bearing as tolerated and transfers. He is able to
+ambulate short distances with a walker. Vitals stable throughout.
+Labs on POD1: Hgb 12.8 g/dL (stable). Discharge planning completed.
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Hydromorphone 2 mg PO q4h PRN breakthrough pain (dispense 10 tablets)
+- Docusate 100 mg PO BID
+- Enoxaparin 40 mg SQ daily x 14 days (for DVT prophylaxis)
+- Lisinopril 10 mg PO daily (resume)
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+DISCHARGE DISPOSITION:
+Home with home health agency (HHA) services (disposition code 01)
+
+RECEIVING FACILITY: N/A (home)
+
+FOLLOW-UP APPOINTMENTS:
+1. PCP: Dr. Patricia Williams - scheduled 2026-06-21 at 09:00
+2. Orthopedic surgery follow-up: Dr. Mitchell - scheduled 2026-06-25
+
+DME:
+- Walker (provided)
+- Shower chair
+- Raised toilet seat
+
+HOME HEALTH SERVICES:
+- Skilled nursing for wound check and enoxaparin administration
+- Physical therapy 3x/week for 2 weeks
+
+TEAM BENEFICIARY NOTIFICATION:
+Completed and signed on 2026-06-13.
+
+CONDITION ON DISCHARGE:
+Stable, ambulating with walker, pain controlled.
+
+================================================================================
+SIGNED:
+Okonkwo, Chidi MD (Hospital Medicine)
+Electronically signed: 2026-06-14 09:00
+================================================================================

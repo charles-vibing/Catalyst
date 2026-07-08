@@ -1,0 +1,42 @@
+OPERATIVE REPORT
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005700
+
+DATE OF SURGERY: 2026-02-24
+SURGEON: Mitchell, David MD (Orthopedic Surgery)
+ANESTHESIOLOGIST: Patel, Ravi MD
+
+PREOPERATIVE DIAGNOSIS:
+Displaced left subtrochanteric femur fracture (S72.212A).
+
+POSTOPERATIVE DIAGNOSIS:
+Same.
+
+PROCEDURE:
+Left hip intramedullary nail (IM nail) with cephalomedullary fixation.
+
+ANESTHESIA:
+Spinal with sedation.
+
+ESTIMATED BLOOD LOSS:
+200 mL.
+
+COMPLICATIONS:
+None.
+
+INDICATIONS:
+86-year-old male with displaced left subtrochanteric femur fracture, indicated for surgical fixation.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned supine on a fracture table. The left lower extremity was prepped and draped in sterile fashion. A longitudinal incision was made over the greater trochanter. The fracture was reduced under fluoroscopic guidance. A guidewire was placed into the femoral canal, and reaming was performed. A cephalomedullary nail of appropriate length was inserted and locked proximally and distally with screws. Final fluoroscopic images confirmed good alignment and hardware position. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+DRAINS: None.
+
+SPONGES AND INSTRUMENT COUNTS: Correct.
+
+SIGNED: Mitchell, David MD
+DATE/TIME: 2026-02-24 09:30

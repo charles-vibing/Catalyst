@@ -1,0 +1,62 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006860
+Admission Date: 2026-05-15
+Attending: Okonkwo, Chidi MD (Hospitalist)
+
+CHIEF COMPLAINT: Shortness of breath and fever.
+
+HISTORY OF PRESENT ILLNESS: This is an 86-year-old female with history of type 2 diabetes, PVD, CKD 3a, HTN, and recent left hip intramedullary nail fixation (discharge from Memorial General on 2026-05-09 to Oakwood Rehabilitation Center). She was at the SNF for 6 days when she developed acute onset of shortness of breath, productive cough, and fever to 101.2 F. She was transferred from the SNF to the Emergency Department. On exam, she has crackles in the right lower lobe. Chest X-ray shows right lower lobe infiltrate. Labs show leukocytosis and elevated creatinine. She is admitted for aspiration pneumonia.
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease stage 3a (N18.31)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Left subtrochanteric femur fracture s/p IM nail (S72.212A, 0QS706Z)
+
+PAST SURGICAL HISTORY:
+- Left hip IM nail fixation (2026-05-05)
+
+HOME MEDICATIONS ON ADMISSION (from SNF):
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Amlodipine 5 mg PO daily
+- Aspirin 81 mg PO daily
+- Acetaminophen 650 mg PO q6h PRN
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives alone prior to admission; currently at SNF.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 130/78, HR 102, RR 22, Temp 38.4 C, O2 sat 90% on room air, improved to 94% on 2L NC.
+General: Alert, oriented x3, in mild respiratory distress.
+Lungs: Crackles at right base, no wheezes.
+Cardiovascular: Tachycardic, regular.
+Left hip: Well-healing incision, no erythema or drainage.
+
+LABORATORY DATA:
+- WBC: 14.2 K/uL
+- Hemoglobin: 10.2 g/dL
+- Creatinine: 2.0 mg/dL
+- Albumin: 2.8 g/dL
+
+ASSESSMENT AND PLAN:
+1. Aspiration pneumonia (J18.9) – start levofloxacin (no sulfa).
+2. Acute kidney injury (N17.9) – hold metformin, monitor I/Os.
+3. Diabetes – insulin sliding scale.
+4. CKD – avoid nephrotoxins.
+5. Continue amlodipine, atorvastatin, aspirin.
+6. Notify PCP Dr. Garcia.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+NPI: 9988776655

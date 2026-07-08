@@ -1,0 +1,33 @@
+{
+  "patient_id": 22,
+  "mrn": "10102",
+  "fin": "007021",
+  "extracted_at": "2026-05-19T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-05-16",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently at home with spouse; mild tremor, no assistive device",
+    "current_mobility": "Ambulated 30 feet with front-wheeled walker and moderate assist due to Parkinson's gait instability",
+    "weight_bearing": "Weight bearing as tolerated right lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Patient would benefit from inpatient rehabilitation to address mobility and safety due to Parkinson's disease. Recommend IRF admission.",
+    "goals": [
+      "Ambulate 100 feet with walker and contact guard assist",
+      "Safe transfers bed-chair-toilet with minimal assist",
+      "Manage stairs with supervision"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-05-16",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires moderate assist for bathing and dressing due to tremor and balance",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher",
+      "Shower chair"
+    ],
+    "home_safety": "Lives with spouse in single-story home; recommend grab bars in bathroom, nightlights, clear pathways"
+  }
+}

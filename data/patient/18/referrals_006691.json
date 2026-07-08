@@ -1,0 +1,32 @@
+{
+  "patient_id": 18,
+  "mrn": "10098",
+  "fin": "006691",
+  "extracted_at": "2026-04-27T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-006691-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1234567899",
+      "referred_to": "Patel, Sunita MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-04-27T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-05-04T10:00:00-06:00"
+    },
+    {
+      "referral_id": "REF-006691-002",
+      "type": "Home Health",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Home Health Services of Springfield",
+      "reason": "Skilled nursing, PT, OT for post-hip surgery recovery",
+      "priority": "Routine",
+      "status": "Active",
+      "ordered_at": "2026-04-27T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Brennan, Arthur A.
+MRN: 10088
+FIN: 005890
+DOB: 1951-09-12
+SEX: M
+ADMIT DATE: 04/10/2026
+ADMIT TIME: 14:30
+ATTENDING: Okonkwo, Chidi MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Left leg pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Brennan is a 74-year-old male with a history of Parkinson disease and hypertension who presents after a ground-level fall at home earlier today. He tripped over a rug and landed on his left side, immediately experiencing severe left thigh pain and inability to bear weight. He was transported by EMS to Memorial General Hospital. In the ED, X-ray revealed a displaced left femoral shaft fracture. Orthopedic surgery has been consulted. He reports no loss of consciousness, head trauma, or chest pain. He is on carbidopa-levodopa for Parkinson disease and lisinopril for hypertension.
+
+PAST MEDICAL HISTORY:
+- Parkinson disease (G20)
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Carbidopa-levodopa 25-100 mg PO TID
+- Lisinopril 10 mg PO daily
+
+ALLERGIES:
+- Sulfa drugs (hives)
+
+SOCIAL HISTORY:
+Lives with spouse (Mary Brennan) in a single-story home. Retired teacher. No tobacco or alcohol use. Functional baseline: ambulatory without assistive device, independent in ADLs. Drives. Emergency contact: Mary Brennan (spouse), phone 555-0189.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. HEENT: Negative. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea, cough. Gastrointestinal: No nausea, vomiting. Musculoskeletal: Left thigh pain. Neurologic: Baseline tremor from Parkinson disease, no new deficits. Psychiatric: No depression or anxiety.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Well-appearing male in mild distress due to pain.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender, nondistended.
+Musculoskeletal: Left thigh swollen, ecchymotic, tender to palpation. Neurovascularly intact distally. Right lower extremity normal.
+Neurologic: Mild resting tremor in upper extremities, normal strength and sensation in all extremities except left leg limited by pain.
+
+ASSESSMENT/PLAN:
+1. Left femoral shaft fracture (S72.301A) - s/p IM nailing planned tomorrow. Pre-op labs ordered. Ortho to proceed.
+2. Parkinson disease - continue carbidopa-levodopa.
+3. Hypertension - continue lisinopril.
+
+Disposition planning: Given good functional baseline and strong social support, patient is a candidate for inpatient rehabilitation. PT/OT will evaluate.
+
+ATTENDING: Okonkwo, Chidi MD
+ELECTRONICALLY SIGNED: 04/10/2026 17:30

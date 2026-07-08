@@ -1,0 +1,42 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Kowalski, Ruth E.
+MRN: 10096
+DOB: 1954-03-22
+SEX: F
+FIN: 006531
+
+SURGEON: Mitchell, James MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIOLOGIST: Patel, Anika MD
+
+DATE OF SURGERY: 2026-04-15
+
+PRE-OPERATIVE DIAGNOSIS: Left displaced femoral neck fracture (S72.032A)
+
+POST-OPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A)
+
+ANESTHESIA: Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 150 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+72-year-old female with displaced left femoral neck fracture after ground-level fall. Patient is medically optimized for surgery.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned in the left lateral decubitus position. The left hip and proximal thigh were prepped and draped in sterile fashion. A standard posterior approach to the left hip was made. The fascia lata and gluteus maximus were split. The short external rotators were divided. The hip was dislocated posteriorly. The femoral neck was osteotomized at the appropriate level. The femoral head was removed. The acetabulum was inspected and found to be intact. The femoral canal was sequentially broached. A trial femoral component was placed and reduced; stability and range of motion were satisfactory. The final cemented femoral stem with a modular head was implanted. The hip was reduced. The wound was irrigated and closed in layers over a drain. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct x2
+
+DRAINS: One Jackson-Pratt drain placed, output minimal.
+
+CONDITION AT END OF PROCEDURE: Stable, transferred to PACU in satisfactory condition.
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+2026-04-15T12:30:00-06:00

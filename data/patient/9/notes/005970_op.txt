@@ -1,0 +1,38 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005970
+
+DATE OF SURGERY: 2026-03-12
+SURGERY START TIME: 08:00
+SURGERY END TIME: 10:15
+
+PREOPERATIVE DIAGNOSIS: Displaced left intertrochanteric femur fracture (S72.141A)
+POSTOPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left hip intramedullary nail (IM nail) with cephalomedullary fixation (ICD-10-PCS 0QS606Z, CPT 27245)
+
+SURGEON: Mitchell, David MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: General endotracheal
+
+INDICATIONS: 81-year-old male with left intertrochanteric femur fracture after fall. INR corrected to 1.4. Patient consented for surgery.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia and administration of prophylactic antibiotics (cefazolin 2 g IV), the patient was positioned supine on a fracture table. The left lower extremity was prepped and draped in sterile fashion. A longitudinal incision was made over the greater trochanter. The fracture was reduced under fluoroscopic guidance. A guidewire was placed into the femoral head. Sequential reaming was performed. A cephalomedullary nail of appropriate length was inserted and locked proximally and distally with screws. Final fluoroscopic images confirmed good alignment and hardware position. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 200 mL
+FLUIDS: 1500 mL crystalloid
+URINE OUTPUT: 400 mL
+COMPLICATIONS: None
+
+DISPOSITION: Patient tolerated procedure well, extubated, transferred to PACU in stable condition.
+
+SURGEON: Mitchell, David MD
+NPI: 5566778899
+
+SIGNED: Mitchell, David MD 2026-03-12T11:00:00-06:00

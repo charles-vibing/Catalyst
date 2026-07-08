@@ -1,0 +1,19 @@
+{
+  "patient_id": 1,
+  "extracted_at": "2026-01-27T16:45:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Penicillin",
+      "reaction": "Rash",
+      "severity": "Moderate",
+      "verified": true
+    },
+    {
+      "allergen": "Sulfa (sulfonamide antibiotics)",
+      "reaction": "Hives",
+      "severity": "Moderate",
+      "verified": true
+    }
+  ]
+}

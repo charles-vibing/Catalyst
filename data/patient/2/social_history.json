@@ -1,0 +1,18 @@
+{
+  "patient_id": 2,
+  "mrn": "10052",
+  "extracted_at": "2026-02-01T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional \u2014 1-2 glasses of wine per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with husband (Robert Walsh) in single-story home",
+  "functional_baseline": "Independent with all ADLs and ambulation without assistive device prior to fall",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

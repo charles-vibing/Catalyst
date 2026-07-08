@@ -1,0 +1,39 @@
+{
+  "patient_id": 24,
+  "mrn": "10104",
+  "name": {
+    "family": "Sharma",
+    "given": "Priya",
+    "middle": "D"
+  },
+  "birth_date": "1949-08-12",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "742 Evergreen Terrace Apt 3C",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "Anita Sharma",
+    "relationship": "Daughter",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Patel, Sunita MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000104"
+  },
+  "payer_secondary": {
+    "type": "Medicaid",
+    "plan": "Illinois Medicaid",
+    "subscriber_id": "IL-MCD-000104"
+  }
+}

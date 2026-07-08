@@ -1,0 +1,59 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+==============================
+
+Patient Name: KEANE, ALVIN F
+MRN: 10130
+DOB: 1956-03-22
+Sex: M
+FIN: 009526
+Admission Date: 2026-08-20
+Discharge Date: 2026-08-24
+Attending: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS:
+Left femoral shaft fracture (S72.301A)
+
+PRINCIPAL DIAGNOSIS:
+Left femoral shaft fracture (S72.301A)
+
+SECONDARY DIAGNOSES:
+- Essential hypertension (I10)
+
+PROCEDURES PERFORMED:
+- Left femoral intramedullary nail fixation (0QS806Z) on 2026-08-21
+
+HISTORY OF PRESENT ILLNESS:
+70-year-old male with hypertension admitted after ground-level fall resulting in left femoral shaft fracture. Underwent intramedullary nail fixation on 2026-08-21. Postoperative course was uncomplicated. Pain well-controlled. Physical therapy initiated on postoperative day 1, patient ambulated with walker. Wound healing well.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+
+DISCHARGE MEDICATIONS:
+- Lisinopril 10 mg daily
+- Acetaminophen 500 mg every 6 hours as needed for pain
+- Oxycodone 5 mg every 4 hours as needed for breakthrough pain
+- Aspirin 81 mg daily for DVT prophylaxis (30 days)
+
+ALLERGIES:
+- Penicillin (rash)
+
+DISCHARGE DISPOSITION:
+Home (01)
+
+DISCHARGE INSTRUCTIONS:
+1. Follow up with PCP Dr. Sarah Williams within 7 days (appointment scheduled 2026-08-29).
+2. Follow up with Orthopedic Surgery Dr. James Mitchell in 2 weeks.
+3. Weight-bearing as tolerated with walker.
+4. Wound care: Keep incision dry for 48 hours, then shower allowed.
+5. DVT prophylaxis: Aspirin 81 mg daily for 30 days.
+6. Call for fever, increased pain, wound drainage, or shortness of breath.
+
+TEAM BENEFICIARY NOTIFICATION: Provided and acknowledged on 2026-08-23.
+
+
+Electronically Signed:
+Okonkwo, Chidi MD
+Hospitalist
+2026-08-24 09:00:00

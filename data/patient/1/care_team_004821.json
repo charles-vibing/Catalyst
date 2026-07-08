@@ -1,0 +1,33 @@
+{
+  "patient_id": 1,
+  "mrn": "10048",
+  "fin": "004821",
+  "extracted_at": "2026-01-27T17:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Mitchell, Sarah MD",
+      "npi": "1234567890",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Hospitalist consult",
+      "name": "Okonkwo, James MD",
+      "npi": "1098765432",
+      "service": "Internal Medicine"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Rivera, Ana MD",
+      "npi": "1122334455",
+      "service": "Family Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

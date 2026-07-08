@@ -1,0 +1,34 @@
+{
+  "patient_id": 12,
+  "mrn": "10092",
+  "name": {
+    "family": "Johnson",
+    "given": "Linda",
+    "middle": "M"
+  },
+  "birth_date": "1955-08-15",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "445 S Grand Avenue West",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "Robert Johnson",
+    "relationship": "Spouse",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, Sarah MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000092"
+  }
+}

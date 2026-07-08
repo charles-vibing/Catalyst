@@ -1,0 +1,29 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Dunbar, Philip R
+MRN: 10116
+DOB: 1948-06-22
+SEX: M
+
+ENCOUNTER FIN: 008243
+DATE OF SERVICE: 2026-07-14
+ACCESSION: RAD-2026-008243-01
+
+EXAMINATION: XR RIGHT HIP 2 VIEWS
+
+CLINICAL HISTORY: 77-year-old male, mechanical fall at home, right hip pain, unable to bear weight.
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the right femur. The fracture extends from the greater trochanter to the lesser trochanter with mild comminution. There is approximately 5 mm of shortening and mild varus angulation. The femoral head appears intact. No evidence of pathologic fracture. Degenerative changes of the hip joint are noted.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiologist
+2026-07-14 15:45

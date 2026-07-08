@@ -1,0 +1,63 @@
+{
+  "patient_id": 36,
+  "extracted_at": "2026-07-29T10:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "298441",
+      "admit_datetime": "2025-09-10T15:30:00-05:00",
+      "discharge_datetime": "2025-09-13T10:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I48.91",
+      "principal_diagnosis": "Atrial fibrillation, unspecified",
+      "ms_drg": "310",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "008243",
+      "admit_datetime": "2026-07-14T14:30:00-06:00",
+      "discharge_datetime": "2026-07-18T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.141A",
+      "principal_diagnosis": "Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-07-15",
+          "description": "Replacement of right hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SRB02A",
+          "cpt": "27125"
+        }
+      ]
+    },
+    {
+      "fin": "008244",
+      "admit_datetime": "2026-07-28T08:30:00-06:00",
+      "discharge_datetime": "2026-07-28T14:15:00-06:00",
+      "patient_class": "Emergency",
+      "hospital_service": "Emergency Medicine",
+      "admit_source": "Non-Health Care Facility Point of Origin (e.g., home)",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "9988776655",
+      "attending": "Patel, Anita MD",
+      "principal_diagnosis_icd10": "T81.89XA",
+      "principal_diagnosis": "Other complications of procedures, not elsewhere classified, initial encounter",
+      "ms_drg": null,
+      "length_of_stay_days": 0
+    }
+  ]
+}

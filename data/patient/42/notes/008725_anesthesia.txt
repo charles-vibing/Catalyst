@@ -1,0 +1,49 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+==============================
+
+Patient Name: Pike, Garrett T
+MRN: 10122
+DOB: 1948-03-15
+Sex: M
+Encounter FIN: 008725
+
+Date of Evaluation: 2026-07-31 06:30
+
+Surgeon: Mitchell, Sarah MD
+Procedure: Right hip hemiarthroplasty (CPT 27125)
+
+ASA CLASS: III
+
+HISTORY:
+78-year-old male with hypertension and osteoporosis. No prior surgeries.
+No known drug allergies.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held this AM)
+
+REVIEW OF SYSTEMS:
+Cardiovascular: No angina, CHF, or arrhythmia. Respiratory: No COPD,
+asthma. No sleep apnea.
+
+PHYSICAL EXAMINATION:
+BP 136/80, HR 76, RR 14, O2 sat 98% RA.
+Airway: Mallampati II, full range of motion.
+Heart: Regular, no murmurs. Lungs: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- Albumin: 3.8 g/dL
+- INR: 1.1 (normal)
+
+ASSESSMENT:
+Patient is at moderate risk for anesthesia due to age and hypertension.
+Plan: Spinal anesthesia with sedation. Antibiotic prophylaxis with
+cefazolin 2 g IV prior to incision. Standard monitoring.
+
+Electronically signed:
+Patel, Ravi MD
+Anesthesiology
+2026-07-31 07:00

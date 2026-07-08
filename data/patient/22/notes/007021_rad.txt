@@ -1,0 +1,30 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Okafor, Teresa N
+MRN: 10102
+DOB: 1951-08-12
+SEX: F
+FIN: 007021
+
+EXAM: Left femur X-ray (2 views)
+EXAM DATE: 2026-05-14
+ACCESSION: RAD-2026-007021-01
+
+HISTORY: 74-year-old female with Parkinson disease, ground-level fall at home. Left hip and thigh pain, unable to bear weight.
+
+FINDINGS:
+Displaced transverse fracture of the left femoral shaft at mid-diaphysis. Mild angulation. No comminution. Joint spaces of hip and knee are preserved. No additional fractures identified.
+
+IMPRESSION:
+Displaced left femoral shaft fracture (S72.301A).
+
+RECOMMENDATION:
+Orthopedic consultation for intramedullary nailing.
+
+---
+
+Electronically signed:
+Hartman, Laura MD
+Radiology
+2026-05-14 15:45:00

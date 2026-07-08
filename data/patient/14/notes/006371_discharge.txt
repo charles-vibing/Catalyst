@@ -1,0 +1,54 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Castillo, Beatrice M
+MRN: 10094
+DOB: 1936-08-22
+SEX: F
+FIN: 006371
+
+ADMISSION DATE: 2026-04-03
+DISCHARGE DATE: 2026-04-07
+ATTENDING: Okonkwo, Chukwudi MD (Hospital Medicine)
+
+ADMITTING DIAGNOSIS: Displaced right femoral neck fracture (S72.031A)
+PRINCIPAL PROCEDURE: Right hip hemiarthroplasty (0SR902A, 27125) on 2026-04-04
+
+DISCHARGE DIAGNOSES:
+1. Displaced right femoral neck fracture (S72.031A)
+2. Metastatic breast cancer (C50.912)
+3. Osteoporosis (M81.0)
+4. Essential hypertension (I10)
+5. Type 2 diabetes mellitus (E11.9)
+6. Moderate protein-calorie malnutrition (E44.0)
+
+HOSPITAL COURSE:
+Patient admitted after ground-level fall with right hip fracture. Underwent right hip hemiarthroplasty on 5/19. Postoperative course was unremarkable. Pain controlled with oral acetaminophen and low-dose hydromorphone. Incision clean, dry, intact. Patient able to transfer to chair with assistance. Given advanced malignancy and poor functional status, goals of care discussion led to decision for hospice. Patient and family agreeable.
+
+DISCHARGE DISPOSITION: Hospice - home (code 50)
+RECEIVING FACILITY: Hope Hospice Services
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Hydromorphone 2 mg PO q4h PRN breakthrough pain
+- Letrozole 2.5 mg PO daily
+- Metformin 500 mg PO BID (resumed)
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 1000 IU PO daily
+- Enoxaparin 40 mg SC daily (for 14 days)
+
+HOME MEDICATIONS ON ADMISSION (same as above, minus enoxaparin)
+
+FOLLOW-UP:
+- Hospice services to start upon discharge.
+- No routine surgical follow-up planned; hospice to manage.
+- PCP: Dr. James Williams, NPI 1234567899. Referral placed.
+
+TEAM BENEFICIARY NOTIFICATION: Provided to patient and daughter on 2026-04-06.
+
+---
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+NPI: 1234567891

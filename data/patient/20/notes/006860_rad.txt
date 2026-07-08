@@ -1,0 +1,26 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006860
+
+Exam: Chest X-ray (2 views)
+Accession: RAD-2026-006860-01
+Exam Date/Time: 2026-05-15T09:30:00-06:00
+Report Signed: 2026-05-15T10:15:00-06:00
+
+INDICATION: Shortness of breath, fever, history of aspiration risk.
+
+TECHNIQUE: PA and lateral views of the chest.
+
+FINDINGS: There is a dense airspace opacity in the right lower lobe, consistent with consolidation. No pleural effusion. Cardiomediastinal silhouette is normal. No pneumothorax. Left hip hardware is noted (IM nail) without complication.
+
+IMPRESSION: Right lower lobe pneumonia, likely aspiration.
+
+Electronically signed:
+Hartman, David MD
+Radiology
+NPI: 1122334455

@@ -1,0 +1,31 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+Patient Name: Tanaka, Stuart Y
+MRN: 10124
+DOB: 1940-06-15
+Sex: M
+FIN: 008885
+
+Exam Date: 2026-08-04
+Accession: RAD-2026-008885-01
+
+EXAMINATION: XR RIGHT HIP 3 VIEWS
+
+CLINICAL INDICATION: Ground-level fall, right hip pain, inability to bear weight.
+
+TECHNIQUE: Three views of the right hip including AP pelvis, AP right hip, and cross-table lateral.
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the right femur. The fracture extends from the greater trochanter to the lesser trochanter with approximately 5 mm displacement. No intra-articular extension. No additional fractures identified. Degenerative changes of the hip joint are noted. Osteopenia is present.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+
+Electronically signed:
+Hartman, David MD
+Radiology
+2026-08-04 15:00

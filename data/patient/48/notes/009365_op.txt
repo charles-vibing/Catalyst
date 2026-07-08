@@ -1,0 +1,61 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+================================================================================
+
+PATIENT: Romano, Lorenzo P
+MRN: 10128
+DOB: 1948-06-15  SEX: M
+ENCOUNTER FIN: 009365
+
+DATE OF SURGERY: 2026-08-16
+
+SURGEON: Mitchell, James MD (Orthopedic Surgery) NPI: 1234567892
+ASSISTANT: Torres, Maria PA-C NPI: 1234567894
+ANESTHESIOLOGIST: Patel, Ravi MD NPI: 1234567893
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+POSTOPERATIVE DIAGNOSIS:
+Same
+
+PROCEDURE PERFORMED:
+Right hip hemiarthroplasty (ICD-10-PCS: 0SRB02A, CPT: 27125)
+
+ANESTHESIA: General endotracheal
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+77-year-old male with displaced right intertrochanteric femur fracture after 
+ground-level fall. After medical optimization and INR reversal, patient is 
+ready for surgery.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia and endotracheal intubation, the patient 
+was positioned in the left lateral decubitus position. The right hip was 
+prepped and draped in sterile fashion. A standard posterior approach to the 
+right hip was made. The fascia lata and gluteus maximus were divided. The 
+short external rotators were identified and divided. The hip was dislocated 
+posteriorly. The femoral head was removed. The acetabulum was inspected and 
+found to be intact. The femoral canal was prepared with sequential reaming. 
+A trial prosthesis was placed and confirmed to be stable. The final 
+hemiarthroplasty prosthesis was cemented into place. The hip was reduced and 
+range of motion was excellent. The wound was irrigated and closed in layers 
+over a drain. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct.
+
+DRAIN: One Jackson-Pratt drain placed, to bulb suction.
+
+CONDITION: Patient tolerated procedure well, extubated, transferred to PACU 
+in stable condition.
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+NPI: 1234567892
+2026-08-16 11:30
+================================================================================

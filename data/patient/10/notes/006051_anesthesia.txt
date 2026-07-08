@@ -1,0 +1,48 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+================================================================================
+
+PATIENT: Martinez, Maria L
+MRN: 10090
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 006051
+DATE OF EVALUATION: 2026-03-15
+PROCEDURE: Left hip hemiarthroplasty
+SURGEON: Mitchell, David MD
+
+HISTORY:
+76-year-old female with hypertension and osteoporosis, admitted for left femoral neck fracture. No prior surgeries. No known cardiac or pulmonary disease. Functional status: independent with cane.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held today)
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+ALLERGIES: Sulfonamides (rash)
+
+PHYSICAL EXAMINATION:
+BP 136/76, HR 80, RR 14, Temp 36.7 C, O2 sat 99% RA.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+- INR: 1.0
+
+ASA CLASS: II
+
+PLAN:
+- Spinal anesthesia with sedation (propofol).
+- Standard ASA monitors.
+- Antibiotic prophylaxis: Cefazolin 2 g IV within 60 minutes of incision.
+- Post-op pain management: multimodal including acetaminophen and hydromorphone PRN.
+
+ELECTRONICALLY SIGNED:
+Patel, Anita MD (Anesthesiology)
+2026-03-15 07:30:00 -06:00
+================================================================================

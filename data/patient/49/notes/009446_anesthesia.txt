@@ -1,0 +1,41 @@
+MEMORIAL GENERAL HOSPITAL
+
+PRE-ANESTHESIA EVALUATION
+
+PATIENT: Ho, Gretchen W
+MRN: 10129
+DOB: 1951-09-22
+SEX: F
+FIN: 009446
+
+DATE: 2026-08-18
+
+PROCEDURE: Intramedullary nail fixation, right femur
+
+SURGEON: Mitchell, Sarah MD
+
+HISTORY: 74-year-old female with Parkinson disease, hypertension, osteoporosis. No prior surgeries. No known anesthetic complications.
+
+MEDICATIONS: Carbidopa-levodopa last dose this AM. Lisinopril held per protocol.
+
+ALLERGIES: Sulfa drugs (rash).
+
+PHYSICAL EXAM:
+Vitals: BP 132/80, HR 84, RR 14, Temp 36.7 C, O2 sat 98% RA
+Airway: Mallampati II, full range of motion.
+CV: Regular rhythm, no murmurs.
+Lungs: Clear.
+
+LABS:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+
+ASA CLASS: III
+
+PLAN: General anesthesia with endotracheal intubation. Standard monitoring. Consider arterial line given Parkinson disease. Will coordinate with surgeon for positioning.
+
+ELECTRONICALLY SIGNED:
+Patel, Anika MD
+Anesthesiology
+2026-08-18 06:30

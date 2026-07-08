@@ -1,0 +1,99 @@
+MEMORIAL GENERAL HOSPITAL
+Discharge Summary
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005380
+DOB: 05/15/1938
+Admit Date: 04/08/2026 1630
+Discharge Date: 04/12/2026 1045
+Attending: Henderson, Michael MD
+Service: Orthopedic Surgery
+
+ADMISSION DIAGNOSIS:
+Left femoral neck hip fracture
+
+DISCHARGE DIAGNOSIS:
+1. Displaced midcervical fracture of left femur, initial encounter (S72.032A)
+2. Unspecified dementia without behavioral disturbance (F03.90)
+3. Osteoporosis (M81.0)
+4. Essential hypertension (I10)
+5. Delirium due to known physiological condition, postoperative (F05)
+
+CHIEF COMPLAINT:
+Fall at home with inability to bear weight on left leg.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Kim is an 88-year-old female with dementia, osteoporosis, and hypertension who presented to the emergency department after a mechanical fall at home on the morning of admission. She lives alone and was walking with her cane when she tripped on a rug and fell onto her left side. She denied head strike or loss of consciousness. EMS brought her to Memorial General. ED evaluation demonstrated a displaced left femoral neck fracture on imaging. Orthopedics was consulted. Given fracture pattern and patient factors, she was admitted for operative management.
+
+PAST MEDICAL HISTORY:
+- Dementia without behavioral disturbance
+- Osteoporosis
+- Hypertension
+
+PAST SURGICAL HISTORY:
+- Cataract surgery, left eye (remote)
+
+HOME MEDICATIONS ON ADMISSION:
+- Donepezil 10 mg PO qHS
+- Memantine 10 mg PO BID
+- Amlodipine 5 mg PO daily
+- Alendronate 70 mg PO weekly
+- Calcium carbonate with vitamin D3 600/400 PO BID
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+
+PHYSICAL EXAM ON ADMISSION:
+Vitals: T 98.0, HR 92, BP 148/76, RR 18, SpO2 95% RA
+General: Alert, oriented to person and place, mild cognitive impairment
+MSK: Left lower extremity shortened and externally rotated. Tenderness over left hip. Distal pulses intact.
+
+HOSPITAL COURSE:
+The patient was admitted to the orthopedic surgery service. Preoperative medical clearance was obtained given dementia and frailty. ASA class 3. Preoperative labs notable for albumin 2.9 g/dL, hemoglobin 10.2 g/dL, creatinine 1.1 mg/dL.
+
+On hospital day 2 (04/09/2026), the patient underwent uncomplicated left hip hemiarthroplasty for femoral neck fracture. Estimated blood loss 200 mL. No intraoperative complications.
+
+Postoperatively on POD1 (04/10/2026), the patient developed acute delirium with fluctuating mental status, inattention, and disorganized thinking. CAM positive. Managed with delirium precautions (reorientation, sleep hygiene, early mobilization, family contact), olanzapine 2.5 mg qHS PRN for agitation (used once), and avoidance of benzodiazepines. Delirium improved by POD3 but remained intermittently confused.
+
+Physical and occupational therapy evaluated the patient. Given lives-alone social situation, mild ongoing confusion, and need for ADL assistance, disposition planning targeted home with home health aide and skilled nursing rather than independent home discharge.
+
+Pain was managed with scheduled acetaminophen. DVT prophylaxis transitioned from enoxaparin to aspirin 81 mg daily on POD2.
+
+By discharge, the patient was afebrile, hemodynamically stable, tolerating diet, and ambulating 25 feet with walker and contact guard assist. Incision clean, dry, and intact. Delirium improved but cognitive monitoring continues as outpatient concern.
+
+PROCEDURES:
+04/09/2026 - Left hip hemiarthroplasty (27125)
+
+DISCHARGE CONDITION:
+Stable
+
+DISCHARGE DISPOSITION:
+Home with home health services (Prairie Home Health Services)
+
+DISCHARGE INSTRUCTIONS:
+- Weight bearing as tolerated on left lower extremity with front-wheeled walker
+- Keep incision clean and dry. No soaking baths. Notify clinic for redness, drainage, fever > 101 F, or worsening pain
+- Home health aide for ADL assistance and medication reminders
+- Fall precautions at home. Remove loose rugs. Nightlights in hallway and bathroom
+- Delirium precautions: maintain sleep schedule, familiar objects at bedside, son to call daily
+- DME delivered: front-wheeled walker, elevated toilet seat, shower chair
+
+DISCHARGE MEDICATIONS:
+1. Donepezil 10 mg PO qHS
+2. Memantine 10 mg PO BID
+3. Amlodipine 5 mg PO daily
+4. Alendronate 70 mg PO weekly (resume 04/19/2026)
+5. Calcium carbonate with vitamin D3 600/400 PO BID
+6. Acetaminophen 500 mg PO q6h PRN pain
+7. Aspirin 81 mg PO daily (DVT prophylaxis x 30 days)
+
+FOLLOW-UP:
+- Orthopedic Surgery (Henderson, Michael MD) in 2 weeks
+- Primary care (Nair, Priya MD) within 7 days per discharge planning
+- PCP referral placed 04/11/2026; appointment scheduled 04/18/2026
+- Prairie Home Health Services to initiate within 24 hours of discharge
+
+Electronically signed by:
+Henderson, Michael MD
+04/12/2026 0930

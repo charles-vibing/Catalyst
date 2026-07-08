@@ -1,0 +1,34 @@
+{
+  "patient_id": 48,
+  "extracted_at": "2026-08-15T14:00:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 201,
+      "description": "Atrial fibrillation, unspecified",
+      "icd10": "I48.91",
+      "snomed": "49436004",
+      "status": "Active",
+      "onset_date": "2021-03-15",
+      "last_reviewed": "2026-06-17"
+    },
+    {
+      "problem_id": 202,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2010-07-22",
+      "last_reviewed": "2026-05-12"
+    },
+    {
+      "problem_id": 203,
+      "description": "Osteoporosis",
+      "icd10": "M81.0",
+      "snomed": "64859006",
+      "status": "Active",
+      "onset_date": "2019-11-01",
+      "last_reviewed": "2025-12-12"
+    }
+  ]
+}

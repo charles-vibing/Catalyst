@@ -1,0 +1,45 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Okafor, Teresa N
+MRN: 10102
+DOB: 1951-08-12
+SEX: F
+FIN: 007021
+
+ATTENDING: Patel, Ravi MD (Anesthesiology)
+
+DATE OF EVALUATION: 2026-05-15
+
+PROCEDURE: Left femoral shaft fracture intramedullary nailing (CPT 27506)
+
+HISTORY:
+74-year-old female with Parkinson disease, hypertension, osteoporosis. No prior surgeries. No known difficult airway.
+
+MEDICATIONS:
+- Carbidopa-levodopa 25-100 mg PO TID (last dose last evening)
+- Lisinopril 10 mg PO daily (held this AM)
+
+ALLERGIES: Codeine (nausea)
+
+PHYSICAL EXAM:
+Airway: Mallampati II, full range of motion. Neck: supple. Cardiopulmonary: Regular rate and rhythm, clear lungs. Neurologic: Mild resting tremor.
+
+VITALS: BP 132/80, HR 76, RR 14, O2 sat 98%.
+
+LABS (pre-op):
+- Hemoglobin: 13.2 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+
+ASA CLASS: III (Parkinson disease, hypertension)
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Avoid succinylcholine. Maintain normothermia. Anticipate blood loss minimal. Postoperative pain control with acetaminophen and ketorolac (avoid codeine).
+
+---
+
+Electronically signed:
+Patel, Ravi MD
+Anesthesiology
+2026-05-15 07:00:00

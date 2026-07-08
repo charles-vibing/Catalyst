@@ -1,0 +1,29 @@
+{
+  "patient_id": 4,
+  "mrn": "10073",
+  "fin": "005395",
+  "extracted_at": "2026-02-25T11:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_VITALS",
+  "vitals": [
+    {
+      "recorded_at": "2026-02-23T07:00:00-06:00",
+      "temp_f": 101.4,
+      "heart_rate": 104,
+      "resp_rate": 20,
+      "bp_systolic": 132,
+      "bp_diastolic": 72,
+      "spo2_percent": 94,
+      "o2_delivery": "Room air"
+    },
+    {
+      "recorded_at": "2026-02-24T07:00:00-06:00",
+      "temp_f": 99.2,
+      "heart_rate": 88,
+      "resp_rate": 18,
+      "bp_systolic": 128,
+      "bp_diastolic": 70,
+      "spo2_percent": 96,
+      "o2_delivery": "Room air"
+    }
+  ]
+}

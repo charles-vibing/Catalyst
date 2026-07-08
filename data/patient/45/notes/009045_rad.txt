@@ -1,0 +1,29 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+Patient Name: ESPINOZA, ROSA C
+MRN: 10125
+DOB: 1937-11-22
+Sex: F
+Encounter FIN: 009045
+
+Exam Date: 2026-08-19
+Accession: RAD-2026-009045-01
+
+EXAM: CHEST X-RAY 2 VIEWS
+
+INDICATION: Fever, rule out pneumonia.
+
+FINDINGS:
+Cardiomediastinal silhouette is normal. Lungs are clear bilaterally. No focal consolidation, effusion, or pneumothorax. Left hip prosthesis is noted in expected position.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+Electronically signed:
+Hartman, Susan MD
+Radiology
+Memorial General Hospital
+Date/Time: 2026-08-19 18:00 CST

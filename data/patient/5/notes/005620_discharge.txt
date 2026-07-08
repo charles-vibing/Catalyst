@@ -1,0 +1,97 @@
+MEMORIAL GENERAL HOSPITAL
+Discharge Summary
+
+Patient: Porter, James L
+MRN: 10085
+FIN: 005620
+DOB: 04/22/1947
+Admit Date: 05/08/2026 1630
+Discharge Date: 05/12/2026 1045
+Attending: Mitchell, Sarah MD
+Service: Orthopedic Surgery
+
+ADMISSION DIAGNOSIS:
+Right intertrochanteric hip fracture
+
+DISCHARGE DIAGNOSIS:
+1. Displaced intertrochanteric fracture of right femur, initial encounter (S72.141A)
+2. Chronic obstructive pulmonary disease (J44.9)
+3. Essential hypertension (I10)
+4. Mild protein-calorie malnutrition (E44.0)
+5. Osteoporosis (M81.0)
+
+CHIEF COMPLAINT:
+Fall at home with inability to bear weight on right leg.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Porter is a 79-year-old male with a history of COPD on home tiotropium and albuterol, hypertension, and osteoporosis who presented to the emergency department after a mechanical fall at home on the afternoon of admission. He tripped on a rug while walking and fell onto his right side. He denied head strike or loss of consciousness. He was unable to ambulate due to severe right hip pain. EMS brought him to Memorial General. ED evaluation demonstrated a displaced right intertrochanteric femur fracture on imaging. Orthopedics was consulted. Given fracture pattern, he was admitted for operative management.
+
+PAST MEDICAL HISTORY:
+- COPD
+- Hypertension
+- Osteoporosis
+- Prior admission to this facility for COPD exacerbation (02/2025)
+
+PAST SURGICAL HISTORY:
+- Inguinal hernia repair (remote)
+- Cataract surgery, right eye
+
+HOME MEDICATIONS ON ADMISSION:
+- Tiotropium 18 mcg inhaled daily
+- Lisinopril 20 mg PO daily
+- Albuterol HFA 2 puffs q4-6h PRN
+- Atorvastatin 20 mg PO qHS
+- Aspirin 81 mg PO daily
+
+ALLERGIES:
+Codeine (nausea and vomiting)
+
+PHYSICAL EXAM ON ADMISSION:
+Vitals: T 98.3, HR 84, BP 148/82, RR 20, SpO2 93% RA
+General: Alert, oriented x3, moderate distress with movement
+MSK: Right lower extremity shortened and externally rotated. Tenderness over right hip. Distal pulses intact. Sensation grossly intact.
+Cardiac: Regular rhythm, no murmurs appreciated
+Lungs: Diminished breath sounds bilaterally, scattered wheeze
+
+HOSPITAL COURSE:
+The patient was admitted to the orthopedic surgery service. Preoperative medical clearance was obtained given pulmonary comorbidities. ASA class 3. Preoperative labs notable for albumin 3.3 g/dL, hemoglobin 12.1 g/dL, creatinine 1.0 mg/dL. Aspirin was held per protocol.
+
+On hospital day 2 (05/09/2026), the patient underwent uncomplicated open reduction and internal fixation of right intertrochanteric femur fracture with sliding hip screw construct. Estimated blood loss 175 mL. No intraoperative complications.
+
+Physical therapy evaluated the patient postoperatively. He progressed with a front-wheeled walker. Pain was managed with scheduled acetaminophen and opioid sparing approach. DVT prophylaxis with enoxaparin was initiated on postoperative day 1. Aspirin was resumed at discharge.
+
+By discharge, the patient was afebrile, hemodynamically stable, tolerating diet, and ambulating with walker and contact guard assist. Incision clean, dry, and intact.
+
+PROCEDURES:
+05/09/2026 - Open reduction and internal fixation, right intertrochanteric femur fracture (27236)
+
+DISCHARGE CONDITION:
+Stable
+
+DISCHARGE DISPOSITION:
+Home with wife (Margaret Porter)
+
+DISCHARGE INSTRUCTIONS:
+- Partial weight bearing on right lower extremity with front-wheeled walker per surgeon
+- Keep incision clean and dry. No soaking baths. Notify clinic for redness, drainage, fever > 101 F, or worsening pain
+- Continue incentive spirometry 10 times per hour while awake
+- Fall precautions at home. Remove loose rugs. Nightlights in hallway and bathroom
+- DME delivered: front-wheeled walker, elevated toilet seat
+
+DISCHARGE MEDICATIONS:
+1. Enoxaparin 40 mg SQ daily for 28 days
+2. Acetaminophen 500 mg PO q6h PRN pain
+3. Tiotropium 18 mcg inhaled daily
+4. Lisinopril 20 mg PO daily
+5. Albuterol HFA 2 puffs q4-6h PRN shortness of breath
+6. Atorvastatin 20 mg PO qHS
+7. Aspirin 81 mg PO daily
+
+FOLLOW-UP:
+- Orthopedic Surgery (Mitchell, Sarah MD) in 2 weeks
+- Primary care (Lee, Marcus MD) within 7 days per discharge planning
+- PCP referral placed 05/11/2026; appointment scheduled 05/19/2026
+
+Electronically signed by:
+Mitchell, Sarah MD
+05/12/2026 0930

@@ -1,0 +1,34 @@
+{
+  "patient_id": 19,
+  "mrn": "10099",
+  "name": {
+    "family": "Hassan",
+    "given": "Omar",
+    "middle": "K"
+  },
+  "birth_date": "1947-03-22",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "615 N 7th Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "phone_home": "555-0142",
+  "phone_mobile": "555-0142",
+  "emergency_contact": {
+    "name": "Fatima Hassan",
+    "relationship": "Spouse",
+    "phone": "555-0143"
+  },
+  "primary_care_provider": {
+    "npi": "1234567891",
+    "name": "Williams, Sarah MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000099"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "patient_id": 2,
+  "mrn": "10052",
+  "fin": "004960",
+  "extracted_at": "2026-02-01T17:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Mitchell, Sarah MD",
+      "npi": "1234567890",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Vasquez, Elena MD",
+      "npi": "2233445566",
+      "service": "Internal Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

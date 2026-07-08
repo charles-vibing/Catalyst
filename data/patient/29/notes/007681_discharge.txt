@@ -1,0 +1,59 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+Patient Name: Baptiste, Jerome A
+MRN: 10109
+DOB: 1946-08-15
+Sex: M
+Encounter FIN: 007681
+Admit Date: 2026-06-19
+Discharge Date: 2026-06-23
+
+ADMITTING DIAGNOSIS: Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL DIAGNOSIS: Displaced right intertrochanteric femur fracture (S72.141A)
+
+SECONDARY DIAGNOSES:
+- Chronic obstructive pulmonary disease (J44.9)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PROCEDURES PERFORMED:
+- Open reduction internal fixation (ORIF) of right intertrochanteric femur fracture (0QS604Z) on 2026-06-20
+
+HOSPITAL COURSE:
+The patient was admitted after a ground-level fall. He underwent ORIF on 3/21 without complications. Postoperatively, he had stable vital signs. Pain was controlled with oral analgesics. He participated in physical therapy and occupational therapy, achieving safe transfers and ambulation with a walker. He was cleared for discharge home with his spouse.
+
+DISCHARGE DISPOSITION: Home (01)
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 500 mg 1-2 tablets q6h PRN pain
+- Oxycodone 5 mg 1 tablet q4h PRN severe pain
+- Tiotropium 18 mcg inhalation capsule daily
+- Albuterol HFA 90 mcg inhaler 2 puffs q4h PRN
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Enoxaparin 40 mg subcutaneous daily for 14 days (DVT prophylaxis)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Williams): 2026-06-29 at 10:00
+- Orthopedic surgery: 2 weeks post-discharge
+
+DISCHARGE INSTRUCTIONS:
+- Weight-bearing as tolerated with walker.
+- No driving for 6 weeks.
+- Incision care: keep clean and dry.
+- Call for fever, increased pain, wound drainage, or shortness of breath.
+
+HOME MEDICATIONS ON ADMISSION (reconciled):
+- Tiotropium 18 mcg daily
+- Albuterol HFA PRN
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfa drugs (rash)
+
+Signed: Okonkwo, Chidi MD
+Hospitalist
+NPI: 2233445566
+Date/Time: 2026-06-23 10:00

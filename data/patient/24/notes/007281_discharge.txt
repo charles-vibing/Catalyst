@@ -1,0 +1,74 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+==============================
+
+Patient Name: SHARMA, PRIYA D
+MRN: 10104
+DOB: 1949-08-12
+Sex: F
+FIN: 007281
+
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-28
+Attending: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A).
+
+PRINCIPAL DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A).
+
+SECONDARY DIAGNOSES:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+- Hyperlipidemia (E78.5)
+
+PROCEDURES PERFORMED:
+Right hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A) on 2026-05-25.
+
+HOSPITAL COURSE:
+Patient admitted after ground-level fall with displaced right femoral neck fracture. Underwent right hip hemiarthroplasty on 2026-05-25 without complications. Post-operative course was unremarkable. Pain well controlled. PT/OT evaluated and recommended discharge home with home health services given her living situation (lives alone, third-floor walkup). Social work consulted for home health referral. Patient is independent with transfers using a walker. Incision healing well, staples intact. No signs of infection. Discharge planning completed.
+
+DISCHARGE DISPOSITION:
+Home with home health agency (HHA) - Memorial Home Health Services (Code 06).
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+- Enoxaparin 40 mg SC daily for 14 days (DVT prophylaxis)
+- Lisinopril 10 mg PO daily (resume)
+- Atorvastatin 20 mg PO daily (resume)
+- Calcium + Vitamin D 600 mg/400 IU PO twice daily (resume)
+- Multivitamin daily
+
+HOME MEDICATIONS ON ADMISSION (for reference):
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Calcium + Vitamin D 600 mg/400 IU twice daily
+
+FOLLOW-UP APPOINTMENTS:
+- Orthopedic clinic: 2 weeks post-discharge (2026-06-11)
+- PCP (Dr. Sunita Patel): scheduled for 2026-06-03 at 10:00 AM
+- Home health nursing: start 2026-05-29
+
+ACTIVITY:
+Weight-bearing as tolerated with walker. No stairs until cleared by PT. No driving for 6 weeks.
+
+DIET:
+Regular, as tolerated.
+
+WOUND CARE:
+Keep incision dry and clean. Change dressing every 2 days. Monitor for signs of infection.
+
+TEAM BENEFICIARY NOTIFICATION:
+Provided to patient on 2026-05-27. Acknowledged.
+
+PCP REFERRAL:
+Referral placed to Dr. Sunita Patel (NPI: 9876543210) on 2026-05-27. Appointment scheduled for 2026-06-03. Patient was informed of appointment and provided transportation resources. However, patient later reported transportation barriers and did not attend.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+Memorial General Hospital
+2026-05-28 10:30

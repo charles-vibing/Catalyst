@@ -1,0 +1,47 @@
+{
+  "patient_id": 22,
+  "extracted_at": "2026-05-19T11:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "301234",
+      "admit_datetime": "2025-05-10T09:30:00-05:00",
+      "discharge_datetime": "2025-05-14T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "G20",
+      "principal_diagnosis": "Parkinson's disease",
+      "ms_drg": "056",
+      "length_of_stay_days": 4
+    },
+    {
+      "fin": "007021",
+      "admit_datetime": "2026-05-14T14:30:00-06:00",
+      "discharge_datetime": "2026-05-19T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "62",
+      "discharge_disposition": "Inpatient Rehabilitation Facility",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.301A",
+      "principal_diagnosis": "Femoral shaft fracture, unspecified, right leg, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 5,
+      "procedures": [
+        {
+          "date": "2026-05-15",
+          "description": "Reposition of right femoral shaft, open approach",
+          "icd10_pcs": "0QS806Z",
+          "cpt": "27506"
+        }
+      ]
+    }
+  ]
+}

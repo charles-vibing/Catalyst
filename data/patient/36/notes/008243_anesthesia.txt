@@ -1,0 +1,45 @@
+MEMORIAL GENERAL HOSPITAL
+PRE-ANESTHESIA EVALUATION
+
+PATIENT: Dunbar, Philip R
+MRN: 10116
+DOB: 1948-06-22
+SEX: M
+
+ENCOUNTER FIN: 008243
+DATE OF EVALUATION: 2026-07-15
+
+ATTENDING: Okonkwo, Chukwudi MD
+
+PROCEDURE: Right hip hemiarthroplasty
+
+ASA CLASS: III
+
+HISTORY:
+77-year-old male with atrial fibrillation (on warfarin, now held), hypertension, osteoporosis, hyperlipidemia. INR on admission 2.8, now 1.3 after vitamin K. No prior surgeries. No known difficult airway.
+
+ALLERGIES: Sulfonamides.
+
+MEDICATIONS:
+- Warfarin: held since admission
+- Lisinopril 10 mg daily (held this morning)
+- Atorvastatin 20 mg daily
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregularly irregular, rate 76. No murmurs.
+Lungs: Clear.
+
+LABS:
+- INR: 1.3 (today 06:00)
+- Hemoglobin: 12.8 g/dL
+- Creatinine: 1.0 mg/dL
+- Potassium: 4.2 mEq/L
+
+PLAN:
+General anesthesia with endotracheal intubation. Consider regional block for post-op pain. Antibiotic prophylaxis: cefazolin 2 g IV (no sulfa allergy contraindication).
+
+ELECTRONICALLY SIGNED:
+Patel, Anjali MD
+Anesthesiologist
+2026-07-15 07:45

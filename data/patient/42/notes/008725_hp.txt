@@ -1,0 +1,83 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+==============================
+
+Patient Name: Pike, Garrett T
+MRN: 10122
+DOB: 1948-03-15
+Sex: M
+Encounter FIN: 008725
+
+Attending: Okonkwo, Chidi MD
+
+Date of Admission: 2026-07-30
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Pike is a 78-year-old male with history of hypertension and
+osteoporosis who presents after a mechanical ground-level fall at home
+earlier today. He slipped on a rug, landing on his right side.
+Immediately experienced severe right hip pain and inability to bear
+weight. EMS transported to ED. XR in ED shows displaced right
+intertrochanteric femur fracture. Orthopedics consulted and recommends
+right hip hemiarthroplasty. Patient is medically cleared for surgery.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 1000 IU PO daily
+
+ALLERGIES:
+No known drug allergies.
+
+SOCIAL HISTORY:
+Lives with spouse (Linda Pike) in a single-family home; no stairs.
+Retired. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain,
+palpitations. Respiratory: No dyspnea. GI: No nausea, vomiting.
+Musculoskeletal: Right hip pain as above. Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Well-appearing, in mild distress due to pain.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Musculoskeletal: Right lower extremity shortened and externally rotated.
+Marked tenderness to palpation over right hip. Unable to actively flex
+hip due to pain. Distal neurovascular exam intact.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- WBC: 7.2 K/uL
+- Platelets: 220 K/uL
+- Sodium: 140 mEq/L
+- Potassium: 4.1 mEq/L
+
+ASSESSMENT AND PLAN:
+Displaced right intertrochanteric femur fracture. Plan right hip
+hemiarthroplasty tomorrow AM. Continue home lisinopril. Hold calcium
+and vitamin D perioperatively. DVT prophylaxis with enoxaparin post-op.
+PT/OT evaluation post-op. Discharge planning: anticipate discharge home
+with spouse, home health services as needed.
+
+Electronically signed:
+Okonkwo, Chidi MD
+2026-07-30 18:00

@@ -1,0 +1,29 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Schmidt, Frieda L
+MRN: 10108
+DOB: 1954-03-12
+SEX: F
+FIN: 007601
+
+EXAM: LEFT HIP X-RAY (2 VIEWS)
+ACCESSION: RAD-2026-007601-01
+DATE/TIME: 2026-06-14 13:00:00
+ORDERING PROVIDER: Mitchell, James MD
+
+HISTORY: 72-year-old female with ground-level fall, left hip pain, unable to bear weight.
+
+FINDINGS:
+Left femoral neck fracture, displaced. There is cortical disruption of the midcervical region with mild impaction. No evidence of intertrochanteric extension. Acetabulum intact. No dislocation.
+
+IMPRESSION:
+Displaced left femoral neck fracture (S72.032A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+ELECTRONICALLY SIGNED:
+Hartman, Rebecca MD
+Radiologist
+2026-06-14 13:45:00

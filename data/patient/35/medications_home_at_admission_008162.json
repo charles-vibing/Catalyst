@@ -1,0 +1,65 @@
+{
+  "patient_id": 35,
+  "mrn": "10115",
+  "fin": "008162",
+  "extracted_at": "2026-07-17T12:00:00-06:00",
+  "source": "EPIC_MEDICATION_HISTORY",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "metformin",
+      "name_display": "Metformin 500 mg tablet",
+      "rxnorm": "861007",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "prescriber": "Garcia, Elena MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Continue",
+      "prescriber": "Garcia, Elena MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Garcia, Elena MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "amlodipine",
+      "name_display": "Amlodipine 5 mg tablet",
+      "rxnorm": "197361",
+      "sig": "Take 1 tablet (5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Garcia, Elena MD"
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "aspirin",
+      "name_display": "Aspirin 81 mg tablet",
+      "rxnorm": "1191",
+      "sig": "Take 1 tablet (81 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Garcia, Elena MD"
+    }
+  ]
+}

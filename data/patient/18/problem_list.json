@@ -1,0 +1,43 @@
+{
+  "patient_id": 18,
+  "extracted_at": "2026-04-24T14:45:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 101,
+      "description": "Dementia in Alzheimer's disease without behavioral disturbance",
+      "icd10": "F02.80",
+      "snomed": "52448006",
+      "status": "Active",
+      "onset_date": "2020-06-15",
+      "last_reviewed": "2026-02-14"
+    },
+    {
+      "problem_id": 102,
+      "description": "Age-related osteoporosis",
+      "icd10": "M81.0",
+      "snomed": "64859006",
+      "status": "Active",
+      "onset_date": "2018-03-05",
+      "last_reviewed": "2025-09-18"
+    },
+    {
+      "problem_id": 103,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2010-11-20",
+      "last_reviewed": "2025-12-01"
+    },
+    {
+      "problem_id": 104,
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5",
+      "snomed": "55822004",
+      "status": "Active",
+      "onset_date": "2015-04-10",
+      "last_reviewed": "2025-12-01"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "patient_id": 34,
+  "mrn": "10114",
+  "fin": "008082",
+  "extracted_at": "2026-07-13T12:00:00-06:00",
+  "source": "EPIC_DISCHARGE_MED_LIST",
+  "context": "Discharge medication list",
+  "medications": [
+    {
+      "med_id": "MED-D-001",
+      "name": "tiotropium",
+      "name_display": "Tiotropium (SPIRIVA) 18 mcg inhalation capsule",
+      "rxnorm": "308055",
+      "sig": "Inhale contents of 1 capsule (18 mcg) by mouth daily",
+      "route": "inhalation",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-002",
+      "name": "albuterol",
+      "name_display": "Albuterol HFA 90 mcg/actuation inhaler",
+      "rxnorm": "745679",
+      "sig": "Inhale 2 puffs every 4-6 hours as needed for shortness of breath",
+      "route": "inhalation",
+      "frequency": "Q4-6H PRN",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-003",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-004",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-005",
+      "name": "acetaminophen",
+      "name_display": "Acetaminophen 500 mg tablet",
+      "rxnorm": "313782",
+      "sig": "Take 2 tablets (1,000 mg) by mouth every 6 hours as needed for pain",
+      "route": "oral",
+      "frequency": "Q6H PRN",
+      "start_date": "2026-07-13",
+      "status": "New",
+      "indication": "Pain",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-006",
+      "name": "enoxaparin",
+      "name_display": "Enoxaparin (LOVENOX) 40 mg/0.4 mL subcutaneous syringe",
+      "rxnorm": "854758",
+      "sig": "Inject 40 mg subcutaneously daily for 14 days",
+      "route": "subcutaneous",
+      "frequency": "Daily",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-27",
+      "status": "New",
+      "indication": "DVT prophylaxis",
+      "prescriber": "Mitchell, Sarah MD"
+    }
+  ]
+}

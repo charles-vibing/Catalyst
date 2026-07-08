@@ -1,0 +1,54 @@
+MEMORIAL GENERAL HOSPITAL
+History and Physical — Admission
+
+Patient: Chen, Robert M
+MRN: 10048
+FIN: 005102
+DOB: 11/08/1943
+Date of Service: 03/26/2026
+Admit Date: 03/26/2026 0615
+Attending: Okonkwo, James MD
+Service: Internal Medicine
+
+CHIEF COMPLAINT:
+Shortness of breath and fever
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Chen is an 82-year-old male with HFrEF, COPD, hypertension, diabetes, CKD, and atrial fibrillation who was discharged home 12 days ago after right hip hemiarthroplasty for intertrochanteric fracture (FIN 004821). He presented to the emergency department this morning with 2 days of worsening shortness of breath, productive cough, and fever to 100.4 F at home. Daughter reports decreased oral intake. Denies chest pain. Daughter brought him to ED when he became more dyspneic overnight.
+
+PAST MEDICAL HISTORY:
+As above. Recent orthopedic surgery 03/11/2026.
+
+HOME MEDICATIONS:
+Apixaban, lisinopril, metformin, furosemide, albuterol, atorvastatin, acetaminophen PRN
+
+ALLERGIES:
+Penicillin (rash), Sulfa (hives)
+
+PHYSICAL EXAM:
+Vitals: T 101.2 F, HR 102 irregular, BP 118/68, RR 24, SpO2 88% RA
+General: Ill-appearing elderly male in mild respiratory distress
+Lungs: Decreased breath sounds right base with crackles; no wheeze
+Cardiac: Irregular rhythm, no murmur
+Extremities: Right hip surgical incision clean, dry, intact
+
+LABS / IMAGING:
+WBC 14.8, lactate 1.6, creatinine 1.4
+Chest X-ray: Right lower lobe airspace opacity consistent with pneumonia
+
+ASSESSMENT AND PLAN:
+82-year-old male with community-acquired pneumonia in setting of COPD and recent hospitalization.
+
+1. Community-acquired pneumonia (J18.9)
+   - Admit to medicine service
+   - IV antibiotics per CAP protocol (levofloxacin given allergy profile)
+   - Supplemental oxygen, wean as tolerated
+   - Incentive spirometry
+
+2. COPD (J44.9) — continue bronchodilators
+3. HFrEF (I50.20) — cautious fluids, continue home cardiac meds as BP allows
+4. Recent hip hemiarthroplasty — orthopedic incision stable; WB status unchanged
+
+Electronically signed by:
+Okonkwo, James MD
+03/26/2026 0830

@@ -1,0 +1,33 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+Patient Name: KEANE, ALVIN F
+MRN: 10130
+DOB: 1956-03-22
+Sex: M
+FIN: 009526
+Date of Service: 2026-08-20
+Accession: RAD-2026-009526-01
+
+EXAMINATION: LEFT FEMUR X-RAY
+
+CLINICAL INDICATION: Ground-level fall, left hip pain, unable to bear weight.
+
+TECHNIQUE: AP and lateral views of the left femur.
+
+FINDINGS:
+There is a comminuted, displaced fracture of the left femoral shaft at the mid-diaphysis. The fracture is angulated laterally with approximately 2 cm of shortening. No intra-articular extension. No other acute fractures or dislocations. Mild degenerative changes of the hip and knee joints. No evidence of pathologic fracture.
+
+IMPRESSION:
+Comminuted, displaced left femoral shaft fracture (S72.301A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+
+Electronically Signed:
+Hartman, David MD
+Radiology
+2026-08-20 13:15:00

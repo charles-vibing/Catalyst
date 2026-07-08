@@ -1,0 +1,64 @@
+==============================================================================
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+==============================================================================
+
+DISCHARGE SUMMARY
+
+PATIENT: Voss, Loretta N
+MRN: 10123
+DOB: 1954-03-22
+SEX: F
+ENCOUNTER FIN: 008805
+DATE OF ADMISSION: 2026-08-02
+DATE OF DISCHARGE: 2026-08-05
+
+ATTENDING: Okonkwo, Chukwudi MD (Hospitalist)
+
+ADMITTING DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A)
+
+PRINCIPAL PROCEDURE:
+Right hip hemiarthroplasty (0SR902A, CPT 27125) performed on 2026-08-03
+
+COMPLICATIONS: None
+
+HOSPITAL COURSE:
+Ms. Voss was admitted after a mechanical fall resulting in a displaced right femoral neck fracture. She underwent an uncomplicated right hip hemiarthroplasty on 2026-08-03. Postoperatively, she did well. Pain was well controlled with oral analgesics. She was started on enoxaparin for DVT prophylaxis. Physical therapy evaluated her on postoperative day 1 and she progressed well, ambulating with a walker. She was transitioned to acetaminophen for pain. Her vital signs remained stable. She was discharged home in stable condition.
+
+DISCHARGE DIAGNOSES:
+1. Displaced right femoral neck fracture (S72.031A)
+2. Essential hypertension (I10)
+3. Age-related osteoporosis without current pathological fracture (M81.0)
+
+DISCHARGE DISPOSITION: Home (01)
+
+DISCHARGE MEDICATIONS:
+1. Acetaminophen 500 mg PO q6h PRN pain
+2. Enoxaparin 40 mg SC daily x 14 days
+3. Lisinopril 10 mg PO daily
+4. Calcium carbonate 500 mg PO daily
+5. Vitamin D 800 IU PO daily
+
+HOME MEDICATIONS ON ADMISSION (resumed):
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO daily
+- Vitamin D 800 IU PO daily
+
+FOLLOW-UP APPOINTMENTS:
+1. PCP (Dr. Patricia Green): 2026-08-11 at 09:00
+2. Orthopedic surgery (Dr. Mitchell): 2026-08-17
+
+CONDITION ON DISCHARGE: Stable
+
+ACTIVITY: Weight-bearing as tolerated with walker. No driving. No heavy lifting. Fall precautions.
+
+DIET: Regular
+
+
+
+Electronically signed:
+Okonkwo, Chukwudi MD
+2026-08-05 08:30:00
+
+==============================================================================

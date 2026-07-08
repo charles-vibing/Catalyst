@@ -1,0 +1,18 @@
+{
+  "patient_id": 4,
+  "mrn": "10073",
+  "extracted_at": "2026-02-11T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Former smoker",
+    "pack_years": 15,
+    "quit_date": "1985-01-01"
+  },
+  "alcohol": "Denies",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in second-floor apartment; son (James Kim) visits weekly and is primary emergency contact",
+  "functional_baseline": "Ambulated with single-point cane at home; mild cognitive impairment with need for medication reminders from pharmacy blister packs",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

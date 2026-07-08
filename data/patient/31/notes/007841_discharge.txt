@@ -1,0 +1,55 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Kaminski, Thelma J
+MRN: 10111
+DOB: 1953-07-14
+SEX: F
+FIN: 007841
+
+ATTENDING: Okonkwo, Chukwudi MD
+
+DATE OF ADMISSION: 2026-07-01
+DATE OF DISCHARGE: 2026-07-05
+
+ADMITTING DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A)
+
+PRINCIPAL PROCEDURE:
+Right hip hemiarthroplasty (CPT 27125) on 2026-07-02
+
+COMPLICATIONS: None
+
+HOSPITAL COURSE:
+The patient was admitted after a ground-level fall resulting in a displaced right femoral neck fracture. She underwent right hip hemiarthroplasty on hospital day 2 without complications. Post-operatively, she had stable vital signs, good pain control with oral acetaminophen, and no fever or wound issues. She was seen by physical therapy on post-op day 1 and progressed well, ambulating with a walker. Occupational therapy evaluated her and she was independent with activities of daily living. She was cleared for discharge home with her daughter.
+
+DISCHARGE DIAGNOSES:
+1. Displaced right femoral neck fracture (S72.031A)
+2. Essential hypertension (I10)
+3. Age-related osteoporosis (M81.0)
+
+DISCHARGE DISPOSITION: Home (01)
+
+DISCHARGE MEDICATIONS:
+1. Acetaminophen 650 mg PO q6h PRN pain
+2. Enoxaparin 40 mg SC daily x 14 days (DVT prophylaxis)
+3. Lisinopril 10 mg PO daily (resume)
+4. Calcium carbonate 500 mg PO BID
+5. Vitamin D3 800 IU PO daily
+
+FOLLOW-UP APPOINTMENTS:
+1. PCP follow-up with Dr. Williams: 2026-07-11 at 10:00 AM (completed)
+2. Orthopedic follow-up with Dr. Mitchell: 2026-07-18
+
+ACTIVITY: Weight-bearing as tolerated with walker. No driving for 6 weeks. No heavy lifting. Fall precautions.
+
+DME: Walker provided.
+
+TEAM BENEFICIARY NOTIFICATION: Provided to patient and daughter on 2026-07-04.
+
+CONDITION AT DISCHARGE: Stable, ambulating with walker, pain controlled.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-07-05 09:00:00 CST

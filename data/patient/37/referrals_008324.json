@@ -1,0 +1,33 @@
+{
+  "patient_id": 37,
+  "mrn": "10117",
+  "fin": "008324",
+  "extracted_at": "2026-07-21T12:00:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-008324-001",
+      "type": "Primary Care",
+      "referred_to_npi": "2345678901",
+      "referred_to": "Patel, Ravi MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-07-20T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-07-27T10:00:00-06:00"
+    },
+    {
+      "referral_id": "REF-008324-002",
+      "type": "Inpatient Rehabilitation Facility",
+      "referred_to_npi": "3456789012",
+      "referred_to": "Prairie View Rehabilitation Hospital",
+      "reason": "Post-operative rehabilitation after hip fracture surgery",
+      "priority": "Urgent",
+      "status": "Scheduled",
+      "ordered_at": "2026-07-20T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-07-21T14:00:00-06:00"
+    }
+  ]
+}

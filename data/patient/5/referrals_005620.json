@@ -1,0 +1,21 @@
+{
+  "patient_id": 5,
+  "mrn": "10085",
+  "fin": "005620",
+  "extracted_at": "2026-02-19T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-005620-001",
+      "type": "Primary Care",
+      "referred_to_npi": "5566778899",
+      "referred_to": "Lee, Marcus MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-02-19T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-02-27T14:30:00-06:00"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "patient_id": 4,
+  "mrn": "10073",
+  "fin": "005380",
+  "extracted_at": "2026-02-15T10:45:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-005380-001",
+      "category": "Medication",
+      "description": "Enoxaparin 40 mg SQ daily",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-12T14:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-002",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-12T14:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-003",
+      "category": "Medication",
+      "description": "Olanzapine 2.5 mg PO qHS PRN agitation (delirium protocol)",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-13T10:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    },
+    {
+      "order_id": "ORD-005380-004",
+      "category": "Nursing",
+      "description": "Delirium precautions \u2014 reorientation, sleep hygiene, early mobilization",
+      "status": "Completed",
+      "ordered_at": "2026-02-13T10:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    },
+    {
+      "order_id": "ORD-005380-005",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-02-13T12:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-006",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-02-13T12:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-007",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat, shower chair",
+      "status": "Completed",
+      "ordered_at": "2026-02-14T09:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-008",
+      "category": "Referral",
+      "description": "Home health aide and skilled nursing \u2014 Prairie Home Health Services",
+      "status": "Active",
+      "ordered_at": "2026-02-14T11:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-009",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Nair, Priya MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-02-14T11:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-010",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-02-14T11:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    },
+    {
+      "order_id": "ORD-005380-011",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated LLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-12T16:00:00-06:00",
+      "ordered_by": "Henderson, Michael MD"
+    }
+  ]
+}

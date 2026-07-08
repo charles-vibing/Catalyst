@@ -1,0 +1,76 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+============================================================
+
+PATIENT: Morales, Adele L
+MRN: 10119
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 008485
+
+ADMIT DATE: 2026-07-22
+DISCHARGE DATE: 2026-07-25
+
+ATTENDING: Okonkwo, Chidi MD
+
+PRINCIPAL DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+SECONDARY DIAGNOSES:
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PROCEDURES PERFORMED:
+Left hip hemiarthroplasty (0SR902A) on 2026-07-23
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 76-year-old female with HTN and osteoporosis who sustained a
+ground-level fall at home, resulting in a displaced left femoral neck
+fracture. She underwent left hip hemiarthroplasty on 2026-07-23 without
+complication.
+
+HOSPITAL COURSE:
+Post-operative course was uncomplicated. Pain was well-controlled with oral
+analgesics. Patient participated in physical therapy and occupational therapy.
+PT/OT evaluation: patient is independent with modified independence using a
+walker, able to climb stairs with supervision. Weight-bearing status:
+weight-bearing as tolerated on left leg. Social work consulted regarding
+transportation barriers and home health needs. Patient lives alone in a
+3rd-floor walkup; daughter lives out of state. Home health services arranged
+for PT and nursing follow-up.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+DISCHARGE MEDICATIONS:
+- Lisinopril 10 mg PO daily (resume)
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain (dispense 20 tablets)
+- Enoxaparin 40 mg SQ daily x 14 days (DVT prophylaxis)
+
+ALLERGIES: Sulfonamides (rash)
+
+DISCHARGE DISPOSITION:
+Home with Home Health Agency (Prairie View Home Health)
+
+DISCHARGE INSTRUCTIONS:
+1. Follow up with PCP Dr. Karen Thompson within 7 days (appointment
+   scheduled 2026-07-31 at 10:00 AM).
+2. Follow up with Orthopedic Surgery in 2 weeks.
+3. Weight-bearing as tolerated with walker.
+4. Home health PT and nursing will start 2026-07-26.
+5. Call clinic for any fever, wound drainage, or increased pain.
+
+FOLLOW-UP APPOINTMENTS:
+- PCP: 2026-07-31 10:00 AM with Dr. Karen Thompson (Springfield Internal
+  Medicine, 1234 Main St, Springfield, IL)
+- Ortho: 2026-08-06 09:00 AM with Dr. Sarah Mitchell
+
+ATTENDING: Okonkwo, Chidi MD
+NPI: 1234567896
+SIGNED: 2026-07-25 09:00:00

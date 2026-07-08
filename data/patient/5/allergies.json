@@ -1,0 +1,13 @@
+{
+  "patient_id": 5,
+  "extracted_at": "2026-02-16T17:00:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Codeine",
+      "reaction": "Nausea and vomiting",
+      "severity": "Mild",
+      "verified": true
+    }
+  ]
+}

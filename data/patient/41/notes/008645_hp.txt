@@ -1,0 +1,62 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Leung, Iris M
+MRN: 10121
+DOB: 1955-08-22
+SEX: F
+ENCOUNTER FIN: 008645
+
+ATTENDING: Okonkwo, Chidi MD
+
+DATE OF ADMISSION: 04/01/2026
+
+CHIEF COMPLAINT: Left thigh pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Leung is a 70-year-old female with a history of hypertension who presents after a ground-level fall at home earlier today. She tripped on a rug and landed on her left side. She experienced immediate left thigh pain and was unable to bear weight. EMS transported her to the emergency department. X-ray demonstrates a displaced left femoral shaft fracture. Orthopedics consulted. Patient is otherwise medically stable. She lives with her spouse and ambulates independently with a cane. No prior fractures.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+
+ALLERGIES:
+No known allergies.
+
+SOCIAL HISTORY:
+Lives with spouse in single-family home. Independent with activities of daily living. Uses a cane for ambulation. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea. Musculoskeletal: Left thigh pain as above. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.6 F, O2 sat 98% on room air.
+General: Well-appearing, in mild distress due to pain.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Left thigh swelling and tenderness. Neurovascularly intact distally. Right lower extremity normal.
+
+LABORATORY DATA:
+- Albumin: 4.0 g/dL (04/01/2026 15:30)
+- Hemoglobin: 13.5 g/dL (04/01/2026 15:30)
+- Creatinine: 0.9 mg/dL (04/01/2026 15:30)
+
+ASSESSMENT AND PLAN:
+1. Left femoral shaft fracture (S72.301A) - Plan for intramedullary nail fixation tomorrow morning.
+2. Hypertension - Continue lisinopril. Monitor blood pressure.
+
+Discharge planning: Anticipate discharge to home with spouse. Will arrange home health services if needed.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+04/01/2026 17:00 CST

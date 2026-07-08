@@ -1,0 +1,26 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Blackwell, Marcus J
+MRN: 10101
+DOB: 1948-09-12
+SEX: M
+ENCOUNTER FIN: 006940
+
+EXAM: LEFT HIP X-RAY (2 VIEWS)
+ACCESSION: RAD-2026-006940-01
+EXAM DATE/TIME: 2026-05-09 14:45 -06:00
+REPORT DATE/TIME: 2026-05-09 15:30 -06:00
+
+CLINICAL HISTORY: 77-year-old male with mechanical fall at home, left hip pain, unable to bear weight.
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the left femur. The fracture extends from the greater trochanter obliquely to the lesser trochanter. There is mild shortening and external rotation of the left lower extremity. No evidence of pathologic fracture. Joint spaces are preserved. No other acute osseous abnormalities.
+
+IMPRESSION:
+Displaced intertrochanteric fracture of the left femur (S72.141A).
+
+REPORTING PROVIDER:
+Hartman, Sarah MD (NPI: 1234567895)
+
+SIGNED: Hartman, Sarah MD 2026-05-09 15:30 -06:00

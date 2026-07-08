@@ -1,0 +1,73 @@
+{
+  "patient_id": 41,
+  "mrn": "10121",
+  "fin": "008645",
+  "extracted_at": "2026-07-30T12:00:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-008645-001",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-07-28T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-002",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-07-28T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-003",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-07-28T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-004",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-07-28T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-005",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-07-29T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-006",
+      "category": "Referral",
+      "description": "Primary care follow-up - Patel, Anjali MD within 7 days",
+      "status": "Completed",
+      "ordered_at": "2026-07-29T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-007",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-07-29T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008645-008",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated RLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-07-28T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

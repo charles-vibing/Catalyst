@@ -1,0 +1,37 @@
+{
+  "patient_id": 35,
+  "mrn": "10115",
+  "fin": "008163",
+  "claim_number": "A260001008163001",
+  "form_type": "837I",
+  "bill_type": "111",
+  "facility_ccn": "260001",
+  "admit_date": "20260723",
+  "discharge_date": "20260726",
+  "discharge_hour": "10",
+  "discharge_status": "01",
+  "ms_drg": "177",
+  "attending_npi": "1098765432",
+  "principal_diagnosis": "J69.0",
+  "other_diagnoses": [
+    {
+      "code": "E11.9",
+      "poa": "Y"
+    },
+    {
+      "code": "N18.32",
+      "poa": "Y"
+    },
+    {
+      "code": "Z96.641",
+      "poa": "Y"
+    }
+  ],
+  "procedure_codes": [],
+  "total_charges": 21500.0,
+  "statement_from": "20260723",
+  "statement_to": "20260726",
+  "payer": "MEDICARE",
+  "subscriber_id": "SYN-MBI-000115",
+  "submitted_date": "20260729"
+}

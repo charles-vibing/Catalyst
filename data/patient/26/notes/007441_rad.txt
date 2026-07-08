@@ -1,0 +1,28 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Ruiz, Yolanda M
+MRN: 10106
+DOB: 1955-08-12
+SEX: F
+FIN: 007441
+
+EXAM: XR RIGHT FEMUR (2 VIEWS)
+ACCESSION: RAD-2026-007441-01
+DATE/TIME: 2026-06-04 15:00
+
+INDICATION: Ground-level fall, right thigh pain, unable to bear weight.
+
+FINDINGS:
+There is a displaced transverse fracture of the mid-right femoral shaft. The fracture is comminuted with a butterfly fragment. There is mild angulation. No joint involvement. No other acute abnormalities.
+
+IMPRESSION:
+Displaced transverse fracture, mid-right femoral shaft (S72.301A).
+
+RECOMMENDATION:
+Orthopedic consultation for intramedullary nailing.
+
+ELECTRONICALLY SIGNED:
+Hartman, Lisa MD
+Radiology
+2026-06-04 15:30

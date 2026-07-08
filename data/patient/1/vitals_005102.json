@@ -1,0 +1,29 @@
+{
+  "patient_id": 1,
+  "mrn": "10048",
+  "fin": "005102",
+  "extracted_at": "2026-02-12T08:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_VITALS",
+  "vitals": [
+    {
+      "recorded_at": "2026-02-12T05:50:00-06:00",
+      "temp_f": 101.2,
+      "heart_rate": 102,
+      "resp_rate": 24,
+      "bp_systolic": 118,
+      "bp_diastolic": 68,
+      "spo2_percent": 88,
+      "o2_delivery": "Room air"
+    },
+    {
+      "recorded_at": "2026-02-12T07:00:00-06:00",
+      "temp_f": 100.6,
+      "heart_rate": 96,
+      "resp_rate": 22,
+      "bp_systolic": 122,
+      "bp_diastolic": 70,
+      "spo2_percent": 92,
+      "o2_delivery": "2L nasal cannula"
+    }
+  ]
+}

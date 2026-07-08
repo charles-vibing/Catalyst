@@ -1,0 +1,18 @@
+{
+  "patient_id": 5,
+  "mrn": "10085",
+  "extracted_at": "2026-02-16T17:15:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Former smoker",
+    "pack_years": 40,
+    "quit_date": "2008-01-15"
+  },
+  "alcohol": "Occasional \u2014 1-2 beers per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with wife (Margaret Porter) in single-story ranch home",
+  "functional_baseline": "Ambulated independently with occasional cane for longer distances; managed own ADLs",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

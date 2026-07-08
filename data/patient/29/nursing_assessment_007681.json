@@ -1,0 +1,48 @@
+{
+  "patient_id": 29,
+  "mrn": "10109",
+  "fin": "007681",
+  "extracted_at": "2026-06-23T10:45:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 35,
+      "risk_level": "Moderate",
+      "recorded_at": "2026-06-19T15:00:00-06:00",
+      "factors": [
+        "History of falling",
+        "IV/heparin lock",
+        "Age 79"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 30,
+      "risk_level": "Moderate",
+      "recorded_at": "2026-06-21T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 19,
+      "risk_level": "Mild risk",
+      "recorded_at": "2026-06-19T15:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-06-19T15:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-06-21T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Right hip posterolateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-06-21T08:00:00-06:00"
+    }
+  ]
+}

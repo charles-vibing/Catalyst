@@ -1,0 +1,82 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+PATIENT: Romano, Lorenzo P
+MRN: 10128
+DOB: 1948-06-15  SEX: M
+ENCOUNTER FIN: 009365
+
+ADMIT DATE: 2026-08-15
+DISCHARGE DATE: 2026-08-19
+
+ATTENDING PHYSICIAN: Okonkwo, Chidi MD (Hospitalist) NPI: 1234567891
+
+PRINCIPAL DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+SECONDARY DIAGNOSES:
+- Atrial fibrillation (I48.91)
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PROCEDURES PERFORMED:
+- Right hip hemiarthroplasty (0SRB02A) on 2026-08-16
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Romano is a 77-year-old male with atrial fibrillation on warfarin, 
+hypertension, and osteoporosis who presented after a ground-level fall 
+with right hip pain. Imaging showed displaced right intertrochanteric 
+femur fracture. He underwent right hip hemiarthroplasty on 2026-08-16 
+after INR reversal. Post-operative course was uncomplicated. He was 
+evaluated by PT/OT and progressed well with therapy. He is now ready 
+for discharge home with home health services.
+
+HOSPITAL COURSE:
+- Admitted 4/10, surgery 4/11, uneventful recovery.
+- INR reversed with vitamin K; warfarin resumed on POD#2.
+- Pain well controlled with oral analgesics.
+- PT/OT: patient ambulating with walker, stairs with assistance.
+- Wound clean, dry, intact. Drain removed POD#2.
+
+DISCHARGE MEDICATIONS:
+- Warfarin 5 mg PO daily (resumed)
+- Lisinopril 10 mg PO daily
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 1000 IU PO daily
+- Docusate 100 mg PO BID
+
+DISCHARGE DISPOSITION:
+Home with Home Health Agency (HHA) (code 06)
+Receiving Facility: None (home)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Williams): 2026-08-25 at 10:00
+- Orthopedic surgery follow-up: 2026-08-29
+
+HOME HEALTH SERVICES:
+- Skilled nursing for wound care and INR monitoring
+- Physical therapy 3x/week
+- Occupational therapy 2x/week
+
+DME:
+- Walker (provided)
+- Toilet riser (provided)
+
+TEAM BENEFICIARY NOTIFICATION:
+Provided and signed on 2026-08-18.
+
+PCP REFERRAL:
+Referral to Dr. Williams placed on 2026-08-18; appointment scheduled.
+
+CONDITION AT DISCHARGE:
+Stable. Pain controlled. Ambulating with walker. Incision healing well.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+NPI: 1234567891
+2026-08-19 09:30
+================================================================================

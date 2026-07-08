@@ -1,0 +1,97 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009285
+Admission Date: 2026-08-24
+Attending: Okonkwo, Chukwudi MD
+
+================================================================================
+CHIEF COMPLAINT: Shortness of breath and fever.
+
+================================================================================
+HISTORY OF PRESENT ILLNESS:
+Patient is an 86-year-old female with history of T2DM, PVD, CKD, HTN, and recent left subtrochanteric femur fracture status post IM nail fixation on 2026-08-14 at Memorial General Hospital (FIN 009205). She was discharged to Oakwood Rehabilitation Center on 2026-08-18. Over the past 24 hours, she developed worsening shortness of breath, productive cough with green sputum, and fever to 101.2 F. She was transferred from the SNF to the ED for evaluation.
+
+================================================================================
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease stage 3a (N18.31)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Left subtrochanteric femur fracture (S72.212A) s/p IM nail
+
+================================================================================
+PAST SURGICAL HISTORY:
+Left cephalomedullary IM nail (2026-08-14)
+
+================================================================================
+HOME MEDICATIONS ON ADMISSION (from SNF):
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Aspirin 81 mg PO daily
+- Cilostazol 100 mg PO BID
+- Acetaminophen 650 mg PO q6h PRN
+- Oxycodone 5 mg PO q4h PRN
+- Enoxaparin 40 mg SC daily
+
+================================================================================
+ALLERGIES:
+Sulfonamides (rash)
+
+================================================================================
+SOCIAL HISTORY:
+Lives with daughter prior to SNF admission.
+
+================================================================================
+REVIEW OF SYSTEMS:
+Constitutional: Fever, chills.
+Respiratory: Shortness of breath, productive cough.
+Cardiovascular: No chest pain.
+Gastrointestinal: Nausea, no vomiting.
+
+================================================================================
+PHYSICAL EXAMINATION:
+Vitals: BP 130/70, HR 102, RR 22, Temp 38.4 C, SpO2 89% on room air, improved to 94% on 2L NC.
+General: Ill-appearing, in mild respiratory distress.
+HEENT: Mucous membranes dry.
+Cardiovascular: Tachycardic, regular, no murmurs.
+Respiratory: Crackles in left lower lobe, decreased breath sounds.
+Abdomen: Soft, nontender.
+Extremities: Left hip incision well-healed, no erythema or drainage.
+Neurological: Alert, oriented x3.
+
+================================================================================
+PERTINENT LABORATORY DATA:
+- WBC: 14.2 x10^3/uL
+- Hemoglobin: 9.5 g/dL
+- Creatinine: 2.0 mg/dL
+- Lactate: 1.8 mmol/L
+- Blood cultures: pending
+- Chest X-ray: left lower lobe infiltrate
+
+================================================================================
+ASSESSMENT AND PLAN:
+
+1. Aspiration pneumonia (J69.0) - Start levofloxacin 750 mg IV daily (no sulfa allergy). Obtain sputum cultures. Transition to oral when stable.
+2. Acute on chronic kidney disease - Hydrate cautiously; hold metformin; monitor creatinine.
+3. Diabetes - Hold metformin; insulin sliding scale.
+4. PVD - Continue cilostazol and aspirin.
+5. Hypertension - Continue lisinopril.
+
+Admit to medicine service. Anticipate 3-5 day stay.
+
+================================================================================
+
+Electronically signed:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-08-24 11:00:00 -06:00

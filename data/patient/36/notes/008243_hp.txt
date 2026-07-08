@@ -1,0 +1,72 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Dunbar, Philip R
+MRN: 10116
+DOB: 1948-06-22
+SEX: M
+
+ENCOUNTER FIN: 008243
+DATE OF ADMISSION: 2026-07-14
+
+ATTENDING: Okonkwo, Chukwudi MD
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Dunbar is a 77-year-old male with history of atrial fibrillation on warfarin, hypertension, osteoporosis, and hyperlipidemia who presents after a mechanical fall at home earlier today. He tripped on a rug and landed on his right side. He immediately experienced severe right hip pain and was unable to bear weight. He was transported to the ED by his daughter. Imaging reveals a displaced right intertrochanteric femur fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91), diagnosed 2018, on warfarin
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+- Hyperlipidemia (E78.5)
+- Prior hospitalization September 2025 for COPD exacerbation (FIN 298441)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS:
+- Warfarin 5 mg daily
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Calcium + Vitamin D 500/400 IU twice daily
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with his wife in a single-story home. Retired teacher. No tobacco or alcohol use. Independent in ADLs with a cane for ambulation.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, weight loss.
+Cardiovascular: No chest pain, palpitations, dyspnea on exertion.
+Respiratory: No cough, shortness of breath.
+Musculoskeletal: Right hip pain as above.
+Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% on RA.
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right lower extremity shortened and externally rotated. Tender to palpation over right hip. No open wounds. Distal pulses palpable, sensation intact.
+
+LABORATORY DATA:
+Pre-op labs drawn in ED:
+- Albumin: 3.8 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- INR: 2.8 (on warfarin)
+
+ASSESSMENT/PLAN:
+77-year-old male with displaced right intertrochanteric femur fracture. Given his atrial fibrillation on warfarin with elevated INR, plan to reverse anticoagulation with vitamin K and hold warfarin. Surgery planned for tomorrow once INR is <1.5. Will consult orthopedics and anesthesia. Continue home lisinopril and atorvastatin. DVT prophylaxis with enoxaparin post-op once INR is therapeutic. Fall prevention education.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+2026-07-14 17:30

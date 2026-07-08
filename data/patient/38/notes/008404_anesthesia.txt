@@ -1,0 +1,37 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+Patient: Mehta, Calvin V
+MRN: 10118
+DOB: 1945-03-12
+Sex: M
+Encounter FIN: 008404
+Surgery Date: 2026-07-21
+
+PROCEDURE: Left hip hemiarthroplasty (planned)
+
+HISTORY: 81-year-old male with atrial fibrillation (on warfarin, now held), hypertension, hyperlipidemia, osteoporosis. Admitted 2026-07-19 after fall. INR reversed with Vitamin K; current INR 1.3 (2026-07-21 08:00).
+
+ALLERGIES: Penicillins – rash.
+
+MEDICATIONS: Warfarin held since admission; lisinopril, atorvastatin, calcium/vitamin D continued.
+
+PHYSICAL EXAMINATION:
+BP 132/76, HR 74 (irregular), RR 14, Temp 36.9 C, O2 sat 98% RA.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear.
+
+LABS (2026-07-21 08:00):
+- INR: 1.3
+- Hemoglobin: 10.8 g/dL (drop from 11.5)
+- Creatinine: 1.0 mg/dL
+- Albumin: 3.1 g/dL
+
+ASA CLASS: III (severe systemic disease – atrial fibrillation, recent INR reversal)
+
+PLAN: General anesthesia with endotracheal intubation. Invasive arterial line for blood pressure monitoring. Type and cross for 2 units PRBCs available. Avoid ketamine due to cardiac history. Post-op plan for monitored bed.
+
+Anesthesiologist: Patel, Ravi MD
+NPI: 5566778899
+Electronically signed on 2026-07-21 10:00.

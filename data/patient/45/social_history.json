@@ -1,0 +1,18 @@
+{
+  "patient_id": 45,
+  "mrn": "10125",
+  "extracted_at": "2026-08-07T08:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in first-floor apartment; daughter Maria lives 30 minutes away and visits weekly",
+  "functional_baseline": "Independent with ambulation (no assistive device) prior to fall; manages own ADLs",
+  "advance_directive": "On file \u2014 DNR/DNI",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

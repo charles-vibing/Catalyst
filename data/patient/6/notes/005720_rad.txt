@@ -1,0 +1,28 @@
+RADIOLOGY REPORT
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005720
+
+EXAM: CHEST X-RAY (2 VIEWS)
+ACCESSION: RAD-2026-005720-01
+DATE/TIME: 2026-03-05 09:30
+ORDERING PROVIDER: Okonkwo, Chuka MD
+
+CLINICAL HISTORY: 86-year-old male with fever, cough, dyspnea, recent SNF stay.
+
+TECHNIQUE: PA and lateral chest views.
+
+FINDINGS:
+There is a dense airspace opacity in the right lower lobe, consistent with consolidation. No pleural effusion. Cardiomediastinal silhouette is normal. No acute osseous abnormalities.
+
+IMPRESSION:
+Right lower lobe pneumonia (J18.9).
+
+RECOMMENDATION:
+Clinical correlation.
+
+REPORTING PROVIDER: Hartman, Susan MD (Radiology)
+SIGNED: 2026-03-05 10:00

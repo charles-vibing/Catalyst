@@ -1,0 +1,33 @@
+{
+  "patient_id": 24,
+  "mrn": "10104",
+  "fin": "007281",
+  "extracted_at": "2026-05-28T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-05-26",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Independent ambulator without assistive device; lives alone in 3rd-floor walkup apartment",
+    "current_mobility": "Ambulated 50 feet with front-wheeled walker and minimal assist",
+    "weight_bearing": "Weight bearing as tolerated right lower extremity",
+    "stairs": "Not attempted due to safety concerns",
+    "recommendation": "Discharge home with walker and home PT; patient lives alone with stairs \u2014 recommend home health PT for safety and strengthening",
+    "goals": [
+      "Ambulate 150 feet with walker and standby assist",
+      "Safe transfers bed-chair-toilet",
+      "Ascend/descend 3 steps with rail and supervision"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-05-26",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Modified independent ADLs with adaptive equipment at bedside",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher",
+      "Shower chair"
+    ],
+    "home_safety": "Lives alone in 3rd-floor walkup; no elevator; recommend home OT for safety assessment and adaptive equipment training"
+  }
+}

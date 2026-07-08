@@ -1,0 +1,88 @@
+MEMORIAL GENERAL HOSPITAL
+Anesthesia Preprocedure Evaluation
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005380
+DOB: 05/15/1938
+Date of Service: 04/09/2026
+Planned Procedure: Left hip hemiarthroplasty
+Planned OR Time: 04/09/2026 0730
+Location: OR 5 — Main Campus
+
+ANESTHESIOLOGIST:
+Patel, Rina MD
+
+SURGEON:
+Henderson, Michael MD
+
+PROCEDURE:
+Left hip hemiarthroplasty for femoral neck fracture
+
+ANESTHESIA PLAN:
+General endotracheal anesthesia
+Arterial line: not planned
+Central line: not planned
+Postoperative disposition: PACU, then floor
+
+ASA CLASS:
+III — severe systemic disease
+
+AIRWAY ASSESSMENT:
+Mallampati II
+Mouth opening normal
+Thyromental distance > 3 fingerbreadths
+Neck ROM limited by hip pain/positioning but adequate for intubation
+Previous intubation: unremarkable per patient (cataract surgery)
+Anticipated airway: routine
+
+NPO STATUS:
+NPO since midnight for solids and clear liquids per protocol
+Last oral intake: 04/08/2026 2200
+
+HOME MEDICATIONS REVIEWED:
+Donepezil — continued
+Memantine — continued
+Amlodipine — held morning of surgery
+Alendronate — held perioperatively
+Calcium/vitamin D — continued
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+Premedication: none required beyond standard surgical antibiotics per surgeon
+
+CARDIAC HISTORY:
+Hypertension, well controlled on amlodipine
+ECG today: normal sinus rhythm, rate 86, no acute ischemic changes
+Functional capacity: < 4 METs (limited mobility at baseline, now non-ambulatory due to fracture)
+
+PULMONARY HISTORY:
+Former smoker, quit 1985
+Exam: clear breath sounds, SpO2 95% on room air this morning
+Plan: lung-protective ventilation, opioid sparing analgesia
+
+RENAL:
+Creatinine 1.1, within normal limits for age
+
+OTHER:
+Dementia — baseline mild cognitive impairment; delirium precautions discussed with team
+Frailty: low albumin 2.9, anemia Hgb 10.2
+
+LABS REVIEWED:
+Hgb 10.2, platelets 198
+INR 1.0, PT 12.1
+BMP within baseline
+
+RISK DISCUSSION:
+Risks of general anesthesia discussed including dental injury, sore throat, nausea/vomiting, aspiration, cardiovascular instability, respiratory complications, and postoperative delirium (elevated risk given age and dementia). Patient and son (by phone) verbalized understanding. Questions answered.
+
+PLAN:
+- General anesthesia with standard ASA monitors
+- Careful fluid management
+- Multimodal analgesia; avoid meperidine and benzodiazepines when possible
+- Postoperative nausea prophylaxis: ondansetron
+- Delirium prevention protocol per hospitalist
+
+Electronically signed by:
+Patel, Rina MD
+04/09/2026 0645

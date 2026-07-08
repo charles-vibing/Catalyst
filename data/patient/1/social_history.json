@@ -1,0 +1,18 @@
+{
+  "patient_id": 1,
+  "mrn": "10048",
+  "extracted_at": "2026-01-27T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Former smoker",
+    "pack_years": 30,
+    "quit_date": "2010-06-01"
+  },
+  "alcohol": "Rare \u2014 1-2 drinks per month",
+  "substance_use": "Denies",
+  "living_situation": "Lives with adult daughter (Lisa Chen) in single-story home",
+  "functional_baseline": "Ambulated with walker at home prior to fall; needed help with bathing",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

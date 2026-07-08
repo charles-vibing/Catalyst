@@ -1,0 +1,78 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Blackwell, Marcus J
+MRN: 10101
+DOB: 1948-09-12
+SEX: M
+ENCOUNTER FIN: 006940
+ADMIT DATE: 2026-05-09
+ADMIT TIME: 14:30 -06:00
+
+ATTENDING: Okonkwo, Chukwudi MD (NPI: 1234567891)
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Blackwell is a 77-year-old male with history of atrial fibrillation on warfarin, hypertension, and osteoporosis who presents after a mechanical fall at home earlier today. He tripped on a rug and landed on his left side. He reports immediate left hip pain and inability to bear weight. He was transported by EMS to the Emergency Department. In the ED, he was evaluated, and left hip X-ray revealed a displaced intertrochanteric fracture. Orthopedics was consulted. He is now admitted for surgical management. He denies head trauma, loss of consciousness, chest pain, or shortness of breath. His last dose of warfarin was yesterday evening.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91)
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 1000 IU PO daily
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with spouse in a single-story home. Retired teacher. No tobacco use. Occasional alcohol (1-2 drinks/week). Functional baseline: independent in all ADLs, uses no assistive devices. Emergency contact: daughter Linda Blackwell (555-0198).
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, weight loss.
+Cardiovascular: Palpitations denied. No chest pain.
+Respiratory: No dyspnea, cough.
+Gastrointestinal: No nausea, vomiting.
+Musculoskeletal: Left hip pain as above.
+Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Well-appearing, in mild distress due to pain.
+HEENT: Normocephalic.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Left lower extremity shortened and externally rotated. Tender over left hip. No open wounds. Distal pulses intact. Sensation intact.
+Neurologic: Alert and oriented x3.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.8 g/dL (1751-7)
+- Hemoglobin: 13.5 g/dL (718-7)
+- Creatinine: 1.0 mg/dL (2160-0)
+- INR: 2.8 (34714-6)
+- WBC: 7.2 K/uL (6690-2)
+- Platelets: 220 K/uL (777-3)
+- Sodium: 140 mEq/L (2951-2)
+- Potassium: 4.1 mEq/L (2823-3)
+
+ASSESSMENT AND PLAN:
+77-year-old male with left displaced intertrochanteric fracture (S72.141A). He is on warfarin with INR 2.8. Plan:
+1. Admit to Orthopedic service.
+2. Hold warfarin. Administer vitamin K 5 mg PO x1 for INR reversal. Check INR in AM.
+3. Surgery: Left hip hemiarthroplasty (0SR902A) planned for tomorrow morning if INR < 1.5.
+4. DVT prophylaxis: Enoxaparin 40 mg SQ daily post-op (after hemostasis).
+5. Pain management: Acetaminophen 650 mg PO q6h PRN; oxycodone 5 mg PO q4h PRN for breakthrough.
+6. PT/OT evaluation post-op.
+7. Resume warfarin on POD1 with bridging enoxaparin.
+8. PCP follow-up with Dr. Turner within 7 days of discharge.
+
+SIGNED: Okonkwo, Chukwudi MD 2026-05-09 16:00 -06:00

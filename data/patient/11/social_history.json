@@ -1,0 +1,18 @@
+{
+  "patient_id": 11,
+  "mrn": "10091",
+  "extracted_at": "2026-03-19T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in single-story home; daughter lives out of state",
+  "functional_baseline": "Ambulated independently without assistive device prior to fall; independent with ADLs",
+  "advance_directive": "On file \u2014 DNR/DNI",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

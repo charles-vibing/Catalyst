@@ -1,0 +1,22 @@
+{
+  "patient_id": 29,
+  "mrn": "10109",
+  "fin": "007681",
+  "extracted_at": "2026-06-23T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-007681-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Williams, Sarah MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-06-22T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-06-29T10:00:00-06:00",
+      "completion_datetime": "2026-06-29T10:30:00-06:00"
+    }
+  ]
+}

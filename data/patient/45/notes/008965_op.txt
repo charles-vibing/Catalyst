@@ -1,0 +1,47 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+==============================
+
+Patient Name: ESPINOZA, ROSA C
+MRN: 10125
+DOB: 1937-11-22
+Sex: F
+Encounter FIN: 008965
+
+DATE OF SURGERY: 2026-08-08
+
+PREOPERATIVE DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+POSTOPERATIVE DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+PROCEDURE PERFORMED:
+Left hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A)
+
+SURGEON:
+Mitchell, James MD (Orthopedic Surgery)
+
+ANESTHESIA:
+Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+88-year-old female with displaced left femoral neck fracture, requiring surgical intervention.
+
+DESCRIPTION OF PROCEDURE:
+After obtaining informed consent, patient was brought to the operating room and placed in the left lateral decubitus position. Spinal anesthesia was administered. The left hip was prepped and draped in sterile fashion. A posterior approach to the left hip was made. The external rotators were identified and divided. The hip was dislocated posteriorly, and the femoral head was removed. The acetabulum was inspected and found to be intact. The femoral canal was reamed sequentially. A trial component was placed and found to be stable. The final cemented femoral stem and bipolar head were implanted. The hip was reduced and range of motion was stable. The wound was irrigated and closed in layers over a drain. Sterile dressing applied.
+
+DRAINS: One JP drain placed.
+
+SPONGE AND INSTRUMENT COUNTS: Correct.
+
+Electronically signed:
+Mitchell, James MD
+Orthopedic Surgery
+Memorial General Hospital
+Date/Time: 2026-08-08 11:30 CST

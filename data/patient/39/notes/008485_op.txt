@@ -1,0 +1,53 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+============================================================
+
+PATIENT: Morales, Adele L
+MRN: 10119
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 008485
+
+DATE OF SURGERY: 2026-07-23
+
+SURGEON: Mitchell, Sarah MD
+NPI: 1234567898
+
+ANESTHESIOLOGIST: Patel, Ravi MD
+
+PREOPERATIVE DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+POSTOPERATIVE DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+PROCEDURE PERFORMED:
+Left hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A)
+
+ANESTHESIA: Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+76-year-old female with displaced left femoral neck fracture requiring
+surgical management.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned in the
+lateral decubitus position with the left side up. The left hip and leg were
+prepped and draped in sterile fashion. A standard posterior approach to the
+left hip was performed. The femoral neck fracture was identified and the
+femoral head was removed. The acetabulum was inspected and found to be
+intact. The femoral canal was prepared with sequential reaming. A trial
+component was placed and confirmed with fluoroscopy. The final cemented
+femoral stem and bipolar head were implanted. The hip was reduced and
+stability was confirmed through a full range of motion. The wound was
+irrigated and closed in layers. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct.
+
+SURGEON: Mitchell, Sarah MD
+SIGNED: 2026-07-23 11:00:00

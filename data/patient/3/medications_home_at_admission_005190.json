@@ -1,0 +1,83 @@
+{
+  "patient_id": 3,
+  "mrn": "10061",
+  "fin": "005190",
+  "extracted_at": "2026-02-06T18:30:00-06:00",
+  "source": "EPIC_MAR_HOME_MED_REC",
+  "context": "Admission medication reconciliation",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "carvedilol",
+      "name_display": "Carvedilol 12.5 mg tablet",
+      "rxnorm": "197361",
+      "sig": "Take 1 tablet (12.5 mg) by mouth 2 times daily with food",
+      "route": "oral",
+      "frequency": "BID with food",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 5 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "metformin",
+      "name_display": "Metformin 500 mg tablet",
+      "rxnorm": "861007",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "furosemide",
+      "name_display": "Furosemide 40 mg tablet",
+      "rxnorm": "310429",
+      "sig": "Take 1 tablet (40 mg) by mouth every morning",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-006",
+      "name": "alendronate",
+      "name_display": "Alendronate 70 mg tablet",
+      "rxnorm": "904475",
+      "sig": "Take 1 tablet (70 mg) by mouth once weekly on empty stomach",
+      "route": "oral",
+      "frequency": "Weekly",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    }
+  ],
+  "reconciliation_notes": "Home medications reviewed with patient and son by phone. Metformin and furosemide held on admission per surgical/medical protocol."
+}

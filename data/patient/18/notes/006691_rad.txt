@@ -1,0 +1,25 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006691
+Exam Date: 2026-04-24
+Accession: RAD-2026-006691-01
+
+EXAMINATION: X-ray right hip 2 views
+
+CLINICAL INDICATION: Ground-level fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: Two views of the right hip.
+
+FINDINGS: There is a displaced right femoral neck fracture (midcervical) with mild impaction. No other acute osseous abnormality. Joint spaces are preserved. No hardware.
+
+IMPRESSION: Displaced right femoral neck fracture, midcervical, consistent with clinical history.
+
+Electronically signed:
+Hartman, Laura MD
+Radiology
+2026-04-24 15:15:00 -06:00

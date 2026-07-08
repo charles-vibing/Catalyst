@@ -1,0 +1,91 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+================================================================================
+
+PATIENT: Kapoor, Naomi S
+MRN: 10113
+DOB: 1937-11-22
+SEX: F
+ENCOUNTER FIN: 008001
+ADMIT DATE: 2026-07-06
+ADMIT TIME: 14:30
+
+ATTENDING: Okonkwo, Chidi MD (Hospitalist)
+NPI: 9988776655
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is an 88-year-old female with history of dementia, osteoporosis, hypertension, and type 2 diabetes who sustained a ground-level fall at home this morning. She was found by her neighbor and brought to the ED via EMS. She complains of severe left hip pain and inability to bear weight. Imaging confirms a displaced left femoral neck fracture. She is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Dementia, Alzheimer's type (F02.80)
+- Osteoporosis, age-related (M81.0)
+- Essential hypertension (I10)
+- Type 2 diabetes mellitus, uncomplicated (E11.9)
+- Urinary tract infection, recurrent (N39.0)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS:
+- Donepezil 10 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Metformin 500 mg BID
+
+ALLERGIES:
+- Sulfonamides (rash)
+
+SOCIAL HISTORY:
+The patient lives alone in a single-story home in Springfield, IL. Her son, David Kapoor, lives out of state and is the emergency contact. She is independent with activities of daily living but requires assistance with transportation. No tobacco or alcohol use.
+
+FUNCTIONAL STATUS:
+Baseline: Independent ambulation without assistive device. No prior falls.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills.
+Cardiovascular: No chest pain, palpitations.
+Respiratory: No dyspnea, cough.
+Gastrointestinal: No nausea, vomiting.
+Genitourinary: Last UTI treated 3 months ago.
+Neurologic: Chronic cognitive impairment; no acute changes.
+Musculoskeletal: Left hip pain.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/76, HR 88, RR 16, Temp 36.8 C, O2 sat 97% on room air.
+General: Alert, oriented to person only. Pleasant, cooperative.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Left leg shortened and externally rotated. Pain with any movement of left hip. Distal pulses intact. No edema.
+Neurologic: Cranial nerves intact. Strength 5/5 in upper extremities and right lower extremity. Left lower extremity limited by pain. Sensation intact.
+
+LABORATORY DATA (Pre-op):
+- Albumin: 3.0 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 0.9 mg/dL
+- WBC: 8.2 K/uL
+- Platelets: 220 K/uL
+- Sodium: 138 mEq/L
+- Potassium: 4.1 mEq/L
+- INR: 1.1
+
+ASSESSMENT/PLAN:
+88-year-old female with displaced left femoral neck fracture (S72.032A) s/p ground-level fall.
+
+1. Fracture: Plan for left hip hemiarthroplasty tomorrow (04/11). Orthopedics (Dr. Mitchell) consulted.
+2. Dementia: Continue donepezil. Monitor for delirium post-operatively.
+3. Hypertension: Continue lisinopril.
+4. Diabetes: Hold metformin day of surgery; resume when eating.
+5. Osteoporosis: Continue calcium and vitamin D.
+6. Fall prevention: Physical therapy evaluation post-op.
+7. Discharge planning: Given living alone and dementia, likely need home health services.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+NPI: 9988776655
+Date/Time: 2026-07-06 16:00

@@ -1,0 +1,49 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+================================================================================
+
+PATIENT: Kapoor, Naomi S
+MRN: 10113
+DOB: 1937-11-22
+SEX: F
+ENCOUNTER FIN: 008001
+DATE OF EVALUATION: 2026-07-07
+TIME: 06:30
+
+PROCEDURE: Left hip hemiarthroplasty
+SURGEON: Mitchell, James MD
+ANESTHESIOLOGIST: Patel, Ravi MD (NPI: 5566778899)
+
+ASA CLASS: III
+
+HISTORY:
+88-year-old female with dementia, osteoporosis, hypertension, diabetes, and recurrent UTIs. No prior surgeries. No known anesthetic complications.
+
+MEDICATIONS:
+- Donepezil 10 mg daily
+- Lisinopril 10 mg daily (held this AM)
+- Metformin 500 mg BID (held this AM)
+- Calcium carbonate 500 mg BID
+- Cholecalciferol 1000 IU daily
+
+ALLERGIES: Sulfonamides (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 0.9 mg/dL
+- INR: 1.1
+- Albumin: 3.0 g/dL
+
+PLAN:
+Spinal anesthesia with sedation. Antibiotic prophylaxis: cefazolin (no sulfa allergy).
+
+ELECTRONICALLY SIGNED:
+Patel, Ravi MD
+NPI: 5566778899
+Date/Time: 2026-07-07 07:00

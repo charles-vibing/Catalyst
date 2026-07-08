@@ -1,0 +1,69 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006691
+Admit Date: 2026-04-24
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Right hip pain after a fall.
+
+HISTORY OF PRESENT ILLNESS: Ms. Yamamoto is an 88-year-old female with a history of dementia (Alzheimer's type), osteoporosis, hypertension, and hyperlipidemia who presented after a ground-level fall at home earlier today. She was found by her daughter (who lives out of state) during a phone check-in; EMS was called. In the ED, she complained of severe right hip pain and inability to bear weight. Imaging revealed a displaced right femoral neck fracture. She is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Dementia, Alzheimer's type (F02.80)
+- Osteoporosis (M81.0)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Prior hospitalization August 2025 (FIN 298441) for fall with minor head injury, no fracture.
+
+HOME MEDICATIONS:
+- Donepezil 5 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives alone in a first-floor apartment in Springfield. Daughter Linda Yamamoto lives in Chicago and checks in daily by phone. No caregiver in the home. Independent with ADLs prior to fall, but requires reminders for medications due to dementia. No tobacco or alcohol use.
+
+FAMILY HISTORY: Non-contributory.
+
+REVIEW OF SYSTEMS: Limited due to dementia; daughter reports no chest pain, dyspnea, fever, or recent illness.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/76, HR 82, RR 16, Temp 36.8 C, O2 sat 97% on room air.
+General: Alert, oriented to person only, cooperative.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right lower extremity shortened and externally rotated. No open wounds. Left leg normal.
+Neurologic: Cranial nerves intact. Strength 5/5 left leg, unable to test right leg due to pain.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.0 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 0.9 mg/dL
+- WBC: 6.2 K/uL
+- Platelets: 210 K/uL
+- Sodium: 138 mEq/L
+- Potassium: 4.1 mEq/L
+
+ASSESSMENT AND PLAN:
+1. Displaced right femoral neck fracture – plan for right hip hemiarthroplasty tomorrow (03/21).
+2. Dementia – continue donepezil; monitor for delirium post-operatively.
+3. Osteoporosis – continue calcium and vitamin D.
+4. Hypertension – hold lisinopril morning of surgery; resume post-op.
+5. Hyperlipidemia – continue atorvastatin.
+
+Disposition planning: Given her age, dementia, and living alone, she will likely require home health services after discharge. Daughter is supportive but not local.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+2026-04-24 17:30:00 -06:00

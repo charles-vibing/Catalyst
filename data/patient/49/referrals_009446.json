@@ -1,0 +1,21 @@
+{
+  "patient_id": 49,
+  "mrn": "10129",
+  "fin": "009446",
+  "extracted_at": "2026-08-22T12:00:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-009446-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Nguyen, Linda MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-08-20T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-08-29T10:00:00-06:00"
+    }
+  ]
+}

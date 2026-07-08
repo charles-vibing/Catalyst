@@ -1,0 +1,59 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+==============================
+
+Patient Name: KEANE, ALVIN F
+MRN: 10130
+DOB: 1956-03-22
+Sex: M
+FIN: 009526
+Admission Date: 2026-08-20
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Left leg pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Keane is a 70-year-old male with a history of hypertension who presents after a ground-level fall at home this morning. He slipped on a wet floor and landed on his left side, immediately experiencing severe left thigh pain and inability to bear weight. He was brought to the ED via private vehicle. Imaging revealed a displaced left femoral shaft fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+
+ALLERGIES:
+- Penicillin (rash)
+
+SOCIAL HISTORY:
+Lives with spouse in single-family home. No tobacco or alcohol use. Independent in all activities of daily living.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea. Musculoskeletal: Left thigh pain as above. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+General: Well-appearing, in mild distress due to pain.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Left thigh swollen, ecchymotic, tender to palpation. Neurovascularly intact distally. Right leg normal.
+
+ASSESSMENT/PLAN:
+1. Left femoral shaft fracture (S72.301A) - Plan for intramedullary nail fixation tomorrow.
+2. Hypertension - Continue lisinopril.
+
+Admission labs drawn: Albumin 4.0 g/dL, Hemoglobin 13.5 g/dL, Creatinine 0.9 mg/dL.
+
+
+Electronically Signed:
+Okonkwo, Chidi MD
+Hospitalist
+2026-08-20 16:00:00

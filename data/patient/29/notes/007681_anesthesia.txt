@@ -1,0 +1,49 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+Patient Name: Baptiste, Jerome A
+MRN: 10109
+DOB: 1946-08-15
+Sex: M
+Encounter FIN: 007681
+Date of Evaluation: 2026-06-20 06:30
+
+PROCEDURE: Right hip ORIF (CPT 27236)
+
+HISTORY:
+79-year-old male with COPD, HTN, hyperlipidemia. No prior surgeries. No known anesthetic complications.
+
+MEDICATIONS:
+- Tiotropium 18 mcg daily
+- Albuterol HFA PRN
+- Lisinopril 10 mg daily (held this AM)
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfa drugs (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear to auscultation.
+
+LABORATORY DATA (2026-06-19):
+- Albumin: 3.5 g/dL
+- Hemoglobin: 13.2 g/dL
+- Creatinine: 1.0 mg/dL
+- WBC: 7.5 K/uL
+- Platelets: 220 K/uL
+- Sodium: 138 mEq/L
+- Potassium: 4.1 mEq/L
+
+ASA CLASS: III
+
+ASSESSMENT:
+Patient has moderate systemic disease (COPD). Optimized on home medications. Acceptable surgical risk.
+
+PLAN:
+General anesthesia with endotracheal intubation. Consider regional block for postoperative pain. Continue beta-blocker (lisinopril) postoperatively.
+
+Signed: Patel, Raj MD
+Anesthesiologist
+NPI: 3344556677
+Date/Time: 2026-06-20 07:00

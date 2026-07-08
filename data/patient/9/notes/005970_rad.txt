@@ -1,0 +1,27 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005970
+
+EXAM: XR LEFT HIP 2 VIEWS
+ACCESSION: RAD-2026-005970-01
+ORDERING PROVIDER: Mitchell, David MD (Orthopedic Surgery)
+EXAM DATE/TIME: 2026-03-09T15:00:00-06:00
+REPORT DATE/TIME: 2026-03-09T16:00:00-06:00
+
+TECHNIQUE: AP and lateral views of the left hip.
+
+COMPARISON: None.
+
+FINDINGS: There is a displaced intertrochanteric fracture of the left femur. The fracture extends from the greater trochanter to the lesser trochanter with mild comminution. There is no evidence of pathologic lesion. Joint spaces are preserved. No other acute findings.
+
+IMPRESSION: Acute displaced left intertrochanteric femur fracture (S72.141A).
+
+REPORTING RADIOLOGIST: Hartman, Lisa MD
+NPI: 9876543210
+
+SIGNED: Hartman, Lisa MD 2026-03-09T16:00:00-06:00

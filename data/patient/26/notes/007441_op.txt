@@ -1,0 +1,38 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Ruiz, Yolanda M
+MRN: 10106
+DOB: 1955-08-12
+SEX: F
+FIN: 007441
+
+DATE OF SURGERY: 2026-06-05
+SURGEON: Mitchell, James MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: General
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right femoral shaft fracture (S72.301A)
+
+POSTOPERATIVE DIAGNOSIS:
+Same
+
+PROCEDURE:
+Right femoral shaft intramedullary nail fixation (ICD-10-PCS 0QS806Z, CPT 27506)
+
+INDICATIONS:
+70-year-old female with displaced right femoral shaft fracture requiring surgical stabilization.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia, the patient was positioned supine on a fracture table. The right lower extremity was prepped and draped in sterile fashion. A longitudinal incision was made over the greater trochanter. The entry point was identified under fluoroscopic guidance. A guidewire was passed across the fracture site. The medullary canal was reamed sequentially. An appropriately sized intramedullary nail was inserted and locked proximally and distally with screws. Fracture alignment was confirmed fluoroscopically. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 200 mL
+FLUIDS: 1500 mL crystalloid
+URINE OUTPUT: 400 mL
+COMPLICATIONS: None
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+Orthopedic Surgery
+2026-06-05 11:30

@@ -1,0 +1,13 @@
+{
+  "patient_id": 22,
+  "extracted_at": "2026-05-14T16:45:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Codeine",
+      "reaction": "Nausea",
+      "severity": "Mild",
+      "verified": true
+    }
+  ]
+}

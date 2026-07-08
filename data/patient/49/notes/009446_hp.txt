@@ -1,0 +1,61 @@
+MEMORIAL GENERAL HOSPITAL
+
+HISTORY AND PHYSICAL
+
+PATIENT: Ho, Gretchen W
+MRN: 10129
+DOB: 1951-09-22
+SEX: F
+FIN: 009446
+
+ATTENDING: Okonkwo, Chike MD
+
+DATE OF ADMISSION: 2026-08-17
+
+CHIEF COMPLAINT: Right thigh pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Ms. Ho is a 74-year-old female with history of Parkinson disease and hypertension who presents after a ground-level fall at home approximately 2 hours prior to arrival. She slipped on a rug and landed on her right side. She reports immediate right thigh pain and inability to bear weight. EMS transported her to the ED. Imaging reveals a displaced right femoral shaft fracture. Orthopedics consulted and plan is for operative fixation.
+
+PAST MEDICAL HISTORY:
+- Parkinson disease (diagnosed 2018)
+- Essential hypertension
+- Osteoporosis
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Carbidopa-levodopa 25-100 mg TID
+- Lisinopril 10 mg daily
+- Calcium carbonate 500 mg BID
+- Vitamin D3 1000 IU daily
+
+ALLERGIES: Sulfa drugs (rash)
+
+SOCIAL HISTORY: Lives with spouse in single-story home. Spouse is primary caregiver. No tobacco or alcohol use.
+
+FAMILY HISTORY: Non-contributory.
+
+REVIEW OF SYSTEMS: Limited due to pain; otherwise negative except as above.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88, RR 16, Temp 36.8 C, O2 sat 97% RA
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+CV: Regular rate and rhythm, no murmurs.
+Lungs: Clear bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right thigh swollen and tender to palpation; neurovascularly intact distally. Left lower extremity normal.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+
+ASSESSMENT/PLAN:
+74-year-old female with Parkinson disease, HTN, osteoporosis, s/p ground-level fall with right femoral shaft fracture. Plan for intramedullary nail fixation tomorrow AM. Continue home medications. Hold lisinopril day of surgery. Consult PT/OT post-op. Anticipate discharge to inpatient rehabilitation given baseline functional status and home support.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chike MD
+Hospitalist
+2026-08-17 17:00

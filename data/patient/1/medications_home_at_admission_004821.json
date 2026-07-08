@@ -1,0 +1,83 @@
+{
+  "patient_id": 1,
+  "mrn": "10048",
+  "fin": "004821",
+  "extracted_at": "2026-01-27T18:30:00-06:00",
+  "source": "EPIC_MAR_HOME_MED_REC",
+  "context": "Admission medication reconciliation",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "apixaban",
+      "name_display": "Apixaban (ELIQUIS) 2.5 mg tablet",
+      "rxnorm": "855332",
+      "sig": "Take 1 tablet (2.5 mg) by mouth 2 times daily",
+      "route": "oral",
+      "frequency": "BID",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "metformin",
+      "name_display": "Metformin 500 mg tablet",
+      "rxnorm": "861007",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "furosemide",
+      "name_display": "Furosemide 20 mg tablet",
+      "rxnorm": "310429",
+      "sig": "Take 1 tablet (20 mg) by mouth every morning",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "albuterol",
+      "name_display": "Albuterol HFA 90 mcg/actuation inhaler",
+      "rxnorm": "745679",
+      "sig": "Inhale 2 puffs every 4-6 hours as needed for shortness of breath",
+      "route": "inhalation",
+      "frequency": "Q4-6H PRN",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-006",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 40 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (40 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    }
+  ],
+  "reconciliation_notes": "Apixaban held on admission per orthopedic/anticoagulation protocol. Patient confirms last dose 03/10/2026 AM."
+}

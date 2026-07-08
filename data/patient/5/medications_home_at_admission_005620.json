@@ -1,0 +1,71 @@
+{
+  "patient_id": 5,
+  "mrn": "10085",
+  "fin": "005620",
+  "extracted_at": "2026-02-16T18:30:00-06:00",
+  "source": "EPIC_MAR_HOME_MED_REC",
+  "context": "Admission medication reconciliation",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "tiotropium",
+      "name_display": "Tiotropium (SPIRIVA) 18 mcg capsule",
+      "rxnorm": "746763",
+      "sig": "Inhale 1 capsule (18 mcg) by mouth daily",
+      "route": "inhalation",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 20 mg tablet",
+      "rxnorm": "314077",
+      "sig": "Take 1 tablet (20 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "albuterol",
+      "name_display": "Albuterol HFA 90 mcg/actuation inhaler",
+      "rxnorm": "745679",
+      "sig": "Inhale 2 puffs every 4-6 hours as needed for shortness of breath",
+      "route": "inhalation",
+      "frequency": "Q4-6H PRN",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617311",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "aspirin",
+      "name_display": "Aspirin 81 mg tablet",
+      "rxnorm": "243670",
+      "sig": "Take 1 tablet (81 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    }
+  ],
+  "reconciliation_notes": "Aspirin held on admission per orthopedic protocol. Patient confirms last dose 05/08/2026 AM."
+}

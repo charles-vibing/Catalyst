@@ -1,0 +1,72 @@
+{
+  "patient_id": 24,
+  "mrn": "10104",
+  "fin": "007281",
+  "extracted_at": "2026-05-28T10:00:00-06:00",
+  "source": "EPIC_LAB_RESULTS",
+  "results": [
+    {
+      "loinc": "1751-7",
+      "display": "Albumin",
+      "value": 3.8,
+      "unit": "g/dL",
+      "effective_at": "2026-05-24T15:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "3.5-5.0"
+    },
+    {
+      "loinc": "2160-0",
+      "display": "Creatinine",
+      "value": 0.9,
+      "unit": "mg/dL",
+      "effective_at": "2026-05-24T15:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "0.7-1.2"
+    },
+    {
+      "loinc": "718-7",
+      "display": "Hemoglobin",
+      "value": 13.2,
+      "unit": "g/dL",
+      "effective_at": "2026-05-24T15:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "12.0-16.0"
+    },
+    {
+      "loinc": "718-7",
+      "display": "Hemoglobin",
+      "value": 12.5,
+      "unit": "g/dL",
+      "effective_at": "2026-05-26T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "12.0-16.0"
+    },
+    {
+      "loinc": "6690-2",
+      "display": "WBC",
+      "value": 7.8,
+      "unit": "10*3/uL",
+      "effective_at": "2026-05-26T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "4.5-11.0"
+    },
+    {
+      "loinc": "2160-0",
+      "display": "Creatinine",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "effective_at": "2026-05-26T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "0.7-1.2"
+    },
+    {
+      "loinc": "2951-2",
+      "display": "Sodium",
+      "value": 140,
+      "unit": "mmol/L",
+      "effective_at": "2026-05-26T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "136-145"
+    }
+  ]
+}

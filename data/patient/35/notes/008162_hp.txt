@@ -1,0 +1,62 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008162
+DOB: 1940-03-12
+Sex: F
+
+Date of Admission: 2026-07-12
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Ms. Berger is an 86-year-old female with history of type 2 diabetes, peripheral vascular disease, CKD stage 3b, hypertension, and hyperlipidemia who presents after a mechanical fall at home earlier today. She slipped on a rug and landed on her left side. She was unable to stand and was brought to the ED by ambulance. Imaging reveals a displaced left subtrochanteric femur fracture. Orthopedics consulted and recommends surgical fixation. Patient lives alone; son is out of state.
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease, stage 3b (N18.32)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Aspirin 81 mg PO daily
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives alone in a single-family home. Son David lives in Chicago, calls daily. Retired schoolteacher. No tobacco or alcohol use.
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS: Limited due to pain; otherwise negative except as above.
+
+PHYSICAL EXAMINATION:
+Vital Signs: BP 148/82, HR 88, RR 18, Temp 36.8 C, O2 sat 97% on RA.
+General: Alert, oriented, in moderate distress.
+HEENT: Normocephalic.
+CV: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender.
+Extremities: Left leg shortened and externally rotated. No open wounds. Pulses palpable distally.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.0 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 1.8 mg/dL (elevated)
+- Glucose: 156 mg/dL
+- INR: 1.1
+
+ASSESSMENT/PLAN:
+86-year-old female with left subtrochanteric femur fracture. Medically optimized for surgery. Plan for intramedullary nail placement tomorrow. Continue home medications except hold lisinopril perioperatively. Monitor renal function. Consult PT/OT post-op. Disposition likely to SNF given comorbidities and living situation.
+
+Electronically signed by:
+Okonkwo, Chidi MD
+Hospitalist
+2026-07-12 17:30

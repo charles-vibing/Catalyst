@@ -1,0 +1,18 @@
+{
+  "patient_id": 37,
+  "mrn": "10117",
+  "extracted_at": "2026-07-17T16:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives with husband in single-family home; husband is primary caregiver",
+  "functional_baseline": "Independent with ambulation, uses cane for balance due to Parkinson disease",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

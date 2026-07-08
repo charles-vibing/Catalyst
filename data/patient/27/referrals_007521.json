@@ -1,0 +1,21 @@
+{
+  "patient_id": 27,
+  "mrn": "10107",
+  "fin": "007521",
+  "extracted_at": "2026-06-13T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-007521-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Williams, Patricia MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-06-13T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-06-21T09:00:00-06:00"
+    }
+  ]
+}

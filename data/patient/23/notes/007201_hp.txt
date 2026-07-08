@@ -1,0 +1,57 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Kaczmarek, Walter S
+MRN: 10103
+FIN: 007201
+DOB: 1944-09-12
+SEX: M
+
+ATTENDING: Okonkwo, Chidi MD (Hospitalist)
+
+DATE OF ADMISSION: 2026-06-20
+
+CHIEF COMPLAINT: Melena and weakness.
+
+HISTORY OF PRESENT ILLNESS: Mr. Kaczmarek is an 81-year-old male with history of atrial fibrillation (on warfarin), hypertension, diabetes, and recent left hip intramedullary nail (3/24/2026, discharged 3/28/2026) who presents with 2 days of melena and generalized weakness. He reports dark, tarry stools and lightheadedness. He denies hematemesis, abdominal pain, or fever. He has been taking warfarin 5 mg daily and enoxaparin 40 mg SQ daily (completed 14-day course on 4/7). He has not had any recent PCP follow-up. He lives with his wife.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91)
+- Hypertension (I10)
+- Type 2 diabetes mellitus (E11.9)
+- Hyperlipidemia (E78.5)
+- Left intertrochanteric femur fracture (S72.141A) s/p IM nail 3/24
+
+PAST SURGICAL HISTORY: Left hip IM nail (3/24/2026)
+
+HOME MEDICATIONS:
+- Warfarin 5 mg daily
+- Metoprolol succinate 50 mg daily
+- Lisinopril 10 mg daily
+- Metformin 1000 mg BID
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives with wife, retired teacher.
+
+REVIEW OF SYSTEMS: Positive for melena, weakness, lightheadedness. Negative for chest pain, dyspnea, fever, chills.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 100/58, HR 98 (irregularly irregular), RR 18, Temp 36.9 C, O2 sat 96% on room air.
+GENERAL: Pale, alert, oriented.
+CARDIOVASCULAR: Tachycardic, irregular rhythm.
+LUNGS: Clear.
+ABDOMEN: Soft, nontender, bowel sounds present. Rectal exam: melenic stool, guaiac positive.
+EXTREMITIES: No edema.
+
+ASSESSMENT/PLAN:
+1. GASTROINTESTINAL BLEED (K92.1) - Likely warfarin-related. Hold warfarin. Administer vitamin K 5 mg IV. Check INR, CBC, type and cross. Start IV fluids. Consider GI consult for EGD. Admit to telemetry.
+2. ATRIAL FIBRILLATION - Hold warfarin. Monitor rhythm.
+3. HYPERTENSION - Hold lisinopril if hypotensive.
+4. DIABETES - Hold metformin, monitor glucose.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+2026-06-20 11:00

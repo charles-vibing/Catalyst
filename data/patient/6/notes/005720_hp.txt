@@ -1,0 +1,75 @@
+HISTORY AND PHYSICAL EXAMINATION – READMISSION
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005720
+
+ADMISSION DATE: 2026-03-05 09:00
+ATTENDING: Okonkwo, Chuka MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Shortness of breath and cough.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Ortiz is an 86-year-old male with history of T2DM, PVD, CKD 3b, HTN, and recent left subtrochanteric femur fracture status post IM nail on 2026-02-24, discharged to Prairie View Skilled Nursing Facility on 2026-02-27. He was doing well at the SNF until yesterday when he developed productive cough with green sputum, fever (Tmax 38.5 C), and worsening shortness of breath. He was evaluated at the SNF and transferred to the ED for further management. He denies chest pain, nausea, vomiting. He has been on enoxaparin for DVT prophylaxis.
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease, stage 3b (N18.32)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY:
+- Left hip intramedullary nail (2026-02-24)
+
+HOME MEDICATIONS ON ADMISSION (from SNF):
+- Metformin 500 mg PO BID
+- Glipizide 5 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Enoxaparin 40 mg SC daily
+- Acetaminophen 650 mg PO q6h PRN
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with wife; currently at SNF.
+
+REVIEW OF SYSTEMS:
+Constitutional: Fever, chills. Cardiovascular: No chest pain. Respiratory: Cough, dyspnea. Gastrointestinal: No nausea, vomiting. Genitourinary: No dysuria. Musculoskeletal: Left hip pain controlled.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 130/70, HR 102, RR 22, Temp 38.2 C, O2 sat 89% on RA.
+General: Ill-appearing, in respiratory distress.
+HEENT: Mucous membranes dry.
+Cardiovascular: Tachycardic, regular.
+Respiratory: Crackles in right lower lobe, decreased breath sounds.
+Abdomen: Soft, non-tender.
+Musculoskeletal: Left hip incision well-healed, no erythema.
+Neurologic: Alert and oriented.
+
+LABORATORY DATA:
+- WBC: 14.5 K/uL (elevated)
+- Hemoglobin: 10.2 g/dL
+- Creatinine: 2.0 mg/dL (elevated from baseline 1.8)
+- Albumin: 2.6 g/dL
+- Blood cultures: pending
+
+IMAGING:
+Chest X-ray: Right lower lobe infiltrate consistent with pneumonia.
+
+ASSESSMENT AND PLAN:
+86-year-old male with aspiration pneumonia, likely from SNF. Plan:
+1. Admit to medical floor.
+2. Antibiotics: levofloxacin 750 mg IV daily (due to sulfa allergy).
+3. Oxygen to maintain sat >92%.
+4. Continue enoxaparin for DVT prophylaxis.
+5. Monitor renal function; adjust medications.
+6. Blood cultures, sputum culture.
+7. Contact SNF for further history.
+
+SIGNED: Okonkwo, Chuka MD
+DATE/TIME: 2026-03-05 11:00

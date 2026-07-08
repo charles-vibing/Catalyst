@@ -1,0 +1,21 @@
+{
+  "patient_id": 26,
+  "mrn": "10106",
+  "fin": "007441",
+  "extracted_at": "2026-06-06T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-007441-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Garcia, Elena MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-06-06T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-06-12T10:00:00-06:00"
+    }
+  ]
+}

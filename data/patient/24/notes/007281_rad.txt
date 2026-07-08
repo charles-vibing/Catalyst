@@ -1,0 +1,33 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+Patient Name: SHARMA, PRIYA D
+MRN: 10104
+DOB: 1949-08-12
+Sex: F
+FIN: 007281
+
+Exam Date: 2026-05-24
+Exam Time: 14:45
+Accession: RAD-2026-007281-01
+
+EXAMINATION: XR RIGHT HIP 2 VIEWS
+
+CLINICAL HISTORY: 76-year-old female, ground-level fall at home, right hip pain, unable to bear weight.
+
+FINDINGS:
+There is a displaced fracture of the right femoral neck. The fracture is midcervical with mild impaction. There is no comminution. The acetabulum is intact. The femoral head appears well aligned within the acetabulum. No other acute osseous abnormality. Mild degenerative changes of the hip joint noted.
+
+IMPRESSION:
+Displaced right femoral neck fracture (S72.031A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+Electronically signed:
+Hartman, Laura MD
+Radiology
+Memorial General Hospital
+2026-05-24 15:30

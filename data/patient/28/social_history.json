@@ -1,0 +1,18 @@
+{
+  "patient_id": 28,
+  "mrn": "10108",
+  "extracted_at": "2026-06-14T15:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional \u2014 1-2 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with adult daughter (Martha Schmidt) in two-story home; bedroom and bathroom on first floor",
+  "functional_baseline": "Independent with ambulation; uses cane for long walks",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

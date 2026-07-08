@@ -1,0 +1,39 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Leung, Iris M
+MRN: 10121
+DOB: 1955-08-22
+SEX: F
+ENCOUNTER FIN: 008645
+
+DATE: 04/02/2026
+
+PROCEDURE: Left femoral shaft intramedullary nail fixation
+
+SURGEON: Mitchell, James MD
+
+HISTORY:
+70-year-old female with hypertension. No prior surgeries. No known allergies. No tobacco or alcohol.
+
+MEDICATIONS:
+Lisinopril 10 mg daily (held this morning).
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA (04/01/2026):
+- Albumin: 4.0 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+
+ASA CLASS: II
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Antibiotic prophylaxis with cefazolin 2 g IV. DVT prophylaxis with sequential compression devices.
+
+ELECTRONICALLY SIGNED:
+Patel, Ravi MD
+04/02/2026 06:30 CST

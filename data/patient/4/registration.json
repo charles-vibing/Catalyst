@@ -1,0 +1,34 @@
+{
+  "patient_id": 4,
+  "mrn": "10073",
+  "name": {
+    "family": "Kim",
+    "given": "Dorothy",
+    "middle": "L"
+  },
+  "birth_date": "1938-05-15",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "215 Cedar Avenue",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0173",
+  "phone_mobile": "555-0173",
+  "emergency_contact": {
+    "name": "James Kim",
+    "relationship": "Son",
+    "phone": "555-0174"
+  },
+  "primary_care_provider": {
+    "npi": "4455667788",
+    "name": "Nair, Priya MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000073"
+  }
+}

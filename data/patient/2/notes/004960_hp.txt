@@ -1,0 +1,106 @@
+MEMORIAL GENERAL HOSPITAL
+History and Physical — Admission
+
+Patient: Walsh, Helen M
+MRN: 10052
+FIN: 004960
+DOB: 08/14/1953
+Date of Service: 02/05/2026
+Admit Date: 02/05/2026 1630
+Attending: Mitchell, Sarah MD
+Service: Orthopedic Surgery
+Author: Torres, David PA-C (cosigned by Mitchell, Sarah MD)
+
+CHIEF COMPLAINT:
+Left hip pain after fall
+
+HISTORY OF PRESENT ILLNESS:
+Mrs. Walsh is a 72-year-old female with history of hypertension and osteopenia who presents via EMS after a ground-level mechanical fall at home this morning. She reports she was walking from the kitchen to the living room when her foot caught on a rug edge and she fell onto her left side. She denies head strike, loss of consciousness, chest pain, or shortness of breath at time of fall. She was unable to bear weight on the left leg due to severe groin and hip pain.
+
+In the emergency department she was hemodynamically stable. X-ray of the pelvis and left hip demonstrated a displaced left femoral neck fracture. Orthopedic surgery was consulted and recommended admission for operative management with hemiarthroplasty given fracture pattern and patient factors. Medical clearance obtained without need for hospitalist consult given limited comorbidities and normal preoperative labs.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension, well controlled
+- Osteopenia on calcium and vitamin D supplementation
+
+PAST SURGICAL HISTORY:
+- Hysterectomy (remote)
+- Cataract surgery, left eye (2023)
+
+HOME MEDICATIONS:
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Cholecalciferol (Vitamin D3) 2000 IU PO daily
+
+ALLERGIES:
+No known drug allergies
+
+FAMILY HISTORY:
+Mother had osteoporosis and hip fracture in her 80s
+
+SOCIAL HISTORY:
+Never smoker. Occasional alcohol use. Lives with husband Robert in single-story home. Independent with all ADLs and ambulation without assistive device at baseline. Husband present at bedside and involved in care planning.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss
+HEENT: Denies headache, vision change
+Cardiac: Denies chest pain, palpitations
+Respiratory: Denies shortness of breath, cough
+GI: Denies nausea, vomiting, abdominal pain
+GU: Denies dysuria
+MSK: Left hip pain as above; denies other joint swelling
+Neuro: Denies numbness, weakness aside from inability to bear weight LLE due to pain
+Skin: Denies rash
+Endocrine: Denies polyuria, polydipsia
+
+PHYSICAL EXAM:
+Vitals: T 98.4 F, HR 76 regular, BP 138/82, RR 16, SpO2 98% on room air, Pain 7/10 left hip
+General: Alert, oriented x3, uncomfortable with movement, no acute respiratory distress
+HEENT: Normocephalic, atraumatic, mucous membranes moist
+Neck: Supple, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmur, rub, or gallop appreciated
+Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: Soft, non-distended, non-tender, bowel sounds present
+MSK: Left lower extremity shortened and externally rotated. Tenderness to palpation over left hip and groin. No open wounds. 2+ dorsalis pedis and posterior tibial pulses bilaterally. Cap refill < 2 sec. Sensation intact to light touch distally. Unable to perform active ROM left hip due to pain
+Neuro: CN II-XII grossly intact, strength 5/5 right lower extremity, left lower extremity not formally tested due to fracture, no focal deficit
+Skin: Warm, dry, no ecchymosis beyond hip region
+
+LABS / IMAGING REVIEWED:
+CBC: Hgb 13.2
+BMP: Cr 0.9, albumin 3.9
+ECG: Normal sinus rhythm, rate 76, no acute ST changes
+XR pelvis/left hip: Displaced left femoral neck fracture
+
+ASSESSMENT AND PLAN:
+Mrs. Walsh is a 72-year-old female with well-controlled hypertension and osteopenia admitted with displaced left femoral neck hip fracture after ground-level mechanical fall.
+
+1. Left femoral neck hip fracture (S72.032A)
+   - Orthopedic surgery primary service
+   - Plan for left hip hemiarthroplasty when medically optimized
+   - NPO at midnight for OR tomorrow
+   - DVT prophylaxis per orthopedic protocol with enoxaparin postoperatively
+   - Pain control: acetaminophen scheduled, opioid PRN, multimodal approach
+
+2. Essential hypertension (I10)
+   - Continue home lisinopril if BP permits; hold morning of surgery
+   - Monitor blood pressure
+
+3. Osteopenia (M85.80)
+   - Continue calcium and vitamin D supplementation when tolerating oral intake
+
+4. Fall / disposition planning
+   - PT/OT eval post-op
+   - Case management for DME and home support with husband
+   - PCP follow-up and referral per discharge planning
+
+Prophylaxis: Pneumoboots, IS when appropriate post-op
+Code status: Full code (confirmed with patient)
+VTE: Per orthopedic anticoagulation pathway
+
+Electronically signed by:
+Torres, David PA-C
+02/05/2026 2045
+
+Cosigned by:
+Mitchell, Sarah MD
+02/05/2026 2110

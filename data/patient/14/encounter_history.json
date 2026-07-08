@@ -1,0 +1,63 @@
+{
+  "patient_id": 14,
+  "extracted_at": "2026-04-07T12:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "298441",
+      "admit_datetime": "2025-03-15T10:30:00-06:00",
+      "discharge_datetime": "2025-03-20T14:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Oncology",
+      "admit_source": "Physician Referral",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "9876543210",
+      "attending": "Patel, Anika MD",
+      "principal_diagnosis_icd10": "C50.912",
+      "principal_diagnosis": "Malignant neoplasm of unspecified site of unspecified female breast",
+      "ms_drg": "582",
+      "length_of_stay_days": 5
+    },
+    {
+      "fin": "301550",
+      "admit_datetime": "2025-11-10T09:00:00-06:00",
+      "discharge_datetime": "2025-11-10T11:30:00-06:00",
+      "patient_class": "Outpatient",
+      "hospital_service": "Oncology",
+      "admit_source": "Physician Referral",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "9876543210",
+      "attending": "Patel, Anika MD",
+      "principal_diagnosis_icd10": "C50.912",
+      "principal_diagnosis": "Malignant neoplasm of unspecified site of unspecified female breast",
+      "ms_drg": null,
+      "length_of_stay_days": 0
+    },
+    {
+      "fin": "006371",
+      "admit_datetime": "2026-04-03T14:30:00-06:00",
+      "discharge_datetime": "2026-04-07T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "50",
+      "discharge_disposition": "Hospice - home",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.031A",
+      "principal_diagnosis": "Displaced fracture of unspecified femoral neck, right leg, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-04-04",
+          "description": "Replacement of right hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SR902A",
+          "cpt": "27125"
+        }
+      ]
+    }
+  ]
+}

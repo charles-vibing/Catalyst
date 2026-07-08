@@ -1,0 +1,47 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+==============================
+
+Patient Name: KEANE, ALVIN F
+MRN: 10130
+DOB: 1956-03-22
+Sex: M
+FIN: 009526
+Date of Surgery: 2026-08-21
+
+PREOPERATIVE DIAGNOSIS:
+Left femoral shaft fracture (S72.301A)
+
+POSTOPERATIVE DIAGNOSIS:
+Left femoral shaft fracture (S72.301A)
+
+PROCEDURE PERFORMED:
+Left femoral intramedullary nail fixation (ICD-10-PCS 0QS806Z, CPT 27506)
+
+SURGEON: Mitchell, James MD
+ANESTHESIOLOGIST: Patel, Ravi MD
+
+ANESTHESIA: General endotracheal
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+FLUIDS: 1500 mL crystalloid
+
+URINE OUTPUT: 400 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+70-year-old male with displaced left femoral shaft fracture after ground-level fall. Informed consent obtained.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia, the patient was positioned supine on a fracture table. The left lower extremity was prepped and draped in standard sterile fashion. A longitudinal incision was made over the greater trochanter. The guidewire was inserted into the proximal femur under fluoroscopic guidance. The fracture was reduced with traction and manipulation. Reaming was performed sequentially. A 10 mm x 38 cm intramedullary nail was inserted and locked proximally and distally with two screws each. Final fluoroscopic images confirmed good alignment and implant position. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct.
+
+
+Electronically Signed:
+Mitchell, James MD
+Orthopedic Surgery
+2026-08-21 12:00:00

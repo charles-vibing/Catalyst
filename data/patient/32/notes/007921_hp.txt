@@ -1,0 +1,76 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+==============================
+
+Patient Name: Frazier, Reginald D
+MRN: 10112
+DOB: 1940-03-12
+Sex: M
+Encounter FIN: 007921
+Admission Date: 2026-07-04
+Attending: Okonkwo, Chukwudi MD
+
+CHIEF COMPLAINT: Left hip pain after a fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Frazier is an 85-year-old male with a history of chronic systolic heart failure (HFrEF), type 2 diabetes mellitus, chronic kidney disease stage 3a, hypertension, hyperlipidemia, and osteoporosis who presents after a ground-level fall at home earlier today. He slipped on a rug and landed on his left side. He immediately felt severe left hip pain and was unable to stand. He was brought to the Emergency Department by his daughter. On exam, the left leg is shortened and externally rotated. XR left hip shows a displaced intertrochanteric fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Chronic systolic heart failure (HFrEF) (I50.22)
+- Type 2 diabetes mellitus (E11.9)
+- Chronic kidney disease stage 3a (N18.30)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+- Metoprolol succinate 50 mg daily
+- Furosemide 40 mg daily
+- Metformin 500 mg twice daily
+- Atorvastatin 20 mg daily
+- Cholecalciferol 1000 units daily
+- Calcium carbonate 500 mg twice daily
+
+ALLERGIES:
+Sulfa drugs (rash)
+
+SOCIAL HISTORY:
+Lives with spouse in a single-story home. Spouse is primary caregiver. Former smoker (quit 20 years ago). No alcohol use.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills.
+Cardiovascular: No chest pain, palpitations.
+Respiratory: No dyspnea.
+Gastrointestinal: No nausea, vomiting.
+Musculoskeletal: Left hip pain.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 96% on room air.
+General: Alert, oriented, in mild distress.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Left lower extremity shortened and externally rotated. Tender to palpation over left hip. Dorsalis pedis pulses palpable. No edema.
+
+ASSESSMENT/PLAN:
+1. Displaced left intertrochanteric femur fracture (S72.141A) - Plan for left intramedullary nail (IM nail) once medically optimized.
+2. Chronic systolic heart failure (HFrEF) - Continue home beta blocker and ACE inhibitor. Monitor volume status.
+3. Type 2 diabetes mellitus - Continue metformin. Hold on day of surgery. Monitor glucose.
+4. Chronic kidney disease stage 3a - Avoid nephrotoxins. Monitor creatinine.
+5. Hypertension - Continue lisinopril.
+6. Hyperlipidemia - Continue atorvastatin.
+7. Osteoporosis - Continue cholecalciferol and calcium.
+
+Pre-op labs ordered: CBC, BMP, albumin, INR.
+
+---
+
+Electronically signed:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-07-04 17:00

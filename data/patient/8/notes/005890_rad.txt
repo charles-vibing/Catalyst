@@ -1,0 +1,28 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Brennan, Arthur A.
+MRN: 10088
+FIN: 005890
+DOB: 1951-09-12
+SEX: M
+
+EXAM: LEFT FEMUR X-RAY 2 VIEWS
+ACCESSION: RAD-2026-005890-01
+ORDERING PROVIDER: Mitchell, John MD (Orthopedic Surgery)
+
+CLINICAL HISTORY: 74-year-old male with Parkinson disease, ground-level fall at home, left hip/thigh pain, unable to bear weight.
+
+TECHNIQUE: AP and lateral views of the left femur.
+
+FINDINGS:
+There is a comminuted, displaced fracture of the mid-left femoral shaft. The fracture is angulated and shortened. There is no extension into the hip or knee joint. No other acute osseous abnormalities. Minimal degenerative changes of the hip and knee.
+
+IMPRESSION:
+Comminuted displaced fracture of the left femoral shaft (S72.301A).
+
+RECOMMENDATION:
+Orthopedic consultation for intramedullary nailing.
+
+REPORTING PROVIDER: Hartman, Lisa MD (Radiology)
+ELECTRONICALLY SIGNED: 04/10/2026 15:45

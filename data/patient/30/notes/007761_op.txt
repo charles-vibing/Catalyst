@@ -1,0 +1,44 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Fong, Alicia R
+MRN: 10110
+DOB: 1955-08-12
+SEX: F
+FIN: 007761
+
+DATE OF SURGERY: 04/06/2026
+
+SURGEON: Mitchell, David MD
+
+ASSISTANT: Torres, Maria PA-C
+
+ANESTHESIOLOGIST: Patel, Anjali MD
+
+PRE-OPERATIVE DIAGNOSIS: Left femoral shaft fracture (S72.301A)
+
+POST-OPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left femoral shaft intramedullary nail fixation (ICD-10-PCS: 0QS806Z; CPT: 27506)
+
+ANESTHESIA: Spinal with sedation
+
+INDICATIONS: 70-year-old female with displaced left femoral shaft fracture after ground-level fall.
+
+DESCRIPTION OF PROCEDURE: The patient was brought to the operating room and placed supine on a fracture table. After induction of spinal anesthesia, the left lower extremity was prepped and draped in sterile fashion. Closed reduction was performed under fluoroscopic guidance. A small incision was made over the greater trochanter, and a guidewire was advanced into the medullary canal. Sequential reaming was performed. A 10 mm x 38 cm intramedullary nail was inserted and locked proximally and distally with interlocking screws. Reduction and hardware position were confirmed with fluoroscopy. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 150 mL
+
+FLUIDS: 1200 mL crystalloid
+
+URINE OUTPUT: 400 mL
+
+COMPLICATIONS: None
+
+SPONGE AND INSTRUMENT COUNTS: Correct x2
+
+CONDITION: Stable, transferred to recovery room.
+
+ELECTRONICALLY SIGNED:
+Mitchell, David MD
+04/06/2026 11:30

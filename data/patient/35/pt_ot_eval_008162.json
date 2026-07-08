@@ -1,0 +1,31 @@
+{
+  "patient_id": 35,
+  "mrn": "10115",
+  "fin": "008162",
+  "extracted_at": "2026-07-17T12:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-07-14",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently at home; lives alone",
+    "current_mobility": "Ambulated 20 feet with front-wheeled walker and moderate assist; required rest breaks due to dyspnea",
+    "weight_bearing": "Weight bearing as tolerated right lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Patient requires skilled nursing facility for continued rehabilitation due to deconditioning and comorbidities",
+    "goals": [
+      "Ambulate 50 feet with walker and minimal assist",
+      "Safe transfers bed-chair-toilet"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-07-14",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Moderate assistance for bathing and dressing due to pain and deconditioning",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher"
+    ],
+    "home_safety": "Lives alone in single-story home; not safe for discharge home at this time; recommend SNF"
+  }
+}

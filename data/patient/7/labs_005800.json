@@ -1,0 +1,72 @@
+{
+  "patient_id": 7,
+  "mrn": "10087",
+  "fin": "005800",
+  "extracted_at": "2026-03-03T10:00:00-06:00",
+  "source": "EPIC_LAB_RESULTS",
+  "results": [
+    {
+      "loinc": "1751-7",
+      "display": "Albumin",
+      "value": 3.8,
+      "unit": "g/dL",
+      "effective_at": "2026-02-27T15:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "3.5-5.0"
+    },
+    {
+      "loinc": "2160-0",
+      "display": "Creatinine",
+      "value": 0.9,
+      "unit": "mg/dL",
+      "effective_at": "2026-02-27T15:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "0.7-1.2"
+    },
+    {
+      "loinc": "718-7",
+      "display": "Hemoglobin",
+      "value": 12.5,
+      "unit": "g/dL",
+      "effective_at": "2026-02-27T15:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "12.0-16.0"
+    },
+    {
+      "loinc": "34714-6",
+      "display": "INR",
+      "value": 2.8,
+      "unit": "",
+      "effective_at": "2026-02-27T15:00:00-06:00",
+      "abnormal_flag": "H",
+      "reference_range": "0.9-1.1"
+    },
+    {
+      "loinc": "718-7",
+      "display": "Hemoglobin",
+      "value": 11.8,
+      "unit": "g/dL",
+      "effective_at": "2026-03-01T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "12.0-16.0"
+    },
+    {
+      "loinc": "2160-0",
+      "display": "Creatinine",
+      "value": 0.8,
+      "unit": "mg/dL",
+      "effective_at": "2026-03-01T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "0.7-1.2"
+    },
+    {
+      "loinc": "34714-6",
+      "display": "INR",
+      "value": 1.3,
+      "unit": "",
+      "effective_at": "2026-03-01T07:00:00-06:00",
+      "abnormal_flag": null,
+      "reference_range": "0.9-1.1"
+    }
+  ]
+}

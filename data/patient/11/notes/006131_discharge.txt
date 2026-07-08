@@ -1,0 +1,54 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+PATIENT: Whitfield, Eleanor M
+MRN: 10091
+DOB: 1934-08-22
+SEX: F
+ENCOUNTER FIN: 006131
+ADMIT DATE: 2026-03-19
+DISCHARGE DATE: 2026-03-23
+
+ATTENDING: Okonkwo, Chukwudi MD (Hospitalist)
+
+ADMITTING DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL PROCEDURE:
+Right hip hemiarthroplasty (0SR902A) performed on 2026-03-20
+
+DISCHARGE DIAGNOSES:
+1. Displaced right intertrochanteric femur fracture (S72.141A)
+2. Essential hypertension (I10)
+3. Age-related osteoporosis (M81.0)
+
+HOSPITAL COURSE:
+Ms. Whitfield was admitted after a ground-level fall resulting in a displaced right intertrochanteric femur fracture. She underwent right hip hemiarthroplasty on 04/21/2026 without complications. Post-operative course was notable for mild pain controlled with oral analgesics. Physical therapy evaluated on post-operative day 1 and recommended transfer to a skilled nursing facility due to deconditioning and limited home support (lives alone). Patient was medically stable for discharge.
+
+DISCHARGE DISPOSITION:
+Skilled Nursing Facility - Prairie View Skilled Nursing
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+- Lisinopril 10 mg PO daily
+- Cholecalciferol (Vitamin D3) 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+- Enoxaparin 40 mg SC daily for 14 days (DVT prophylaxis)
+
+FOLLOW-UP APPOINTMENTS:
+- Orthopedic follow-up with Dr. Mitchell in 2 weeks (clinic)
+- PCP follow-up with Dr. Garcia (scheduled within 7 days)
+
+CONDITION AT DISCHARGE:
+Stable. Pain controlled. Weight-bearing as tolerated with walker.
+
+---
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+Hospitalist
+Memorial General Hospital
+2026-03-23 10:00:00 -06:00

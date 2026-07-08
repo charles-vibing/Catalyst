@@ -1,0 +1,38 @@
+{
+  "patient_id": 8,
+  "mrn": "10088",
+  "fin": "005890",
+  "claim_number": "A260001005890001",
+  "form_type": "837I",
+  "bill_type": "111",
+  "facility_ccn": "260001",
+  "admit_date": "20260304",
+  "discharge_date": "20260308",
+  "discharge_hour": "11",
+  "discharge_status": "62",
+  "ms_drg": "481",
+  "attending_npi": "1234567891",
+  "principal_diagnosis": "S72.301A",
+  "other_diagnoses": [
+    {
+      "code": "G20",
+      "poa": "Y"
+    },
+    {
+      "code": "I10",
+      "poa": "Y"
+    }
+  ],
+  "procedure_codes": [
+    {
+      "code": "0QS806Z",
+      "date": "20260305"
+    }
+  ],
+  "total_charges": 38500.0,
+  "statement_from": "20260304",
+  "statement_to": "20260308",
+  "payer": "MEDICARE",
+  "subscriber_id": "SYN-MBI-000088",
+  "submitted_date": "20260310"
+}

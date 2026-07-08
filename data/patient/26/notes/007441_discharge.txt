@@ -1,0 +1,53 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Ruiz, Yolanda M
+MRN: 10106
+DOB: 1955-08-12
+SEX: F
+FIN: 007441
+
+ADMISSION DATE: 2026-06-04
+DISCHARGE DATE: 2026-06-07
+ATTENDING: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS:
+Displaced right femoral shaft fracture (S72.301A)
+
+PRINCIPAL PROCEDURE:
+Right femoral shaft intramedullary nail fixation (0QS806Z) on 2026-06-05
+
+HOSPITAL COURSE:
+Patient was admitted after a ground-level fall with right femoral shaft fracture. She underwent intramedullary nailing on 2026-06-05 without complication. Postoperative course was unremarkable. Pain well controlled. She ambulated with physical therapy using a walker. Wound healing well. Hypertension controlled with lisinopril. Discharged home with home health services.
+
+DISCHARGE DIAGNOSES:
+1. Displaced right femoral shaft fracture (S72.301A)
+2. Essential hypertension (I10)
+
+DISCHARGE MEDICATIONS:
+- Lisinopril 10 mg daily
+- Acetaminophen 650 mg q6h PRN pain
+- Enoxaparin 40 mg subcut daily for 14 days
+- Multivitamin daily
+
+DISCHARGE DISPOSITION:
+Home (01)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP: Dr. Elena Garcia, 2026-06-12 at 10:00
+- Orthopedic clinic: 2026-06-19
+
+HOME HEALTH SERVICES:
+- Nursing for wound check and enoxaparin teaching
+- Physical therapy 3x/week
+
+DME:
+- Walker
+
+CONDITION ON DISCHARGE:
+Stable, ambulating with walker.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+2026-06-07 10:00

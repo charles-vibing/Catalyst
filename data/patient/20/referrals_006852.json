@@ -1,0 +1,22 @@
+{
+  "patient_id": 20,
+  "mrn": "10100",
+  "fin": "006852",
+  "extracted_at": "2026-05-08T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-006852-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1938475620",
+      "referred_to": "Garcia, Maria MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-05-08T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-05-15T10:00:00-06:00",
+      "completed_datetime": "2026-05-15T10:30:00-06:00"
+    }
+  ]
+}

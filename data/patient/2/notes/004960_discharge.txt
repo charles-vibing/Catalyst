@@ -1,0 +1,89 @@
+MEMORIAL GENERAL HOSPITAL
+Discharge Summary
+
+Patient: Walsh, Helen M
+MRN: 10052
+FIN: 004960
+DOB: 08/14/1953
+Admit Date: 02/05/2026 1630
+Discharge Date: 02/09/2026 1045
+Attending: Mitchell, Sarah MD
+Service: Orthopedic Surgery
+
+ADMISSION DIAGNOSIS:
+Left femoral neck hip fracture
+
+DISCHARGE DIAGNOSIS:
+1. Displaced midcervical fracture of left femur, initial encounter (S72.032A)
+2. Essential hypertension (I10)
+3. Osteopenia (M85.80)
+
+CHIEF COMPLAINT:
+Fall at home with inability to bear weight on left leg.
+
+HISTORY OF PRESENT ILLNESS:
+Mrs. Walsh is a 72-year-old female with a history of hypertension and osteopenia who presented to the emergency department after a ground-level mechanical fall at home on the morning of admission. She was walking from the kitchen to the living room when her foot caught on a rug and she fell onto her left side. She denied head strike or loss of consciousness. She was unable to ambulate due to severe left hip pain. EMS brought her to Memorial General. ED evaluation demonstrated a displaced left femoral neck fracture on imaging. Orthopedics was consulted. Given fracture pattern and patient factors, she was admitted for operative management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension
+- Osteopenia
+
+PAST SURGICAL HISTORY:
+- Hysterectomy (remote)
+- Cataract surgery, left eye (2023)
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Cholecalciferol (Vitamin D3) 2000 IU PO daily
+
+ALLERGIES:
+No known drug allergies
+
+PHYSICAL EXAM ON ADMISSION:
+Vitals: T 98.4, HR 76, BP 138/82, RR 16, SpO2 98% RA
+General: Alert, oriented x3, moderate distress with movement
+MSK: Left lower extremity shortened and externally rotated. Tenderness over left hip. Distal pulses intact. Sensation grossly intact.
+Cardiac: Regular rhythm, no murmurs appreciated
+Lungs: Clear to auscultation bilaterally
+
+HOSPITAL COURSE:
+The patient was admitted to the orthopedic surgery service. Preoperative medical clearance was straightforward given limited comorbidities. ASA class 2. Preoperative labs notable for albumin 3.9 g/dL, hemoglobin 13.2 g/dL, creatinine 0.9 mg/dL — all within normal limits.
+
+On hospital day 2 (02/06/2026), the patient underwent uncomplicated left hip hemiarthroplasty for femoral neck fracture. Estimated blood loss 150 mL. No intraoperative complications. Postoperative course was uneventful.
+
+Physical therapy evaluated the patient postoperatively. She progressed rapidly with a front-wheeled walker. Pain was managed with scheduled acetaminophen and opioid sparing approach. DVT prophylaxis with enoxaparin was initiated on postoperative day 1.
+
+By discharge, the patient was afebrile, hemodynamically stable, tolerating diet, and ambulating with walker and contact guard assist. Incision clean, dry, and intact.
+
+PROCEDURES:
+02/06/2026 - Left hip hemiarthroplasty (27125)
+
+DISCHARGE CONDITION:
+Stable
+
+DISCHARGE DISPOSITION:
+Home with husband (Robert Walsh)
+
+DISCHARGE INSTRUCTIONS:
+- Weight bearing as tolerated on left lower extremity with front-wheeled walker
+- Keep incision clean and dry. No soaking baths. Notify clinic for redness, drainage, fever > 101 F, or worsening pain
+- Continue incentive spirometry 10 times per hour while awake
+- Fall precautions at home. Secure loose rugs. Nightlights in hallway and bathroom
+- DME delivered: front-wheeled walker, elevated toilet seat
+
+DISCHARGE MEDICATIONS:
+1. Enoxaparin 40 mg subcutaneous daily for 14 days
+2. Acetaminophen 500 mg PO q6h PRN pain
+3. Lisinopril 10 mg PO daily
+4. Calcium carbonate 500 mg PO BID
+5. Cholecalciferol (Vitamin D3) 2000 IU PO daily
+
+FOLLOW-UP:
+- Orthopedic Surgery (Mitchell, Sarah MD) in 2 weeks
+- Primary care (Vasquez, Elena MD) within 7 days per discharge planning
+- PCP referral placed 02/08/2026; appointment completed 02/15/2026
+
+Electronically signed by:
+Mitchell, Sarah MD
+02/09/2026 0930

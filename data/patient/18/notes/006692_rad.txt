@@ -1,0 +1,25 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006692
+Exam Date: 2026-05-06
+Accession: RAD-2026-006692-01
+
+EXAMINATION: Chest X-ray 1 view
+
+CLINICAL INDICATION: Fever, confusion, rule out pneumonia.
+
+TECHNIQUE: Single AP view of the chest.
+
+FINDINGS: Lungs are clear without consolidation, effusion, or pneumothorax. Cardiac silhouette is normal. No acute abnormality.
+
+IMPRESSION: No evidence of pneumonia.
+
+Electronically signed:
+Hartman, Laura MD
+Radiology
+2026-05-06 10:00:00 -06:00

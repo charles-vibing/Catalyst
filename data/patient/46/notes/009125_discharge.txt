@@ -1,0 +1,52 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+==============================
+
+Patient Name: Calloway, Wyatt B
+MRN: 10126
+DOB: 1947-03-22
+Sex: M
+Encounter FIN: 009125
+
+Admission Date: 2026-08-09
+Discharge Date: 2026-08-13
+
+ADMITTING DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL PROCEDURE:
+ORIF right intertrochanteric femur fracture (0QS604Z) on 2026-08-10
+
+HOSPITAL COURSE:
+Mr. Calloway was admitted after a ground-level fall. He underwent uncomplicated ORIF on hospital day 2. Post-operative course was notable for adequate pain control with oral analgesics and stable vital signs. He was evaluated by physical therapy and occupational therapy and made good progress. He was cleared for discharge home with weight-bearing as tolerated. His home medications were resumed.
+
+DISCHARGE DIAGNOSES:
+1. Displaced right intertrochanteric femur fracture (S72.141A)
+2. Chronic obstructive pulmonary disease (J44.9)
+3. Essential hypertension (I10)
+4. Hyperlipidemia (E78.5)
+
+DISCHARGE DISPOSITION:
+Home (01)
+
+DISCHARGE MEDICATIONS:
+- Tiotropium 18 mcg inhalation capsule daily
+- Albuterol 90 mcg inhaler 2 puffs q4h PRN
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Acetaminophen 500 mg 1-2 tabs q6h PRN pain
+- Ibuprofen 400 mg q8h PRN pain (avoid if renal impairment)
+- Enoxaparin 40 mg subcut daily for 14 days (DVT prophylaxis)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Emily Harper): 2026-08-19 at 10:00 AM
+- Orthopedic clinic: 2026-08-23
+
+CONDITION ON DISCHARGE:
+Stable, ambulating with walker, pain controlled.
+
+
+Electronically signed:
+Okonkwo, Chidi MD
+2026-08-13 09:00:00 -06:00

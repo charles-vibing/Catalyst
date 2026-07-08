@@ -1,0 +1,8 @@
+MSH|^~\&|EPIC|MEMORIAL|INTERFACE|REGISTRY|20260222143000||ADT^A01|MSG202602201430|P|2.5
+EVN|A01|20260222143000
+PID|1||10086^^^MEMORIAL^MR||ORTIZ^RAYMOND^A||19400315|M|||1640 PRAIRIE VIEW ROAD^^SPRINGFIELD^IL^62702||(555)0106|||M|NON|1
+PV1|1|I|ORTH^4W^402||||1234567890^MITCHELL^SARAH^A^^^NPI|||ORTH||||7|||||005700|||||||||||||||||||||||||20260222143000
+DG1|1||S72.212A^Displaced subtrochanteric fracture of left femur^I10
+DG1|2||E11.9^Type 2 diabetes mellitus without complications^I10
+DG1|3||I73.9^Peripheral vascular disease, unspecified^I10
+DG1|4||N18.32^Chronic kidney disease, stage 3b^I10

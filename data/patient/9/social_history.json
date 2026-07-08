@@ -1,0 +1,18 @@
+{
+  "patient_id": 9,
+  "mrn": "10089",
+  "extracted_at": "2026-03-09T15:30:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional \u2014 1-2 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with daughter (Sarah Reeves) in two-story home; bedroom and bathroom on first floor",
+  "functional_baseline": "Independent with walking, no assistive device; able to climb stairs with difficulty",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

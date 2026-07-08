@@ -1,0 +1,50 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Blackwell, Marcus J
+MRN: 10101
+DOB: 1948-09-12
+SEX: M
+ENCOUNTER FIN: 006940
+DATE: 2026-05-10
+
+PROCEDURE: Left hip hemiarthroplasty (0SR902A)
+SURGEON: Mitchell, James MD (NPI: 1234567892)
+
+HISTORY:
+77-year-old male with atrial fibrillation (on warfarin), hypertension, osteoporosis. No prior surgeries. No anesthesia complications.
+
+MEDICATIONS:
+- Warfarin (held)
+- Lisinopril
+- Calcium carbonate
+- Vitamin D3
+
+ALLERGIES: Sulfonamides (rash)
+
+PHYSICAL EXAMINATION:
+Vitals: BP 136/80, HR 76 (irregular), RR 14, Temp 36.9 C, O2 sat 98% RA.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA (pre-op):
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- INR: 2.8 (pre-reversal)
+- INR (repeat this AM after vitamin K): 1.3
+- Albumin: 3.8 g/dL
+
+ASA CLASS: III
+
+ASSESSMENT:
+Patient with atrial fibrillation, anticoagulated, now reversed. Moderate risk for perioperative complications. Plan: general anesthesia with endotracheal intubation. Consider arterial line for blood pressure monitoring.
+
+PLAN:
+1. General anesthesia with propofol induction, sevoflurane maintenance.
+2. Fentanyl for analgesia.
+3. Rocuronium for paralysis.
+4. Reversal with sugammadex.
+5. Monitor for hemodynamic instability.
+
+SIGNED: Patel, Anjali MD (NPI: 1234567893) 2026-05-10 06:30 -06:00

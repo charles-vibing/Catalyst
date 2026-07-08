@@ -1,0 +1,27 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Kaczmarek, Walter S
+MRN: 10103
+FIN: 007201
+DOB: 1944-09-12
+SEX: M
+
+EXAM: CHEST X-RAY 1 VIEW
+ACCESSION: RAD-2026-007201-01
+EXAM DATE: 2026-06-20
+EXAM TIME: 10:30
+REPORT STATUS: FINAL
+
+HISTORY: GI bleed, rule out aspiration.
+
+TECHNIQUE: Anteroposterior chest radiograph.
+
+FINDINGS: The cardiomediastinal silhouette is normal. Lungs are clear without infiltrate, effusion, or pneumothorax. No acute abnormality.
+
+IMPRESSION: Normal chest radiograph.
+
+ELECTRONICALLY SIGNED:
+Hartman, Rachel MD
+Radiology
+2026-06-20 11:15

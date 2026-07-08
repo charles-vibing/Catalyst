@@ -1,0 +1,62 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005970
+ADMIT DATE: 2026-03-09
+ADMIT TIME: 14:30
+
+ATTENDING: Okonkwo, Chidi MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Mr. Reeves is an 81-year-old male who presents after a mechanical fall at home earlier today. He tripped on a rug and landed on his left side. He was unable to bear weight and was brought to the ED by his daughter. Imaging confirms a displaced left intertrochanteric femur fracture. He has a history of atrial fibrillation on warfarin. Last INR drawn 2 days ago was 2.8. He is being admitted for preoperative optimization and surgical repair.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91) – on warfarin
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D 1000 IU PO daily
+
+ALLERGIES: Penicillin – hives.
+
+SOCIAL HISTORY: Lives with his daughter. Retired teacher. No tobacco or alcohol use. Independent with ADLs prior to fall.
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, dyspnea, or fever.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% on RA.
+General: Alert, oriented x3.
+HEENT: Normocephalic.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear bilaterally.
+Abdomen: Soft, nontender.
+Extremities: Left lower extremity shortened and externally rotated. Tender to palpation over left hip. Neurovascularly intact distally.
+
+ASSESSMENT/PLAN:
+1. Left intertrochanteric femur fracture (S72.141A) – Plan for left hip intramedullary nail (IM nail) once INR is therapeutic (target <1.5). Will hold warfarin and give vitamin K 5 mg PO x1. Check INR daily. Surgery likely in 2-3 days.
+2. Atrial fibrillation – Hold warfarin per plan. Monitor for bleeding.
+3. Hypertension – Continue lisinopril.
+4. Hyperlipidemia – Continue atorvastatin.
+5. Osteoporosis – Continue calcium/vitamin D.
+
+DISCUSSED WITH: Patient and daughter. Plan for surgery once INR is safe.
+
+ATTENDING: Okonkwo, Chidi MD
+NPI: 1122334455
+
+SIGNED: Okonkwo, Chidi MD 2026-03-09T17:00:00-06:00

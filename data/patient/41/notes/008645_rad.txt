@@ -1,0 +1,30 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Leung, Iris M
+MRN: 10121
+DOB: 1955-08-22
+SEX: F
+ENCOUNTER FIN: 008645
+
+EXAM: XR LEFT FEMUR 2 VIEWS
+ACCESSION: RAD-2026-008645-01
+ORDERING PROVIDER: Mitchell, James MD
+
+DATE/TIME: 04/01/2026 14:15 CST
+
+HISTORY: Ground-level fall at home. Left hip and thigh pain, unable to bear weight.
+
+TECHNIQUE: AP and lateral views of the left femur.
+
+FINDINGS:
+There is a comminuted, displaced fracture of the mid-left femoral shaft. There is approximately 2 cm of shortening and mild angulation. The fracture extends through the diaphysis. The femoral head and neck are intact. The hip joint is normal. No other acute abnormalities.
+
+IMPRESSION:
+Comminuted displaced fracture of the mid-left femoral shaft (S72.301A).
+
+RECOMMENDATION: Orthopedic consultation for intramedullary nailing.
+
+ELECTRONICALLY SIGNED:
+Hartman, Laura MD
+04/01/2026 15:00 CST

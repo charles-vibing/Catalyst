@@ -1,0 +1,26 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Gable, Luther H
+MRN: 10114
+DOB: 1946-08-22
+SEX: M
+ENCOUNTER FIN: 008082
+
+EXAM: XR RIGHT HIP 2 VIEWS
+ACCESSION: RAD-2026-008082-01
+EXAM DATE: 2026-07-09
+REPORT DATE: 2026-07-09
+
+INDICATION: Ground-level fall at home, right hip pain, unable to bear weight.
+
+TECHNIQUE: Two views of the right hip.
+
+FINDINGS: There is a displaced intertrochanteric fracture of the right proximal femur. The fracture extends from the greater trochanter to the lesser trochanter with mild comminution. There is approximately 5 mm of displacement. No other acute fracture or dislocation is identified. Degenerative changes of the hip joint are noted.
+
+IMPRESSION: Displaced right intertrochanteric femur fracture (S72.141A).
+
+SIGNED: Hartman, David MD
+Radiology
+Memorial General Hospital
+2026-07-09 15:30

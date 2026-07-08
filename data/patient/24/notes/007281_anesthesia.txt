@@ -1,0 +1,49 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+==============================
+
+Patient Name: SHARMA, PRIYA D
+MRN: 10104
+DOB: 1949-08-12
+Sex: F
+FIN: 007281
+
+Date of Evaluation: 2026-05-25
+Time: 06:30
+
+Scheduled Procedure: Right hip hemiarthroplasty (CPT 27125)
+Surgeon: Mitchell, James MD
+
+HISTORY:
+76-year-old female with hypertension, osteoporosis, hyperlipidemia. No prior surgeries. No cardiac or pulmonary disease. No history of DVT/PE. No bleeding disorders. No tobacco use.
+
+MEDICATIONS:
+- Lisinopril 10 mg daily (held this AM)
+- Atorvastatin 20 mg daily
+- Calcium + Vitamin D
+
+ALLERGIES:
+- Sulfa (rash)
+
+PHYSICAL EXAMINATION:
+BP 136/80, HR 82, RR 14, O2 sat 98% RA.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 13.2 g/dL
+- Creatinine: 0.9 mg/dL
+- INR: 1.0 (not on anticoagulation)
+
+ASA CLASS: II
+
+ASSESSMENT:
+Patient is at low risk for perioperative complications. No significant comorbidities. Plan: Spinal anesthesia with sedation.
+
+Electronically signed:
+Patel, Ravi MD
+Anesthesiology
+Memorial General Hospital
+2026-05-25 07:00

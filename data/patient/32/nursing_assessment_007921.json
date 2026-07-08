@@ -1,0 +1,62 @@
+{
+  "patient_id": 32,
+  "mrn": "10112",
+  "fin": "007921",
+  "extracted_at": "2026-07-11T12:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 60,
+      "risk_level": "High",
+      "recorded_at": "2026-07-04T15:00:00-06:00",
+      "factors": [
+        "History of falling",
+        "Secondary diagnosis (CKD)",
+        "IV/heparin lock",
+        "Gait/balance deficit",
+        "Age 85"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 55,
+      "risk_level": "High",
+      "recorded_at": "2026-07-07T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 16,
+      "risk_level": "At risk",
+      "recorded_at": "2026-07-04T15:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 15,
+      "risk_level": "At risk",
+      "recorded_at": "2026-07-07T08:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-07-04T15:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-07-07T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Left hip lateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-07-07T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Left hip lateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-07-09T08:00:00-06:00"
+    }
+  ]
+}

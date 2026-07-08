@@ -1,0 +1,25 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Kowalski, Ruth E.
+MRN: 10096
+DOB: 1954-03-22
+SEX: F
+FIN: 006531
+
+EXAM: LEFT HIP X-RAY (2 VIEWS)
+ACCESSION: RAD-2026-006531-01
+DATE/TIME: 2026-04-14T09:30:00-06:00
+
+INDICATION: Ground-level fall at home, left hip pain, unable to bear weight.
+
+FINDINGS:
+Displaced left femoral neck fracture (midcervical). There is mild shortening and external rotation of the left lower extremity. No other acute fractures or dislocations. Mild degenerative changes of the left hip joint. No evidence of avascular necrosis.
+
+IMPRESSION:
+Displaced left femoral neck fracture (S72.032A).
+
+ELECTRONICALLY SIGNED:
+Hartman, Brian MD
+Radiology
+2026-04-14T10:15:00-06:00

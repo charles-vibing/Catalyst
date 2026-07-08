@@ -1,0 +1,34 @@
+{
+  "patient_id": 4,
+  "extracted_at": "2026-02-11T16:45:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 401,
+      "description": "Unspecified dementia without behavioral disturbance",
+      "icd10": "F03.90",
+      "snomed": "52448006",
+      "status": "Active",
+      "onset_date": "2022-03-18",
+      "last_reviewed": "2025-12-16"
+    },
+    {
+      "problem_id": 402,
+      "description": "Osteoporosis",
+      "icd10": "M81.0",
+      "snomed": "64859006",
+      "status": "Active",
+      "onset_date": "2016-09-12",
+      "last_reviewed": "2025-11-20"
+    },
+    {
+      "problem_id": 403,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2005-04-22",
+      "last_reviewed": "2025-11-13"
+    }
+  ]
+}

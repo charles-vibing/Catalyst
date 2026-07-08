@@ -1,0 +1,33 @@
+{
+  "patient_id": 10,
+  "mrn": "10090",
+  "fin": "006051",
+  "extracted_at": "2026-03-17T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-006051-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Williams, James MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-03-16T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-03-22T09:00:00-06:00"
+    },
+    {
+      "referral_id": "REF-006051-002",
+      "type": "Home Health Agency",
+      "referred_to_npi": "5566778899",
+      "referred_to": "HomeCare of Springfield",
+      "reason": "Skilled nursing and PT/OT post-discharge",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-03-16T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-03-18T10:00:00-06:00"
+    }
+  ]
+}

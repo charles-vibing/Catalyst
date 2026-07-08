@@ -1,0 +1,34 @@
+{
+  "patient_id": 22,
+  "mrn": "10102",
+  "name": {
+    "family": "Okafor",
+    "given": "Teresa",
+    "middle": "N"
+  },
+  "birth_date": "1951-08-12",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "900 S 11th Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "David Okafor",
+    "relationship": "Son",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, Sarah MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000102"
+  }
+}

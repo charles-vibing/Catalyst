@@ -1,0 +1,88 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+================================================================================
+
+PATIENT: Kapoor, Naomi S
+MRN: 10113
+DOB: 1937-11-22
+SEX: F
+ENCOUNTER FIN: 008002
+ADMIT DATE: 2026-07-18
+ADMIT TIME: 16:00
+
+ATTENDING: Okonkwo, Chidi MD (Hospitalist)
+NPI: 9988776655
+
+CHIEF COMPLAINT: Confusion, fever, and urinary symptoms.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is an 88-year-old female with history of dementia, osteoporosis, hypertension, diabetes, and recent left hip hemiarthroplasty (discharged 04/14) who presents with worsening confusion, fever (38.5°C), and foul-smelling urine for 1 day. She was at home with home health services. Her son reports she has been more confused than baseline. She also complains of dysuria. She is readmitted for presumed UTI with delirium.
+
+PAST MEDICAL HISTORY:
+- Dementia, Alzheimer's type (F02.80)
+- Osteoporosis, age-related (M81.0)
+- Essential hypertension (I10)
+- Type 2 diabetes mellitus, uncomplicated (E11.9)
+- Urinary tract infection, recurrent (N39.0)
+- Post-operative delirium (F05) - resolved at discharge
+
+PAST SURGICAL HISTORY:
+- Left hip hemiarthroplasty (04/11/2026) at Memorial General Hospital (FIN 008001)
+
+HOME MEDICATIONS:
+- Donepezil 10 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Metformin 500 mg BID
+- Acetaminophen 650 mg q6h PRN
+- Enoxaparin 40 mg subQ daily (completed 04/28)
+
+ALLERGIES:
+- Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives alone; son out of state. Receiving home health services.
+
+REVIEW OF SYSTEMS:
+Constitutional: Fever, malaise.
+Cardiovascular: No chest pain.
+Respiratory: No cough.
+Gastrointestinal: No nausea.
+Genitourinary: Dysuria, foul-smelling urine.
+Neurologic: Increased confusion.
+Musculoskeletal: Left hip pain controlled.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 140/80, HR 92, RR 18, Temp 38.5°C, O2 sat 96% on room air.
+General: Confused, agitated.
+HEENT: Dry mucous membranes.
+Cardiovascular: Tachycardic, regular.
+Respiratory: Clear.
+Abdomen: Soft, non-tender.
+Extremities: Left hip incision well-healed, no erythema or drainage. Distal pulses intact.
+Neurologic: Oriented to person only. Cranial nerves intact. Strength 4/5 left lower extremity, 5/5 elsewhere.
+
+LABORATORY DATA:
+- WBC: 14.5 K/uL (elevated)
+- Hemoglobin: 10.2 g/dL
+- Creatinine: 1.1 mg/dL (baseline 0.9)
+- Urinalysis: Positive for nitrites, leukocyte esterase, WBC >50/hpf, bacteria.
+- Urine culture: Pending.
+
+ASSESSMENT/PLAN:
+88-year-old female with UTI and delirium, readmitted post-hip arthroplasty.
+
+1. UTI: Start empiric antibiotics: ceftriaxone (no sulfa allergy). Await culture.
+2. Delirium: Non-pharmacologic measures. Avoid benzodiazepines. Low-dose haloperidol PRN.
+3. Dementia: Continue donepezil.
+4. Hypertension: Continue lisinopril.
+5. Diabetes: Continue metformin.
+6. DVT prophylaxis: Enoxaparin continued.
+7. Monitor for sepsis.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+NPI: 9988776655
+Date/Time: 2026-07-18 17:30

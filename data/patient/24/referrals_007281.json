@@ -1,0 +1,33 @@
+{
+  "patient_id": 24,
+  "mrn": "10104",
+  "fin": "007281",
+  "extracted_at": "2026-05-27T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-007281-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Patel, Sunita MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-05-27T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-06-03T10:00:00-06:00"
+    },
+    {
+      "referral_id": "REF-007281-002",
+      "type": "Home Health",
+      "referred_to_npi": null,
+      "referred_to": "Memorial Home Health Services",
+      "reason": "Skilled nursing and PT/OT for homebound patient",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-05-27T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-05-29T09:00:00-06:00"
+    }
+  ]
+}

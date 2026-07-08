@@ -1,0 +1,81 @@
+HISTORY AND PHYSICAL EXAMINATION
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005700
+
+ADMISSION DATE: 2026-02-22 14:30
+ATTENDING: Okonkwo, Chuka MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Ortiz is an 86-year-old male with a history of type 2 diabetes, peripheral vascular disease, chronic kidney disease stage 3b, hypertension, and hyperlipidemia who presents after a mechanical fall at home earlier today. He slipped on a rug and landed on his left side. He was unable to bear weight and was brought to the ED by his wife. He reports severe left hip pain. He denies head strike, loss of consciousness, or other injuries. He has not had any prior hip fractures. He was admitted to Memorial General in August 2025 for a COPD exacerbation (FIN 301550) and in November 2024 for a diabetic foot ulcer (FIN 298441).
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease, stage 3b (N18.32)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Metformin 500 mg PO BID
+- Glipizide 5 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Aspirin 81 mg PO daily
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with wife in a single-story home. Independent in ADLs prior to fall. No tobacco, occasional alcohol. Emergency contact: daughter Sarah Ortiz (555-0199).
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea, cough. Gastrointestinal: No nausea, vomiting. Genitourinary: No dysuria. Musculoskeletal: Left hip pain. Neurologic: No weakness, numbness.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 148/82, HR 88, RR 18, Temp 36.8 C, O2 sat 96% RA.
+General: Elderly male in moderate distress.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Musculoskeletal: Left lower extremity shortened and externally rotated. Tenderness to palpation over left hip. No open wounds. Distal pulses palpable.
+Neurologic: Alert and oriented x3.
+
+LABORATORY DATA (on admission):
+- Albumin: 2.8 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 1.8 mg/dL (elevated)
+- WBC: 8.2 K/uL
+- Platelets: 220 K/uL
+- Sodium: 138 mEq/L
+- Potassium: 4.1 mEq/L
+
+IMAGING:
+Left hip X-ray: Displaced left subtrochanteric femur fracture (S72.212A).
+
+ASSESSMENT AND PLAN:
+86-year-old male with displaced left subtrochanteric femur fracture. Plan:
+1. Orthopedic consultation for surgical fixation (IM nail).
+2. Pre-operative optimization: hold metformin and glipizide on day of surgery; monitor renal function.
+3. Pain management: acetaminophen, consider nerve block.
+4. DVT prophylaxis: enoxaparin 40 mg SC daily.
+5. Diabetes management: insulin sliding scale perioperatively.
+6. Continue lisinopril and atorvastatin.
+7. Aspirin held pre-operatively.
+8. Advance diet as tolerated.
+9. PT/OT evaluation post-operatively.
+
+SIGNED: Okonkwo, Chuka MD
+DATE/TIME: 2026-02-22 17:00

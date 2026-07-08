@@ -1,0 +1,44 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+==============================
+
+Patient Name: Calloway, Wyatt B
+MRN: 10126
+DOB: 1947-03-22
+Sex: M
+Encounter FIN: 009125
+
+Date of Evaluation: 2026-08-10
+Scheduled Procedure: ORIF right intertrochanteric femur fracture (CPT 27236)
+
+HISTORY:
+79-year-old male with COPD, hypertension, hyperlipidemia. No prior surgeries. No anesthesia complications.
+
+MEDICATIONS:
+- Tiotropium 18 mcg daily
+- Albuterol PRN
+- Lisinopril 10 mg daily (held this AM)
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfa drugs (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear lungs.
+
+ASA CLASS: III
+
+LABORATORY DATA:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- INR: 1.1 (not on anticoagulation)
+
+ASSESSMENT:
+Moderate risk due to COPD. Optimized on home regimen. Plan: general anesthesia with endotracheal intubation. Avoid sulfa antibiotics.
+
+
+Electronically signed:
+Patel, Anita MD
+2026-08-10 06:30:00 -06:00

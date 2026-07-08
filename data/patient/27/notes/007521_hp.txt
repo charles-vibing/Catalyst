@@ -1,0 +1,100 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+================================================================================
+
+PATIENT: Okoye, Dennis C.        MRN: 10107           FIN: 007521
+DOB: 1948-03-12                  SEX: M
+ADMIT DATE: 2026-06-09
+ADMIT TIME: 14:30
+ATTENDING: Okonkwo, Chidi MD (Hospital Medicine)
+
+================================================================================
+CHIEF COMPLAINT:
+Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Okoye is a 78-year-old male with a history of hypertension and
+osteoporosis who presents after a mechanical ground-level fall at home
+earlier today. He slipped on a rug and landed on his right side.
+Immediately experienced severe right hip pain and was unable to bear
+weight. EMS transported him to the ED. XR in ED revealed a displaced
+right intertrochanteric femur fracture. Orthopedics consulted and
+recommended surgical repair. Patient is otherwise at his baseline.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+ALLERGIES:
+- Penicillin (rash)
+
+SOCIAL HISTORY:
+Lives with his wife, who is his primary caregiver. Retired teacher.
+No tobacco use. Occasional alcohol (1-2 drinks per week).
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, or weight loss.
+Cardiovascular: No chest pain, palpitations, or edema.
+Respiratory: No dyspnea, cough, or wheezing.
+Gastrointestinal: No nausea, vomiting, or abdominal pain.
+Musculoskeletal: Right hip pain as above.
+Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Right lower extremity externally rotated and shortened.
+Tenderness over right hip. No open wounds. Distal pulses intact.
+Neurologic: Grossly intact.
+
+LABORATORY DATA (Pre-op):
+- Albumin: 3.8 g/dL (normal)
+- Hemoglobin: 13.5 g/dL (normal)
+- Creatinine: 1.0 mg/dL (normal)
+- WBC: 7.2 K/uL
+- Platelets: 220 K/uL
+- Sodium: 140 mEq/L
+- Potassium: 4.1 mEq/L
+
+IMAGING:
+XR Right Hip: Displaced right intertrochanteric femur fracture (see
+separate radiology report).
+
+ASSESSMENT AND PLAN:
+78-year-old male with displaced right intertrochanteric femur fracture
+s/p ground-level fall. Plan:
+1. Admit to Orthopedic service with Hospital Medicine co-management.
+2. Surgical repair: Right hip hemiarthroplasty planned for tomorrow
+   (2026-06-10) by Dr. Mitchell.
+3. Pre-op labs and type and screen.
+4. DVT prophylaxis with enoxaparin 40 mg SQ daily starting post-op.
+5. Pain management: Acetaminophen 650 mg PO q6h PRN; hydromorphone
+   0.5 mg IV q4h PRN for breakthrough pain.
+6. Bowel regimen: Docusate 100 mg PO BID.
+7. Continue home lisinopril, hold if hypotensive.
+8. Fall prevention education.
+9. TEAM beneficiary notification to be completed prior to discharge.
+10. PCP: Dr. Patricia Williams; referral to be placed for follow-up
+    within 7 days of discharge.
+
+================================================================================
+SIGNED:
+Okonkwo, Chidi MD (Hospital Medicine)
+Electronically signed: 2026-06-09 16:00
+================================================================================

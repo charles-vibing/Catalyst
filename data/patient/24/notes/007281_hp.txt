@@ -1,0 +1,83 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+==============================
+
+Patient Name: SHARMA, PRIYA D
+MRN: 10104
+DOB: 1949-08-12
+Sex: F
+FIN: 007281
+
+Attending: Okonkwo, Chidi MD
+Date of Admission: 2026-05-24
+Time of Admission: 14:30
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Sharma is a 76-year-old female with history of hypertension, osteoporosis, and hyperlipidemia who presents after a ground-level fall at her apartment earlier today. She slipped on a throw rug and landed on her right side, experiencing immediate right hip pain. She was unable to bear weight and called her daughter who lives out of state; EMS was activated. She was brought to the ED. XR right hip showed displaced right femoral neck fracture. Orthopedics consulted and recommends hemiarthroplasty. Patient is alert and oriented, in moderate pain. She lives alone in a third-floor walkup apartment; no caregiver at home. She uses public transportation. Daughter Anita lives in Chicago and is supportive but not local.
+
+PAST MEDICAL HISTORY:
+- Hypertension (I10)
+- Osteoporosis (M81.0)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Calcium + Vitamin D 600 mg/400 IU twice daily
+
+ALLERGIES:
+- Sulfa (rash)
+
+SOCIAL HISTORY:
+Lives alone in apartment, third-floor walkup. No caregiver. Daughter lives out of state. Retired school teacher. No tobacco use. Occasional alcohol (1-2 drinks/week). Uses public transportation.
+
+FAMILY HISTORY:
+Mother: hypertension, osteoporosis; Father: deceased at 82 from MI.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Pain right hip. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea, cough. GI: No nausea, vomiting. GU: No dysuria. Musculoskeletal: Right hip pain. Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88, RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Well-appearing female in mild distress.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right leg shortened and externally rotated. Pain with any movement of right hip. Distal pulses intact, sensation intact.
+Neurologic: Alert, oriented x3. Cranial nerves intact. Strength 5/5 left lower extremity, unable to test right due to pain.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 13.2 g/dL
+- Creatinine: 0.9 mg/dL
+- WBC: 7.2 K/uL
+- Platelets: 220 K/uL
+- Sodium: 140 mEq/L
+- Potassium: 4.1 mEq/L
+
+IMAGING:
+XR right hip: displaced right femoral neck fracture (S72.031A).
+
+ASSESSMENT AND PLAN:
+76-year-old female with displaced right femoral neck fracture s/p ground-level fall. Plan:
+1. Admit to Orthopedic service.
+2. Right hip hemiarthroplasty planned for tomorrow AM.
+3. Pre-op clearance by Hospitalist.
+4. Pain management: acetaminophen, consider nerve block.
+5. DVT prophylaxis: enoxaparin 40 mg SC daily starting post-op.
+6. Fall prevention education.
+7. PT/OT evaluation post-op.
+8. Social work consult for discharge planning given living situation.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+Memorial General Hospital
+2026-05-24 17:00

@@ -1,0 +1,56 @@
+{
+  "patient_id": 31,
+  "mrn": "10111",
+  "fin": "007841",
+  "extracted_at": "2026-07-05T12:00:00-06:00",
+  "source": "EPIC_DISCHARGE_MED_LIST",
+  "context": "Discharge medication list",
+  "medications": [
+    {
+      "med_id": "MED-D-001",
+      "name": "acetaminophen",
+      "name_display": "Acetaminophen 500 mg tablet",
+      "rxnorm": "313782",
+      "sig": "Take 2 tablets (1,000 mg) by mouth every 6 hours as needed for pain",
+      "route": "oral",
+      "frequency": "Q6H PRN",
+      "start_date": "2026-07-05",
+      "status": "New",
+      "indication": "Pain",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-003",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "198440",
+      "sig": "Take 1 tablet (500 mg) by mouth twice daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-004",
+      "name": "vitamin D3",
+      "name_display": "Vitamin D3 1000 IU capsule",
+      "rxnorm": "602600",
+      "sig": "Take 1 capsule (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    }
+  ]
+}

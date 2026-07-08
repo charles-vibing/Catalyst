@@ -1,0 +1,54 @@
+{
+  "patient_id": 19,
+  "mrn": "10099",
+  "fin": "006772",
+  "extracted_at": "2026-05-03T10:30:00-06:00",
+  "source": "EPIC_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "tiotropium",
+      "name_display": "Tiotropium (SPIRIVA) 18 mcg inhalation capsule",
+      "rxnorm": "597541",
+      "sig": "Inhale contents of 1 capsule daily",
+      "route": "inhalation",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, Sarah MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "albuterol",
+      "name_display": "Albuterol HFA 90 mcg/actuation inhaler",
+      "rxnorm": "745679",
+      "sig": "Inhale 2 puffs every 4-6 hours as needed for shortness of breath",
+      "route": "inhalation",
+      "frequency": "Q4-6H PRN",
+      "status": "Continue",
+      "prescriber": "Williams, Sarah MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, Sarah MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "hydrochlorothiazide",
+      "name_display": "Hydrochlorothiazide 25 mg tablet",
+      "rxnorm": "310798",
+      "sig": "Take 1 tablet (25 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, Sarah MD"
+    }
+  ]
+}

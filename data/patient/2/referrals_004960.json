@@ -1,0 +1,22 @@
+{
+  "patient_id": 2,
+  "mrn": "10052",
+  "fin": "004960",
+  "extracted_at": "2026-02-11T14:30:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-004960-001",
+      "type": "Primary Care",
+      "referred_to_npi": "2233445566",
+      "referred_to": "Vasquez, Elena MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-02-04T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-02-11T10:00:00-06:00",
+      "completed_at": "2026-02-11T10:45:00-06:00"
+    }
+  ]
+}

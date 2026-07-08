@@ -1,0 +1,93 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+================================================================================
+
+PATIENT: Romano, Lorenzo P
+MRN: 10128
+DOB: 1948-06-15  SEX: M
+ENCOUNTER FIN: 009365
+ADMIT DATE: 2026-08-15
+
+ATTENDING PHYSICIAN: Okonkwo, Chidi MD (Hospitalist) NPI: 1234567891
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Romano is a 77-year-old male with history of atrial fibrillation on warfarin, 
+hypertension, and osteoporosis who presents after a ground-level fall at home 
+this morning. He tripped on a rug and landed on his right side. He immediately 
+experienced severe right hip pain and was unable to bear weight. He was 
+transported to the ED by his daughter. In the ED, XR revealed a displaced right 
+intertrochanteric femur fracture. He is admitted for surgical management. 
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91) - diagnosed 2020, on warfarin
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+- History of COPD (J44.9) - mild, no recent exacerbations
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 1000 IU PO daily
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with spouse in a single-story home. Retired teacher. No tobacco use. 
+Occasional alcohol (1-2 drinks/week). Functional baseline: independent with 
+ADLs, uses cane for long walks. Emergency contact: daughter Maria Romano 
+(555-0198).
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Cardiovascular: Palpitations denied. No chest pain.
+Respiratory: No cough, dyspnea.
+Musculoskeletal: Right hip pain, unable to bear weight.
+Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Well-appearing male in mild distress.
+HEENT: Normocephalic.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right lower extremity shortened and externally rotated. Tender to 
+palpation over right hip. No neurovascular deficit. Left lower extremity normal.
+
+LABORATORY DATA (Pre-op):
+- INR: 2.8 (on warfarin)
+- Albumin: 3.5 g/dL
+- Hemoglobin: 12.0 g/dL
+- Creatinine: 1.0 mg/dL
+- WBC: 7.2 K/uL
+- Platelets: 220 K/uL
+
+ASSESSMENT AND PLAN:
+1. Displaced right intertrochanteric femur fracture - plan for right hip 
+   hemiarthroplasty once INR is therapeutic (target <1.5). Will hold warfarin 
+   and administer vitamin K 5 mg IV today. Recheck INR in AM.
+2. Atrial fibrillation - hold warfarin, monitor for arrhythmia.
+3. Hypertension - continue lisinopril.
+4. Osteoporosis - continue calcium/vitamin D.
+
+CONSULTS:
+- Orthopedic surgery (Dr. Mitchell)
+- Anesthesia for pre-op evaluation
+
+DISCUSSED WITH PATIENT AND FAMILY:
+Risks and benefits of surgery, including bleeding, infection, and need for 
+INR reversal. Patient and daughter agree with plan.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+NPI: 1234567891
+2026-08-15 16:00
+================================================================================

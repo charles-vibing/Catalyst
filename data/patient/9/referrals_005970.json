@@ -1,0 +1,21 @@
+{
+  "patient_id": 9,
+  "mrn": "10089",
+  "fin": "005970",
+  "extracted_at": "2026-03-17T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-005970-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1234567890",
+      "referred_to": "Miller, Susan MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Never scheduled",
+      "ordered_at": "2026-03-15T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": null
+    }
+  ]
+}

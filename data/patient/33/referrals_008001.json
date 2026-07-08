@@ -1,0 +1,21 @@
+{
+  "patient_id": 33,
+  "mrn": "10113",
+  "fin": "008001",
+  "extracted_at": "2026-07-10T12:00:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-008001-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1938475620",
+      "referred_to": "Patel, Anjali MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-07-09T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-07-13T10:00:00-06:00"
+    }
+  ]
+}

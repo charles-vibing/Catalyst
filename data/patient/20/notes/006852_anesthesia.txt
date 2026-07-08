@@ -1,0 +1,37 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006852
+Date of Evaluation: 2026-05-05
+
+PROCEDURE: Left hip intramedullary nail fixation
+
+HISTORY: 86-year-old female with T2DM, PVD, CKD 3a, HTN, HLD. Lives alone. No prior surgeries. No known anesthetic complications.
+
+MEDICATIONS: Metformin (held today), atorvastatin, amlodipine, aspirin.
+
+ALLERGIES: Sulfonamides (rash).
+
+PHYSICAL EXAM:
+Airway: Mallampati II, full range of motion.
+Cardiac: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+
+LABS:
+- Albumin: 3.0 g/dL
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 1.8 mg/dL
+- INR: 1.1
+
+ASA CLASS: III
+
+PLAN: General endotracheal anesthesia. Consider arterial line given CKD and PVD. Avoid sulfa drugs.
+
+Electronically signed:
+Patel, Ravi MD
+Anesthesiology
+NPI: 5566778899

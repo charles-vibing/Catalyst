@@ -1,0 +1,68 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Sullivan, Vincent P
+MRN: 10097
+DOB: 1940-08-22
+SEX: M
+FIN: 006611
+
+ATTENDING: Okonkwo, Chidi MD (NPI: 1234567891)
+
+DATE OF ADMISSION: 2026-04-19
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Sullivan is an 85-year-old male with a history of chronic systolic heart failure (HFrEF), type 2 diabetes, CKD stage 3, and hypertension who presents after a mechanical fall at home earlier today. He slipped on a rug and landed on his right side, immediately experiencing severe right hip pain and inability to bear weight. He was brought to the ED by his daughter. Imaging revealed a displaced right intertrochanteric femur fracture. He is admitted for surgical fixation.
+
+PAST MEDICAL HISTORY:
+- Chronic systolic heart failure (HFrEF), diagnosed 2018, EF 35-40% on echocardiogram 2025.
+- Type 2 diabetes mellitus, diagnosed 2010, on metformin.
+- Chronic kidney disease stage 3 (CKD 3), baseline creatinine ~1.8.
+- Essential hypertension, diagnosed 2005.
+- Prior admissions: 2024 (FIN 298441) for CHF exacerbation; 2025 (FIN 301550) for pneumonia.
+
+HOME MEDICATIONS:
+- Metformin 500 mg PO BID
+- Lisinopril 10 mg PO daily
+- Carvedilol 6.25 mg PO BID
+- Furosemide 40 mg PO daily
+- Atorvastatin 20 mg PO daily
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with daughter Mary in a two-story home; has difficulty with stairs. Retired factory worker. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Noncontributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: Fatigue. Cardiovascular: DOE, orthopnea. Otherwise negative per daughter.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/78, HR 88, RR 18, Temp 36.8 C, O2 sat 96% RA.
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+CV: Regular rate and rhythm, no murmurs.
+Resp: Clear to auscultation.
+Abdomen: Soft, nontender.
+Extremities: Right lower extremity shortened and externally rotated, tender over hip. Pulses intact.
+Neuro: Grossly intact.
+
+LABORATORY DATA (on admission):
+- Albumin: 3.0 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 2.2 mg/dL (elevated, baseline ~1.8)
+- BUN: 35 mg/dL
+- Glucose: 140 mg/dL
+- INR: 1.1
+
+ASSESSMENT/PLAN:
+85-year-old male with displaced right intertrochanteric femur fracture. Multiple comorbidities including HFrEF, CKD, DM, HTN. Acute kidney injury likely prerenal from dehydration; will monitor creatinine and hold metformin temporarily. Plan for cephalomedullary nail fixation (IM nail) once medically optimized. Will consult cardiology for perioperative management. Continue home heart failure medications. Anticipate discharge to SNF given slow PT progress and deconditioning.
+
+SIGNED:
+Okonkwo, Chidi MD
+Date/Time: 2026-04-19 18:00

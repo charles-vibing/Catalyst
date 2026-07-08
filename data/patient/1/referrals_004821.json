@@ -1,0 +1,21 @@
+{
+  "patient_id": 1,
+  "mrn": "10048",
+  "fin": "004821",
+  "extracted_at": "2026-01-30T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-004821-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1122334455",
+      "referred_to": "Rivera, Ana MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-01-30T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-02-07T10:00:00-06:00"
+    }
+  ]
+}

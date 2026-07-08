@@ -1,0 +1,83 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+================================================================================
+
+PATIENT: Martinez, Maria L
+MRN: 10090
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 006051
+ADMIT DATE: 2026-03-14
+ADMIT TIME: 14:30
+ATTENDING: Okonkwo, Chukwudi MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+This is a 76-year-old female with a history of hypertension and osteoporosis who presents after a ground-level fall at her apartment earlier today. She slipped on a rug and landed on her left side, immediately experiencing severe left hip pain and inability to bear weight. She was brought to the Emergency Department by ambulance. Left hip X-ray shows a displaced left femoral neck fracture. She is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+1. Lisinopril 10 mg PO daily
+2. Cholecalciferol 1000 IU PO daily
+3. Calcium carbonate 500 mg PO BID
+
+ALLERGIES:
+- Sulfonamides (rash)
+
+SOCIAL HISTORY:
+The patient lives alone in a third-floor walkup apartment in Springfield, IL. She has no caregiver at home. Her emergency contact is a neighbor, Elena Garcia. She is widowed and has limited transportation options. She does not smoke or drink alcohol. She is independent in activities of daily living but uses a cane for ambulation due to mild arthritis.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, chills, or weight loss.
+Cardiovascular: No chest pain, palpitations, or orthopnea.
+Respiratory: No cough or dyspnea.
+Gastrointestinal: No nausea, vomiting, or abdominal pain.
+Musculoskeletal: Left hip pain as above.
+Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/78, HR 82, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+General: Alert, oriented, in mild distress due to pain.
+HEENT: Normocephalic.
+Neck: Supple.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Left lower extremity shortened and externally rotated. No open wounds. Right lower extremity normal. Dorsalis pedis pulses palpable bilaterally.
+Neurologic: Grossly intact.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.8 g/dL (normal)
+- Hemoglobin: 13.5 g/dL (normal)
+- Creatinine: 0.9 mg/dL (normal)
+- WBC: 7.2 K/uL
+- Platelets: 220 K/uL
+- Sodium: 140 mmol/L
+- Potassium: 4.1 mmol/L
+
+ASSESSMENT AND PLAN:
+76-year-old female with displaced left femoral neck fracture (S72.032A) s/p ground-level fall. Plan:
+1. Surgery: Left hip hemiarthroplasty (ICD-10-PCS 0SR902A) planned for tomorrow (2026-03-15) by Dr. Mitchell.
+2. Pre-op: NPO after midnight, hold lisinopril on day of surgery.
+3. Pain management: Acetaminophen 650 mg PO q6h, hydromorphone 0.5 mg IV q4h PRN for breakthrough pain.
+4. DVT prophylaxis: Enoxaparin 40 mg SQ daily starting post-op.
+5. Bowel regimen: Docusate 100 mg PO BID.
+6. Antibiotic prophylaxis: Cefazolin 2 g IV pre-op (no sulfa allergy concern).
+7. PT/OT consult for post-op evaluation and disposition planning.
+8. Social work consult for home health services and transportation assistance.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+2026-03-14 17:00:00 -06:00
+================================================================================

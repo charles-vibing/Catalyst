@@ -1,0 +1,64 @@
+{
+  "patient_id": 33,
+  "extracted_at": "2026-07-20T14:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "298441",
+      "admit_datetime": "2025-06-15T10:30:00-05:00",
+      "discharge_datetime": "2025-06-18T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "N39.0",
+      "principal_diagnosis": "Urinary tract infection, site not specified",
+      "ms_drg": "690",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "008001",
+      "admit_datetime": "2026-07-06T14:30:00-06:00",
+      "discharge_datetime": "2026-07-10T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "06",
+      "discharge_disposition": "Home with home health agency (HHA)",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.032A",
+      "principal_diagnosis": "Displaced fracture of left femoral neck, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-07-07",
+          "description": "Replacement of left hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SR902A",
+          "cpt": "27125"
+        }
+      ]
+    },
+    {
+      "fin": "008002",
+      "admit_datetime": "2026-07-18T16:00:00-06:00",
+      "discharge_datetime": "2026-07-20T12:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "06",
+      "discharge_disposition": "Home with home health agency (HHA)",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "N39.0",
+      "principal_diagnosis": "Urinary tract infection, site not specified",
+      "ms_drg": "690",
+      "length_of_stay_days": 2,
+      "ed_visit_datetime": "2026-07-18T15:30:00-06:00"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "patient_id": 43,
+  "mrn": "10123",
+  "extracted_at": "2026-08-02T16:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional - 1-2 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with spouse in single-family home, no stairs, independent ambulation with cane",
+  "functional_baseline": "Independent with cane, able to perform ADLs without assistance",
+  "advance_directive": "On file - full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

@@ -1,0 +1,62 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient Name: Baptiste, Jerome A
+MRN: 10109
+DOB: 1946-08-15
+Sex: M
+Encounter FIN: 007681
+Admit Date: 2026-06-19
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Baptiste is a 79-year-old male with history of COPD and hypertension who presents after a ground-level fall at home earlier today. He tripped on a rug and landed on his right side. He experienced immediate right hip pain and was unable to bear weight. EMS was called and he was transported to the Emergency Department. Imaging confirmed a displaced right intertrochanteric femur fracture. Orthopedic surgery consulted. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Chronic obstructive pulmonary disease (J44.9)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- No prior surgeries.
+- No prior hip fractures.
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Tiotropium 18 mcg inhalation capsule daily
+- Albuterol HFA 90 mcg inhaler 2 puffs q4h PRN
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+
+ALLERGIES:
+- Sulfa drugs (rash)
+
+SOCIAL HISTORY:
+Lives with spouse in a single-family home; no stairs. Retired. No tobacco or alcohol use.
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: Chronic cough, no worsening. Musculoskeletal: Right hip pain. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88, RR 18, Temp 36.8 C, O2 sat 96% on room air.
+General: Well-appearing male in mild distress.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender.
+Extremities: Right lower extremity shortened and externally rotated. Pain with any movement of right hip. Neurovascularly intact distally.
+
+ASSESSMENT/PLAN:
+1. Displaced right intertrochanteric femur fracture (S72.141A) - Plan for open reduction internal fixation (ORIF) tomorrow.
+2. COPD - Continue home inhalers. Monitor for exacerbation.
+3. Hypertension - Continue lisinopril.
+4. Hyperlipidemia - Continue atorvastatin.
+
+Consults: Orthopedic surgery.
+
+Signed: Okonkwo, Chidi MD
+Hospitalist
+NPI: 2233445566
+Date/Time: 2026-06-19 17:00

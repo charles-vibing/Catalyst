@@ -1,0 +1,34 @@
+{
+  "patient_id": 8,
+  "mrn": "10088",
+  "name": {
+    "family": "Brennan",
+    "given": "Arthur",
+    "middle": "A"
+  },
+  "birth_date": "1951-09-12",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1423 S MacArthur Blvd",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0188",
+  "phone_mobile": "555-0188",
+  "emergency_contact": {
+    "name": "Mary Brennan",
+    "relationship": "Spouse",
+    "phone": "555-0189"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, Susan MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000088"
+  }
+}

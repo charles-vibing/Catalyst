@@ -1,0 +1,16 @@
+{
+  "patient_id": 26,
+  "extracted_at": "2026-06-04T15:00:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 101,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2010-03-15",
+      "last_reviewed": "2026-04-26"
+    }
+  ]
+}

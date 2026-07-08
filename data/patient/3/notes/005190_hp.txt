@@ -1,0 +1,126 @@
+MEMORIAL GENERAL HOSPITAL
+History and Physical — Admission
+
+Patient: O'Brien, Margaret A
+MRN: 10061
+FIN: 005190
+DOB: 05/22/1940
+Date of Service: 03/18/2026
+Admit Date: 03/18/2026 1630
+Attending: Mitchell, Sarah MD
+Service: Orthopedic Surgery
+Author: Torres, David PA-C (cosigned by Mitchell, Sarah MD)
+
+CHIEF COMPLAINT:
+Right hip pain after fall
+
+HISTORY OF PRESENT ILLNESS:
+Ms. O'Brien is an 85-year-old female with history of HFrEF (EF 30%, echo 02/2026), type 2 diabetes, CKD stage 3b, hypertension, and osteoporosis who presents via EMS after a mechanical fall at home this morning. She reports she was walking from her kitchen to the living room with her rolling walker when she tripped on a rug edge and fell onto her right side. She denies head strike, loss of consciousness, chest pain, or shortness of breath at time of fall. She was unable to bear weight on the right leg due to severe groin and hip pain.
+
+In the emergency department she was hemodynamically stable. X-ray of the pelvis and right hip demonstrated a displaced right intertrochanteric femur fracture. Orthopedic surgery was consulted and recommended admission for operative management with intramedullary nail fixation given fracture pattern. Medical hospitalist consulted for preoperative optimization given cardiac and renal comorbidities.
+
+PAST MEDICAL HISTORY:
+- Heart failure with reduced ejection fraction (EF 30% on TTE 02/2026)
+- Type 2 diabetes mellitus, diet and oral agents
+- CKD stage 3b, baseline creatinine ~1.4-1.6
+- Hypertension
+- Osteoporosis
+- Prior admissions: CHF exacerbation 09/2024 (FIN 286450), acute kidney injury 06/2025 (FIN 298776)
+
+PAST SURGICAL HISTORY:
+- Cholecystectomy (remote)
+- Cataract surgery, bilateral
+
+HOME MEDICATIONS:
+- Carvedilol 12.5 mg PO BID
+- Lisinopril 5 mg PO daily
+- Metformin 500 mg PO BID
+- Furosemide 40 mg PO daily
+- Atorvastatin 20 mg PO qHS
+- Alendronate 70 mg PO weekly
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+
+FAMILY HISTORY:
+Father with coronary artery disease. Mother with osteoporosis.
+
+SOCIAL HISTORY:
+Never smoker. No alcohol use. Lives alone in second-floor apartment; son Patrick visits weekly and assists with groceries. Ambulated with rolling walker at baseline. Son contacted by phone and involved in care planning.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss
+HEENT: Denies headache, vision change
+Cardiac: Denies chest pain; mild baseline exertional dyspnea
+Respiratory: No cough or wheeze today
+GI: Denies nausea, vomiting, abdominal pain
+GU: Denies dysuria
+MSK: Right hip pain as above; denies other joint swelling
+Neuro: Denies numbness, weakness aside from inability to bear weight RLE due to pain
+Skin: Denies rash
+Endocrine: Denies polyuria, polydipsia
+
+PHYSICAL EXAM:
+Vitals: T 98.0 F, HR 92, BP 148/76, RR 20, SpO2 93% on room air, Pain 9/10 right hip
+General: Alert, oriented x3, uncomfortable with movement, mild exertional dyspnea at rest
+HEENT: Normocephalic, atraumatic, mucous membranes moist
+Neck: Supple, mild JVD at 30 degrees
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmur, rub, or gallop appreciated
+Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: Soft, non-distended, non-tender, bowel sounds present
+MSK: Right lower extremity shortened and externally rotated. Tenderness to palpation over right hip and groin. No open wounds. 2+ dorsalis pedis and posterior tibial pulses bilaterally. Cap refill < 2 sec. Sensation intact to light touch distally. Unable to perform active ROM right hip due to pain
+Neuro: CN II-XII grossly intact, strength 5/5 left lower extremity, right lower extremity not formally tested due to fracture, no focal deficit
+Skin: Warm, dry, no ecchymosis beyond hip region
+
+LABS / IMAGING REVIEWED:
+CBC: Hgb 10.8 (L)
+BMP: Cr 1.6 (H), albumin 2.9 (L)
+ECG: Sinus rhythm, rate 90, no acute ST changes
+XR pelvis/right hip: Displaced right intertrochanteric fracture
+
+ASSESSMENT AND PLAN:
+Ms. O'Brien is an 85-year-old female with significant cardiac and renal comorbidities admitted with displaced right intertrochanteric hip fracture after mechanical fall.
+
+1. Right intertrochanteric hip fracture (S72.141A)
+   - Orthopedic surgery primary service
+   - Plan for right femur cephalomedullary nail fixation when medically optimized
+   - NPO at midnight for OR pending clearance
+   - DVT prophylaxis per orthopedic protocol with enoxaparin post-op
+   - Pain control: acetaminophen scheduled, opioid PRN avoiding codeine, multimodal approach
+
+2. HFrEF (I50.20)
+   - Continue home carvedilol and lisinopril if BP/renal function permit
+   - Monitor I/O, daily weights, careful fluid management
+   - Hospitalist co-management
+
+3. CKD stage 3b (N18.32)
+   - Baseline creatinine 1.6 on admission
+   - Avoid nephrotoxins, renally dose medications
+   - Monitor renal function closely perioperatively
+
+4. Type 2 diabetes (E11.9)
+   - Hold metformin day of surgery
+   - Accuchecks per protocol
+
+5. Hypertension (I10)
+   - Continue home antihypertensives as tolerated
+
+6. Osteoporosis (M81.0)
+   - Alendronate held during acute fracture management
+
+7. Fall / disposition planning
+   - PT/OT eval post-op
+   - Case management for disposition given lives alone and limited caregiver support
+   - PCP follow-up and referral per discharge planning
+
+Prophylaxis: Pneumoboots, IS when appropriate post-op
+Code status: Full code (confirmed with patient)
+VTE: Per orthopedic anticoagulation pathway
+
+Electronically signed by:
+Torres, David PA-C
+03/18/2026 2045
+
+Cosigned by:
+Mitchell, Sarah MD
+03/18/2026 2110

@@ -1,0 +1,81 @@
+{
+  "patient_id": 33,
+  "mrn": "10113",
+  "fin": "008001",
+  "extracted_at": "2026-07-10T12:00:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-008001-001",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-07-07T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-002",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-07-07T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-003",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-07-07T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-004",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-07-07T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-005",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-07-09T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-006",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Patel, Anjali MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-07-09T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-007",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-07-09T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-008",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated LLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-07-07T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008001-009",
+      "category": "Nursing",
+      "description": "Delirium precautions: reorientation, family presence, minimize sedatives",
+      "status": "Active",
+      "ordered_at": "2026-07-08T08:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005971
+ADMIT DATE: 2026-04-11
+ADMIT TIME: 09:00
+
+ATTENDING: Okonkwo, Chidi MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Melena and weakness.
+
+HISTORY OF PRESENT ILLNESS: Mr. Reeves is an 81-year-old male with history of atrial fibrillation on warfarin, status post left hip intramedullary nail (04/13/2026, FIN 005970). He was discharged home on 04/18. He reports that over the past 2 days he has had black, tarry stools and feels weak and lightheaded. He denies abdominal pain, nausea, or vomiting. He has been taking warfarin 5 mg daily as prescribed. He has not had INR checked recently. He presents to the ED with melena and dizziness.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Osteoporosis (M81.0)
+- Left intertrochanteric femur fracture (S72.141A) – status post IM nail
+
+PAST SURGICAL HISTORY: Left hip IM nail (04/13/2026)
+
+HOME MEDICATIONS:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D 1000 IU PO daily
+- Enoxaparin 40 mg SC daily (completed)
+
+ALLERGIES: Penicillin – hives.
+
+SOCIAL HISTORY: Lives with daughter. Independent.
+
+REVIEW OF SYSTEMS: Positive for melena, weakness, lightheadedness. Negative for chest pain, dyspnea, abdominal pain.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 100/60, HR 92 (irregular), RR 18, Temp 37.0 C, O2 sat 96% on RA.
+General: Pale, alert, oriented.
+Cardiovascular: Tachycardic, irregular rhythm.
+Abdomen: Soft, nontender, normal bowel sounds. Rectal exam: black stool, hemoccult positive.
+Extremities: No edema.
+
+ASSESSMENT/PLAN:
+1. Upper GI bleed (likely warfarin-related) – Admit for monitoring. Hold warfarin. Check INR, CBC, type and cross. Start IV fluids. Consider GI consult for EGD. INR on admission 3.8. Will give vitamin K 10 mg IV and consider FFP if bleeding continues.
+2. Atrial fibrillation – Hold warfarin. Monitor rhythm.
+3. Hypertension – Hold lisinopril if hypotensive.
+
+DISCUSSED WITH: Patient and daughter.
+
+ATTENDING: Okonkwo, Chidi MD
+NPI: 1122334455
+
+SIGNED: Okonkwo, Chidi MD 2026-04-11T10:00:00-06:00

@@ -1,0 +1,86 @@
+MEMORIAL GENERAL HOSPITAL
+Anesthesia Preprocedure Evaluation
+
+Patient: Walsh, Helen M
+MRN: 10052
+FIN: 004960
+DOB: 08/14/1953
+Date of Service: 02/06/2026
+Planned Procedure: Left hip hemiarthroplasty
+Planned OR Time: 02/06/2026 0730
+Location: OR 7 — Main Campus
+
+ANESTHESIOLOGIST:
+Patel, Rina MD
+
+SURGEON:
+Mitchell, Sarah MD
+
+PROCEDURE:
+Left hip hemiarthroplasty for femoral neck fracture
+
+ANESTHESIA PLAN:
+General endotracheal anesthesia
+Arterial line: not planned
+Central line: not planned
+Postoperative disposition: PACU, then floor
+
+ASA CLASS:
+II — mild systemic disease
+
+AIRWAY ASSESSMENT:
+Mallampati I
+Mouth opening normal
+Thyromental distance > 3 fingerbreadths
+Neck ROM limited by hip pain/positioning but adequate for intubation
+Previous intubation: unremarkable per patient (hysterectomy)
+Anticipated airway: routine
+
+NPO STATUS:
+NPO since midnight for solids and clear liquids per protocol
+Last oral intake: 02/05/2026 2200
+
+HOME MEDICATIONS REVIEWED:
+Lisinopril — held morning of surgery
+Calcium carbonate — held morning of surgery
+Cholecalciferol — continued
+
+ALLERGIES:
+No known drug allergies
+Premedication: none required beyond standard surgical antibiotics per surgeon
+
+CARDIAC HISTORY:
+Hypertension, well controlled
+ECG today: normal sinus rhythm, ventricular rate 72, no acute ischemic changes
+Functional capacity: > 4 METs (independent ambulation at baseline prior to fall)
+Active cardiac conditions: none
+
+PULMONARY HISTORY:
+No chronic lung disease, never smoker
+Exam: clear breath sounds, SpO2 99% on room air this morning
+Plan: standard lung-protective ventilation
+
+RENAL:
+Normal renal function, creatinine 0.9
+
+OTHER:
+Osteopenia — calcium/vitamin D supplementation
+Obesity: BMI 24
+
+LABS REVIEWED:
+Hgb 13.2, platelets 245
+BMP within normal limits
+Albumin 3.9
+
+RISK DISCUSSION:
+Risks of general anesthesia discussed including but not limited to dental injury, sore throat, nausea/vomiting, aspiration, and cardiovascular instability. Patient and husband verbalized understanding. Questions answered.
+
+PLAN:
+- General anesthesia with standard ASA monitors
+- Multimodal analgesia
+- Postoperative nausea prophylaxis: ondansetron
+- PONV low risk
+
+Electronically signed by:
+Patel, Rina MD
+02/06/2026 0645

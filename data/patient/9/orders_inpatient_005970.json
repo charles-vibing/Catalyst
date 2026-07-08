@@ -1,0 +1,97 @@
+{
+  "patient_id": 9,
+  "mrn": "10089",
+  "fin": "005970",
+  "extracted_at": "2026-03-17T10:45:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-005970-001",
+      "category": "Medication",
+      "description": "Warfarin 5 mg PO daily (held on admission)",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-03-09T15:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    },
+    {
+      "order_id": "ORD-005970-002",
+      "category": "Medication",
+      "description": "Vitamin K 5 mg PO x1 for INR reversal",
+      "status": "Completed",
+      "ordered_at": "2026-03-09T16:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    },
+    {
+      "order_id": "ORD-005970-003",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-03-10T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-004",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-03-12T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-005",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-03-12T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-006",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-03-12T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-007",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-03-15T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-008",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Miller, Susan MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-03-15T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-009",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-03-15T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-010",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated RLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-03-12T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005970-011",
+      "category": "Medication",
+      "description": "Pantoprazole 40 mg PO daily",
+      "status": "Active",
+      "ordered_at": "2026-03-17T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

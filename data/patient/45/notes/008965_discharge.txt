@@ -1,0 +1,65 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+==============================
+
+Patient Name: ESPINOZA, ROSA C
+MRN: 10125
+DOB: 1937-11-22
+Sex: F
+Encounter FIN: 008965
+
+Admission Date: 2026-08-07
+Discharge Date: 2026-08-11
+
+ADMITTING DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+PRINCIPAL DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+SECONDARY DIAGNOSES:
+- Dementia, Alzheimer's type (F02.80)
+- Age-related osteoporosis (M81.0)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Postoperative delirium (F05)
+
+PROCEDURES:
+Left hip hemiarthroplasty (0SR902A) on 2026-08-08
+
+HOSPITAL COURSE:
+Patient underwent left hip hemiarthroplasty on 04/11 without complications. Postoperatively, she developed acute delirium on POD1 (CAM positive), managed with non-pharmacologic interventions and low-dose haloperidol as needed. PT/OT evaluated and recommended discharge home with home health aide services. Patient's pain controlled, incision clean/dry, and she is able to transfer with assistance. Delirium improved by discharge.
+
+DISCHARGE MEDICATIONS:
+- Donepezil 10 mg daily
+- Cholecalciferol 2000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Acetaminophen 500 mg q6h PRN pain
+- Oxycodone 5 mg q4h PRN breakthrough pain
+- Senna 8.6 mg BID PRN constipation
+- Haloperidol 0.5 mg q6h PRN agitation (weaning)
+
+DISCHARGE DISPOSITION:
+Home with home health aide (HHA) services (code 06)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Garcia): 2026-08-17
+- Orthopedic clinic: 2026-08-25
+
+HOME HEALTH SERVICES:
+- Home Health Care of Springfield: nursing evaluation, PT, aide services
+
+DME:
+- Walker
+- Toilet riser
+
+TEAM BENEFICIARY NOTIFICATION: Provided to patient and daughter on 2026-08-10.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+Memorial General Hospital
+Date/Time: 2026-08-11 09:00 CST

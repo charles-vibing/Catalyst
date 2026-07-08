@@ -1,0 +1,41 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Kaczmarek, Walter S
+MRN: 10103
+FIN: 007101
+DOB: 1944-09-12
+SEX: M
+
+DATE OF EVALUATION: 2026-05-22
+
+PROCEDURE: Left hip intramedullary nail (CPT 27245)
+
+SURGEON: Mitchell, James MD
+
+HISTORY: 81-year-old male with atrial fibrillation, hypertension, diabetes, hyperlipidemia. Admitted 3/21 for left intertrochanteric fracture. Warfarin held, vitamin K given. INR rechecked: 1.4 today. No other significant changes.
+
+MEDICATIONS: Metoprolol, lisinopril, metformin held today, atorvastatin.
+
+ALLERGIES: Sulfonamides.
+
+PHYSICAL EXAMINATION:
+BP 136/76, HR 76 (irregular), RR 14, Temp 36.7 C, O2 sat 98%.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY:
+- INR: 1.4 (34714-6)
+- Hemoglobin: 12.0 g/dL (718-7)
+- Creatinine: 1.1 mg/dL (2160-0)
+- Albumin: 3.5 g/dL (1751-7)
+
+ASA CLASS: III
+
+PLAN: General anesthesia with endotracheal intubation. Invasive arterial line for blood pressure monitoring. Type and cross for 2 units PRBCs available. Antibiotic prophylaxis: cefazolin 2 g IV (no sulfa allergy).
+
+ELECTRONICALLY SIGNED:
+Patel, Anita MD
+Anesthesiology
+2026-05-22 06:30

@@ -1,0 +1,47 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Kaminski, Thelma J
+MRN: 10111
+DOB: 1953-07-14
+SEX: F
+FIN: 007841
+
+DATE OF EVALUATION: 2026-07-02 06:30:00 CST
+
+PROCEDURE: Right hip hemiarthroplasty (CPT 27125)
+SURGEON: Mitchell, James MD
+
+HISTORY:
+72-year-old female with HTN and osteoporosis. No prior surgeries. No cardiac or pulmonary disease. No bleeding disorders. No anticoagulant use.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held today)
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+ALLERGIES: Penicillin (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA (pre-op):
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.8 mg/dL
+- Albumin: 4.0 g/dL
+- INR: 1.0 (34714-6)
+
+ASA CLASS: II (mild systemic disease, HTN controlled)
+
+PLAN:
+- Spinal anesthesia with sedation preferred.
+- Antibiotic prophylaxis: Cefazolin 2 g IV within 60 minutes of incision.
+- Standard monitors.
+- Post-op pain: multimodal including acetaminophen, hydromorphone PRN.
+
+ELECTRONICALLY SIGNED:
+Patel, Priya MD
+Anesthesiology
+2026-07-02 06:45:00 CST

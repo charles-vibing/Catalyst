@@ -1,0 +1,43 @@
+{
+  "patient_id": 13,
+  "mrn": "10093",
+  "fin": "006291",
+  "extracted_at": "2026-03-29T16:00:00-06:00",
+  "source": "EPIC_ADMISSION_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, Laura MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "198447",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "prescriber": "Williams, Laura MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "vitamin D3",
+      "name_display": "Vitamin D3 1000 IU capsule",
+      "rxnorm": "1116634",
+      "sig": "Take 1 capsule (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, Laura MD"
+    }
+  ]
+}

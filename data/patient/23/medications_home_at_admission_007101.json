@@ -1,0 +1,58 @@
+{
+  "patient_id": 23,
+  "mrn": "10103",
+  "fin": "007101",
+  "extracted_at": "2026-05-19T15:00:00-06:00",
+  "source": "EPIC_MEDICATION_RECONCILIATION",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "warfarin",
+      "name_display": "Warfarin 5 mg tablet",
+      "rxnorm": "11289",
+      "sig": "Take 1 tablet (5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home medication",
+      "indication": "Atrial fibrillation",
+      "prescriber": "Harper, Linda MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home medication",
+      "indication": "Hypertension",
+      "prescriber": "Harper, Linda MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "metformin",
+      "name_display": "Metformin 500 mg tablet",
+      "rxnorm": "861007",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Home medication",
+      "indication": "Type 2 diabetes",
+      "prescriber": "Harper, Linda MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Home medication",
+      "indication": "Hyperlipidemia",
+      "prescriber": "Harper, Linda MD"
+    }
+  ]
+}

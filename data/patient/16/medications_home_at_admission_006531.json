@@ -1,0 +1,46 @@
+{
+  "patient_id": 16,
+  "mrn": "10096",
+  "fin": "006531",
+  "extracted_at": "2026-04-14T15:30:00-06:00",
+  "source": "EPIC_MEDICATION_HISTORY",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Hypertension",
+      "prescriber": "Harper, Lisa MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "198440",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "indication": "Osteoporosis",
+      "prescriber": "Harper, Lisa MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "vitamin D3",
+      "name_display": "Vitamin D3 1000 IU capsule",
+      "rxnorm": "1298808",
+      "sig": "Take 1 capsule (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Osteoporosis",
+      "prescriber": "Harper, Lisa MD"
+    }
+  ]
+}

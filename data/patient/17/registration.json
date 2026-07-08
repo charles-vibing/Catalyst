@@ -1,0 +1,34 @@
+{
+  "patient_id": 17,
+  "mrn": "10097",
+  "name": {
+    "family": "Sullivan",
+    "given": "Vincent",
+    "middle": "P"
+  },
+  "birth_date": "1940-08-22",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1925 W Lawrence Ave",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "Mary Sullivan",
+    "relationship": "Daughter",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "1234567899",
+    "name": "Garcia, Elena MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000097"
+  }
+}

@@ -1,0 +1,31 @@
+MEMORIAL GENERAL HOSPITAL
+Radiology Report
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005380
+DOB: 05/15/1938
+Exam Date: 04/08/2026 1545
+Accession: RAD-2026-005380-01
+
+EXAM:
+XR PELVIS AND LEFT HIP 2-3 VIEWS
+
+CLINICAL HISTORY:
+Fall at home. Left hip pain. Unable to bear weight.
+
+TECHNIQUE:
+AP pelvis and cross-table lateral left hip.
+
+COMPARISON:
+None available.
+
+FINDINGS:
+There is a displaced midcervical fracture of the left femoral neck. Femoral head is normally seated in the acetabulum. Right hip appears intact without acute fracture. Sacroiliac joints and pubic symphysis are aligned. Osteopenic bone density noted.
+
+IMPRESSION:
+Displaced left femoral neck fracture.
+
+Electronically signed by:
+Hartman, Lisa MD
+04/08/2026 1610

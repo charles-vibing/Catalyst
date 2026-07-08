@@ -1,0 +1,74 @@
+MEMORIAL GENERAL HOSPITAL
+Operative Report
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005380
+DOB: 05/15/1938
+Date of Service: 04/09/2026
+Location: OR 5 — Main Campus
+
+PREOPERATIVE DIAGNOSIS:
+Left femoral neck hip fracture
+
+POSTOPERATIVE DIAGNOSIS:
+Left femoral neck hip fracture
+
+PROCEDURE PERFORMED:
+Left hip hemiarthroplasty (CPT 27125)
+
+SURGEON:
+Henderson, Michael MD
+
+ASSISTANT:
+Torres, David PA-C
+
+ANESTHESIA:
+General endotracheal anesthesia
+
+ANESTHESIOLOGIST:
+Patel, Rina MD
+
+EBL:
+200 mL
+
+DRAINS:
+None
+
+SPECIMENS:
+None
+
+COMPLICATIONS:
+None
+
+INDICATIONS:
+Ms. Kim is an 88-year-old female with a displaced left femoral neck fracture after a mechanical fall at home. Given fracture pattern, patient age, dementia, and functional status, she was indicated for operative fixation with hemiarthroplasty. Risks, benefits, and alternatives were discussed with the patient and son by phone. Informed consent was obtained.
+
+FINDINGS:
+Displaced unstable midcervical fracture of the left femoral neck. Cartilage of the acetabulum intact. Osteopenic bone. No evidence of pathologic fracture. Soft tissues without gross purulence.
+
+DESCRIPTION OF PROCEDURE:
+The patient was brought to the operating room and placed supine on the fracture table. After successful induction of general anesthesia, a timeout was performed confirming correct patient, site (left hip), procedure, and implants. The left lower extremity was prepped and draped in standard sterile fashion. Prophylactic IV cefazolin was administered prior to incision per hospital protocol.
+
+A standard posterolateral approach to the hip was used. The fascia lata was incised and the gluteus maximus was split. The short external rotators were identified and tagged for later repair. A capsulotomy was performed.
+
+The femoral head and neck fragment were mobilized and removed. The fracture site was irrigated and debrided of hematoma. The acetabulum was inspected and found to be without significant arthritis.
+
+The femur was prepared with sequential reaming and broaching. A trial femoral component was placed and range of motion and stability were assessed with satisfactory reduction and no impingement through a functional arc of motion.
+
+The definitive femoral implant (cementless bipolar hemiarthroplasty, size 9 stem, 44 mm head) was inserted and seated without difficulty. Final range of motion testing demonstrated stable reduction. Limb length was assessed and found to be appropriate compared to the contralateral side.
+
+The wound was irrigated copiously with normal saline. The short external rotators were repaired through bone tunnels. The fascia and subcutaneous tissues were closed in layers with absorbable suture. Skin was closed with staples. A sterile dressing was applied.
+
+The patient was extubated in the operating room and transferred to the PACU in stable condition tolerating the procedure well.
+
+IMPLANTS:
+Femoral stem — manufacturer catalog per implant log #IMPL-2026-0409-005380
+Bipolar head 44 mm
+
+DISPOSITION:
+PACU
+
+Electronically signed by:
+Henderson, Michael MD
+04/09/2026 1145

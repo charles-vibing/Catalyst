@@ -1,0 +1,30 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Sullivan, Vincent P
+MRN: 10097
+DOB: 1940-08-22
+SEX: M
+FIN: 006611
+
+EXAM: XR RIGHT HIP 3 VIEWS
+ACCESSION: RAD-2026-006611-01
+ORDERING PROVIDER: Mitchell, David MD (NPI: 1234567890)
+
+CLINICAL INDICATION: Mechanical fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: Three views of the right hip.
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the right femur. The fracture extends from the greater trochanter to the lesser trochanter with slight comminution. There is approximately 5 mm of shortening and mild varus angulation. The femoral head appears intact. No evidence of pathologic fracture. Joint spaces are preserved. No other acute osseous abnormalities.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical fixation.
+
+SIGNED:
+Hartman, Lisa MD (NPI: 1234567895)
+Radiologist
+Date/Time: 2026-04-19 15:00

@@ -1,0 +1,28 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Kapoor, Naomi S
+MRN: 10113
+DOB: 1937-11-22
+SEX: F
+ENCOUNTER FIN: 008002
+
+EXAM: CHEST X-RAY
+ACCESSION: RAD-2026-008002-01
+EXAM DATE: 2026-07-18
+EXAM TIME: 16:30
+
+CLINICAL INDICATION: Fever, confusion; rule out pneumonia.
+
+FINDINGS:
+The cardiomediastinal silhouette is normal. No focal consolidation, effusion, or pneumothorax. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION:
+No acute cardiopulmonary abnormality.
+
+ELECTRONICALLY SIGNED:
+Hartman, Laura MD (Radiology)
+NPI: 1122334455
+Date/Time: 2026-07-18 17:00

@@ -1,0 +1,34 @@
+{
+  "patient_id": 44,
+  "mrn": "10124",
+  "name": {
+    "family": "Tanaka",
+    "given": "Stuart",
+    "middle": "Y"
+  },
+  "birth_date": "1940-06-15",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "2600 Chatham Road Apt 14",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0142",
+  "phone_mobile": "555-0142",
+  "emergency_contact": {
+    "name": "Linda Tanaka",
+    "relationship": "Daughter",
+    "phone": "555-0192"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, Sarah MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000124"
+  }
+}

@@ -1,0 +1,58 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient: Mehta, Calvin V
+MRN: 10118
+DOB: 1945-03-12
+Sex: M
+Encounter FIN: 008405
+Admission Date: 2026-08-13
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Melena and weakness.
+
+HISTORY OF PRESENT ILLNESS: Mr. Mehta is an 81-year-old male with history of atrial fibrillation on warfarin, hypertension, and recent left hip hemiarthroplasty (2026-07-21, discharged 2026-07-24) who presents with two days of black, tarry stools and progressive weakness. He denies abdominal pain, nausea, vomiting, or hematemesis. He has been taking warfarin as prescribed. He reports no recent NSAID use. He has not yet seen his PCP since discharge. On arrival, BP 88/50, HR 110, Hgb 7.2.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Age-related osteoporosis (M81.0)
+- Left intertrochanteric femur fracture s/p hemiarthroplasty (March 2026)
+
+MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Calcium + Vitamin D
+
+ALLERGIES: Penicillins – rash.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 88/50, HR 110 (irregular), RR 18, Temp 36.5 C, O2 sat 95% RA.
+General: Pale, fatigued.
+HEENT: Mucous membranes dry.
+Cardiovascular: Tachycardic, irregularly irregular.
+Abdomen: Soft, nontender, bowel sounds hyperactive. No rebound or guarding.
+Rectal: Black, tarry stool, hemoccult positive.
+Extremities: Cool, capillary refill 3 seconds.
+
+LABORATORY DATA:
+- Hgb: 7.2 g/dL (down from 10.8 at discharge)
+- INR: 3.5 (supratherapeutic)
+- Creatinine: 1.3 mg/dL
+- BUN: 45 mg/dL
+
+ASSESSMENT/PLAN:
+Upper GI bleed likely secondary to warfarin. Plan:
+1. Hold warfarin.
+2. IV fluids resuscitation.
+3. Type and cross for 2 units PRBCs.
+4. IV Vitamin K 10 mg now.
+5. Urgent gastroenterology consult for EGD.
+6. Monitor Hgb and INR.
+7. Consider PPI infusion.
+
+Okonkwo, Chidi MD
+NPI: 9988776655
+Electronically signed on 2026-08-13 10:00.

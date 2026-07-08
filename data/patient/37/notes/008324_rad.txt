@@ -1,0 +1,32 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+============================================================
+
+PATIENT: Sokol, Renata K
+MRN: 10117
+DOB: 1951-08-22
+SEX: F
+FIN: 008324
+
+EXAM DATE: 2026-07-17
+EXAM TIME: 13:15
+ACCESSION: RAD-2026-008324-01
+
+EXAMINATION: LEFT FEMUR X-RAY (2 VIEWS)
+
+CLINICAL INDICATION: Ground-level fall, left thigh pain, unable to bear weight.
+
+FINDINGS:
+There is a displaced transverse fracture of the left femoral shaft at the mid-diaphysis. There is approximately 2 cm of shortening and mild angulation. No comminution. The femoral head and neck are intact. The knee joint is unremarkable.
+
+IMPRESSION:
+Displaced transverse fracture of the left femoral shaft (S72.301A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical fixation.
+
+ELECTRONICALLY SIGNED:
+Hartman, Laura MD
+Radiology
+2026-07-17 14:00

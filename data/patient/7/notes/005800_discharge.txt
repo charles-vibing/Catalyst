@@ -1,0 +1,57 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Nguyen, Patricia L
+MRN: 10087
+DOB: 1948-09-12
+SEX: F
+FIN: 005800
+
+ADMIT DATE: 2026-02-27
+DISCHARGE DATE: 2026-03-03
+ATTENDING: Okonkwo, Chukwudi MD
+
+ADMITTING DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL PROCEDURE:
+Right hip hemiarthroplasty (0SRB02A) on 2026-02-28
+
+DISCHARGE DIAGNOSES:
+1. Displaced right intertrochanteric femur fracture (S72.141A)
+2. Atrial fibrillation (I48.91)
+3. Essential hypertension (I10)
+4. Osteoporosis (M81.0)
+
+HOSPITAL COURSE:
+Patient admitted after mechanical fall. Underwent right hip hemiarthroplasty on 03/21. Post-operative course uncomplicated. Warfarin restarted on POD#2 with INR 1.2. Pain controlled with oral analgesics. PT/OT evaluated and patient ambulated with walker. Discharged home with daughter.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D 1000 IU PO daily
+
+DISCHARGE MEDICATIONS:
+- Warfarin 5 mg PO daily (resume)
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D 1000 IU PO daily
+- Acetaminophen 500 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+- Enoxaparin 40 mg SC daily x 14 days (for DVT prophylaxis)
+
+DISCHARGE DISPOSITION:
+Home (01) with daughter.
+
+FOLLOW-UP APPOINTMENTS:
+- PCP: Dr. James Williams, 2026-03-09 09:00
+- Orthopedic surgery: Dr. Sarah Mitchell, 2026-03-16
+
+TEAM BENEFICIARY NOTIFICATION:
+Provided and signed on 2026-03-02.
+
+SIGNED:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-03-03 10:00 CST

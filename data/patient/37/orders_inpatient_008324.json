@@ -1,0 +1,105 @@
+{
+  "patient_id": 37,
+  "mrn": "10117",
+  "fin": "008324",
+  "extracted_at": "2026-07-21T12:00:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-008324-001",
+      "category": "Medication",
+      "description": "Carbidopa-Levodopa 25-100 mg PO TID",
+      "status": "Continued at discharge",
+      "ordered_at": "2026-07-17T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-002",
+      "category": "Medication",
+      "description": "Lisinopril 10 mg PO daily",
+      "status": "Continued at discharge",
+      "ordered_at": "2026-07-17T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-003",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-07-18T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-004",
+      "category": "Medication",
+      "description": "Enoxaparin 40 mg subcut daily",
+      "status": "Active at discharge",
+      "ordered_at": "2026-07-20T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-005",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-07-18T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-006",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-07-18T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-007",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-07-18T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-008",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-07-20T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-009",
+      "category": "Referral",
+      "description": "Primary care follow-up - Patel, Ravi MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-07-20T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-010",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-07-20T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-011",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated left lower extremity with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-07-18T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008324-012",
+      "category": "Referral",
+      "description": "Inpatient Rehabilitation Facility admission - Prairie View Rehabilitation Hospital",
+      "status": "Active",
+      "ordered_at": "2026-07-20T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

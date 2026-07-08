@@ -1,0 +1,35 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008162
+DOB: 1940-03-12
+Sex: F
+
+Date of Surgery: 2026-07-13
+Surgeon: Mitchell, James MD
+Anesthesiologist: Patel, Raj MD
+
+PREOPERATIVE DIAGNOSIS: Displaced left subtrochanteric femur fracture (S72.211A)
+
+POSTOPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left femur intramedullary nail (cephalomedullary) (ICD-10-PCS 0QS706Z, CPT 27245)
+
+ANESTHESIA: General endotracheal
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+INDICATIONS: 86-year-old female with displaced left subtrochanteric femur fracture after fall.
+
+DESCRIPTION OF PROCEDURE: After induction of general anesthesia, the patient was positioned supine on a fracture table. Closed reduction was performed under fluoroscopic guidance. A small incision was made over the greater trochanter. Guidewire placed and confirmed. Reaming performed. A 10 mm x 380 mm cephalomedullary nail was inserted and locked proximally and distally with screws. Final fluoroscopy showed excellent alignment and implant position. Wound irrigated and closed in layers. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct.
+
+Electronically signed by:
+Mitchell, James MD
+Orthopedic Surgery
+2026-07-13 12:30

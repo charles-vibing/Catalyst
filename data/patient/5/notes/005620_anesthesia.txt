@@ -1,0 +1,88 @@
+MEMORIAL GENERAL HOSPITAL
+Anesthesia Preprocedure Evaluation
+
+Patient: Porter, James L
+MRN: 10085
+FIN: 005620
+DOB: 04/22/1947
+Date of Service: 05/09/2026
+Planned Procedure: Right hip ORIF
+Planned OR Time: 05/09/2026 0730
+Location: OR 7 — Main Campus
+
+ANESTHESIOLOGIST:
+Patel, Rina MD
+
+SURGEON:
+Mitchell, Sarah MD
+
+PROCEDURE:
+Open reduction and internal fixation of right intertrochanteric femur fracture
+
+ANESTHESIA PLAN:
+General endotracheal anesthesia
+Arterial line: not planned
+Central line: not planned
+Postoperative disposition: PACU, then floor
+
+ASA CLASS:
+III — severe systemic disease
+
+AIRWAY ASSESSMENT:
+Mallampati II
+Mouth opening normal
+Thyromental distance > 3 fingerbreadths
+Neck ROM adequate for intubation
+Previous intubation: unremarkable per patient (inguinal hernia repair)
+Anticipated airway: routine
+
+NPO STATUS:
+NPO since midnight for solids and clear liquids per protocol
+Last oral intake: 05/08/2026 2200
+
+HOME MEDICATIONS REVIEWED:
+Aspirin — held since admission per orthopedic/hemostasis protocol; last dose 05/08/2026 AM
+Lisinopril — held morning of surgery
+Tiotropium — continued
+Albuterol — available PRN
+Atorvastatin — continued
+
+ALLERGIES:
+Codeine (nausea and vomiting)
+Premedication: none required beyond standard surgical antibiotics per surgeon
+
+CARDIAC HISTORY:
+Hypertension
+ECG today: normal sinus rhythm, ventricular rate 78, no acute ischemic changes
+Functional capacity: ~4 METs (limited by COPD at baseline, now non-ambulatory due to fracture)
+Active cardiac conditions: stable hypertension
+
+PULMONARY HISTORY:
+COPD, no home oxygen, former smoker
+Exam: diminished breath sounds, scattered expiratory wheeze, SpO2 94% on room air this morning
+Plan: avoid excessive opioids, bronchodilator PRN, lung-protective ventilation
+
+RENAL:
+Creatinine 1.0, within normal limits
+
+OTHER:
+Obesity: BMI 26
+
+LABS REVIEWED:
+Hgb 12.1, platelets 225
+INR 1.0, PT 12.1
+BMP within normal limits
+
+RISK DISCUSSION:
+Risks of general anesthesia discussed including but not limited to dental injury, sore throat, nausea/vomiting, aspiration, cardiovascular instability, respiratory complications, and need for postoperative ventilation (low likelihood). Patient and wife verbalized understanding. Questions answered.
+
+PLAN:
+- General anesthesia with standard ASA monitors
+- Careful fluid management
+- Multimodal analgesia
+- Postoperative nausea prophylaxis: ondansetron
+- PONV moderate risk
+
+Electronically signed by:
+Patel, Rina MD
+05/09/2026 0645

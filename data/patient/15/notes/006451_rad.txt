@@ -1,0 +1,27 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient Name: MILLER, SUSAN A
+MRN: 10095
+DOB: 1955-06-12
+Sex: F
+FIN: 006451
+Date of Service: 2026-04-08
+Accession: RAD-2026-006451-01
+
+EXAMINATION: XR RIGHT FEMUR 2 VIEWS
+
+CLINICAL HISTORY: 70-year-old female with ground-level fall, right thigh pain, unable to bear weight.
+
+TECHNIQUE: AP and lateral views of the right femur.
+
+FINDINGS: There is a comminuted, displaced fracture of the midshaft of the right femur. The fracture is angulated laterally. No intra-articular extension. No other acute abnormalities.
+
+IMPRESSION: Displaced comminuted fracture of the right femoral shaft (S72.301A).
+
+---
+
+Electronically signed by:
+Hartman, David MD
+Radiology
+2026-04-08 15:45

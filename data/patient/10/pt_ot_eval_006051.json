@@ -1,0 +1,33 @@
+{
+  "patient_id": 10,
+  "mrn": "10090",
+  "fin": "006051",
+  "extracted_at": "2026-03-17T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-03-16",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently in community; lives alone in 3rd-floor walkup apartment",
+    "current_mobility": "Ambulated 50 feet with front-wheeled walker and contact guard assist",
+    "weight_bearing": "Weight bearing as tolerated left lower extremity",
+    "stairs": "Not attempted due to safety concerns; patient lives on 3rd floor without elevator",
+    "recommendation": "Discharge home with walker and home health PT for safety and stair training; home safety evaluation recommended",
+    "goals": [
+      "Ambulate 150 feet with walker and standby assist",
+      "Safe transfers bed-chair-toilet",
+      "Ascend/descend 3 steps with rail and standby assist"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-03-16",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Modified independent ADLs with adaptive equipment at bedside",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher",
+      "Shower chair"
+    ],
+    "home_safety": "Patient lives alone in 3rd-floor walkup; no elevator. Recommend home safety evaluation and HHA assistance for bathing and meal preparation."
+  }
+}

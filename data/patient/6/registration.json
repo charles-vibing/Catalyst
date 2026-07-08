@@ -1,0 +1,34 @@
+{
+  "patient_id": 6,
+  "mrn": "10086",
+  "name": {
+    "family": "Ortiz",
+    "given": "Raymond",
+    "middle": "A"
+  },
+  "birth_date": "1940-03-15",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1640 Prairie View Road",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702"
+  },
+  "phone_home": "555-0106",
+  "phone_mobile": "555-0106",
+  "emergency_contact": {
+    "name": "Sarah Ortiz",
+    "relationship": "Daughter",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Harris, Linda MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000086"
+  }
+}

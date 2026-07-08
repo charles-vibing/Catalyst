@@ -1,0 +1,47 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+================================================================================
+
+PATIENT: Whitfield, Eleanor M
+MRN: 10091
+DOB: 1934-08-22
+SEX: F
+ENCOUNTER FIN: 006131
+EVALUATION DATE: 2026-03-20
+
+PROCEDURE: Right hip hemiarthroplasty
+
+HISTORY:
+91-year-old female with hypertension and osteoporosis. Admitted for right intertrochanteric femur fracture s/p fall.
+
+ALLERGIES: Sulfa (rash)
+
+MEDICATIONS: Lisinopril 10 mg daily, Vitamin D3 1000 IU daily, Calcium 500 mg BID.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 136/80, HR 84, RR 14, Temp 36.7 C, O2 sat 98% RA.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation.
+
+LABORATORY DATA (2026-03-19):
+- Hemoglobin: 12.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+- Sodium: 140 mEq/L
+- Potassium: 4.0 mEq/L
+- INR: 1.0
+
+ASA CLASS: III (severe systemic disease - age 91, hypertension)
+
+PLAN:
+General anesthesia with endotracheal intubation. Consider regional adjunct. Standard monitoring. Type and cross for 2 units PRBCs available.
+
+---
+
+ELECTRONICALLY SIGNED:
+Patel, Ravi MD
+Anesthesiology
+Memorial General Hospital
+2026-03-20 06:30:00 -06:00

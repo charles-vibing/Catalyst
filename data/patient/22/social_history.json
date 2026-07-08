@@ -1,0 +1,18 @@
+{
+  "patient_id": 22,
+  "mrn": "10102",
+  "extracted_at": "2026-05-14T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives with spouse in single-story home; spouse is primary caregiver",
+  "functional_baseline": "Independent with ambulation using cane; needs assistance with stairs",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

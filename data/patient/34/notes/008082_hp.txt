@@ -1,0 +1,61 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Gable, Luther H
+MRN: 10114
+DOB: 1946-08-22
+SEX: M
+ENCOUNTER FIN: 008082
+ADMIT DATE: 2026-07-09
+
+ATTENDING: Okonkwo, Chiamaka MD
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Mr. Gable is a 79-year-old male with history of COPD and hypertension who presents after a ground-level fall at home earlier today. He slipped on a rug and landed on his right side, immediately experiencing severe right hip pain and inability to bear weight. He was brought to the ED by his daughter. Imaging reveals a displaced right intertrochanteric femur fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Chronic obstructive pulmonary disease (J44.9)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS:
+- Tiotropium 18 mcg inhaled daily
+- Albuterol 90 mcg inhaler PRN
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfa drugs (rash)
+
+SOCIAL HISTORY: Lives with spouse in single-family home. Spouse is primary caregiver. Retired factory worker. No tobacco use for 20 years, prior 30 pack-year history. Occasional alcohol.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, shortness of breath, fever, or chills.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88, RR 16, Temp 36.8 C, O2 sat 96% on room air.
+General: Alert, oriented, in moderate distress.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right lower extremity shortened and externally rotated. Pain with any movement of right hip. Distal pulses intact. Left lower extremity normal.
+Neurologic: Grossly intact.
+
+LABORATORY DATA:
+- Albumin: 3.5 g/dL (1751-7)
+- Hemoglobin: 13.2 g/dL (718-7)
+- Creatinine: 1.0 mg/dL (2160-0)
+- WBC: 8.5 K/uL (6690-2)
+- Platelets: 220 K/uL (777-3)
+- Sodium: 140 mmol/L (2951-2)
+- Potassium: 4.2 mmol/L (2823-3)
+
+ASSESSMENT/PLAN:
+79-year-old male with displaced right intertrochanteric femur fracture. Plan for open reduction internal fixation (ORIF) tomorrow morning. Continue home medications. Hold lisinopril morning of surgery. Pulmonary consult for COPD optimization. DVT prophylaxis with enoxaparin. Pain management with acetaminophen and hydromorphone as needed.
+
+SIGNED: Okonkwo, Chiamaka MD
+Hospitalist
+Memorial General Hospital
+2026-07-09 18:00

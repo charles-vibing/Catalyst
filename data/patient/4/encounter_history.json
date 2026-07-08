@@ -1,0 +1,64 @@
+{
+  "patient_id": 4,
+  "extracted_at": "2026-02-25T14:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "298441",
+      "admit_datetime": "2025-10-06T09:30:00-06:00",
+      "discharge_datetime": "2025-10-06T16:45:00-06:00",
+      "patient_class": "Outpatient Surgery",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Physician Referral",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "4455667788",
+      "attending": "Nair, Priya MD",
+      "principal_diagnosis_icd10": "F03.90",
+      "principal_diagnosis": "Unspecified dementia without behavioral disturbance",
+      "ms_drg": null,
+      "length_of_stay_days": 0
+    },
+    {
+      "fin": "005380",
+      "admit_datetime": "2026-02-11T16:30:00-06:00",
+      "discharge_datetime": "2026-02-15T10:45:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "06",
+      "discharge_disposition": "Home with home health services",
+      "attending_npi": "1345678901",
+      "attending": "Henderson, Michael MD",
+      "principal_diagnosis_icd10": "S72.032A",
+      "principal_diagnosis": "Displaced midcervical fracture of left femur, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-02-12",
+          "description": "Replacement of left hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SR902A",
+          "cpt": "27125"
+        }
+      ]
+    },
+    {
+      "fin": "005395",
+      "admit_datetime": "2026-02-23T07:30:00-06:00",
+      "discharge_datetime": "2026-02-25T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "06",
+      "discharge_disposition": "Home with home health services",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "N39.0",
+      "principal_diagnosis": "Urinary tract infection, site not specified",
+      "ms_drg": "690",
+      "length_of_stay_days": 2,
+      "ed_visit_datetime": "2026-02-23T06:45:00-06:00"
+    }
+  ]
+}

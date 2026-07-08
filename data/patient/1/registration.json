@@ -1,0 +1,34 @@
+{
+  "patient_id": 1,
+  "mrn": "10048",
+  "name": {
+    "family": "Chen",
+    "given": "Robert",
+    "middle": "M"
+  },
+  "birth_date": "1943-11-08",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "742 Oak Lane",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0148",
+  "phone_mobile": "555-0148",
+  "emergency_contact": {
+    "name": "Lisa Chen",
+    "relationship": "Daughter",
+    "phone": "555-0149"
+  },
+  "primary_care_provider": {
+    "npi": "1122334455",
+    "name": "Rivera, Ana MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000048"
+  }
+}

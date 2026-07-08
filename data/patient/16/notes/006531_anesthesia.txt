@@ -1,0 +1,43 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+
+PATIENT: Kowalski, Ruth E.
+MRN: 10096
+DOB: 1954-03-22
+SEX: F
+FIN: 006531
+
+DATE OF EVALUATION: 2026-04-15
+
+PROCEDURE: Left hip hemiarthroplasty
+
+HISTORY:
+72-year-old female with hypertension and osteoporosis. No prior surgeries. No cardiac or pulmonary disease. No history of DVT/PE. No bleeding disorders.
+
+MEDICATIONS: Lisinopril 10 mg daily (held this morning), cholecalciferol, calcium.
+
+ALLERGIES: Sulfonamides (rash).
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati class I, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear.
+
+VITAL SIGNS:
+BP 132/80, HR 72, RR 14, Temp 36.7 C, O2 sat 99%.
+
+LABORATORY DATA (2026-04-14):
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+- INR: 1.0
+
+ASA CLASS: II
+
+PLAN:
+Spinal anesthesia with sedation. Pre-operative antibiotic: Cefazolin 2 g IV (no sulfa allergy). Continue lisinopril post-operatively. DVT prophylaxis with enoxaparin per protocol.
+
+ELECTRONICALLY SIGNED:
+Patel, Anika MD
+Anesthesiology
+2026-04-15T07:00:00-06:00

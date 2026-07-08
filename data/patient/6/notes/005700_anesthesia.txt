@@ -1,0 +1,39 @@
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005700
+
+DATE: 2026-02-24 06:30
+PROCEDURE: Left hip intramedullary nail (IM nail)
+SURGEON: Mitchell, David MD
+ANESTHESIOLOGIST: Patel, Ravi MD
+
+HISTORY:
+86-year-old male with T2DM, PVD, CKD 3b, HTN, HLD. No prior surgeries. No known anesthetic complications.
+
+ALLERGIES: Sulfonamides.
+
+MEDICATIONS: Metformin, glipizide, atorvastatin, lisinopril. Aspirin held.
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear.
+
+LABORATORY DATA (pre-op):
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 1.8 mg/dL
+- INR: 1.1 (normal)
+
+ASA CLASS: III
+
+PLAN:
+Spinal anesthesia with sedation. Antibiotic prophylaxis: cefazolin 2 g IV (no sulfa allergy).
+
+CONSENT OBTAINED.
+
+SIGNED: Patel, Ravi MD
+DATE/TIME: 2026-02-24 07:00

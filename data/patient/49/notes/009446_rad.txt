@@ -1,0 +1,24 @@
+MEMORIAL GENERAL HOSPITAL
+
+RADIOLOGY REPORT
+
+PATIENT: Ho, Gretchen W
+MRN: 10129
+DOB: 1951-09-22
+SEX: F
+FIN: 009446
+
+EXAM: XR RIGHT FEMUR 2 VIEWS
+ACCESSION: RAD-2026-009446-01
+DATE/TIME: 2026-08-17 15:00
+
+INDICATION: Ground-level fall, right thigh pain, unable to bear weight.
+
+FINDINGS: There is a comminuted transverse fracture of the mid right femoral shaft with mild displacement and angulation. No intra-articular extension. No other acute fractures. Osteopenia noted.
+
+IMPRESSION: Acute displaced mid femoral shaft fracture, right.
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiology
+2026-08-17 15:30

@@ -1,0 +1,55 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+==============================
+
+Patient Name: Tanaka, Stuart Y
+MRN: 10124
+DOB: 1940-06-15
+Sex: M
+FIN: 008885
+
+Date of Evaluation: 2026-08-06
+
+Scheduled Procedure: Right hip cephalomedullary nail fixation (CPT 27245)
+
+Surgeon: Mitchell, James MD (Orthopedic Surgery)
+
+Anesthesiologist: Patel, Ravi MD
+
+HISTORY:
+85-year-old male with HFrEF, CKD 3a, diabetes, hypertension. No prior surgeries. No known difficult airway. No history of malignant hyperthermia.
+
+MEDICATIONS:
+- Lisinopril 10 mg daily (held today)
+- Metoprolol succinate 50 mg daily (taken)
+- Furosemide 40 mg daily (held)
+- Metformin 500 mg BID (held)
+- Atorvastatin 20 mg daily (taken)
+
+ALLERGIES:
+Sulfonamides (rash)
+
+PHYSICAL EXAMINATION:
+Vitals: BP 130/80, HR 78, RR 14, Temp 36.9 C, O2 sat 97% RA.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA (2026-08-04):
+- Albumin: 3.0 g/dL
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 1.8 mg/dL
+- Sodium: 138 mEq/L
+- Potassium: 4.2 mEq/L
+- INR: 1.1
+
+ASA CLASS: III
+
+PLAN:
+General anesthesia with endotracheal intubation. Invasive arterial line monitoring. Type and cross for 2 units PRBCs. Avoid nephrotoxins. Maintain euvolemia.
+
+
+Electronically signed:
+Patel, Ravi MD
+2026-08-06 06:30

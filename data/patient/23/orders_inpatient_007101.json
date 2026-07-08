@@ -1,0 +1,89 @@
+{
+  "patient_id": 23,
+  "mrn": "10103",
+  "fin": "007101",
+  "extracted_at": "2026-05-26T10:45:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-007101-001",
+      "category": "Medication",
+      "description": "Vitamin K 10 mg IV x 1 dose",
+      "status": "Completed",
+      "ordered_at": "2026-05-19T16:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    },
+    {
+      "order_id": "ORD-007101-002",
+      "category": "Medication",
+      "description": "Warfarin 5 mg PO daily, hold until INR < 1.5",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-05-22T08:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-003",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-05-22T08:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-004",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-05-22T08:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-005",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-05-22T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-006",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-05-22T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-007",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat",
+      "status": "Completed",
+      "ordered_at": "2026-05-25T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-008",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Harper, Linda MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-05-25T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-009",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-05-25T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-007101-010",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated RLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-05-22T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

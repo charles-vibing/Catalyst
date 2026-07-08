@@ -1,0 +1,66 @@
+{
+  "patient_id": 14,
+  "mrn": "10094",
+  "fin": "006371",
+  "extracted_at": "2026-04-07T10:30:00-06:00",
+  "source": "EPIC_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, James MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "metformin",
+      "name_display": "Metformin 500 mg tablet",
+      "rxnorm": "861007",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "prescriber": "Williams, James MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "198440",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily",
+      "route": "oral",
+      "frequency": "BID",
+      "status": "Continue",
+      "prescriber": "Williams, James MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "vitamin D",
+      "name_display": "Vitamin D3 1000 units capsule",
+      "rxnorm": "1290496",
+      "sig": "Take 1 capsule (1000 units) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, James MD"
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "morphine sulfate",
+      "name_display": "Morphine sulfate 15 mg extended-release tablet",
+      "rxnorm": "835603",
+      "sig": "Take 1 tablet (15 mg) by mouth every 12 hours",
+      "route": "oral",
+      "frequency": "Q12H",
+      "status": "Continue",
+      "indication": "Cancer pain",
+      "prescriber": "Williams, James MD"
+    }
+  ]
+}

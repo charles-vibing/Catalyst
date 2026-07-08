@@ -1,0 +1,47 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Castillo, Beatrice M
+MRN: 10094
+DOB: 1936-08-22
+SEX: F
+FIN: 006371
+
+SURGERY DATE: 2026-04-04
+PROCEDURE: Right hip hemiarthroplasty
+SURGEON: Mitchell, David MD
+ANESTHESIOLOGIST: Patel, Priya MD
+
+ASA CLASS: III
+
+HISTORY:
+89-year-old female with metastatic breast cancer, osteoporosis, HTN, T2DM, malnutrition. No prior anesthetic complications.
+
+MEDICATIONS:
+- Letrozole 2.5 mg daily
+- Metformin 500 mg BID (held today)
+- Lisinopril 10 mg daily
+- Calcium carbonate 500 mg BID
+- Vitamin D3 1000 IU daily
+
+ALLERGIES: Sulfonamides (rash)
+
+PHYSICAL EXAM:
+Airway: Mallampati II, full range of motion.
+CV: Regular rate, no murmurs.
+Resp: Clear.
+
+LABS (2026-04-03):
+- Albumin: 2.8 g/dL
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Glucose: 140 mg/dL
+
+PLAN:
+Spinal anesthesia with sedation. Antibiotic prophylaxis: cefazolin (no sulfa allergy). Avoid nephrotoxins. Monitor glucose. Have low threshold for vasopressors given baseline debility.
+
+---
+
+ELECTRONICALLY SIGNED:
+Patel, Priya MD
+NPI: 1234567892

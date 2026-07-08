@@ -1,0 +1,8 @@
+MSH|^~\&|EPIC|MEMORIAL|INTERFACE|REGISTRY|20260305090000||ADT^A01|MSG202603030900|P|2.5
+EVN|A01|20260305090000
+PID|1||10086^^^MEMORIAL^MR||ORTIZ^RAYMOND^A||19400315|M|||1640 PRAIRIE VIEW ROAD^^SPRINGFIELD^IL^62702||(555)0106|||M|NON|1
+PV1|1|I|MED^3W^301||||1098765432^OKONKWO^JAMES^A^^^NPI|||MED||||7|||||005720|||||||||||||||||||||||||20260305090000
+DG1|1||J69.0^Aspiration pneumonitis due to food and vomit^I10
+DG1|2||J15.9^Bacterial pneumonia, unspecified^I10
+DG1|3||E11.9^Type 2 diabetes mellitus without complications^I10
+DG1|4||N18.32^Chronic kidney disease, stage 3b^I10

@@ -1,0 +1,78 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+================================================================================
+
+PATIENT: Johnson, Linda M
+MRN: 10092
+FIN: 006211
+DOB: 08/15/1955
+SEX: F
+
+ADMIT DATE: 03/20/2026
+ADMIT TIME: 14:30
+
+ATTENDING: Okonkwo, Chuka MD (Hospitalist)
+PCP: Williams, Sarah MD
+
+CHIEF COMPLAINT: Right leg pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 70-year-old female who presents after a mechanical ground-level fall
+at home approximately 2 hours prior to arrival. She tripped on a rug and landed
+on her right side, immediately experiencing severe right thigh pain and inability
+to bear weight. She was transported by private vehicle to the ED. X-ray in the ED
+reveals a displaced right femoral shaft fracture. Orthopedics consulted and
+recommends intramedullary nailing. Patient is otherwise healthy, with only
+hypertension as a medical history.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+
+ALLERGIES:
+- No known allergies
+
+SOCIAL HISTORY:
+Patient lives with her spouse in a single-family home in Springfield. She is
+independently ambulatory with a cane for long walks. She does not smoke or drink.
+Emergency contact is her spouse, Robert Johnson (555-0198).
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills.
+Cardiovascular: No chest pain, palpitations.
+Respiratory: No dyspnea, cough.
+Gastrointestinal: No nausea, vomiting.
+Musculoskeletal: Right thigh pain, unable to move leg.
+Neurologic: No head injury, loss of consciousness.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 98% RA.
+General: Alert, oriented, in moderate distress due to pain.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right thigh swollen, ecchymotic, tender to palpation. Neurovascularly
+intact distally. Left leg normal.
+
+ASSESSMENT/PLAN:
+1. Right femoral shaft fracture (S72.301A) - Plan for intramedullary nailing
+tomorrow morning. Pre-op labs ordered.
+2. Hypertension - Continue lisinopril. Monitor blood pressure.
+3. Pain management - Scheduled acetaminophen, PRN opioids.
+4. DVT prophylaxis - Enoxaparin 40 mg SQ daily starting tonight.
+5. PT/OT consult for post-op rehab planning.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chuka MD
+03/20/2026 17:00
+================================================================================

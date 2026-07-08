@@ -1,0 +1,13 @@
+{
+  "patient_id": 11,
+  "extracted_at": "2026-03-19T16:45:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Sulfa (sulfonamide antibiotics)",
+      "reaction": "Rash",
+      "severity": "Moderate",
+      "verified": true
+    }
+  ]
+}

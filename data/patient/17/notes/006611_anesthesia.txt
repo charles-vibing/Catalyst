@@ -1,0 +1,42 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Sullivan, Vincent P
+MRN: 10097
+DOB: 1940-08-22
+SEX: M
+FIN: 006611
+
+DATE OF EVALUATION: 2026-04-21 06:30
+
+PROCEDURE: Right hip cephalomedullary nail fixation (IM nail)
+
+SURGEON: Mitchell, David MD (NPI: 1234567890)
+
+HISTORY:
+85-year-old male with HFrEF (EF 35-40%), CKD stage 3 (baseline Cr 1.8, now 2.2), DM, HTN. Recent fall with right intertrochanteric fracture. Admitted 03/20. Labs: Hgb 10.5, Cr 2.2, albumin 3.0. No chest pain or dyspnea at rest. Functional status: limited by dyspnea on exertion.
+
+MEDICATIONS: Metformin (held), lisinopril, carvedilol, furosemide, atorvastatin.
+
+ALLERGIES: Sulfonamides (rash).
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+CV: Regular rate, no murmurs, JVP not elevated.
+Resp: Clear.
+
+LABS:
+- Hgb: 10.5
+- Creatinine: 2.2
+- K+: 4.5
+- INR: 1.1
+
+ASA CLASS: III
+
+PLAN:
+General anesthesia with endotracheal intubation. Invasive arterial line for blood pressure monitoring. Avoid nephrotoxic agents. Consider tranexamic acid for blood conservation. Postoperative ICU monitoring for cardiac and renal optimization.
+
+SIGNED:
+Patel, Raj MD (NPI: 1234567892)
+Anesthesiologist
+Date/Time: 2026-04-21 07:00

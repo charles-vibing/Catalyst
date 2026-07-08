@@ -1,0 +1,26 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006852
+
+Exam: Left Hip X-ray (2 views)
+Accession: RAD-2026-006852-01
+Exam Date/Time: 2026-05-04T15:00:00-06:00
+Report Signed: 2026-05-04T15:45:00-06:00
+
+INDICATION: Mechanical fall at home, left hip pain, unable to bear weight.
+
+TECHNIQUE: Anteroposterior and lateral views of the left hip.
+
+FINDINGS: There is a displaced subtrochanteric fracture of the left femur. The fracture line extends obliquely through the proximal femoral shaft approximately 3 cm below the lesser trochanter. There is approximately 1.5 cm of shortening and mild varus angulation. No intra-articular extension is seen. The right hip is unremarkable. Mild degenerative changes of the left hip joint are noted.
+
+IMPRESSION: Displaced left subtrochanteric femur fracture (S72.212A).
+
+Electronically signed:
+Hartman, David MD
+Radiology
+NPI: 1122334455

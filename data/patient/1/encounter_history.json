@@ -1,0 +1,80 @@
+{
+  "patient_id": 1,
+  "extracted_at": "2026-02-12T07:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "284711",
+      "admit_datetime": "2024-11-03T22:14:00-06:00",
+      "discharge_datetime": "2024-11-08T14:30:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I50.20",
+      "principal_diagnosis": "Heart failure with reduced ejection fraction",
+      "ms_drg": "291",
+      "length_of_stay_days": 5
+    },
+    {
+      "fin": "301922",
+      "admit_datetime": "2025-08-14T18:02:00-05:00",
+      "discharge_datetime": "2025-08-19T11:15:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "J44.1",
+      "principal_diagnosis": "COPD with acute exacerbation",
+      "ms_drg": "190",
+      "length_of_stay_days": 5
+    },
+    {
+      "fin": "004821",
+      "admit_datetime": "2026-01-27T16:30:00-06:00",
+      "discharge_datetime": "2026-01-31T10:45:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.141A",
+      "principal_diagnosis": "Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-01-28",
+          "description": "Replacement of right hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SRB02A",
+          "cpt": "27125"
+        }
+      ]
+    },
+    {
+      "fin": "005102",
+      "admit_datetime": "2026-02-12T06:15:00-06:00",
+      "discharge_datetime": "2026-02-15T14:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "J18.9",
+      "principal_diagnosis": "Pneumonia, unspecified organism",
+      "ms_drg": "193",
+      "length_of_stay_days": 3,
+      "ed_visit_datetime": "2026-02-12T05:30:00-06:00"
+    }
+  ]
+}

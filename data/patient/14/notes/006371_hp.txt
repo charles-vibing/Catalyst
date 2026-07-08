@@ -1,0 +1,69 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Castillo, Beatrice M
+MRN: 10094
+DOB: 1936-08-22
+SEX: F
+FIN: 006371
+
+ADMISSION DATE: 2026-04-03
+ATTENDING: Okonkwo, Chukwudi MD (Hospital Medicine)
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is an 89-year-old female with metastatic breast cancer, osteoporosis, hypertension, type 2 diabetes, and malnutrition who sustained a ground-level fall at home today around 13:00. She was unable to bear weight on the right leg and was brought to the ED by her daughter. Imaging revealed a displaced right femoral neck fracture. Orthopedics consulted and recommends hemiarthroplasty. Patient and family agree to proceed.
+
+PAST MEDICAL HISTORY:
+- Metastatic breast cancer (C50.912)
+- Osteoporosis (M81.0)
+- Essential hypertension (I10)
+- Type 2 diabetes mellitus (E11.9)
+- Moderate protein-calorie malnutrition (E44.0)
+
+PAST SURGICAL HISTORY:
+- Lumpectomy left breast (2024)
+
+HOME MEDICATIONS ON ADMISSION:
+- Letrozole 2.5 mg daily
+- Metformin 500 mg BID
+- Lisinopril 10 mg daily
+- Calcium carbonate 500 mg BID
+- Vitamin D3 1000 IU daily
+
+ALLERGIES:
+- Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with daughter, Sarah Castillo, who is primary caregiver. Requires assistance with ADLs. No tobacco or alcohol.
+
+FAMILY HISTORY:
+Mother: deceased breast cancer. Father: deceased MI.
+
+REVIEW OF SYSTEMS:
+Constitutional: fatigue. Otherwise limited due to pain.
+
+PHYSICAL EXAMINATION:
+Vital signs: BP 138/76, HR 88, RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Alert, oriented x3, in mild distress.
+HEENT: Normocephalic.
+CV: Regular rate and rhythm, no murmurs.
+Resp: Clear to auscultation.
+Abdomen: Soft, non-tender.
+Extremities: Right lower extremity shortened and externally rotated. Tender over right hip. Neurovascularly intact distally.
+
+LABORATORY DATA (on admission):
+- Albumin: 2.8 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 0.9 mg/dL
+- Glucose: 140 mg/dL
+
+ASSESSMENT AND PLAN:
+89-year-old female with metastatic breast cancer, osteoporosis, HTN, T2DM, malnutrition, s/p ground-level fall with displaced right femoral neck fracture. Plan right hip hemiarthroplasty tomorrow. Will hold metformin perioperatively. Start DVT prophylaxis with enoxaparin. Pain management with acetaminophen and hydromorphone as needed. Given advanced malignancy and poor functional status, goals of care discussion initiated. Patient and family express preference for comfort-focused care postoperatively; hospice referral planned.
+
+---
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+NPI: 1234567891

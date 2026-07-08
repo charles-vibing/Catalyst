@@ -1,0 +1,46 @@
+{
+  "patient_id": 7,
+  "mrn": "10087",
+  "fin": "005800",
+  "extracted_at": "2026-03-03T10:30:00-06:00",
+  "source": "EPIC_ADMISSION_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "warfarin",
+      "name_display": "Warfarin (COUMADIN) 2.5 mg tablet",
+      "rxnorm": "855332",
+      "sig": "Take 1 tablet (2.5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home",
+      "indication": "Atrial fibrillation",
+      "prescriber": "Williams, James MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home",
+      "indication": "Hypertension",
+      "prescriber": "Williams, James MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Home",
+      "indication": "Osteoporosis",
+      "prescriber": "Williams, James MD"
+    }
+  ]
+}

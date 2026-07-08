@@ -1,0 +1,30 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Castillo, Beatrice M
+MRN: 10094
+DOB: 1936-08-22
+SEX: F
+FIN: 006371
+
+EXAM: XR RIGHT HIP 2 VIEWS
+ACCESSION: RAD-2026-006371-01
+ORDERING PROVIDER: Mitchell, David MD (Orthopedic Surgery)
+EXAM DATE: 2026-04-03 15:00
+REPORT DATE: 2026-04-03 15:30
+
+HISTORY: 89-year-old female with history of metastatic breast cancer, osteoporosis, ground-level fall at home. Right hip pain, unable to bear weight.
+
+TECHNIQUE: AP pelvis and cross-table lateral views of the right hip.
+
+FINDINGS:
+There is a displaced right femoral neck fracture (midcervical) with mild impaction. No comminution. The acetabulum is intact. No dislocation. Mild degenerative changes of the hip joint. Osteopenia noted.
+
+IMPRESSION:
+Displaced right femoral neck fracture (S72.031A).
+
+---
+
+ELECTRONICALLY SIGNED:
+Hartman, Susan MD (Radiology)
+NPI: 1234567895

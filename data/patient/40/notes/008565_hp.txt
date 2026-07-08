@@ -1,0 +1,58 @@
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+
+HISTORY AND PHYSICAL
+
+PATIENT: Finch, Horace E
+MRN: 10120
+DOB: 1934-06-14
+SEX: M
+FIN: 008565
+ADMIT DATE: 2026-07-25
+
+ATTENDING: Okonkwo, Chukwudi MD (Hospitalist)
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Mr. Finch is a 91-year-old male with history of hypertension and osteoporosis who presents after a ground-level fall at home earlier today. He tripped on a rug and landed on his right side. He immediately experienced severe right hip pain and was unable to bear weight. EMS was called and he was brought to the Emergency Department. X-ray in the ED shows a displaced right intertrochanteric femur fracture. Orthopedics consulted and recommends right hip hemiarthroplasty. Patient is alert and oriented, reports no loss of consciousness or head trauma.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+- Cholecalciferol 1000 units daily
+- Calcium carbonate 500 mg twice daily
+
+ALLERGIES: No known allergies.
+
+SOCIAL HISTORY: Lives alone in a single-story home. Daughter lives out of state (Doris Finch). Retired teacher. No tobacco or alcohol use. Independent with activities of daily living prior to fall.
+
+FAMILY HISTORY: Non-contributory.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, shortness of breath, fever, or chills.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88, RR 16, Temp 36.8 C, O2 sat 97% on room air.
+General: Elderly male in moderate distress due to pain.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Right lower extremity shortened and externally rotated. No open wounds. Dorsalis pedis pulses palpable. Left lower extremity normal.
+Neurologic: Alert and oriented x3. Cranial nerves intact. Strength 5/5 in all extremities except right hip limited by pain.
+
+ASSESSMENT/PLAN:
+1. Displaced right intertrochanteric femur fracture (S72.141A) - s/p ortho consult, plan for right hip hemiarthroplasty tomorrow. Pre-op labs ordered. Type and cross for possible transfusion.
+2. Hypertension - continue lisinopril.
+3. Osteoporosis - continue calcium and vitamin D.
+
+Disposition planning: Given age, living alone, and need for rehabilitation, likely discharge to skilled nursing facility.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-07-25 16:00:00

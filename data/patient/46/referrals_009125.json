@@ -1,0 +1,21 @@
+{
+  "patient_id": 46,
+  "mrn": "10126",
+  "fin": "009125",
+  "extracted_at": "2026-08-12T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-009125-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Harper, Emily MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-08-12T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-08-19T10:00:00-06:00"
+    }
+  ]
+}

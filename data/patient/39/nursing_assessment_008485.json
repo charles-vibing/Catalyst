@@ -1,0 +1,47 @@
+{
+  "patient_id": 39,
+  "mrn": "10119",
+  "fin": "008485",
+  "extracted_at": "2026-07-25T12:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 30,
+      "risk_level": "Moderate",
+      "recorded_at": "2026-07-22T15:30:00-06:00",
+      "factors": [
+        "Age 76",
+        "Gait/balance deficit"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 25,
+      "risk_level": "Low",
+      "recorded_at": "2026-07-24T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 19,
+      "risk_level": "At risk",
+      "recorded_at": "2026-07-22T15:30:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-07-22T15:30:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-07-24T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Left hip posterolateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-07-24T08:00:00-06:00"
+    }
+  ]
+}

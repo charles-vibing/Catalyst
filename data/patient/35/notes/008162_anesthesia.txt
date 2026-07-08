@@ -1,0 +1,34 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008162
+DOB: 1940-03-12
+Sex: F
+
+Date of Evaluation: 2026-07-13
+Scheduled Procedure: Left femur intramedullary nail (CPT 27245)
+
+HISTORY: See H&P. Additional history: No prior anesthesia complications.
+
+MEDICATIONS: Metformin, atorvastatin, lisinopril, aspirin. Lisinopril held this AM.
+
+ALLERGIES: Sulfonamides (rash)
+
+PHYSICAL EXAM:
+Airway: Mallampati II, full range of motion.
+CV: Regular rhythm, no murmurs.
+Lungs: Clear.
+
+LABS (reviewed):
+- Hemoglobin 10.5, Creatinine 1.8, Albumin 3.0, Glucose 156, INR 1.1.
+
+ASA CLASS: III
+
+PLAN: General anesthesia with endotracheal intubation. Invasive arterial line for blood pressure monitoring. Avoid nephrotoxic agents. Antibiotic prophylaxis with cefazolin (no sulfa allergy).
+
+Electronically signed by:
+Patel, Raj MD
+Anesthesiology
+2026-07-13 07:15

@@ -1,0 +1,38 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+==============================
+
+Patient Name: KEANE, ALVIN F
+MRN: 10130
+DOB: 1956-03-22
+Sex: M
+FIN: 009526
+Date of Evaluation: 2026-08-21
+Scheduled Procedure: Left femoral shaft fracture, intramedullary nail fixation
+
+HISTORY:
+70-year-old male with hypertension. No prior surgeries. No anesthesia complications. No bleeding disorders.
+
+MEDICATIONS:
+- Lisinopril 10 mg daily (held this morning)
+
+ALLERGIES:
+- Penicillin (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion. Neck: Supple. Cardiopulmonary: Clear, regular rhythm.
+
+LABORATORY:
+Albumin 4.0 g/dL, Hemoglobin 13.5 g/dL, Creatinine 0.9 mg/dL. Normal electrolytes.
+
+ASA CLASS: II
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Consider regional block for postoperative pain.
+
+
+Electronically Signed:
+Patel, Ravi MD
+Anesthesiology
+2026-08-21 06:30:00

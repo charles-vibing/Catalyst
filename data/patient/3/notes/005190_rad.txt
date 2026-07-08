@@ -1,0 +1,31 @@
+MEMORIAL GENERAL HOSPITAL
+Radiology Report
+
+Patient: O'Brien, Margaret A
+MRN: 10061
+FIN: 005190
+DOB: 05/22/1940
+Exam Date: 03/18/2026 1545
+Accession: RAD-2026-005190-01
+
+EXAM:
+XR PELVIS AND RIGHT HIP 2-3 VIEWS
+
+CLINICAL HISTORY:
+Fall at home. Right hip pain. Unable to bear weight.
+
+TECHNIQUE:
+AP pelvis and cross-table lateral right hip.
+
+COMPARISON:
+None available.
+
+FINDINGS:
+There is a displaced comminuted intertrochanteric fracture of the right proximal femur. Femoral head is normally seated in the acetabulum. Left hip appears intact without acute fracture. Sacroiliac joints and pubic symphysis are aligned. No pelvic soft tissue abnormality identified.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture.
+
+Electronically signed by:
+Hartman, Lisa MD
+03/18/2026 1610

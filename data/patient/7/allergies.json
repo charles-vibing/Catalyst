@@ -1,0 +1,13 @@
+{
+  "patient_id": 7,
+  "extracted_at": "2026-02-27T14:45:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Sulfonamides",
+      "reaction": "Rash",
+      "severity": "Mild",
+      "verified": true
+    }
+  ]
+}

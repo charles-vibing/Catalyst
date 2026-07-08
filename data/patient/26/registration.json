@@ -1,0 +1,34 @@
+{
+  "patient_id": 26,
+  "mrn": "10106",
+  "name": {
+    "family": "Ruiz",
+    "given": "Yolanda",
+    "middle": "M"
+  },
+  "birth_date": "1955-08-12",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "2450 Taylorville Road",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0112",
+  "phone_mobile": "555-0112",
+  "emergency_contact": {
+    "name": "David Ruiz",
+    "relationship": "Son",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Garcia, Elena MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000106"
+  }
+}

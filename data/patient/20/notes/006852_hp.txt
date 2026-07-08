@@ -1,0 +1,65 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006852
+Admission Date: 2026-05-04
+Attending: Okonkwo, Chidi MD (Hospitalist)
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: This is an 86-year-old female with history of type 2 diabetes, peripheral vascular disease, chronic kidney disease stage 3a, hypertension, and hyperlipidemia who presents after a mechanical fall at home earlier today. She slipped on a rug and landed on her left side. She was unable to bear weight and was brought to the Emergency Department by her son. Imaging reveals a displaced left subtrochanteric femur fracture. Orthopedic surgery has been consulted and plans for operative fixation with intramedullary nail. Patient lives alone, independent with ADLs; son lives out of state.
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease stage 3a (N18.31)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY:
+- None significant
+
+HOME MEDICATIONS ON ADMISSION:
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Amlodipine 5 mg PO daily
+- Aspirin 81 mg PO daily
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives alone. Widowed. Son Erik lives in Chicago. Retired schoolteacher. No tobacco or alcohol use.
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS: Limited due to pain.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 148/82, HR 88, RR 18, Temp 36.8 C, O2 sat 96% on room air.
+General: Alert, oriented x3, in moderate distress.
+Left lower extremity: Shortened, externally rotated. Tender over proximal thigh. No open wounds. Dorsalis pedis pulse palpable. Sensation intact.
+Remaining exam unremarkable.
+
+LABORATORY DATA (on admission):
+- Albumin: 3.0 g/dL (low)
+- Hemoglobin: 10.5 g/dL (low)
+- Creatinine: 1.8 mg/dL (elevated)
+- Glucose: 156 mg/dL
+- HbA1c: 7.2%
+
+ASSESSMENT AND PLAN:
+1. Displaced left subtrochanteric femur fracture – plan for left IM nail fixation tomorrow AM.
+2. CKD stage 3a – hold metformin day of surgery, monitor creatinine.
+3. Diabetes – insulin sliding scale perioperatively.
+4. Hypertension – continue amlodipine.
+5. PVD – maintain hydration, monitor distal pulses.
+6. TEAM beneficiary notification to be completed.
+7. PCP: Dr. Maria Garcia to be notified.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+NPI: 9988776655

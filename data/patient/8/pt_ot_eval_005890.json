@@ -1,0 +1,32 @@
+{
+  "patient_id": 8,
+  "mrn": "10088",
+  "fin": "005890",
+  "extracted_at": "2026-03-08T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-03-06",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently without assistive device; mild bradykinesia due to Parkinson disease",
+    "current_mobility": "Ambulated 60 feet with front-wheeled walker and minimal assist; requires verbal cues for safety",
+    "weight_bearing": "Weight bearing as tolerated left lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Patient is a good candidate for inpatient rehabilitation facility due to Parkinson disease and need for intensive PT/OT to regain baseline function. Recommend Springfield Rehabilitation Institute.",
+    "goals": [
+      "Ambulate 150 feet with walker and supervision",
+      "Independent transfers bed-chair-toilet",
+      "Manage stairs with railing and supervision"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-03-06",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires minimal assist for bathing and dressing due to balance and bradykinesia",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Grab bar for shower"
+    ],
+    "home_safety": "Lives with spouse in single-story home; recommend removing throw rugs and installing grab bars in bathroom"
+  }
+}

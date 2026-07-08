@@ -1,0 +1,54 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006691
+Admit Date: 2026-04-24
+Discharge Date: 2026-04-28
+Attending: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS: Displaced right femoral neck fracture (S72.031A)
+
+PRINCIPAL PROCEDURE: Right hip hemiarthroplasty (0SR902A) on 2026-04-25
+
+COMPLICATIONS: Post-operative delirium (CAM positive on POD 1 and 2). No other complications.
+
+HOSPITAL COURSE: Patient underwent right hip hemiarthroplasty on 03/21. Post-operatively, she developed acute delirium on POD 1, characterized by confusion, agitation, and fluctuating consciousness. CAM assessment was positive. Workup for infection (UA, CXR, labs) was negative. She was managed with non-pharmacologic measures (reorientation, family video calls) and low-dose haloperidol as needed. Delirium gradually improved by POD 3. She participated in PT/OT and was cleared for discharge with home health services.
+
+DISCHARGE DIAGNOSES:
+1. Displaced right femoral neck fracture, status post hemiarthroplasty
+2. Dementia, Alzheimer's type
+3. Post-operative delirium, resolved
+4. Osteoporosis
+5. Essential hypertension
+6. Hyperlipidemia
+
+DISCHARGE DISPOSITION: Home with home health agency (HHA) – Home Health Services of Springfield
+
+DISCHARGE MEDICATIONS:
+- Donepezil 5 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Acetaminophen 500 mg q6h PRN pain
+- Oxycodone 5 mg q4h PRN breakthrough pain (7-day supply)
+- Docusate 100 mg BID
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Sunita Patel): 2026-05-04 at 10:00 AM
+- Orthopedic surgery follow-up: 2026-05-12
+
+HOME HEALTH SERVICES: Skilled nursing for wound care and medication management, PT/OT for home safety and mobility.
+
+WEIGHT-BEARING STATUS: Weight-bearing as tolerated with walker.
+
+DME: Walker provided.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+2026-04-28 10:00:00 -06:00

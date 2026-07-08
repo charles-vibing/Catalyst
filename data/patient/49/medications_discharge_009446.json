@@ -1,0 +1,81 @@
+{
+  "patient_id": 49,
+  "mrn": "10129",
+  "fin": "009446",
+  "extracted_at": "2026-08-22T12:00:00-06:00",
+  "source": "EPIC_DISCHARGE_MED_LIST",
+  "context": "Discharge medication list",
+  "medications": [
+    {
+      "med_id": "MED-D-001",
+      "name": "carbidopa-levodopa",
+      "name_display": "Carbidopa-Levodopa 25-100 mg tablet",
+      "rxnorm": "309362",
+      "sig": "Take 1 tablet by mouth 3 times daily",
+      "route": "oral",
+      "frequency": "TID",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-003",
+      "name": "calcium carbonate",
+      "name_display": "Calcium Carbonate 500 mg tablet",
+      "rxnorm": "198440",
+      "sig": "Take 1 tablet by mouth 2 times daily with food",
+      "route": "oral",
+      "frequency": "BID",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-004",
+      "name": "vitamin D",
+      "name_display": "Vitamin D3 1000 IU capsule",
+      "rxnorm": "1292541",
+      "sig": "Take 1 capsule by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-005",
+      "name": "acetaminophen",
+      "name_display": "Acetaminophen 500 mg tablet",
+      "rxnorm": "313782",
+      "sig": "Take 2 tablets (1000 mg) by mouth every 6 hours as needed for pain",
+      "route": "oral",
+      "frequency": "Q6H PRN",
+      "start_date": "2026-08-22",
+      "status": "New",
+      "indication": "Pain",
+      "prescriber": "Mitchell, Sarah MD"
+    },
+    {
+      "med_id": "MED-D-006",
+      "name": "enoxaparin",
+      "name_display": "Enoxaparin 40 mg/0.4 mL subcutaneous syringe",
+      "rxnorm": "834151",
+      "sig": "Inject 40 mg subcutaneously daily for 14 days",
+      "route": "subcutaneous",
+      "frequency": "Daily",
+      "start_date": "2026-08-22",
+      "end_date": "2026-09-05",
+      "status": "New",
+      "indication": "DVT prophylaxis",
+      "prescriber": "Mitchell, Sarah MD"
+    }
+  ]
+}

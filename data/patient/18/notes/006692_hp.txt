@@ -1,0 +1,65 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006692
+Admit Date: 2026-05-06
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Confusion and fever.
+
+HISTORY OF PRESENT ILLNESS: Ms. Yamamoto is an 88-year-old female with history of dementia, osteoporosis, hypertension, and recent right hip hemiarthroplasty (FIN 006691, discharged 03/24) who presents with worsening confusion and fever for 1 day. Per daughter, patient has been at home with home health services. She became increasingly confused, incontinent of urine, and had a fever of 101.2 F today. No cough, dyspnea, or vomiting. She has not been taking her medications reliably per home health note. She is readmitted for suspected UTI and delirium.
+
+PAST MEDICAL HISTORY:
+- Dementia, Alzheimer's type (F02.80)
+- Osteoporosis (M81.0)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Recent right hip hemiarthroplasty (03/21/2026)
+
+HOME MEDICATIONS:
+- Donepezil 5 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Acetaminophen 500 mg PRN
+- Oxycodone 5 mg PRN (rarely used)
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives alone, daughter out of state.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 140/80, HR 94, RR 18, Temp 38.4 C, O2 sat 96% on room air.
+General: Confused, agitated, oriented to self only.
+HEENT: Dry mucous membranes.
+Cardiovascular: Tachycardic, regular.
+Respiratory: Clear.
+Abdomen: Soft, non-tender.
+Extremities: Right hip incision well-healed, no erythema or drainage.
+Neurologic: Confused, no focal deficits.
+
+LABORATORY DATA:
+- WBC: 14.2 K/uL (elevated)
+- Hemoglobin: 10.2 g/dL
+- Creatinine: 1.1 mg/dL (baseline 0.9)
+- Urinalysis: Positive for nitrites, leukocyte esterase, >50 WBC/hpf
+- Urine culture: Pending
+
+ASSESSMENT AND PLAN:
+1. Urinary tract infection (N39.0) – Start ceftriaxone IV (no sulfa allergy conflict). Adjust based on culture.
+2. Acute delirium due to UTI – Non-pharmacologic management, avoid restraints, reorientation. Hold haloperidol if needed.
+3. Dementia – Continue donepezil.
+4. Hypertension – Continue lisinopril.
+5. Recent hip surgery – Monitor for any signs of prosthetic joint infection (none currently).
+
+Disposition planning: Likely discharge back home with increased home health support.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+2026-05-06 09:30:00 -06:00

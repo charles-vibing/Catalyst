@@ -1,0 +1,106 @@
+MEMORIAL GENERAL HOSPITAL
+Discharge Summary
+
+Patient: O'Brien, Margaret A
+MRN: 10061
+FIN: 005190
+DOB: 05/22/1940
+Admit Date: 03/18/2026 1630
+Discharge Date: 03/25/2026 1045
+Attending: Mitchell, Sarah MD
+Service: Orthopedic Surgery
+
+ADMISSION DIAGNOSIS:
+Right intertrochanteric hip fracture
+
+DISCHARGE DIAGNOSIS:
+1. Displaced intertrochanteric fracture of right femur, initial encounter (S72.141A)
+2. Heart failure with reduced ejection fraction (I50.20)
+3. Type 2 diabetes mellitus (E11.9)
+4. Chronic kidney disease, stage 3b (N18.32)
+5. Essential hypertension (I10)
+6. Acute kidney injury, unspecified (N17.9) — developed during hospitalization, improving at discharge
+7. Osteoporosis (M81.0)
+
+CHIEF COMPLAINT:
+Fall at home with inability to bear weight on right leg.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. O'Brien is an 85-year-old female with a history of HFrEF (EF 30% on echo 02/2026), type 2 diabetes, CKD stage 3b, hypertension, and osteoporosis who presented to the emergency department after a mechanical fall at home on the morning of admission. She tripped on a rug while using her rolling walker and fell onto her right side. She denied head strike or loss of consciousness. She was unable to ambulate due to severe right hip pain. EMS brought her to Memorial General. ED evaluation demonstrated a displaced right intertrochanteric femur fracture on imaging. Orthopedics was consulted. Given fracture pattern and patient factors, she was admitted for operative management.
+
+PAST MEDICAL HISTORY:
+- Heart failure with reduced ejection fraction
+- Type 2 diabetes mellitus
+- CKD stage 3b
+- Hypertension
+- Osteoporosis
+- Prior admissions to this facility for CHF exacerbation (09/2024) and acute kidney injury (06/2025)
+
+PAST SURGICAL HISTORY:
+- Cholecystectomy (remote)
+- Cataract surgery bilateral
+
+HOME MEDICATIONS ON ADMISSION:
+- Carvedilol 12.5 mg PO BID
+- Lisinopril 5 mg PO daily
+- Metformin 500 mg PO BID
+- Furosemide 40 mg PO daily
+- Atorvastatin 20 mg PO qHS
+- Alendronate 70 mg PO weekly
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+
+PHYSICAL EXAM ON ADMISSION:
+Vitals: T 98.0, HR 92, BP 148/76, RR 20, SpO2 93% RA
+General: Alert, oriented x3, moderate distress with movement
+MSK: Right lower extremity shortened and externally rotated. Tenderness over right hip. Distal pulses intact. Sensation grossly intact.
+Cardiac: Regular rhythm, no murmurs appreciated
+Lungs: Clear bilaterally
+
+HOSPITAL COURSE:
+The patient was admitted to the orthopedic surgery service. Preoperative medical clearance was obtained given cardiac and renal comorbidities. ASA class 3. Preoperative labs notable for albumin 2.9 g/dL, hemoglobin 10.8 g/dL, creatinine 1.6 mg/dL. Metformin and furosemide were held per protocol.
+
+On hospital day 3 (03/20/2026), the patient underwent uncomplicated right femur cephalomedullary intramedullary nail fixation for intertrochanteric fracture. Estimated blood loss 300 mL. No intraoperative complications.
+
+Postoperatively on hospital day 4 (03/21/2026), creatinine rose to 1.9 mg/dL consistent with acute kidney injury on chronic kidney disease, likely multifactorial from perioperative fluid shifts and held diuretics. Nephrology was consulted. Furosemide was held and IV fluids were adjusted. Creatinine improved to 1.7 mg/dL by hospital day 7. Hemoglobin decreased to 10.2 g/dL postoperatively, stable without transfusion requirement.
+
+Physical therapy evaluated the patient postoperatively. Despite daily sessions, she demonstrated slow functional progress — ambulating only 25 feet with walker and moderate assist, requiring rest breaks. She was unable to safely manage stairs and ADLs given lives alone on second floor without elevator and limited caregiver availability. Occupational therapy concurred that home discharge was not safe.
+
+Pain was managed with scheduled acetaminophen and opioid-sparing approach avoiding codeine. DVT prophylaxis with enoxaparin was initiated on postoperative day 1.
+
+By discharge, the patient was afebrile, hemodynamically stable, tolerating diet, and ambulating short distances with walker and assist. Incision clean, dry, and intact. AKI improving but renal function remains above baseline.
+
+PROCEDURES:
+03/20/2026 - Right femur cephalomedullary intramedullary nail fixation (27245)
+
+DISCHARGE CONDITION:
+Stable
+
+DISCHARGE DISPOSITION:
+Skilled Nursing Facility — Prairie View Skilled Nursing
+
+DISCHARGE INSTRUCTIONS:
+- Partial weight bearing right lower extremity with front-wheeled walker per orthopedic protocol
+- Keep incision clean and dry. No soaking baths. Notify clinic for redness, drainage, fever > 101 F, or worsening pain
+- Continue incentive spirometry 10 times per hour while awake
+- Fall precautions
+- Monitor urine output; follow up on renal function with PCP
+
+DISCHARGE MEDICATIONS:
+1. Enoxaparin 40 mg SQ daily x 28 days
+2. Acetaminophen 500 mg PO q6h PRN pain
+3. Carvedilol 12.5 mg PO BID
+4. Lisinopril 5 mg PO daily
+5. Metformin 500 mg PO BID
+6. Furosemide 40 mg PO daily (resume with renal monitoring)
+7. Atorvastatin 20 mg PO qHS
+
+FOLLOW-UP:
+- Orthopedic Surgery (Mitchell, Sarah MD) in 2 weeks
+- Primary care (Okoro, Samuel MD) within 7 days of SNF admission
+- PCP referral placed 03/24/2026; appointment scheduled 04/01/2026
+
+Electronically signed by:
+Mitchell, Sarah MD
+03/25/2026 0930

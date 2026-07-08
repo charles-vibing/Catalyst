@@ -1,0 +1,81 @@
+{
+  "patient_id": 3,
+  "mrn": "10061",
+  "fin": "005190",
+  "extracted_at": "2026-02-13T10:45:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-005190-001",
+      "category": "Medication",
+      "description": "Enoxaparin 40 mg SQ daily",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-09T08:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-002",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-08T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-003",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-02-08T10:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-004",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-02-09T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-005",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-02-09T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-006",
+      "category": "Discharge",
+      "description": "Skilled nursing facility placement \u2014 Prairie View Skilled Nursing",
+      "status": "Completed",
+      "ordered_at": "2026-02-12T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-007",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Okoro, Samuel MD within 7 days of SNF admission",
+      "status": "Active",
+      "ordered_at": "2026-02-12T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-008",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-02-12T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-005190-009",
+      "category": "Activity",
+      "description": "Partial weight bearing right lower extremity with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-02-08T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

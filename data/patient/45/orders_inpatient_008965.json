@@ -1,0 +1,97 @@
+{
+  "patient_id": 45,
+  "mrn": "10125",
+  "fin": "008965",
+  "extracted_at": "2026-08-11T12:00:00-06:00",
+  "source": "EPIC_INPATIENT_ORDERS",
+  "orders": [
+    {
+      "order_id": "ORD-008965-001",
+      "category": "Medication",
+      "description": "Enoxaparin 40 mg subcut daily",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-08-08T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-002",
+      "category": "Medication",
+      "description": "Acetaminophen 1000 mg PO q6h PRN pain",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-08-08T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-003",
+      "category": "Nursing",
+      "description": "Incentive spirometry 10x/hour while awake",
+      "status": "Completed",
+      "ordered_at": "2026-08-08T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-004",
+      "category": "Consult",
+      "description": "Physical Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-08-08T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-005",
+      "category": "Consult",
+      "description": "Occupational Therapy eval and treat",
+      "status": "Completed",
+      "ordered_at": "2026-08-08T12:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-006",
+      "category": "DME",
+      "description": "Front-wheeled walker, elevated toilet seat, reacher",
+      "status": "Completed",
+      "ordered_at": "2026-08-10T09:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-007",
+      "category": "Referral",
+      "description": "Primary care follow-up \u2014 Garcia, Elena MD within 7 days",
+      "status": "Active",
+      "ordered_at": "2026-08-10T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-008",
+      "category": "Follow-up",
+      "description": "Orthopedic Surgery follow-up 2 weeks",
+      "status": "Active",
+      "ordered_at": "2026-08-10T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-009",
+      "category": "Activity",
+      "description": "Weight bearing as tolerated LLE with walker",
+      "status": "Discontinued at discharge",
+      "ordered_at": "2026-08-08T16:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    },
+    {
+      "order_id": "ORD-008965-010",
+      "category": "Nursing",
+      "description": "Delirium precautions: reorient, family at bedside, minimize sedatives",
+      "status": "Completed",
+      "ordered_at": "2026-08-08T14:00:00-06:00",
+      "ordered_by": "Okonkwo, James MD"
+    },
+    {
+      "order_id": "ORD-008965-011",
+      "category": "Referral",
+      "description": "Home health aide services",
+      "status": "Active",
+      "ordered_at": "2026-08-10T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD"
+    }
+  ]
+}

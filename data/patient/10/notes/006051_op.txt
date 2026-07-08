@@ -1,0 +1,37 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+================================================================================
+
+PATIENT: Martinez, Maria L
+MRN: 10090
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 006051
+DATE OF SURGERY: 2026-03-15
+
+PRE-OPERATIVE DIAGNOSIS: Displaced left femoral neck fracture (S72.032A)
+POST-OPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left hip hemiarthroplasty (ICD-10-PCS 0SR902A, CPT 27125)
+
+SURGEON: Mitchell, David MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: Spinal with sedation (Patel, Anita MD)
+
+ESTIMATED BLOOD LOSS: 150 mL
+
+INDICATIONS:
+76-year-old female with displaced left femoral neck fracture, poor candidate for internal fixation due to age and osteoporosis, requiring hemiarthroplasty.
+
+DESCRIPTION OF PROCEDURE:
+After informed consent, the patient was brought to the operating room and placed in the supine position. Spinal anesthesia was administered. The left hip was prepped and draped in sterile fashion. A lateral approach to the left hip was made. The fascia lata was incised and the gluteus medius was split. The hip capsule was opened. The femoral head was dislocated and removed. The femoral neck was cut. The femoral canal was reamed and broached. A cemented bipolar hemiarthroplasty was implanted. The prosthesis was reduced and stability was confirmed. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+COMPLICATIONS: None
+
+CONDITION: Stable, transferred to PACU.
+
+ELECTRONICALLY SIGNED:
+Mitchell, David MD
+2026-03-15 12:30:00 -06:00
+================================================================================

@@ -1,0 +1,39 @@
+MEMORIAL GENERAL HOSPITAL
+PRE-ANESTHESIA EVALUATION
+
+PATIENT: Brennan, Arthur A.
+MRN: 10088
+FIN: 005890
+DOB: 1951-09-12
+SEX: M
+DATE OF EVALUATION: 04/11/2026
+PROCEDURE: LEFT FEMORAL SHAFT INTRAMEDULLARY NAILING
+SURGEON: Mitchell, John MD
+
+HISTORY:
+74-year-old male with Parkinson disease and hypertension. No prior surgeries. No known anesthetic complications. No sleep apnea. Review of systems per H&P.
+
+MEDICATIONS:
+- Carbidopa-levodopa 25-100 mg PO TID (held this AM)
+- Lisinopril 10 mg PO daily (held this AM)
+
+ALLERGIES: Sulfa drugs (hives)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion. Neck: supple. Chest: clear. Heart: regular rhythm, no murmurs.
+
+VITALS: BP 136/80, HR 76, RR 14, Temp 36.9 C, O2 sat 98% RA.
+
+LABORATORY (04/10/2026):
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- Albumin: 3.8 g/dL
+- INR: 1.1
+
+ASA CLASS: III (due to Parkinson disease)
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Consider arterial line for blood pressure monitoring. Continue carbidopa-levodopa postoperatively.
+
+ANESTHESIOLOGIST: Patel, Ravi MD
+ELECTRONICALLY SIGNED: 04/11/2026 06:30

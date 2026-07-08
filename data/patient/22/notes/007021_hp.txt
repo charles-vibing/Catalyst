@@ -1,0 +1,63 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+
+PATIENT: Okafor, Teresa N
+MRN: 10102
+DOB: 1951-08-12
+SEX: F
+FIN: 007021
+
+ATTENDING: Okonkwo, Chuka MD (Hospitalist)
+PCP: Williams, Sarah MD
+
+DATE OF ADMISSION: 2026-05-14
+
+CHIEF COMPLAINT: Left thigh pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+This is a 74-year-old female with history of Parkinson disease and hypertension who presents after a ground-level fall at home earlier today. She tripped over a rug and landed on her left side, immediately experiencing severe left thigh pain and inability to bear weight. EMS transported her to the ED. X-ray in the ED revealed a displaced left femoral shaft fracture. Orthopedic surgery consulted and recommends intramedullary nailing. Patient is admitted for preoperative optimization and surgical management.
+
+PAST MEDICAL HISTORY:
+- Parkinson disease (G20), diagnosed 2018, managed on carbidopa-levodopa
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+- Prior hospitalization May 2025 for urinary tract infection (FIN 301234)
+
+HOME MEDICATIONS:
+- Carbidopa-levodopa 25-100 mg PO TID
+- Lisinopril 10 mg PO daily
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+ALLERGIES:
+- Codeine (nausea)
+
+SOCIAL HISTORY:
+Lives with spouse in single-story home. Spouse is primary caregiver. Patient is ambulatory with walker at baseline. No tobacco use. Occasional alcohol. Emergency contact: son David Okafor (555-0199).
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea. Gastrointestinal: No nausea, vomiting. Musculoskeletal: Left thigh pain. Neurologic: Baseline tremor, no new deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8°C, O2 sat 97% on room air.
+General: Alert, oriented, in mild distress. Left lower extremity: Shortened, externally rotated. Tenderness and swelling over left thigh. Neurovascularly intact distally. Remainder of exam unremarkable.
+
+PERTINENT LABS (on admission):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 13.2 g/dL
+- Creatinine: 0.9 mg/dL
+
+ASSESSMENT/PLAN:
+1. Left femoral shaft fracture (S72.301A) – Plan for IM nail tomorrow AM.
+2. Parkinson disease – Continue carbidopa-levodopa; hold morning dose on day of surgery per anesthesia.
+3. Hypertension – Continue lisinopril.
+4. Osteoporosis – Continue supplements.
+
+Disposition planning: Anticipate discharge to inpatient rehabilitation facility given Parkinson disease and functional needs.
+
+---
+
+Electronically signed:
+Okonkwo, Chuka MD
+Hospitalist
+2026-05-14 18:00:00

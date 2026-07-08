@@ -1,0 +1,31 @@
+MEMORIAL GENERAL HOSPITAL
+Radiology Report
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005395
+DOB: 05/15/1938
+Exam Date: 04/20/2026 0655
+Accession: RAD-2026-005395-01
+
+EXAM:
+CT HEAD WITHOUT CONTRAST
+
+CLINICAL HISTORY:
+88-year-old female with acute confusion and fever. Recent hip hemiarthroplasty. Evaluate for intracranial process.
+
+TECHNIQUE:
+Axial CT images of the head without IV contrast.
+
+COMPARISON:
+None available.
+
+FINDINGS:
+No acute intracranial hemorrhage, mass effect, or midline shift. No acute territorial infarction. Mild chronic microvascular ischemic changes. Moderate cerebral atrophy appropriate for age. Calvarium intact. Visualized paranasal sinuses clear.
+
+IMPRESSION:
+No acute intracranial abnormality. Chronic microvascular changes and age-related atrophy.
+
+Electronically signed by:
+Hartman, Lisa MD
+04/20/2026 0710

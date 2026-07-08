@@ -1,0 +1,57 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+PATIENT: Kapoor, Naomi S
+MRN: 10113
+DOB: 1937-11-22
+SEX: F
+ENCOUNTER FIN: 008001
+ADMIT DATE: 2026-07-06
+DISCHARGE DATE: 2026-07-10
+DISCHARGE TIME: 11:00
+
+ATTENDING: Okonkwo, Chidi MD (Hospitalist)
+SURGEON: Mitchell, James MD
+
+ADMITTING DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A)
+
+PRINCIPAL PROCEDURE:
+Left hip hemiarthroplasty (0SR902A) on 04/11/2026
+
+DISCHARGE DIAGNOSES:
+1. Displaced left femoral neck fracture, s/p hemiarthroplasty
+2. Dementia, Alzheimer's type (F02.80)
+3. Osteoporosis, age-related (M81.0)
+4. Essential hypertension (I10)
+5. Type 2 diabetes mellitus, uncomplicated (E11.9)
+6. Post-operative delirium (F05)
+
+HOSPITAL COURSE:
+The patient underwent left hip hemiarthroplasty on 04/11 without complications. Post-operatively, she developed delirium on POD1 (04/12) with confusion and agitation. CAM was positive. She was treated with non-pharmacologic measures and low-dose haloperidol as needed. Delirium improved by POD3. She was evaluated by PT/OT and made progress with ambulation using a walker with assistance. Wound healing was satisfactory. She was deemed stable for discharge with home health services.
+
+DISCHARGE MEDICATIONS:
+- Donepezil 10 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Metformin 500 mg BID (resume when eating well)
+- Acetaminophen 650 mg q6h PRN pain
+- Enoxaparin 40 mg subQ daily for 14 days (DVT prophylaxis)
+
+DISCHARGE DISPOSITION:
+Home with home health agency (HHA) - Prairie Home Health
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Patel, Anjali): 04/17/2026 at 10:00
+- Orthopedic follow-up: 04/24/2026 with Dr. Mitchell
+
+CONDITION ON DISCHARGE:
+Stable. Alert, oriented to person and place. Ambulates with walker with assistance.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+NPI: 9988776655
+Date/Time: 2026-07-10 10:00

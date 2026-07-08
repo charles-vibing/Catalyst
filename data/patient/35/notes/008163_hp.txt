@@ -1,0 +1,59 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008163
+DOB: 1940-03-12
+Sex: F
+
+Date of Admission: 2026-07-23
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Shortness of breath and fever.
+
+HISTORY OF PRESENT ILLNESS: Ms. Berger is an 86-year-old female with history of type 2 diabetes, PVD, CKD stage 3b, hypertension, and recent left subtrochanteric femur fracture status post intramedullary nail (FIN 008162) who was discharged to Prairie View Skilled Nursing Facility on 2026-07-17. She developed progressive dyspnea, productive cough with green sputum, and fever to 101.5 F over the past 24 hours. She was transferred from the SNF to the ED. On arrival, she is tachypneic, hypoxic to 88% on room air, and febrile. Chest X-ray shows left lower lobe infiltrate. Labs show leukocytosis and elevated creatinine. Admitted for aspiration pneumonia.
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus
+- Peripheral vascular disease
+- Chronic kidney disease, stage 3b
+- Essential hypertension
+- Hyperlipidemia
+- Left subtrochanteric femur fracture (recent surgery)
+
+PAST SURGICAL HISTORY: Left IM nail 2026-07-13.
+
+HOME MEDICATIONS (prior to SNF admission):
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Aspirin 81 mg PO daily
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives alone; currently at SNF.
+
+PHYSICAL EXAMINATION:
+Vital Signs: BP 130/70, HR 102, RR 24, Temp 38.8 C, O2 sat 88% on RA, improved to 94% on 2L NC.
+General: Ill-appearing, alert.
+HEENT: Mucous membranes dry.
+CV: Tachycardic, regular.
+Lungs: Crackles left base, decreased breath sounds.
+Abdomen: Soft.
+Extremities: Left hip incision healing well, no erythema or drainage.
+
+LABORATORY DATA:
+- WBC: 14.5 K/uL
+- Hemoglobin: 9.5 g/dL
+- Creatinine: 2.0 mg/dL
+- Glucose: 180 mg/dL
+- Blood cultures: pending
+
+ASSESSMENT/PLAN:
+86-year-old female with aspiration pneumonia, likely secondary to deconditioning and dysphagia post-surgery. Plan: Start empiric antibiotics (ceftriaxone and azithromycin; avoid sulfa). IV fluids. Monitor renal function. Continue insulin sliding scale. PT/OT for mobility. Will coordinate with SNF for return after treatment.
+
+Electronically signed by:
+Okonkwo, Chidi MD
+Hospitalist
+2026-07-23 09:00

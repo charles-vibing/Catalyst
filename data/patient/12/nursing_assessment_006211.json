@@ -1,0 +1,46 @@
+{
+  "patient_id": 12,
+  "mrn": "10092",
+  "fin": "006211",
+  "extracted_at": "2026-03-28T10:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 20,
+      "risk_level": "Low",
+      "recorded_at": "2026-03-24T17:30:00-06:00",
+      "factors": [
+        "Age 70"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 15,
+      "risk_level": "Low",
+      "recorded_at": "2026-03-26T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 22,
+      "risk_level": "Mild risk",
+      "recorded_at": "2026-03-24T17:30:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-03-24T17:30:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-03-26T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Right thigh lateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-03-26T08:00:00-06:00"
+    }
+  ]
+}

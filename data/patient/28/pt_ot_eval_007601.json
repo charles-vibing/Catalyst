@@ -1,0 +1,31 @@
+{
+  "patient_id": 28,
+  "mrn": "10108",
+  "fin": "007601",
+  "extracted_at": "2026-06-17T10:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-06-16",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Independent ambulation without assistive device",
+    "current_mobility": "Ambulated 80 feet with front-wheeled walker and minimal assist",
+    "weight_bearing": "Weight bearing as tolerated left lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Discharge home with walker; outpatient PT follow-up",
+    "goals": [
+      "Ambulate 150 feet with walker independently",
+      "Safe transfers bed-chair-toilet"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-06-16",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Independent with ADLs using adaptive equipment at bedside",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher"
+    ],
+    "home_safety": "Lives with daughter in single-story home; no safety concerns"
+  }
+}

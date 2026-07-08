@@ -1,0 +1,37 @@
+==============================================================================
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+==============================================================================
+
+RADIOLOGY REPORT
+
+PATIENT: Voss, Loretta N
+MRN: 10123
+DOB: 1954-03-22
+SEX: F
+ENCOUNTER FIN: 008805
+DATE OF SERVICE: 2026-08-02
+
+EXAM: XR RIGHT HIP 2 VIEWS
+ACCESSION: RAD-2026-008805-01
+
+CLINICAL INDICATION: 72-year-old female with ground-level fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: Anteroposterior and cross-table lateral views of the right hip.
+
+FINDINGS:
+There is a displaced right femoral neck fracture (midcervical). The fracture is angulated with mild impaction. No intra-articular loose bodies. The acetabulum is intact. No other acute fracture or dislocation. Mild degenerative changes of the hip joint. Osteopenia noted.
+
+IMPRESSION:
+Displaced right femoral neck fracture (S72.031A).
+
+RECOMMENDATION: Orthopedic consultation for surgical management.
+
+
+
+Electronically signed:
+Hartman, David MD
+Radiology
+2026-08-02 15:15:00
+
+==============================================================================

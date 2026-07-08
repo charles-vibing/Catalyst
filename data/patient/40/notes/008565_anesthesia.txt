@@ -1,0 +1,47 @@
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+
+ANESTHESIA PRE-OPERATIVE EVALUATION
+
+PATIENT: Finch, Horace E
+MRN: 10120
+DOB: 1934-06-14
+SEX: M
+FIN: 008565
+SURGERY DATE: 2026-07-26
+
+PROCEDURE: Right hip hemiarthroplasty
+
+SURGEON: Mitchell, David MD
+
+ANESTHESIOLOGIST: Patel, Anita MD
+
+HISTORY: 91-year-old male with hypertension and osteoporosis. No prior surgeries. No known allergies.
+
+MEDICATIONS: Lisinopril 10 mg daily, cholecalciferol 1000 units daily, calcium carbonate 500 mg twice daily.
+
+REVIEW OF SYSTEMS: No chest pain, palpitations, dyspnea, or recent illness.
+
+PHYSICAL EXAMINATION:
+BP 136/80, HR 84, RR 14, Temp 36.7 C, O2 sat 98%.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear.
+
+LABORATORY DATA (2026-07-25):
+- Albumin: 3.5 g/dL
+- Hemoglobin: 12.0 g/dL
+- Creatinine: 0.9 mg/dL
+- Sodium: 139 mEq/L
+- Potassium: 4.1 mEq/L
+- WBC: 7.2 K/uL
+- Platelets: 210 K/uL
+
+ASA CLASS: III
+
+ASSESSMENT: Elderly patient with mild systemic disease (hypertension) and osteoporosis. Acceptable surgical risk. Plan for spinal anesthesia with sedation.
+
+ELECTRONICALLY SIGNED:
+Patel, Anita MD
+Anesthesiology
+2026-07-26 06:30:00

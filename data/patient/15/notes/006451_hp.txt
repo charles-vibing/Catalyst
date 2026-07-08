@@ -1,0 +1,53 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient Name: MILLER, SUSAN A
+MRN: 10095
+DOB: 1955-06-12
+Sex: F
+FIN: 006451
+Admission Date: 2026-04-08
+
+CHIEF COMPLAINT: Right leg pain after fall.
+
+HISTORY OF PRESENT ILLNESS: This is a 70-year-old female with history of hypertension who presents after a ground-level fall at home earlier today. She tripped on a rug and landed on her right side. She immediately noted severe right thigh pain and inability to bear weight. She was brought to the Emergency Department by her spouse. Imaging in the ED revealed a displaced right femoral shaft fracture. Orthopedic surgery was consulted and the patient is admitted for operative management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+
+ALLERGIES: Sulfa (rash)
+
+SOCIAL HISTORY: Lives with spouse in a single-family home. Retired school teacher. No tobacco use. Occasional alcohol. Independent in all activities of daily living.
+
+FAMILY HISTORY: Non-contributory.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, dyspnea, or fever.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+General: Alert, oriented, in moderate distress.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right thigh swollen and tender. Neurovascularly intact distally. Left leg normal.
+
+LABORATORY DATA (pre-op):
+- Albumin: 4.0 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.8 mg/dL
+
+ASSESSMENT/PLAN:
+70-year-old female with right femoral shaft fracture. Plan for intramedullary nail fixation tomorrow. Continue lisinopril. Hold anticoagulation. DVT prophylaxis. Pain management. PT/OT evaluation post-op.
+
+---
+
+Electronically signed by:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-04-08 18:00

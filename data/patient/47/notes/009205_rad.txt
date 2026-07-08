@@ -1,0 +1,36 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009205
+Exam Date: 2026-08-12
+Accession: RAD-2026-009205-01
+
+================================================================================
+EXAM: LEFT HIP X-RAY 2 VIEWS
+================================================================================
+
+CLINICAL INDICATION: 86-year-old female with ground-level fall, left hip pain, unable to bear weight. History of T2DM, PVD, CKD, HTN.
+
+TECHNIQUE: AP pelvis and left hip cross-table lateral views.
+
+COMPARISON: None.
+
+FINDINGS:
+There is a displaced subtrochanteric fracture of the left proximal femur. The fracture line is transverse at the level of the lesser trochanter with approximately 2 cm of shortening and varus angulation. No intra-articular extension. No other acute fractures. Mild degenerative changes of the left hip joint. Vascular calcifications noted.
+
+IMPRESSION:
+Displaced left subtrochanteric femur fracture (S72.212A).
+
+================================================================================
+
+Electronically signed:
+Hartman, Laura MD
+Staff Radiologist
+2026-08-12 15:45:00 -06:00

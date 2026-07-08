@@ -1,0 +1,34 @@
+{
+  "patient_id": 15,
+  "mrn": "10095",
+  "name": {
+    "family": "Miller",
+    "given": "Susan",
+    "middle": "A"
+  },
+  "birth_date": "1955-06-12",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1420 E Cook Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "James Miller",
+    "relationship": "Spouse",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Thompson, Laura MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000095"
+  }
+}

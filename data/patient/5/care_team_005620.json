@@ -1,0 +1,33 @@
+{
+  "patient_id": 5,
+  "mrn": "10085",
+  "fin": "005620",
+  "extracted_at": "2026-02-16T17:15:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Mitchell, Sarah MD",
+      "npi": "1234567890",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Hospitalist consult",
+      "name": "Okonkwo, James MD",
+      "npi": "1098765432",
+      "service": "Internal Medicine"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Lee, Marcus MD",
+      "npi": "5566778899",
+      "service": "Internal Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

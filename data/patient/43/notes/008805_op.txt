@@ -1,0 +1,52 @@
+==============================================================================
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+==============================================================================
+
+OPERATIVE REPORT
+
+PATIENT: Voss, Loretta N
+MRN: 10123
+DOB: 1954-03-22
+SEX: F
+ENCOUNTER FIN: 008805
+DATE OF SURGERY: 2026-08-03
+
+SURGEON: Mitchell, James MD (Orthopedic Surgery)
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIOLOGIST: Patel, Ravi MD
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A)
+
+POSTOPERATIVE DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A)
+
+PROCEDURE PERFORMED:
+Right hip hemiarthroplasty (ICD-10-PCS 0SR902A, CPT 27125)
+
+ANESTHESIA: Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+FLUIDS: 1500 mL Lactated Ringer's
+
+URINE OUTPUT: 400 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+This is a 72-year-old female with a displaced right femoral neck fracture who is an active community ambulator. Hemiarthroplasty is indicated for this fracture pattern.
+
+DESCRIPTION OF PROCEDURE:
+After obtaining informed consent, the patient was brought to the operating room and placed in the supine position on a fracture table. General endotracheal anesthesia was induced. The right lower extremity was prepped and draped in sterile fashion. A standard posterior approach to the right hip was made. The fascia was incised, and the short external rotators were released. The hip was dislocated posteriorly. The femoral neck was osteotomized at the appropriate level. The femoral head was removed. The acetabulum was inspected and found to be intact. The femoral canal was sequentially broached. A trial component was placed and reduced; stability and range of motion were satisfactory. The final cemented femoral stem and bipolar head were implanted. The hip was reduced. The wound was irrigated and closed in layers over a drain. Sterile dressings were applied.
+
+SPONGE, NEEDLE, AND INSTRUMENT COUNTS: Correct x2
+
+
+
+Electronically signed:
+Mitchell, James MD
+2026-08-03 12:30:00
+
+==============================================================================

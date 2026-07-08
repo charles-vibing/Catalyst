@@ -1,0 +1,33 @@
+{
+  "patient_id": 6,
+  "mrn": "10086",
+  "fin": "005700",
+  "extracted_at": "2026-02-27T11:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Patel, Ravi MD",
+      "npi": "1234567891",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Hospitalist",
+      "name": "Okonkwo, James MD",
+      "npi": "1098765432",
+      "service": "Internal Medicine"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Harris, Linda MD",
+      "npi": "9876543210",
+      "service": "Family Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

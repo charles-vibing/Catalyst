@@ -1,0 +1,29 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Abernathy, Clyde W
+MRN: 10105
+DOB: 1934-07-22
+SEX: M
+ENCOUNTER FIN: 007361
+
+EXAM: XR RIGHT HIP 3 VIEWS
+ACCESSION: RAD-2026-007361-01
+EXAM DATE/TIME: 2026-05-29T15:00:00-06:00
+REPORT DATE/TIME: 2026-05-29T15:30:00-06:00
+
+CLINICAL HISTORY: 91-year-old male, ground-level fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: Anteroposterior and lateral views of the right hip and pelvis.
+
+FINDINGS: There is a displaced intertrochanteric fracture of the right femur. The fracture extends through the intertrochanteric region with mild comminution. There is no evidence of pathologic lesion. Joint spaces are preserved. No other acute findings.
+
+IMPRESSION: Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION: Orthopedic consultation for surgical management.
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiology
+NPI: 1234567891
+2026-05-29T15:30:00-06:00

@@ -1,0 +1,91 @@
+MEMORIAL GENERAL HOSPITAL
+Anesthesia Preprocedure Evaluation
+
+Patient: O'Brien, Margaret A
+MRN: 10061
+FIN: 005190
+DOB: 05/22/1940
+Date of Service: 03/20/2026
+Planned Procedure: Right femur intramedullary nail fixation
+Planned OR Time: 03/20/2026 0730
+Location: OR 7 — Main Campus
+
+ANESTHESIOLOGIST:
+Patel, Rina MD
+
+SURGEON:
+Mitchell, Sarah MD
+
+PROCEDURE:
+Right femur cephalomedullary nail fixation for intertrochanteric fracture
+
+ANESTHESIA PLAN:
+General endotracheal anesthesia
+Arterial line: not planned
+Central line: not planned
+Postoperative disposition: PACU, then floor
+
+ASA CLASS:
+III — severe systemic disease
+
+AIRWAY ASSESSMENT:
+Mallampati II
+Mouth opening normal
+Thyromental distance > 3 fingerbreadths
+Neck ROM adequate for intubation
+Previous intubation: unremarkable per patient (cholecystectomy)
+Anticipated airway: routine
+
+NPO STATUS:
+NPO since midnight for solids and clear liquids per protocol
+Last oral intake: 03/19/2026 2200
+
+HOME MEDICATIONS REVIEWED:
+Carvedilol — held morning of surgery
+Lisinopril — held morning of surgery
+Metformin — held
+Furosemide — held morning of surgery
+Atorvastatin — continued
+Alendronate — held
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+Premedication: none required beyond standard surgical antibiotics per surgeon; latex-free gloves and equipment
+
+CARDIAC HISTORY:
+HFrEF, EF 30% (02/2026)
+Hypertension
+ECG today: sinus rhythm, ventricular rate 84, no acute ischemic changes
+Functional capacity: < 4 METs (limited mobility at baseline, now non-ambulatory due to fracture)
+Active cardiac conditions: compensated heart failure
+
+PULMONARY HISTORY:
+No COPD, never smoker
+Exam: clear lungs, SpO2 94% on room air this morning
+Plan: avoid excessive opioids, lung-protective ventilation
+
+RENAL:
+CKD stage 3b, creatinine 1.6 on admission
+
+OTHER:
+Type 2 diabetes — glucose 156 this AM; insulin sliding scale ordered perioperatively
+Obesity: BMI 24
+
+LABS REVIEWED:
+Hgb 10.8, platelets 195
+INR 1.0, PT 12.1
+BMP: Cr 1.6, albumin 2.9
+
+RISK DISCUSSION:
+Risks of general anesthesia discussed including but not limited to dental injury, sore throat, nausea/vomiting, aspiration, cardiovascular instability, respiratory complications, and need for postoperative ventilation (low likelihood). Patient and son verbalized understanding via phone. Questions answered.
+
+PLAN:
+- General anesthesia with standard ASA monitors
+- Careful fluid management given CHF/CKD
+- Multimodal analgesia; avoid codeine-containing agents
+- Postoperative nausea prophylaxis: ondansetron
+- PONV moderate risk
+
+Electronically signed by:
+Patel, Rina MD
+03/20/2026 0645

@@ -1,0 +1,79 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+============================================================
+
+PATIENT: Morales, Adele L
+MRN: 10119
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 008485
+ADMIT DATE: 2026-07-22
+
+ATTENDING: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 76-year-old female who was at home alone when she tripped on a
+rug and fell onto her left side. She was unable to get up and called her
+daughter, who lives out of state. The daughter called 911. EMS transported
+patient to Memorial General Hospital ED. On arrival, patient reported severe
+left hip pain and inability to bear weight. X-ray in ED showed displaced left
+femoral neck fracture. Patient is now admitted for left hip hemiarthroplasty.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+ALLERGIES:
+- Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Patient lives alone in a 3rd-floor walkup apartment. No elevator. Daughter
+lives out of state and is her emergency contact. Patient is independent in
+ADLs but does not drive. Uses public transportation. No tobacco or alcohol
+use.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations.
+Respiratory: No dyspnea, cough. GI: No nausea, vomiting. Musculoskeletal:
+Left hip pain as above. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Well-appearing female in moderate distress due to pain.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Left leg shortened and externally rotated. Pain with any
+movement of left hip. Right leg normal. Distal pulses intact.
+Neurologic: Alert and oriented x3.
+
+ASSESSMENT/PLAN:
+76-year-old female with HTN and osteoporosis, s/p ground-level fall,
+sustained displaced left femoral neck fracture. Plan:
+1. Left hip hemiarthroplasty (ORIF) planned for tomorrow AM.
+2. Pre-op labs: CBC, CMP, coagulation studies, type and screen.
+3. Hold lisinopril on day of surgery.
+4. DVT prophylaxis: Enoxaparin 40 mg SQ daily starting POD1.
+5. Pain management: Acetaminophen 650 mg PO q6h, oxycodone 5 mg PO q4h PRN.
+6. PT/OT consult post-op.
+7. Discharge planning: likely home with home health services given living
+   situation; social work consult for transportation barriers.
+
+ATTENDING: Okonkwo, Chidi MD
+NPI: 1234567896
+SIGNED: 2026-07-22 17:00:00

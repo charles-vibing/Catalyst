@@ -1,0 +1,30 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Hassan, Omar K
+MRN: 10099
+DOB: 1947-03-22
+SEX: M
+ENCOUNTER FIN: 006772
+
+EXAMINATION: XR RIGHT HIP 3 VIEWS
+CLINICAL INDICATION: Ground-level fall, right hip pain, unable to bear weight
+TECHNIQUE: AP pelvis, AP and lateral views of the right hip
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the right femur. The fracture extends from the greater trochanter to the lesser trochanter with approximately 5 mm of displacement and mild angulation. The femoral head is seated within the acetabulum. No evidence of dislocation. Mild degenerative changes of the hip joint are noted. The visualized osseous structures are osteopenic.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+RADIOLOGIST:
+Hartman, Laura MD
+NPI: 1234567895
+
+ELECTRONICALLY SIGNED: 04/10/2026 15:15
+================================================================================

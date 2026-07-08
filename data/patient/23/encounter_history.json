@@ -1,0 +1,80 @@
+{
+  "patient_id": 23,
+  "extracted_at": "2026-06-20T10:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "301234",
+      "admit_datetime": "2025-08-15T10:30:00-05:00",
+      "discharge_datetime": "2025-08-18T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I48.91",
+      "principal_diagnosis": "Atrial fibrillation",
+      "ms_drg": "310",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "301550",
+      "admit_datetime": "2025-11-20T08:00:00-06:00",
+      "discharge_datetime": "2025-11-20T10:00:00-06:00",
+      "patient_class": "Outpatient",
+      "hospital_service": "Cardiology",
+      "admit_source": "Direct Referral",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1122334455",
+      "attending": "Rivera, Ana MD",
+      "principal_diagnosis_icd10": "I48.91",
+      "principal_diagnosis": "Atrial fibrillation",
+      "ms_drg": null,
+      "length_of_stay_days": 0
+    },
+    {
+      "fin": "007101",
+      "admit_datetime": "2026-05-19T14:30:00-06:00",
+      "discharge_datetime": "2026-05-26T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.141A",
+      "principal_diagnosis": "Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 7,
+      "procedures": [
+        {
+          "date": "2026-05-22",
+          "description": "Insertion of internal fixation device into right femur, open approach",
+          "icd10_pcs": "0QS606Z",
+          "cpt": "27245"
+        }
+      ]
+    },
+    {
+      "fin": "007201",
+      "admit_datetime": "2026-06-20T09:00:00-06:00",
+      "discharge_datetime": "2026-06-23T14:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "K92.2",
+      "principal_diagnosis": "Gastrointestinal hemorrhage, unspecified",
+      "ms_drg": "377",
+      "length_of_stay_days": 3,
+      "ed_visit_datetime": "2026-06-20T08:00:00-06:00"
+    }
+  ]
+}

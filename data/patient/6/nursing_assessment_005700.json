@@ -1,0 +1,55 @@
+{
+  "patient_id": 6,
+  "mrn": "10086",
+  "fin": "005700",
+  "extracted_at": "2026-02-27T11:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 60,
+      "risk_level": "High",
+      "recorded_at": "2026-02-22T17:00:00-06:00",
+      "factors": [
+        "History of falling",
+        "Secondary diagnosis (CKD, PVD)",
+        "Gait/balance deficit",
+        "Age 86"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 55,
+      "risk_level": "High",
+      "recorded_at": "2026-02-25T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 15,
+      "risk_level": "Moderate risk",
+      "recorded_at": "2026-02-22T17:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 16,
+      "risk_level": "At risk",
+      "recorded_at": "2026-02-25T08:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-02-22T17:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-02-25T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Left hip lateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-02-25T08:00:00-06:00"
+    }
+  ]
+}

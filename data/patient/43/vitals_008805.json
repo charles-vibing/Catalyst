@@ -1,0 +1,53 @@
+{
+  "patient_id": 43,
+  "mrn": "10123",
+  "fin": "008805",
+  "extracted_at": "2026-08-05T12:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_VITALS",
+  "vitals": [
+    {
+      "recorded_at": "2026-08-02T14:45:00-06:00",
+      "temp_f": 98.2,
+      "heart_rate": 82,
+      "resp_rate": 16,
+      "bp_systolic": 138,
+      "bp_diastolic": 76,
+      "spo2_percent": 97,
+      "o2_delivery": "Room air",
+      "pain_score": 7
+    },
+    {
+      "recorded_at": "2026-08-03T07:00:00-06:00",
+      "temp_f": 98.4,
+      "heart_rate": 78,
+      "resp_rate": 16,
+      "bp_systolic": 130,
+      "bp_diastolic": 72,
+      "spo2_percent": 98,
+      "o2_delivery": "Room air",
+      "pain_score": 5
+    },
+    {
+      "recorded_at": "2026-08-04T07:00:00-06:00",
+      "temp_f": 98.1,
+      "heart_rate": 74,
+      "resp_rate": 14,
+      "bp_systolic": 126,
+      "bp_diastolic": 70,
+      "spo2_percent": 98,
+      "o2_delivery": "Room air",
+      "pain_score": 3
+    },
+    {
+      "recorded_at": "2026-08-05T07:00:00-06:00",
+      "temp_f": 98.0,
+      "heart_rate": 72,
+      "resp_rate": 14,
+      "bp_systolic": 124,
+      "bp_diastolic": 68,
+      "spo2_percent": 99,
+      "o2_delivery": "Room air",
+      "pain_score": 2
+    }
+  ]
+}

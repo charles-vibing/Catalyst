@@ -1,0 +1,52 @@
+{
+  "patient_id": 6,
+  "extracted_at": "2026-02-22T15:00:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 601,
+      "description": "Type 2 diabetes mellitus without complications",
+      "icd10": "E11.9",
+      "snomed": "44054006",
+      "status": "Active",
+      "onset_date": "2010-05-12",
+      "last_reviewed": "2026-01-12"
+    },
+    {
+      "problem_id": 602,
+      "description": "Peripheral vascular disease, unspecified",
+      "icd10": "I73.9",
+      "snomed": "400047006",
+      "status": "Active",
+      "onset_date": "2015-08-22",
+      "last_reviewed": "2025-12-05"
+    },
+    {
+      "problem_id": 603,
+      "description": "Chronic kidney disease, stage 3b",
+      "icd10": "N18.32",
+      "snomed": "700379002",
+      "status": "Active",
+      "onset_date": "2018-03-15",
+      "last_reviewed": "2026-01-12"
+    },
+    {
+      "problem_id": 604,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2005-11-01",
+      "last_reviewed": "2025-11-20"
+    },
+    {
+      "problem_id": 605,
+      "description": "Hyperlipidemia, unspecified",
+      "icd10": "E78.5",
+      "snomed": "55822004",
+      "status": "Active",
+      "onset_date": "2012-07-30",
+      "last_reviewed": "2025-09-14"
+    }
+  ]
+}

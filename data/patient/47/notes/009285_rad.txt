@@ -1,0 +1,36 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009285
+Exam Date: 2026-08-24
+Accession: RAD-2026-009285-01
+
+================================================================================
+EXAM: CHEST X-RAY 2 VIEWS
+================================================================================
+
+CLINICAL INDICATION: 86-year-old female with shortness of breath and fever, transferred from SNF. History of recent hip surgery.
+
+TECHNIQUE: PA and lateral chest radiograph.
+
+COMPARISON: None.
+
+FINDINGS:
+There is a dense left lower lobe infiltrate with air bronchograms. No pleural effusion. Cardiac silhouette is normal. No pneumothorax.
+
+IMPRESSION:
+Left lower lobe pneumonia, likely aspiration.
+
+================================================================================
+
+Electronically signed:
+Hartman, Laura MD
+Staff Radiologist
+2026-08-24 10:30:00 -06:00

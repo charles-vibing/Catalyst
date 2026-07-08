@@ -1,0 +1,39 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Sullivan, Vincent P
+MRN: 10097
+DOB: 1940-08-22
+SEX: M
+FIN: 006611
+
+DATE OF SURGERY: 2026-04-21
+
+SURGEON: Mitchell, David MD (NPI: 1234567890)
+
+ANESTHESIOLOGIST: Patel, Raj MD (NPI: 1234567892)
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+POSTOPERATIVE DIAGNOSIS:
+Same.
+
+PROCEDURE PERFORMED:
+Right hip cephalomedullary nail fixation (IM nail).
+
+ANESTHESIA: General endotracheal.
+
+ESTIMATED BLOOD LOSS: 200 mL.
+
+COMPLICATIONS: None.
+
+INDICATIONS:
+85-year-old male with displaced right intertrochanteric femur fracture requiring surgical fixation.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia, the patient was positioned supine on a fracture table. The right lower extremity was prepped and draped in sterile fashion. Under fluoroscopic guidance, closed reduction was performed with acceptable alignment. A small incision was made over the greater trochanter, and a guidewire was placed into the femoral head. The proximal femur was reamed, and an appropriate-size cephalomedullary nail was inserted. A set screw was placed, and a lag screw was inserted into the femoral head. Distal locking screws were placed. Final fluoroscopic images confirmed good position and alignment. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+SIGNED:
+Mitchell, David MD
+Date/Time: 2026-04-21 10:30

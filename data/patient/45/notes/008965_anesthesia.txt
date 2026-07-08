@@ -1,0 +1,50 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+==============================
+
+Patient Name: ESPINOZA, ROSA C
+MRN: 10125
+DOB: 1937-11-22
+Sex: F
+Encounter FIN: 008965
+Procedure: Left hip hemiarthroplasty
+Scheduled Date: 2026-08-08
+
+HISTORY:
+88-year-old female with dementia, osteoporosis, hypertension, hyperlipidemia. No prior surgeries. No known anesthetic complications.
+
+ALLERGIES: Penicillin (rash)
+
+MEDICATIONS:
+- Donepezil 10 mg daily
+- Cholecalciferol 2000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily (held today)
+- Atorvastatin 20 mg daily
+
+PHYSICAL EXAM:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation.
+
+LABS (pre-op):
+- Albumin: 3.2 g/dL (low)
+- Hemoglobin: 11.0 g/dL (low)
+- Creatinine: 0.9 mg/dL (normal)
+- Sodium: 138 mEq/L
+- Potassium: 4.1 mEq/L
+- WBC: 7.2 K/uL
+- Platelets: 210 K/uL
+- INR: 1.1
+
+ASA CLASS: III
+
+PLAN:
+Spinal anesthesia with sedation. Antibiotic prophylaxis: cefazolin (no PCN allergy per history of rash only). Continue routine monitoring.
+
+Electronically signed:
+Patel, Raj MD
+Anesthesiology
+Memorial General Hospital
+Date/Time: 2026-08-08 06:30 CST

@@ -1,0 +1,28 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Kaminski, Thelma J
+MRN: 10111
+DOB: 1953-07-14
+SEX: F
+FIN: 007841
+
+EXAM: Right hip X-ray (2 views)
+DATE OF EXAM: 2026-07-01 14:45:00 CST
+ACCESSION: RAD-2026-007841-01
+
+HISTORY: Ground-level fall at home today. Right hip pain, unable to bear weight.
+
+FINDINGS:
+Displaced right femoral neck fracture (midcervical). There is approximately 1.5 cm of shortening and 10 degrees of varus angulation. No intra-articular loose bodies. The acetabulum is intact. Mild degenerative changes of the hip joint noted. No other fractures identified.
+
+IMPRESSION:
+Displaced right femoral neck fracture (S72.031A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiology
+2026-07-01 15:30:00 CST

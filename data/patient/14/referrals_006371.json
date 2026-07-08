@@ -1,0 +1,33 @@
+{
+  "patient_id": 14,
+  "mrn": "10094",
+  "fin": "006371",
+  "extracted_at": "2026-04-06T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-006371-001",
+      "type": "Primary Care",
+      "referred_to_npi": "1234567899",
+      "referred_to": "Williams, James MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-04-06T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-04-13T10:00:00-06:00"
+    },
+    {
+      "referral_id": "REF-006371-002",
+      "type": "Hospice",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Hope Hospice Services",
+      "reason": "Hospice care at home",
+      "priority": "Urgent",
+      "status": "Completed",
+      "ordered_at": "2026-04-06T14:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-04-07T14:00:00-06:00"
+    }
+  ]
+}

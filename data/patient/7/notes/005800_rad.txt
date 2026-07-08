@@ -1,0 +1,28 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Nguyen, Patricia L
+MRN: 10087
+DOB: 1948-09-12
+SEX: F
+FIN: 005800
+
+EXAM: XR RIGHT HIP 3 VIEWS
+ACCESSION: RAD-2026-005800-01
+DATE/TIME: 2026-02-27 14:45 CST
+
+HISTORY: 77-year-old female with ground-level fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: Three views of the right hip.
+
+FINDINGS:
+Displaced intertrochanteric fracture of the right femur. There is comminution of the greater trochanter. The femoral head appears intact. No acetabular fracture. Moderate osteopenia noted.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+SIGNED:
+Hartman, David MD
+Radiologist
+NPI: 2345678901
+2026-02-27 15:30 CST

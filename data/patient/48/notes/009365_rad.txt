@@ -1,0 +1,36 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Romano, Lorenzo P
+MRN: 10128
+DOB: 1948-06-15  SEX: M
+ENCOUNTER FIN: 009365
+
+EXAM: XR HIP RIGHT 2 VIEWS
+ACCESSION: RAD-2026-009365-01
+EXAM DATE/TIME: 2026-08-15 09:30
+REPORT DATE/TIME: 2026-08-15 10:15
+
+CLINICAL INDICATION: Ground-level fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: AP pelvis and cross-table lateral of the right hip.
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the right proximal femur. 
+The fracture extends from the greater trochanter through the intertrochanteric 
+region to the lesser trochanter. There is approximately 5 mm of displacement. 
+No intra-articular extension. The femoral head appears intact. No evidence of 
+pathologic fracture. Degenerative changes of the hip joint are noted. 
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION: Orthopedic surgery consultation.
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD (Radiology)
+NPI: 1234567895
+2026-08-15 10:15
+================================================================================

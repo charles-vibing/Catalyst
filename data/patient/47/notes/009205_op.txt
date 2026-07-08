@@ -1,0 +1,63 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009205
+Date of Surgery: 2026-08-14
+
+================================================================================
+PREOPERATIVE DIAGNOSIS:
+Displaced left subtrochanteric femur fracture (S72.212A)
+
+================================================================================
+POSTOPERATIVE DIAGNOSIS:
+Same.
+
+================================================================================
+PROCEDURE PERFORMED:
+Left cephalomedullary intramedullary nail fixation of subtrochanteric femur fracture (ICD-10-PCS: 0QS706Z; CPT: 27245)
+
+================================================================================
+SURGEON:
+Mitchell, James MD, Orthopedic Surgery
+
+================================================================================
+ANESTHESIA:
+General endotracheal anesthesia by Dr. Patel
+
+================================================================================
+ESTIMATED BLOOD LOSS:
+250 mL
+
+================================================================================
+FLUIDS:
+Crystalloid: 2000 mL
+
+================================================================================
+URINE OUTPUT:
+400 mL
+
+================================================================================
+COMPLICATIONS:
+None.
+
+================================================================================
+INDICATIONS:
+86-year-old female with displaced left subtrochanteric femur fracture after ground-level fall. Surgical fixation indicated for pain control and mobilization.
+
+================================================================================
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia, the patient was positioned supine on a fracture table. The left lower extremity was prepped and draped in sterile fashion. Under fluoroscopic guidance, the fracture was reduced with traction and rotation. A small incision was made over the greater trochanter. The starting point was identified and a guidewire was placed. The proximal femur was reamed and a cephalomedullary nail of appropriate length was inserted. A proximal lag screw was placed into the femoral head. Distal interlocking screws were placed using a freehand technique. Final fluoroscopic images confirmed excellent reduction and hardware position. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+================================================================================
+
+Electronically signed:
+Mitchell, James MD
+Orthopedic Surgery
+2026-08-14 10:30:00 -06:00

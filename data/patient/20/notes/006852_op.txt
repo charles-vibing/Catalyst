@@ -1,0 +1,34 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006852
+
+DATE OF SURGERY: 2026-05-05
+
+PREOPERATIVE DIAGNOSIS: Displaced left subtrochanteric femur fracture (S72.212A)
+
+POSTOPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left hip intramedullary nail fixation (cephalomedullary nail)
+
+SURGEON: Mitchell, James MD (Orthopedic Surgery)
+ANESTHESIA: General endotracheal
+
+INDICATIONS: 86-year-old female with displaced left subtrochanteric femur fracture after mechanical fall. Patient is at increased risk for nonunion and prolonged immobility without fixation.
+
+DESCRIPTION OF PROCEDURE: After induction of general anesthesia, patient was positioned supine on a fracture table. The left lower extremity was prepped and draped in sterile fashion. A longitudinal incision was made over the greater trochanter. The guidewire was placed into the femoral canal under fluoroscopic guidance. Reaming was performed. A 10 mm x 380 mm cephalomedullary nail was inserted and locked proximally and distally with two screws. Good alignment and rotation were confirmed fluoroscopically. The wound was irrigated and closed in layers. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+SPECIMENS: None
+
+Electronically signed:
+Mitchell, James MD
+Orthopedic Surgery
+NPI: 1234567890

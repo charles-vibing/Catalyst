@@ -1,0 +1,26 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008162
+DOB: 1940-03-12
+Sex: F
+
+Exam Date: 2026-07-12
+Accession: RAD-2026-008162-01
+
+EXAMINATION: X-ray left hip 2 views
+
+CLINICAL INDICATION: Mechanical fall, left hip pain, unable to bear weight.
+
+TECHNIQUE: AP pelvis and left hip cross-table lateral.
+
+FINDINGS: There is a displaced subtrochanteric fracture of the left femur. The fracture line is oblique, extending from the lesser trochanter to approximately 5 cm distal. There is mild comminution. No intra-articular extension. The acetabulum is intact. Osteopenia is present.
+
+IMPRESSION: Displaced left subtrochanteric femur fracture.
+
+Electronically signed by:
+Hartman, Rebecca MD
+Radiology
+2026-07-12 15:45

@@ -1,0 +1,41 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+PRE-PROCEDURE ANESTHESIA EVALUATION
+================================================================================
+
+PATIENT: Hassan, Omar K
+MRN: 10099
+DOB: 1947-03-22
+SEX: M
+ENCOUNTER FIN: 006772
+DATE OF EVALUATION: 04/11/2026
+PROCEDURE: ORIF right hip (ICD-10-PCS 0QS604Z)
+
+HISTORY:
+79-year-old male with COPD and hypertension. No prior surgeries. No history of anesthetic complications. No known drug allergies except sulfa.
+
+MEDICATIONS:
+- Tiotropium 18 mcg daily
+- Lisinopril 10 mg daily
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of neck motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear lungs.
+
+LABORATORY DATA (04/10/2026):
+- Hemoglobin: 13.0 g/dL
+- Creatinine: 1.0 mg/dL
+- INR: 1.1
+
+ASA CLASS: III (severe systemic disease - COPD)
+
+PLAN:
+General anesthesia with endotracheal intubation. Consider regional block for post-operative pain. Continue home medications. Pre-operative antibiotic: cefazolin 2 g IV (no sulfa allergy contraindication).
+
+ANESTHESIOLOGIST:
+Patel, Ravi MD
+NPI: 1234567893
+
+ELECTRONICALLY SIGNED: 04/11/2026 06:30
+================================================================================

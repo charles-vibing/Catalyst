@@ -1,0 +1,27 @@
+{
+  "patient_id": 12,
+  "mrn": "10092",
+  "fin": "006211",
+  "extracted_at": "2026-03-24T15:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Mitchell, Sarah MD",
+      "npi": "1234567890",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Williams, Sarah MD",
+      "npi": "9876543210",
+      "service": "Family Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

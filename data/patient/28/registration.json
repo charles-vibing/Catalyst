@@ -1,0 +1,34 @@
+{
+  "patient_id": 28,
+  "mrn": "10108",
+  "name": {
+    "family": "Schmidt",
+    "given": "Frieda",
+    "middle": "L"
+  },
+  "birth_date": "1954-03-12",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1810 S 15th Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0103",
+  "phone_mobile": "555-0103",
+  "emergency_contact": {
+    "name": "Martha Schmidt",
+    "relationship": "Daughter",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "1234567891",
+    "name": "Williams, Sarah MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000108"
+  }
+}

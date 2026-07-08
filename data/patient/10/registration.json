@@ -1,0 +1,39 @@
+{
+  "patient_id": 10,
+  "mrn": "10090",
+  "name": {
+    "family": "Martinez",
+    "given": "Maria",
+    "middle": "L"
+  },
+  "birth_date": "1949-08-22",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "742 N 3rd Street Apt 3B",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "Elena Garcia",
+    "relationship": "Neighbor",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, James MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000090"
+  },
+  "payer_secondary": {
+    "type": "Medicaid",
+    "plan": "Illinois Medicaid",
+    "subscriber_id": "IL-MA-000090"
+  }
+}

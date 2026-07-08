@@ -1,0 +1,63 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Kaczmarek, Walter S
+MRN: 10103
+FIN: 007101
+DOB: 1944-09-12
+SEX: M
+
+ATTENDING: Mitchell, James MD (Orthopedic Surgery)
+HOSPITALIST: Okonkwo, Chidi MD
+
+DATE OF ADMISSION: 2026-05-19
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Mr. Kaczmarek is an 81-year-old male with history of atrial fibrillation (on warfarin), hypertension, type 2 diabetes, and hyperlipidemia who presents after a mechanical ground-level fall at home earlier today. He slipped on a rug and landed on his left side. He immediately experienced severe left hip pain and was unable to bear weight. EMS transported him to the ED. Imaging revealed a displaced left intertrochanteric femur fracture. He is admitted for surgical management. He reports no head strike, no loss of consciousness. He lives with his wife and is independent in activities of daily living. He has no prior history of hip fracture.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91), diagnosed 2019, on warfarin
+- Hypertension (I10)
+- Type 2 diabetes mellitus (E11.9)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg daily
+- Metoprolol succinate 50 mg daily
+- Lisinopril 10 mg daily
+- Metformin 1000 mg BID
+- Atorvastatin 20 mg daily
+
+ALLERGIES: Sulfonamides (rash)
+
+SOCIAL HISTORY: Lives with wife in Springfield, IL. Retired teacher. No tobacco, occasional alcohol. Emergency contact: daughter Emily Kaczmarek (555-0198).
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS: Limited due to pain, otherwise negative for chest pain, dyspnea, fever, chills.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 142/78, HR 82 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% on room air.
+GENERAL: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+CARDIOVASCULAR: Irregularly irregular rhythm, no murmurs.
+LUNGS: Clear to auscultation bilaterally.
+ABDOMEN: Soft, nontender.
+EXTREMITIES: Left lower extremity shortened and externally rotated. Tender over left hip. Neurovascularly intact distally. Right leg normal.
+
+ASSESSMENT/PLAN:
+1. LEFT INTERTROCHANTERIC FEMUR FRACTURE (S72.141A) - Plan for left hip intramedullary nail (IM nail) once INR is therapeutic. Currently INR 2.8 (drawn in ED). Will hold warfarin and administer vitamin K 5 mg IV. Recheck INR in 24 hours. Goal INR <1.5 prior to surgery. Consult orthopedics.
+2. ATRIAL FIBRILLATION - Hold warfarin. Will bridge with enoxaparin if needed post-op. Monitor telemetry.
+3. HYPERTENSION - Continue metoprolol and lisinopril.
+4. TYPE 2 DIABETES - Hold metformin day of surgery. Monitor glucose.
+5. HYPERLIPIDEMIA - Continue atorvastatin.
+6. DVT PROPHYLAXIS - Enoxaparin 40 mg SQ daily starting post-op.
+7. PAIN MANAGEMENT - Acetaminophen 650 mg q6h, oxycodone 5 mg q4h PRN.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+2026-05-19 16:00

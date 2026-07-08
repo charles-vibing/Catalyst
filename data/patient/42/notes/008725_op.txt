@@ -1,0 +1,63 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+==============================
+
+Patient Name: Pike, Garrett T
+MRN: 10122
+DOB: 1948-03-15
+Sex: M
+Encounter FIN: 008725
+
+Date of Surgery: 2026-07-31
+
+Surgeon: Mitchell, Sarah MD
+Assistant: Torres, Maria PA-C
+Anesthesia: Patel, Ravi MD
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+POSTOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture
+
+PROCEDURE PERFORMED:
+Right hip hemiarthroplasty (ICD-10-PCS 0SRB02A, CPT 27125)
+
+ANESTHESIA:
+Spinal with sedation
+
+ESTIMATED BLOOD LOSS:
+250 mL
+
+FLUIDS:
+1500 mL crystalloid
+
+URINE OUTPUT:
+400 mL
+
+COMPLICATIONS:
+None
+
+INDICATIONS:
+78-year-old male with displaced right intertrochanteric femur fracture
+requiring surgical intervention.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, patient was positioned in left
+lateral decubitus position. The right hip was prepped and draped in
+sterile fashion. A standard posterior approach to the right hip was
+made. The femoral neck was exposed and osteotomized. The femoral head
+was removed. The acetabulum was inspected and found to be intact. The
+femoral canal was sequentially broached. A trial reduction was
+performed and found to be stable. A cemented femoral stem with
+modular head was placed. The hip was reduced and range of motion
+tested, demonstrating good stability. The wound was irrigated and
+closed in layers over a drain. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS:
+Correct x2
+
+Electronically signed:
+Mitchell, Sarah MD
+2026-07-31 11:30

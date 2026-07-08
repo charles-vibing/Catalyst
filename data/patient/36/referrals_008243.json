@@ -1,0 +1,21 @@
+{
+  "patient_id": 36,
+  "mrn": "10116",
+  "fin": "008243",
+  "extracted_at": "2026-07-17T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-008243-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Harper, Susan MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-07-17T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-07-24T09:00:00-06:00"
+    }
+  ]
+}

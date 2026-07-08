@@ -1,0 +1,34 @@
+{
+  "patient_id": 47,
+  "mrn": "10127",
+  "name": {
+    "family": "Feldman",
+    "given": "Miriam",
+    "middle": "G"
+  },
+  "birth_date": "1939-11-02",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1700 S Grand Avenue East",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0142",
+  "phone_mobile": "555-0142",
+  "emergency_contact": {
+    "name": "Sarah Feldman",
+    "relationship": "Daughter",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "1234567890",
+    "name": "Thompson, Richard MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000127"
+  }
+}

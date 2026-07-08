@@ -1,0 +1,58 @@
+{
+  "patient_id": 38,
+  "mrn": "10118",
+  "fin": "008404",
+  "extracted_at": "2026-07-24T12:00:00-06:00",
+  "source": "EPIC_MEDICATION_HISTORY",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "warfarin",
+      "name_display": "Warfarin (COUMADIN) 5 mg tablet",
+      "rxnorm": "11289",
+      "sig": "Take 1 tablet (5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home",
+      "indication": "Atrial fibrillation",
+      "prescriber": "Patel, Sunita MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home",
+      "indication": "Hypertension",
+      "prescriber": "Patel, Sunita MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617311",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Home",
+      "indication": "Hyperlipidemia",
+      "prescriber": "Patel, Sunita MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "198411",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with food",
+      "route": "oral",
+      "frequency": "BID with food",
+      "status": "Home",
+      "indication": "Osteoporosis",
+      "prescriber": "Patel, Sunita MD"
+    }
+  ]
+}

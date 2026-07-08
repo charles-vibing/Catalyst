@@ -1,0 +1,40 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Ruiz, Yolanda M
+MRN: 10106
+DOB: 1955-08-12
+SEX: F
+FIN: 007441
+
+DATE: 2026-06-05
+PROCEDURE: Right femoral shaft intramedullary nail fixation
+
+HISTORY:
+70-year-old female with hypertension. No prior surgeries. No anesthesia complications.
+
+MEDICATIONS:
+Lisinopril 10 mg daily (held this morning).
+
+ALLERGIES:
+Sulfa.
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation.
+
+LABS (pre-op):
+Albumin 4.0 g/dL
+Hemoglobin 13.5 g/dL
+Creatinine 0.8 mg/dL
+
+ASA CLASS: II
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Antibiotic prophylaxis with cefazolin (no sulfa allergy).
+
+ELECTRONICALLY SIGNED:
+Patel, Anika MD
+Anesthesiology
+2026-06-05 06:30

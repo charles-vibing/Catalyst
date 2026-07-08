@@ -1,0 +1,39 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Gable, Luther H
+MRN: 10114
+DOB: 1946-08-22
+SEX: M
+ENCOUNTER FIN: 008082
+SURGERY DATE: 2026-07-10
+
+ATTENDING ANESTHESIOLOGIST: Patel, Ravi MD
+
+PROCEDURE: Open reduction internal fixation, right hip (CPT 27236)
+
+HISTORY: 79-year-old male with COPD, hypertension, hyperlipidemia. No prior surgeries. No known anesthetic complications.
+
+MEDICATIONS: Tiotropium, albuterol PRN, lisinopril, atorvastatin. Lisinopril held today.
+
+ALLERGIES: Sulfa drugs (rash)
+
+PHYSICAL EXAM:
+BP 136/80, HR 84, RR 14, O2 sat 97% on room air.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear.
+
+LABS:
+- Hemoglobin: 13.2 g/dL
+- Creatinine: 1.0 mg/dL
+- Potassium: 4.2 mmol/L
+
+ASA CLASS: III (severe systemic disease - COPD)
+
+PLAN: General anesthesia with endotracheal intubation. Avoid sulfa antibiotics. Use cefazolin for prophylaxis. Maintain normothermia. Postoperative pain control with multimodal regimen.
+
+SIGNED: Patel, Ravi MD
+Anesthesiology
+Memorial General Hospital
+2026-07-10 06:30

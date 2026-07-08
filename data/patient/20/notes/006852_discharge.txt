@@ -1,0 +1,47 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+Patient Name: Lindstrom, Ingrid A
+MRN: 10100
+DOB: 1940-03-12
+Sex: F
+Encounter FIN: 006852
+
+ADMISSION DATE: 2026-05-04
+DISCHARGE DATE: 2026-05-09
+
+ADMITTING DIAGNOSIS: Displaced left subtrochanteric femur fracture (S72.212A)
+
+PRINCIPAL DIAGNOSIS: Displaced left subtrochanteric femur fracture (S72.212A)
+
+SECONDARY DIAGNOSES:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease stage 3a (N18.31)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Acute kidney injury (N17.9) – resolved
+
+PROCEDURES PERFORMED:
+- Left hip intramedullary nail fixation (ICD-10-PCS 0QS706Z) on 2026-05-05
+
+HOSPITAL COURSE: Patient admitted after mechanical fall with displaced left subtrochanteric femur fracture. Underwent IM nail fixation on hospital day 2. Post-operative course complicated by acute kidney injury (creatinine peaked at 2.1 on POD1, improved with hydration). Diabetes managed with insulin sliding scale. Physical therapy initiated on POD1, patient made slow progress due to deconditioning and PVD. Given her age, comorbidities, and slow PT progress, she was deemed appropriate for skilled nursing facility. TEAM beneficiary notification completed on 2026-05-08.
+
+DISCHARGE MEDICATIONS:
+- Metformin 500 mg PO BID (resumed)
+- Atorvastatin 20 mg PO daily
+- Amlodipine 5 mg PO daily
+- Aspirin 81 mg PO daily
+- Acetaminophen 650 mg PO q6h PRN pain
+- Docusate 100 mg PO BID
+
+DISCHARGE DISPOSITION: Skilled Nursing Facility (Oakwood Rehabilitation Center)
+
+FOLLOW-UP: PCP Dr. Maria Garcia to follow up at SNF. Orthopedic follow-up in 2 weeks.
+
+PCP REFERRAL: Completed, Dr. Maria Garcia (NPI: 1938475620)
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+NPI: 9988776655

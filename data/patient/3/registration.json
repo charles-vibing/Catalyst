@@ -1,0 +1,34 @@
+{
+  "patient_id": 3,
+  "mrn": "10061",
+  "name": {
+    "family": "O'Brien",
+    "given": "Margaret",
+    "middle": "A"
+  },
+  "birth_date": "1940-05-22",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "318 Maple Court",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0161",
+  "phone_mobile": "555-0161",
+  "emergency_contact": {
+    "name": "Patrick O'Brien",
+    "relationship": "Son",
+    "phone": "555-0162"
+  },
+  "primary_care_provider": {
+    "npi": "3344556677",
+    "name": "Okoro, Samuel MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000061"
+  }
+}

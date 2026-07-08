@@ -1,0 +1,64 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Kowalski, Ruth E.
+MRN: 10096
+DOB: 1954-03-22
+SEX: F
+FIN: 006531
+
+ATTENDING: Okonkwo, Chidi MD
+SURGEON: Mitchell, James MD
+
+DATE OF ADMISSION: 2026-04-14
+DATE OF DISCHARGE: 2026-04-18
+
+ADMITTING DIAGNOSIS: Left displaced femoral neck fracture (S72.032A)
+
+PRINCIPAL DIAGNOSIS: Left displaced femoral neck fracture (S72.032A)
+
+SECONDARY DIAGNOSES:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PROCEDURES PERFORMED:
+- Left hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A) on 2026-04-15
+
+HISTORY OF PRESENT ILLNESS:
+72-year-old female admitted after ground-level fall with left hip fracture. Underwent left hip hemiarthroplasty on 2026-04-15. Post-operative course was uncomplicated. Pain well-controlled. Physical therapy evaluated and patient ambulated with walker. Wound healing well. Discharge planning completed.
+
+HOSPITAL COURSE:
+Post-operative day 1: Hemoglobin stable at 12.8 g/dL. Pain controlled. Physical therapy initiated. Patient ambulated 50 feet with walker.
+Post-operative day 2: Continued improvement. PT advanced. Patient independent with bed mobility and transfers.
+Post-operative day 3: Discharge criteria met. Patient and spouse educated on fall precautions, wound care, and activity restrictions.
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg po q6h PRN pain
+- Enoxaparin 40 mg subcut daily x 14 days (started 2026-04-15)
+- Lisinopril 10 mg po daily (resume)
+- Cholecalciferol 1000 IU po daily
+- Calcium carbonate 500 mg po twice daily
+
+DISCHARGE DISPOSITION: Home (01)
+
+DISCHARGE INSTRUCTIONS:
+1. Follow up with PCP Dr. Lisa Harper on 2026-04-24.
+2. Follow up with Orthopedic Surgery (Dr. Mitchell) in 2 weeks.
+3. Weight-bearing as tolerated with walker.
+4. No driving for 6 weeks.
+5. Wound care: Keep incision clean and dry. Shower after 48 hours. Report any redness, drainage, or fever.
+6. DVT prophylaxis: Enoxaparin injections daily for 14 days.
+7. Fall precautions at home.
+
+HOME MEDICATIONS ON ADMISSION (for reference):
+- Lisinopril 10 mg daily
+- Cholecalciferol 1000 IU daily
+- Calcium carbonate 500 mg twice daily
+
+FOLLOW-UP APPOINTMENTS:
+- PCP: Dr. Lisa Harper, 2026-04-24 at 09:00
+- Orthopedic Surgery: Dr. James Mitchell, 2026-04-29
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+2026-04-18T09:00:00-06:00

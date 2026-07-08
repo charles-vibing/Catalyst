@@ -1,0 +1,40 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005970
+EVALUATION DATE: 2026-03-12
+EVALUATION TIME: 06:30
+
+SURGEON: Mitchell, David MD
+PROCEDURE: Left hip intramedullary nail (CPT 27245)
+
+HISTORY: 81-year-old male with atrial fibrillation (on warfarin, held since admission), hypertension, hyperlipidemia, osteoporosis. Admitted 04/10 for left intertrochanteric fracture. INR on 04/12 was 1.4. Vitamin K 5 mg PO given on 04/10. No other anticoagulation.
+
+ALLERGIES: Penicillin – hives.
+
+MEDICATIONS: Lisinopril, atorvastatin, calcium, vitamin D. Warfarin held.
+
+PHYSICAL EXAM:
+Vitals: BP 132/76, HR 74 (irregular), RR 14, Temp 36.9 C, O2 sat 98%.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregular rhythm, no murmurs.
+Lungs: Clear.
+
+LABS (04/12):
+- INR: 1.4
+- Hemoglobin: 11.2 g/dL
+- Creatinine: 1.1 mg/dL
+- Albumin: 3.5 g/dL
+
+ASA CLASS: III (severe systemic disease – atrial fibrillation)
+
+PLAN: General anesthesia with endotracheal intubation. Invasive arterial line for blood pressure monitoring. Antibiotic prophylaxis: cefazolin 2 g IV (no penicillin allergy per history of hives only – will use with caution).
+
+ANESTHESIOLOGIST: Patel, Ravi MD
+NPI: 9988776655
+
+SIGNED: Patel, Ravi MD 2026-03-12T07:00:00-06:00

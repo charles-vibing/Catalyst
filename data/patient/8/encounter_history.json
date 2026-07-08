@@ -1,0 +1,47 @@
+{
+  "patient_id": 8,
+  "extracted_at": "2026-03-08T12:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "301550",
+      "admit_datetime": "2025-08-15T10:30:00-05:00",
+      "discharge_datetime": "2025-08-17T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I10",
+      "principal_diagnosis": "Essential hypertension",
+      "ms_drg": "305",
+      "length_of_stay_days": 2
+    },
+    {
+      "fin": "005890",
+      "admit_datetime": "2026-03-04T14:30:00-06:00",
+      "discharge_datetime": "2026-03-08T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "62",
+      "discharge_disposition": "Inpatient Rehabilitation Facility",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.301A",
+      "principal_diagnosis": "Unspecified fracture of shaft of left femur, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-03-05",
+          "description": "Repair of left femoral shaft with intramedullary internal fixation device, open approach",
+          "icd10_pcs": "0QS806Z",
+          "cpt": "27506"
+        }
+      ]
+    }
+  ]
+}

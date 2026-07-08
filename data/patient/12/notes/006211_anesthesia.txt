@@ -1,0 +1,54 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+================================================================================
+
+PATIENT: Johnson, Linda M
+MRN: 10092
+FIN: 006211
+DOB: 08/15/1955
+SEX: F
+
+DATE OF EVALUATION: 03/21/2026
+TIME: 07:00
+
+PROCEDURE: Intramedullary nailing, right femur
+
+SURGEON: Mitchell, James MD
+
+ASA CLASS: II
+
+HISTORY:
+70-year-old female with hypertension only. No prior surgeries. No known allergies.
+
+MEDICATIONS:
+- Lisinopril 10 mg daily (held this morning)
+- Enoxaparin 40 mg SQ given last night
+
+VITALS: BP 132/78, HR 76, RR 14, Temp 36.7 C, O2 sat 99% RA.
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation.
+
+LABS (03/20/2026):
+- Albumin: 4.0 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+- WBC: 6.5 K/uL
+- Platelets: 250 K/uL
+- Sodium: 140 mEq/L
+- Potassium: 4.0 mEq/L
+
+ASSESSMENT:
+Low-risk patient. No contraindications to general or spinal anesthesia.
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Pre-op
+antibiotic: cefazolin 2 g IV within 60 minutes of incision.
+
+ELECTRONICALLY SIGNED:
+Patel, Ravi MD
+03/21/2026 07:30
+================================================================================

@@ -1,0 +1,27 @@
+{
+  "patient_id": 41,
+  "mrn": "10121",
+  "fin": "008645",
+  "extracted_at": "2026-07-30T12:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Mitchell, Sarah MD",
+      "npi": "1234567890",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Patel, Anjali MD",
+      "npi": "9876543210",
+      "service": "Family Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

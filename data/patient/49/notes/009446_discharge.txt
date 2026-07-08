@@ -1,0 +1,49 @@
+MEMORIAL GENERAL HOSPITAL
+
+DISCHARGE SUMMARY
+
+PATIENT: Ho, Gretchen W
+MRN: 10129
+DOB: 1951-09-22
+SEX: F
+FIN: 009446
+
+ATTENDING: Okonkwo, Chike MD
+
+ADMISSION DATE: 2026-08-17
+DISCHARGE DATE: 2026-08-22
+
+ADMITTING DIAGNOSIS: Displaced right femoral shaft fracture.
+
+PRINCIPAL DIAGNOSIS: S72.301A - Displaced femoral shaft fracture, right.
+
+SECONDARY DIAGNOSES:
+- G20 - Parkinson disease
+- I10 - Essential hypertension
+- M81.0 - Osteoporosis
+
+PROCEDURES PERFORMED:
+- Intramedullary nail fixation, right femur (ICD-10-PCS: 0QS806Z) on 2026-08-18
+
+HOSPITAL COURSE: Patient admitted after ground-level fall with right femoral shaft fracture. Underwent intramedullary nail fixation on hospital day 2. Post-operative course was uncomplicated. Pain controlled with oral analgesics. PT/OT evaluated and recommended inpatient rehabilitation due to baseline Parkinson disease and need for gait training. Patient cleared for discharge to IRF.
+
+DISCHARGE MEDICATIONS:
+- Carbidopa-levodopa 25-100 mg TID
+- Lisinopril 10 mg daily (resumed)
+- Calcium carbonate 500 mg BID
+- Vitamin D3 1000 IU daily
+- Acetaminophen 500 mg q6h PRN pain
+- Enoxaparin 40 mg SC daily for 21 days (DVT prophylaxis)
+
+DISCHARGE DISPOSITION: Inpatient Rehabilitation Facility (Prairie View Rehabilitation Center)
+
+FOLLOW-UP:
+- PCP: Dr. Linda Nguyen, appointment scheduled 2026-08-29
+- Orthopedic follow-up: Dr. Sarah Mitchell, 2 weeks post-discharge
+
+TEAM BENEFICIARY NOTIFICATION: Provided and signed on 2026-08-21.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chike MD
+Hospitalist
+2026-08-22 10:00

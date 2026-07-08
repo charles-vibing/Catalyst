@@ -1,0 +1,65 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Nguyen, Patricia L
+MRN: 10087
+DOB: 1948-09-12
+SEX: F
+FIN: 005800
+
+ADMIT DATE: 2026-02-27
+ATTENDING: Okonkwo, Chukwudi MD (NPI: 3456789012)
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+This is a 77-year-old female with history of atrial fibrillation on warfarin, hypertension, and osteoporosis who presents after a ground-level fall at home earlier today. She slipped on a rug and landed on her right side. She had immediate right hip pain and was unable to bear weight. EMS transported her to the ED. XR in ED showed displaced right intertrochanteric femur fracture. She is admitted for surgical management. She lives with her daughter who is available to assist at home.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation, unspecified (I48.91)
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D 1000 IU PO daily
+
+ALLERGIES:
+Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with daughter in a single-family home. Independent with ADLs prior to fall. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Noncontributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: Palpitations denied. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Alert, oriented x3.
+HEENT: Normocephalic.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Respiratory: Clear.
+Abdomen: Soft, nontender.
+Extremities: Right lower extremity shortened and externally rotated. Tender over right hip. Neurovascularly intact distally.
+
+LABORATORY DATA:
+- INR: 2.8 (drawn in ED)
+- Creatinine: 0.9 mg/dL
+- Hemoglobin: 12.5 g/dL
+- Albumin: 3.8 g/dL
+
+ASSESSMENT/PLAN:
+Displaced right intertrochanteric femur fracture. Plan for right hip hemiarthroplasty. Warfarin held on admission. INR reversal with vitamin K 5 mg IV x1. Surgery planned for tomorrow 03/21. Continue lisinopril. Monitor INR. DVT prophylaxis with enoxaparin post-op once INR < 1.5. Fall precautions.
+
+SIGNED:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-02-27 17:00 CST

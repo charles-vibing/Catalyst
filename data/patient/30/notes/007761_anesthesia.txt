@@ -1,0 +1,41 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+
+PATIENT: Fong, Alicia R
+MRN: 10110
+DOB: 1955-08-12
+SEX: F
+FIN: 007761
+
+DATE: 04/06/2026
+
+PROCEDURE: Left femoral shaft fracture intramedullary nail fixation
+
+SURGEON: Mitchell, David MD
+
+ANESTHESIOLOGIST: Patel, Anjali MD
+
+HISTORY: 70-year-old female with hypertension. No prior surgeries. No known cardiac or pulmonary disease.
+
+MEDICATIONS: Lisinopril 10 mg daily (held this morning).
+
+ALLERGIES: Penicillin (rash).
+
+PHYSICAL EXAMINATION:
+BP 130/80, HR 82, RR 14, O2 sat 99%.
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.8 mg/dL
+- INR: 1.0
+
+ASA CLASS: II
+
+ASSESSMENT: Low-risk patient. Plan for spinal anesthesia with sedation.
+
+ELECTRONICALLY SIGNED:
+Patel, Anjali MD
+04/06/2026 06:30

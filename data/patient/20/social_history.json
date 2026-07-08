@@ -1,0 +1,18 @@
+{
+  "patient_id": 20,
+  "mrn": "10100",
+  "extracted_at": "2026-05-04T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in two-story home; son lives out of state",
+  "functional_baseline": "Independent with ADLs, ambulates without assistive device",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

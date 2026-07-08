@@ -1,0 +1,34 @@
+{
+  "patient_id": 13,
+  "mrn": "10093",
+  "name": {
+    "family": "Deluca",
+    "given": "Frank",
+    "middle": "M"
+  },
+  "birth_date": "1948-04-22",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1601 S Spring Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0113",
+  "phone_mobile": "555-0113",
+  "emergency_contact": {
+    "name": "Sarah Deluca",
+    "relationship": "Daughter",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, Laura MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000093"
+  }
+}

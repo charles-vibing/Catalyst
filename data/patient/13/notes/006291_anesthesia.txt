@@ -1,0 +1,44 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+==============================
+
+PATIENT NAME: Deluca, Frank R
+MRN: 10093
+DOB: 1948-04-22
+SEX: M
+ENCOUNTER FIN: 006291
+DATE OF EVALUATION: 2026-03-30 06:30
+
+PROCEDURE: Right hip hemiarthroplasty
+SURGEON: Mitchell, John MD
+ANESTHESIOLOGIST: Patel, Priya MD
+
+HISTORY:
+78-year-old male with HTN and osteoporosis admitted for right hip fracture. No prior surgeries. No known allergies.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held this AM)
+- Cholecalciferol 2000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion neck. CV: Regular rhythm, no murmurs. Lungs: Clear. Vital signs: BP 136/80, HR 76, RR 14, O2 sat 98%.
+
+LABORATORY (2026-03-29):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- Electrolytes: Normal
+
+ASA CLASS: III (patient with hypertension, osteoporosis)
+
+PLAN:
+Spinal anesthesia with sedation. Standard monitors. Antibiotic prophylaxis: cefazolin 2 g IV prior to incision. Continue lisinopril post-op.
+
+---
+
+ELECTRONICALLY SIGNED:
+Patel, Priya MD
+Anesthesiology
+2026-03-30 07:00

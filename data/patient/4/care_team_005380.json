@@ -1,0 +1,33 @@
+{
+  "patient_id": 4,
+  "mrn": "10073",
+  "fin": "005380",
+  "extracted_at": "2026-02-11T17:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Henderson, Michael MD",
+      "npi": "1345678901",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Hospitalist consult",
+      "name": "Okonkwo, James MD",
+      "npi": "1098765432",
+      "service": "Internal Medicine"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Nair, Priya MD",
+      "npi": "4455667788",
+      "service": "Family Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

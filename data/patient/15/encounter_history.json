@@ -1,0 +1,31 @@
+{
+  "patient_id": 15,
+  "extracted_at": "2026-04-11T12:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "006451",
+      "admit_datetime": "2026-04-08T14:30:00-06:00",
+      "discharge_datetime": "2026-04-11T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.301A",
+      "principal_diagnosis": "Femoral shaft fracture, right leg, initial encounter for closed fracture",
+      "ms_drg": "482",
+      "length_of_stay_days": 3,
+      "procedures": [
+        {
+          "date": "2026-04-09",
+          "description": "Reposition of right femoral shaft with intramedullary internal fixation device, open approach",
+          "icd10_pcs": "0QS806Z",
+          "cpt": "27506"
+        }
+      ]
+    }
+  ]
+}

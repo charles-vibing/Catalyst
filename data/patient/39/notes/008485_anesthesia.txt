@@ -1,0 +1,48 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+============================================================
+
+PATIENT: Morales, Adele L
+MRN: 10119
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 008485
+DATE OF EVALUATION: 2026-07-23 06:30:00
+
+PROCEDURE: Left hip hemiarthroplasty
+
+HISTORY:
+76-year-old female with hypertension and osteoporosis. No prior surgeries.
+No known anesthetic complications.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held today)
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+ALLERGIES: Sulfonamides (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear.
+
+VITALS: BP 136/80, HR 76, RR 14, O2 sat 98% RA.
+
+LABORATORY (2026-07-22):
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+- INR: 1.0
+- Platelets: 220,000
+
+ASA CLASS: II
+
+PLAN:
+Spinal anesthesia with sedation. Antibiotic prophylaxis: cefazolin 2 g IV
+(no sulfa allergy). Monitor for lisinopril-related hypotension.
+
+ANESTHESIOLOGIST: Patel, Ravi MD
+NPI: 1234567897
+SIGNED: 2026-07-23 07:00:00

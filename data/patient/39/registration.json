@@ -1,0 +1,39 @@
+{
+  "patient_id": 39,
+  "mrn": "10119",
+  "name": {
+    "family": "Morales",
+    "given": "Adele",
+    "middle": "L"
+  },
+  "birth_date": "1949-08-22",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1025 N 9th Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702"
+  },
+  "phone_home": "555-0119",
+  "phone_mobile": "555-0119",
+  "emergency_contact": {
+    "name": "Dolores Morales",
+    "relationship": "Daughter",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "1234567890",
+    "name": "Thompson, Karen MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000119"
+  },
+  "payer_secondary": {
+    "type": "Medicaid",
+    "plan": "Illinois Medicaid",
+    "subscriber_id": "IL-MCD-000119"
+  }
+}

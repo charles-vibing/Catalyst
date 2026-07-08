@@ -1,0 +1,28 @@
+RADIOLOGY REPORT
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005700
+
+EXAM: LEFT HIP X-RAY (2 VIEWS)
+ACCESSION: RAD-2026-005700-01
+DATE/TIME: 2026-02-22 15:00:00
+ORDERING PROVIDER: Mitchell, David MD (Orthopedic Surgery)
+
+CLINICAL HISTORY: 86-year-old male with mechanical fall at home, left hip pain, unable to bear weight.
+
+TECHNIQUE: AP pelvis and left hip lateral views.
+
+FINDINGS:
+There is a displaced left subtrochanteric femur fracture with shortening and varus angulation. The fracture line extends obliquely from the lesser trochanter to the subtrochanteric region. No intra-articular extension. No other acute fractures. Mild degenerative changes of the left hip joint. Vascular calcifications noted.
+
+IMPRESSION:
+Displaced left subtrochanteric femur fracture (S72.212A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical fixation.
+
+REPORTING PROVIDER: Hartman, Susan MD (Radiology)
+SIGNED: 2026-02-22 15:30

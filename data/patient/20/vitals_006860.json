@@ -1,0 +1,53 @@
+{
+  "patient_id": 20,
+  "mrn": "10100",
+  "fin": "006860",
+  "extracted_at": "2026-05-18T10:45:00-06:00",
+  "source": "EPIC_FLOWSHEET_VITALS",
+  "vitals": [
+    {
+      "recorded_at": "2026-05-15T08:15:00-06:00",
+      "temp_f": 100.2,
+      "heart_rate": 102,
+      "resp_rate": 24,
+      "bp_systolic": 138,
+      "bp_diastolic": 76,
+      "spo2_percent": 88,
+      "o2_delivery": "2L nasal cannula",
+      "pain_score": 5
+    },
+    {
+      "recorded_at": "2026-05-16T07:00:00-06:00",
+      "temp_f": 99.8,
+      "heart_rate": 94,
+      "resp_rate": 20,
+      "bp_systolic": 130,
+      "bp_diastolic": 72,
+      "spo2_percent": 91,
+      "o2_delivery": "2L nasal cannula",
+      "pain_score": 4
+    },
+    {
+      "recorded_at": "2026-05-17T07:00:00-06:00",
+      "temp_f": 98.9,
+      "heart_rate": 86,
+      "resp_rate": 18,
+      "bp_systolic": 126,
+      "bp_diastolic": 70,
+      "spo2_percent": 93,
+      "o2_delivery": "Room air",
+      "pain_score": 3
+    },
+    {
+      "recorded_at": "2026-05-18T07:00:00-06:00",
+      "temp_f": 98.4,
+      "heart_rate": 80,
+      "resp_rate": 16,
+      "bp_systolic": 120,
+      "bp_diastolic": 68,
+      "spo2_percent": 95,
+      "o2_delivery": "Room air",
+      "pain_score": 2
+    }
+  ]
+}

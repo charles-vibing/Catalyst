@@ -1,0 +1,33 @@
+{
+  "patient_id": 45,
+  "mrn": "10125",
+  "fin": "008965",
+  "extracted_at": "2026-08-11T12:00:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-008965-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Garcia, Elena MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Scheduled",
+      "ordered_at": "2026-08-10T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-08-17T10:00:00-06:00"
+    },
+    {
+      "referral_id": "REF-008965-002",
+      "type": "Home Health",
+      "referred_to_npi": "1122334455",
+      "referred_to": "Home Health Care of Springfield",
+      "reason": "Home health aide and home PT/OT post-hip surgery",
+      "priority": "High",
+      "status": "Scheduled",
+      "ordered_at": "2026-08-10T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-08-12T09:00:00-06:00"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "patient_id": 48,
+  "mrn": "10128",
+  "fin": "009365",
+  "extracted_at": "2026-08-15T16:00:00-06:00",
+  "source": "EPIC_MEDICATION_HISTORY",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "warfarin",
+      "name_display": "Warfarin (COUMADIN) 5 mg tablet",
+      "rxnorm": "11289",
+      "sig": "Take 1 tablet (5 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home medication",
+      "indication": "Atrial fibrillation",
+      "prescriber": "Williams, Sarah MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home medication",
+      "indication": "Hypertension",
+      "prescriber": "Williams, Sarah MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 600 mg tablet",
+      "rxnorm": "198440",
+      "sig": "Take 1 tablet (600 mg) by mouth 2 times daily",
+      "route": "oral",
+      "frequency": "BID",
+      "status": "Home medication",
+      "indication": "Osteoporosis",
+      "prescriber": "Williams, Sarah MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "vitamin D3",
+      "name_display": "Vitamin D3 1000 IU tablet",
+      "rxnorm": "847307",
+      "sig": "Take 1 tablet (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Home medication",
+      "indication": "Osteoporosis",
+      "prescriber": "Williams, Sarah MD"
+    }
+  ]
+}

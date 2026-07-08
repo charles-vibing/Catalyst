@@ -1,0 +1,31 @@
+{
+  "patient_id": 14,
+  "mrn": "10094",
+  "fin": "006371",
+  "extracted_at": "2026-04-07T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-04-05",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated with walker at home; required assistance with ADLs due to cancer-related fatigue",
+    "current_mobility": "Ambulated 30 feet with front-wheeled walker and moderate assist",
+    "weight_bearing": "Weight bearing as tolerated right lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Discharge to hospice; patient and family desire comfort-focused care",
+    "goals": [
+      "Safe transfers bed-chair with assistance",
+      "Pain management for comfort"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-04-05",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires assistance with bathing, dressing, and toileting",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Bedside commode"
+    ],
+    "home_safety": "Lives with daughter in single-story home; recommend hospital bed and commode for comfort"
+  }
+}

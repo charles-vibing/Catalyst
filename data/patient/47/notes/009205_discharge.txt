@@ -1,0 +1,66 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009205
+Admission Date: 2026-08-12
+Discharge Date: 2026-08-18
+
+================================================================================
+ADMITTING DIAGNOSIS:
+Displaced left subtrochanteric femur fracture (S72.212A)
+
+================================================================================
+PRINCIPAL PROCEDURE:
+Left cephalomedullary intramedullary nail fixation (0QS706Z) on 2026-08-14
+
+================================================================================
+COMPLICATIONS:
+None.
+
+================================================================================
+HOSPITAL COURSE:
+Patient admitted after ground-level fall with left subtrochanteric fracture. Underwent IM nail on hospital day 2. Postoperative course notable for mild anemia (Hgb 9.8 on POD1) but stable. Pain managed with acetaminophen and oxycodone. PT/OT evaluation on POD1 and POD2: patient required moderate assistance for transfers and ambulation with walker. Weight-bearing as tolerated on left lower extremity. Given deconditioning and need for ongoing rehabilitation, patient was discharged to skilled nursing facility.
+
+================================================================================
+DISCHARGE DIAGNOSES:
+1. Left subtrochanteric femur fracture (S72.212A)
+2. Type 2 diabetes mellitus (E11.9)
+3. Peripheral vascular disease (I73.9)
+4. Chronic kidney disease stage 3a (N18.31)
+5. Essential hypertension (I10)
+6. Hyperlipidemia (E78.5)
+
+================================================================================
+DISCHARGE MEDICATIONS:
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Aspirin 81 mg PO daily (resume)
+- Cilostazol 100 mg PO BID (resume)
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+- Docusate 100 mg PO BID
+- Enoxaparin 40 mg SC daily (for DVT prophylaxis, 28 days)
+
+================================================================================
+DISCHARGE DISPOSITION:
+Skilled Nursing Facility (Oakwood Rehabilitation Center)
+
+================================================================================
+FOLLOW-UP APPOINTMENTS:
+- Orthopedic follow-up with Dr. Mitchell in 2 weeks
+- PCP follow-up with Dr. Thompson within 7 days (referral placed)
+
+================================================================================
+
+Electronically signed:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-08-18 10:00:00 -06:00

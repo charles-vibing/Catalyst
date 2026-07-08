@@ -1,0 +1,36 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Johnson, Linda M
+MRN: 10092
+FIN: 006211
+DOB: 08/15/1955
+SEX: F
+
+EXAM DATE: 03/20/2026
+EXAM TIME: 14:45
+ACCESSION: RAD-2026-006211-01
+
+EXAMINATION: XR RIGHT FEMUR 2 VIEWS
+
+INDICATION: Ground-level fall, right thigh pain, unable to bear weight.
+
+TECHNIQUE: AP and lateral views of the right femur.
+
+FINDINGS:
+There is a comminuted, displaced fracture of the mid-femoral shaft. The fracture is
+angulated and shortened. There is no intra-articular extension. The hip joint and
+knee joint appear intact. No other acute abnormalities.
+
+IMPRESSION:
+Comminuted displaced fracture of the right femoral shaft (S72.301A).
+
+RECOMMENDATION: Orthopedic consultation for intramedullary nailing.
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiology
+03/20/2026 15:30
+================================================================================

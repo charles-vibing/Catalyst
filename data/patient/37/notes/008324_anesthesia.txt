@@ -1,0 +1,44 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+============================================================
+
+PATIENT: Sokol, Renata K
+MRN: 10117
+DOB: 1951-08-22
+SEX: F
+FIN: 008324
+
+DATE OF EVALUATION: 2026-07-18
+PROCEDURE: Left femoral shaft intramedullary nailing
+SURGEON: Mitchell, Sarah MD
+
+HISTORY:
+74-year-old female with Parkinson disease and hypertension. No prior surgeries. No known anesthetic complications. Review of systems per H&P.
+
+MEDICATIONS:
+- Carbidopa/Levodopa 25/100 mg TID (last dose this AM)
+- Lisinopril 10 mg daily (held this AM)
+
+ALLERGIES:
+- Sulfa (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear lungs.
+
+LABORATORY DATA:
+- Hemoglobin: 12.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+
+ASA CLASS: III
+
+PLAN:
+General anesthesia with endotracheal intubation. Standard monitors. Consider arterial line if significant blood loss. Continue carbidopa/levodopa postoperatively.
+
+ELECTRONICALLY SIGNED:
+Patel, Anika MD
+Anesthesiology
+2026-07-18 06:30

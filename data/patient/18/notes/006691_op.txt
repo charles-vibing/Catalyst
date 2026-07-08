@@ -1,0 +1,39 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006691
+Surgery Date: 2026-04-25
+
+PRE-OPERATIVE DIAGNOSIS: Displaced right femoral neck fracture (S72.031A)
+
+POST-OPERATIVE DIAGNOSIS: Displaced right femoral neck fracture (S72.031A)
+
+PROCEDURE PERFORMED: Right hip hemiarthroplasty (ICD-10-PCS: 0SR902A, CPT: 27125)
+
+SURGEON: Mitchell, John MD
+ANESTHESIA: General endotracheal anesthesia
+
+INDICATIONS: 88-year-old female with displaced right femoral neck fracture requiring surgical intervention.
+
+DESCRIPTION OF PROCEDURE: After induction of general anesthesia, the patient was positioned in the left lateral decubitus position. The right hip was prepped and draped in sterile fashion. A posterolateral approach was made to the right hip. The femoral neck fracture was identified. The femoral head was removed. The acetabulum was inspected and found to be intact. The femoral canal was reamed and broached. A cemented femoral stem with bipolar head was placed. The hip was reduced and range of motion was stable. Wound was irrigated and closed in layers. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+FLUIDS: 1500 mL crystalloid
+
+URINE OUTPUT: 300 mL
+
+COMPLICATIONS: None
+
+SPECIMENS: None
+
+DISPOSITION: To PACU in stable condition.
+
+Electronically signed:
+Mitchell, John MD
+Orthopedic Surgery
+2026-04-25 10:30:00 -06:00

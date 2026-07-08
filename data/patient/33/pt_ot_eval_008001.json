@@ -1,0 +1,32 @@
+{
+  "patient_id": 33,
+  "mrn": "10113",
+  "fin": "008001",
+  "extracted_at": "2026-07-10T12:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-07-08",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently at home; no assistive device",
+    "current_mobility": "Ambulated 20 feet with front-wheeled walker and moderate assist due to confusion",
+    "weight_bearing": "Weight bearing as tolerated left lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Discharge home with walker and home health PT; patient requires supervision due to cognitive impairment",
+    "goals": [
+      "Ambulate 50 feet with walker and minimal assist",
+      "Safe transfers with standby assist"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-07-08",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires moderate assist for bathing and dressing due to confusion and pain",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher",
+      "Shower chair"
+    ],
+    "home_safety": "Lives alone; son out of state. Recommend home health aide for safety and ADL assistance."
+  }
+}

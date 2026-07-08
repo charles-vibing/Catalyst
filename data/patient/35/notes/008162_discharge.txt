@@ -1,0 +1,47 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+Patient Name: Berger, Simone A
+MRN: 10115
+FIN: 008162
+DOB: 1940-03-12
+Sex: F
+
+Admission Date: 2026-07-12
+Discharge Date: 2026-07-17
+Attending: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS: Displaced left subtrochanteric femur fracture (S72.211A)
+
+PRINCIPAL DIAGNOSIS: Displaced left subtrochanteric femur fracture (S72.211A)
+
+SECONDARY DIAGNOSES:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease, stage 3b (N18.32)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Acute kidney injury (N17.9) - resolved (MCC)
+
+PROCEDURES PERFORMED: Left femur intramedullary nail (0QS706Z) on 2026-07-13
+
+HOSPITAL COURSE: Patient admitted after mechanical fall with left subtrochanteric femur fracture. Underwent intramedullary nailing on hospital day 2 without complications. Post-operatively, she developed acute kidney injury (creatinine peaked at 2.4 on POD1) which resolved with IV fluids. Hemoglobin stable at 9.8 post-op. PT/OT evaluated and recommended SNF placement due to deconditioning and safety concerns. Pain controlled with acetaminophen and oxycodone. Diabetes managed with insulin sliding scale. Discharged to SNF.
+
+DISCHARGE MEDICATIONS:
+- Metformin 500 mg PO BID (resume)
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily (resume)
+- Aspirin 81 mg PO daily
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+
+DISCHARGE DISPOSITION: Skilled Nursing Facility (Prairie View Skilled Nursing)
+
+FOLLOW-UP: PCP appointment scheduled with Dr. Garcia on 2026-07-24. Orthopedic follow-up in 2 weeks.
+
+CONDITION ON DISCHARGE: Stable.
+
+Electronically signed by:
+Okonkwo, Chidi MD
+Hospitalist
+2026-07-17 09:30

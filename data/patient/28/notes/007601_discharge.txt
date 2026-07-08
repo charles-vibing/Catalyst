@@ -1,0 +1,63 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Schmidt, Frieda L
+MRN: 10108
+DOB: 1954-03-12
+SEX: F
+FIN: 007601
+
+ATTENDING: Okonkwo, Chidi MD
+SURGEON: Mitchell, James MD
+
+DATE OF ADMISSION: 2026-06-14
+DATE OF DISCHARGE: 2026-06-17
+
+ADMITTING DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A).
+
+PRINCIPAL DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A).
+
+SECONDARY DIAGNOSES:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PROCEDURES PERFORMED:
+- Left hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A) on 2026-06-15.
+
+HOSPITAL COURSE:
+The patient underwent left hip hemiarthroplasty on 04/21/2026 without complications. Post-operative recovery was uneventful. Pain was well controlled with oral analgesics. Physical therapy evaluated on post-op day 1 and the patient was able to ambulate with a walker. Occupational therapy assessed and she was independent with activities of daily living. Labs on post-op day 1 showed hemoglobin 12.8 g/dL (stable). She was transitioned to oral pain medications and enoxaparin for DVT prophylaxis. She was deemed medically stable for discharge home with her daughter.
+
+DISCHARGE DISPOSITION:
+Home (01).
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain (dispense 20 tablets)
+- Enoxaparin 40 mg SC daily for 14 days
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+HOME MEDICATIONS ON ADMISSION (reconciled):
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Sarah Williams): 2026-06-23 at 10:00 AM
+- Orthopedic follow-up with Dr. Mitchell: 2026-06-28
+
+DME:
+- Walker (provided)
+
+ALLERGIES:
+- Penicillin (rash)
+
+CONDITION ON DISCHARGE:
+Stable.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+2026-06-17 09:00:00

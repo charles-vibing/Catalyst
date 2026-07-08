@@ -1,0 +1,36 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Whitfield, Eleanor M
+MRN: 10091
+DOB: 1934-08-22
+SEX: F
+ENCOUNTER FIN: 006131
+
+EXAM: XR RIGHT HIP 2 VIEWS
+ACCESSION: RAD-2026-006131-01
+EXAM DATE: 2026-03-19
+REPORT DATE: 2026-03-19
+
+HISTORY: 91-year-old female, ground-level fall at home, right hip pain, unable to bear weight.
+
+TECHNIQUE: Two views of the right hip.
+
+FINDINGS:
+There is a displaced intertrochanteric fracture of the right femur. The fracture line extends through the intertrochanteric region with mild comminution. There is no extension into the femoral neck or shaft. The acetabulum is intact. No dislocation. Mild degenerative changes of the hip joint are noted.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION:
+Orthopedic consultation.
+
+---
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiology
+Memorial General Hospital
+2026-03-19 15:15:00 -06:00

@@ -1,0 +1,18 @@
+{
+  "patient_id": 10,
+  "mrn": "10090",
+  "extracted_at": "2026-03-14T15:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in 3rd-floor walkup apartment; no caregiver; neighbor emergency contact; limited transportation options",
+  "functional_baseline": "Independent with ambulation, no assistive device; able to climb stairs with difficulty",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

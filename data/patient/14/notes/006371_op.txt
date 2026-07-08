@@ -1,0 +1,36 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Castillo, Beatrice M
+MRN: 10094
+DOB: 1936-08-22
+SEX: F
+FIN: 006371
+
+DATE OF SURGERY: 2026-04-04
+SURGEON: Mitchell, David MD (Orthopedic Surgery)
+ANESTHESIOLOGIST: Patel, Priya MD
+PROCEDURE: Right hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A)
+
+PREOPERATIVE DIAGNOSIS: Displaced right femoral neck fracture (S72.031A)
+POSTOPERATIVE DIAGNOSIS: Same
+
+ANESTHESIA: Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+89-year-old female with displaced right femoral neck fracture after ground-level fall. Patient and family desire surgical intervention with goals of comfort.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned in left lateral decubitus. The right hip was prepped and draped in sterile fashion. A standard posterior approach to the right hip was made. The external rotators were taken down. The hip was dislocated posteriorly. The femoral head was identified and removed. The femoral canal was prepared with sequential reaming. A trial implant was placed and found to be stable. The final cemented femoral stem and bipolar head were inserted. The hip was reduced. Range of motion was stable. Wound was irrigated and closed in layers over a drain. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct x2
+
+---
+
+ELECTRONICALLY SIGNED:
+Mitchell, David MD
+NPI: 1234567890

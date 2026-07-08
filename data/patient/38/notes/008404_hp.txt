@@ -1,0 +1,68 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+Patient: Mehta, Calvin V
+MRN: 10118
+DOB: 1945-03-12
+Sex: M
+Encounter FIN: 008404
+Admission Date: 2026-07-19
+Attending: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Mr. Mehta is an 81-year-old male with history of atrial fibrillation on warfarin, hypertension, and hyperlipidemia who presents after a mechanical fall at home earlier today. He tripped on a rug and landed on his left side. He was unable to bear weight and was brought to the ED by his daughter. Imaging reveals a displaced left intertrochanteric femur fracture. He is admitted for surgical management. He reports no head strike or loss of consciousness. Pain is severe, 8/10, located in left hip/groin.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91) – diagnosed 2018, on warfarin
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS:
+- Warfarin 5 mg PO daily
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Calcium + Vitamin D 500/200 IU PO BID
+
+ALLERGIES: Penicillins – rash.
+
+SOCIAL HISTORY: Lives with spouse. Retired teacher. No tobacco or alcohol use. Functional baseline: independent in ADLs, uses cane for long walks.
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, dyspnea, fever, or abdominal complaints.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78 (irregularly irregular), RR 16, Temp 36.8 C, O2 sat 97% RA.
+General: Alert, oriented x3, in mild distress.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender, nondistended.
+Extremities: Left lower extremity shortened and externally rotated. No open wounds. Distal pulses palpable. Sensation intact.
+
+LABORATORY DATA (on admission):
+- INR: 2.8 (critical, drawn 2026-07-19 14:45)
+- Albumin: 3.2 g/dL
+- Hemoglobin: 11.5 g/dL
+- Creatinine: 1.1 mg/dL
+- WBC: 8.2 K/uL
+- Platelets: 210 K/uL
+
+ASSESSMENT/PLAN:
+81-year-old male with displaced left intertrochanteric femur fracture. Given elevated INR of 2.8 on warfarin, surgery will be delayed for INR reversal. Plan:
+1. Hold warfarin.
+2. Administer Vitamin K 5 mg IV now and repeat INR in 6 hours.
+3. If INR not <1.5 by tomorrow, consider fresh frozen plasma.
+4. Orthopedic consultation for surgical planning.
+5. Pain management: acetaminophen 650 mg q6h, avoid NSAIDs.
+6. DVT prophylaxis: sequential compression devices until post-op.
+7. Cardiac monitoring for atrial fibrillation.
+8. Bowel regimen.
+
+Okonkwo, Chidi MD
+NPI: 9988776655
+Electronically signed on 2026-07-19 18:00.

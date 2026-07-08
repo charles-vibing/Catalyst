@@ -1,0 +1,23 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient: Mehta, Calvin V
+MRN: 10118
+DOB: 1945-03-12
+Sex: M
+Encounter FIN: 008404
+
+Exam: XR LEFT HIP 2 VIEWS
+Accession: RAD-2026-008404-01
+Exam Date: 2026-07-19 15:00
+Report Signed: 2026-07-19 16:00
+
+INDICATION: Mechanical fall, left hip pain, unable to bear weight.
+
+FINDINGS: There is a displaced intertrochanteric fracture of the left femur. The fracture extends from the greater trochanter through the intertrochanteric region with displacement of the femoral neck fragment. No other acute fracture or dislocation is identified. Mild degenerative changes of the hip joint are noted. There is no evidence of avascular necrosis.
+
+IMPRESSION: Displaced left intertrochanteric femur fracture (S72.141A).
+
+Radiologist: Hartman, Laura MD
+NPI: 1122334455
+Electronically signed by Laura Hartman, MD on 2026-07-19 16:00.

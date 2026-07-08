@@ -1,0 +1,63 @@
+{
+  "patient_id": 49,
+  "extracted_at": "2026-08-17T17:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "295678",
+      "admit_datetime": "2024-08-15T10:30:00-05:00",
+      "discharge_datetime": "2024-08-18T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "G20",
+      "principal_diagnosis": "Parkinson's disease",
+      "ms_drg": "056",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "301550",
+      "admit_datetime": "2025-03-10T09:00:00-05:00",
+      "discharge_datetime": "2025-03-10T11:30:00-05:00",
+      "patient_class": "Outpatient",
+      "hospital_service": "Cardiology",
+      "admit_source": "Clinic Referral",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1122334455",
+      "attending": "Rivera, Ana MD",
+      "principal_diagnosis_icd10": "I10",
+      "principal_diagnosis": "Essential hypertension",
+      "ms_drg": null,
+      "length_of_stay_days": 0
+    },
+    {
+      "fin": "009446",
+      "admit_datetime": "2026-08-17T14:30:00-06:00",
+      "discharge_datetime": "2026-08-22T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "62",
+      "discharge_disposition": "Inpatient Rehabilitation Facility",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.301A",
+      "principal_diagnosis": "Femoral shaft fracture, right leg, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 5,
+      "procedures": [
+        {
+          "date": "2026-08-18",
+          "description": "Repair of right femoral shaft with intramedullary internal fixation device, open approach",
+          "icd10_pcs": "0QS806Z",
+          "cpt": "27506"
+        }
+      ]
+    }
+  ]
+}

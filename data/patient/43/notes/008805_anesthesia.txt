@@ -1,0 +1,60 @@
+==============================================================================
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+==============================================================================
+
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Voss, Loretta N
+MRN: 10123
+DOB: 1954-03-22
+SEX: F
+ENCOUNTER FIN: 008805
+DATE OF EVALUATION: 2026-08-03
+
+ATTENDING ANESTHESIOLOGIST: Patel, Ravi MD
+
+PROCEDURE: Right hip hemiarthroplasty (CPT 27125)
+
+HISTORY:
+72-year-old female with hypertension and osteopenia. No prior surgeries. No known cardiac or pulmonary disease. No prior anesthesia complications.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held this morning)
+- Calcium carbonate 500 mg PO daily
+- Vitamin D 800 IU PO daily
+
+ALLERGIES: Penicillins (rash)
+
+PHYSICAL EXAMINATION:
+Vitals: BP 130/76, HR 72, RR 14, Temp 36.7°C, O2 sat 99%.
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear.
+
+AIRWAY ASSESSMENT: Mallampati II, thyromental distance >6 cm, neck extension full.
+
+LABORATORY DATA (2026-08-02):
+- Hemoglobin: 13.5 g/dL (718-7)
+- Creatinine: 0.9 mg/dL (2160-0)
+- Albumin: 3.8 g/dL (1751-7)
+- Sodium: 140 mmol/L (2951-2)
+- Potassium: 4.1 mmol/L (2823-3)
+- WBC: 7.2 x10^3/uL (6690-2)
+- Platelets: 220 x10^3/uL (777-3)
+
+ASA CLASS: II
+
+PLAN:
+- Spinal anesthesia with sedation (midazolam, fentanyl)
+- Standard monitors
+- Antibiotic prophylaxis: cefazolin 2 g IV (no penicillin allergy per chart; cephalosporin safe)
+- Antiemetic: ondansetron 4 mg IV
+
+
+
+Electronically signed:
+Patel, Ravi MD
+2026-08-03 06:30:00
+
+==============================================================================

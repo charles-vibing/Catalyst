@@ -1,0 +1,57 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-PROCEDURE EVALUATION
+================================================================================
+
+PATIENT: Okoye, Dennis C.        MRN: 10107           FIN: 007521
+DOB: 1948-03-12                  SEX: M
+PROCEDURE: Right hip hemiarthroplasty
+PROCEDURE DATE: 2026-06-10
+SURGEON: Mitchell, James MD
+
+================================================================================
+HISTORY:
+78-year-old male with hypertension and osteoporosis, admitted for right
+intertrochanteric femur fracture. No prior surgeries. No known cardiac
+or pulmonary disease. No sleep apnea.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO daily (held this morning)
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+ALLERGIES:
+Penicillin (rash)
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear bilaterally.
+
+VITAL SIGNS:
+BP 136/80, HR 76, RR 14, Temp 36.7 C, O2 sat 98% RA.
+
+LABORATORY DATA:
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- Sodium: 140 mEq/L
+- Potassium: 4.1 mEq/L
+- INR: 1.0 (not on anticoagulation)
+
+ASA CLASS: III (patient with mild systemic disease due to age and
+hypertension)
+
+PLAN:
+- Spinal anesthesia with sedation preferred.
+- Antibiotic prophylaxis: Cefazolin 2 g IV within 60 min of incision
+  (no penicillin allergy to cephalosporins per allergy consult).
+- DVT prophylaxis: Sequential compression devices intra-op.
+- Monitor blood loss; type and screen available.
+- Post-op pain management: Multimodal including acetaminophen,
+  hydromorphone PRN.
+
+================================================================================
+SIGNED:
+Patel, Ravi MD (Anesthesiology)
+Electronically signed: 2026-06-10 06:30
+================================================================================

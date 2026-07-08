@@ -1,0 +1,25 @@
+{
+  "patient_id": 8,
+  "extracted_at": "2026-03-04T15:00:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 801,
+      "description": "Parkinson disease",
+      "icd10": "G20",
+      "snomed": "49049000",
+      "status": "Active",
+      "onset_date": "2018-07-22",
+      "last_reviewed": "2026-01-23"
+    },
+    {
+      "problem_id": 802,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2010-11-05",
+      "last_reviewed": "2026-01-04"
+    }
+  ]
+}

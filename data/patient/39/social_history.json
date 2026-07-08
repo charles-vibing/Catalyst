@@ -1,0 +1,18 @@
+{
+  "patient_id": 39,
+  "mrn": "10119",
+  "extracted_at": "2026-07-22T12:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in 3rd-floor walkup apartment; no elevator; daughter lives out of state",
+  "functional_baseline": "Independent with ambulation, uses no assistive device; able to climb stairs with difficulty",
+  "advance_directive": "On file - full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

@@ -1,0 +1,64 @@
+{
+  "patient_id": 20,
+  "extracted_at": "2026-05-18T07:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "301550",
+      "admit_datetime": "2025-06-15T10:30:00-05:00",
+      "discharge_datetime": "2025-06-20T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I73.9",
+      "principal_diagnosis": "Peripheral vascular disease, unspecified",
+      "ms_drg": "299",
+      "length_of_stay_days": 5
+    },
+    {
+      "fin": "006852",
+      "admit_datetime": "2026-05-04T14:30:00-06:00",
+      "discharge_datetime": "2026-05-09T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "03",
+      "discharge_disposition": "Skilled Nursing Facility",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.212A",
+      "principal_diagnosis": "Displaced subtrochanteric fracture of left femur, initial encounter for closed fracture",
+      "ms_drg": "480",
+      "length_of_stay_days": 5,
+      "procedures": [
+        {
+          "date": "2026-05-05",
+          "description": "Insertion of intramedullary fixation device into left femur, open approach",
+          "icd10_pcs": "0QS706Z",
+          "cpt": "27245"
+        }
+      ]
+    },
+    {
+      "fin": "006860",
+      "admit_datetime": "2026-05-15T08:00:00-06:00",
+      "discharge_datetime": "2026-05-18T10:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Skilled Nursing Facility",
+      "discharge_disposition_code": "03",
+      "discharge_disposition": "Skilled Nursing Facility",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "J69.0",
+      "principal_diagnosis": "Aspiration pneumonia",
+      "ms_drg": "177",
+      "length_of_stay_days": 3,
+      "ed_visit_datetime": "2026-05-15T07:30:00-06:00"
+    }
+  ]
+}

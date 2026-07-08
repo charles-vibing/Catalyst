@@ -1,0 +1,63 @@
+{
+  "patient_id": 47,
+  "extracted_at": "2026-08-27T16:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "295678",
+      "admit_datetime": "2025-08-15T10:30:00-05:00",
+      "discharge_datetime": "2025-08-20T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I73.9",
+      "principal_diagnosis": "Peripheral vascular disease, unspecified",
+      "ms_drg": "299",
+      "length_of_stay_days": 5
+    },
+    {
+      "fin": "009205",
+      "admit_datetime": "2026-08-12T14:30:00-06:00",
+      "discharge_datetime": "2026-08-18T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "03",
+      "discharge_disposition": "Skilled Nursing Facility",
+      "attending_npi": "9988776655",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.212A",
+      "principal_diagnosis": "Displaced subtrochanteric fracture of left femur, initial encounter for closed fracture",
+      "ms_drg": "480",
+      "length_of_stay_days": 6,
+      "procedures": [
+        {
+          "date": "2026-08-14",
+          "description": "Insertion of intramedullary fixation device into left femur, open approach",
+          "icd10_pcs": "0QS706Z",
+          "cpt": "27245"
+        }
+      ]
+    },
+    {
+      "fin": "009285",
+      "admit_datetime": "2026-08-24T09:00:00-06:00",
+      "discharge_datetime": "2026-08-27T14:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Skilled Nursing Facility",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "J69.0",
+      "principal_diagnosis": "Aspiration pneumonia due to inhalation of food or vomitus",
+      "ms_drg": "177",
+      "length_of_stay_days": 3
+    }
+  ]
+}

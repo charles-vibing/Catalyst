@@ -1,0 +1,70 @@
+{
+  "patient_id": 32,
+  "extracted_at": "2026-07-04T16:00:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 201,
+      "description": "Chronic systolic heart failure (HFrEF)",
+      "icd10": "I50.22",
+      "snomed": "84114007",
+      "status": "Active",
+      "onset_date": "2018-06-15",
+      "last_reviewed": "2025-12-10"
+    },
+    {
+      "problem_id": 202,
+      "description": "Type 2 diabetes mellitus without complications",
+      "icd10": "E11.9",
+      "snomed": "44054006",
+      "status": "Active",
+      "onset_date": "2012-03-22",
+      "last_reviewed": "2025-11-05"
+    },
+    {
+      "problem_id": 203,
+      "description": "Chronic kidney disease, stage 3a",
+      "icd10": "N18.30",
+      "snomed": "700378005",
+      "status": "Active",
+      "onset_date": "2020-09-01",
+      "last_reviewed": "2025-10-20"
+    },
+    {
+      "problem_id": 204,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2005-04-10",
+      "last_reviewed": "2025-12-01"
+    },
+    {
+      "problem_id": 205,
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5",
+      "snomed": "55822004",
+      "status": "Active",
+      "onset_date": "2010-07-18",
+      "last_reviewed": "2025-11-15"
+    },
+    {
+      "problem_id": 206,
+      "description": "Osteoporosis",
+      "icd10": "M81.0",
+      "snomed": "64859006",
+      "status": "Active",
+      "onset_date": "2019-02-28",
+      "last_reviewed": "2025-09-12"
+    },
+    {
+      "problem_id": 207,
+      "description": "Acute kidney injury, unspecified",
+      "icd10": "N17.9",
+      "snomed": "14669001",
+      "status": "Resolved",
+      "onset_date": "2026-07-06",
+      "last_reviewed": "2026-07-11"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+PRE-ANESTHESIA EVALUATION
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009205
+Procedure: Left IM Nail (Cephalomedullary)
+Scheduled Date: 2026-08-14
+
+================================================================================
+HISTORY:
+86-year-old female with T2DM, PVD, CKD 3a, HTN, HLD. No prior surgeries. No known anesthetic complications.
+
+================================================================================
+MEDICATIONS:
+- Metformin 500 mg PO BID (held today)
+- Atorvastatin 20 mg PO daily (taken)
+- Lisinopril 10 mg PO daily (taken)
+- Aspirin 81 mg PO daily (held per ortho)
+- Cilostazol 100 mg PO BID (held per ortho)
+
+================================================================================
+ALLERGIES:
+Sulfonamides (rash)
+
+================================================================================
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear bilaterally.
+
+================================================================================
+LABORATORY DATA:
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 1.8 mg/dL
+- INR: 1.1
+- Glucose: 156 mg/dL
+
+================================================================================
+ASA CLASS: III
+
+================================================================================
+PLAN:
+General anesthesia with endotracheal intubation. Consider arterial line for hemodynamic monitoring given PVD and CKD. Antibiotic prophylaxis: cefazolin 2 g IV (no sulfa allergy).
+
+================================================================================
+
+Electronically signed:
+Patel, Anjali MD
+Anesthesiologist
+2026-08-14 06:30:00 -06:00

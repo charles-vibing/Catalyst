@@ -1,0 +1,51 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+==============================
+
+Patient Name: Pike, Garrett T
+MRN: 10122
+DOB: 1948-03-15
+Sex: M
+Encounter FIN: 008725
+
+Attending: Okonkwo, Chidi MD
+
+Date of Admission: 2026-07-30
+Date of Discharge: 2026-08-03
+
+DISCHARGE DISPOSITION: Home (01)
+
+ADMITTING DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL PROCEDURE:
+Right hip hemiarthroplasty (0SRB02A) performed 2026-07-31
+
+HOSPITAL COURSE:
+Mr. Pike is a 78-year-old male admitted after a ground-level fall
+causing a displaced right intertrochanteric femur fracture. He
+underwent right hip hemiarthroplasty on 2026-07-31 without
+complications. Post-operative course was unremarkable. Pain was well
+controlled with oral analgesics. PT/OT evaluated on POD1 and POD2;
+patient ambulated with walker, stairs not required at home. He was
+deemed safe for discharge home with spouse. Home health services have
+been arranged. PCP follow-up scheduled within 7 days.
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Enoxaparin 40 mg SC daily for 14 days (DVT prophylaxis)
+- Lisinopril 10 mg PO daily (resume)
+- Calcium carbonate 500 mg PO BID (resume)
+- Vitamin D3 1000 IU PO daily (resume)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Emily Harper): 2026-08-09
+- Orthopedic surgery: 2026-08-16
+
+CONDITION ON DISCHARGE:
+Stable. Ambulating with walker. Incision clean, dry, intact.
+
+Electronically signed:
+Okonkwo, Chidi MD
+2026-08-03 10:00

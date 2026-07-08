@@ -1,0 +1,19 @@
+{
+  "patient_id": 3,
+  "extracted_at": "2026-02-06T16:45:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Codeine",
+      "reaction": "Nausea and vomiting",
+      "severity": "Moderate",
+      "verified": true
+    },
+    {
+      "allergen": "Latex",
+      "reaction": "Contact dermatitis",
+      "severity": "Mild",
+      "verified": true
+    }
+  ]
+}

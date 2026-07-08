@@ -1,0 +1,69 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+
+PATIENT: Abernathy, Clyde W
+MRN: 10105
+DOB: 1934-07-22
+SEX: M
+ENCOUNTER FIN: 007361
+ADMIT DATE: 2026-05-29
+
+ATTENDING: Okonkwo, Chidi MD (Hospitalist)
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS: Mr. Abernathy is a 91-year-old male who presents after a ground-level fall at home earlier today. He tripped on a rug and landed on his right side. He experienced immediate right hip pain and was unable to bear weight. He was transported by EMS to the Emergency Department. Imaging revealed a displaced right intertrochanteric femur fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+
+ALLERGIES: No known allergies.
+
+SOCIAL HISTORY: Patient lives alone in a single-story home. He is independent with activities of daily living. His granddaughter, Sarah Abernathy, lives nearby and checks in daily. He is a former smoker (quit 20 years ago). No alcohol or illicit drug use.
+
+FAMILY HISTORY: Noncontributory.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, shortness of breath, or fever. Denies head injury or loss of consciousness.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 138/78, HR 82, RR 16, Temp 36.8°C, O2 sat 97% on room air.
+GENERAL: Alert, oriented x3, in mild distress due to pain.
+HEENT: Normocephalic, atraumatic.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs.
+RESPIRATORY: Clear to auscultation bilaterally.
+ABDOMEN: Soft, nontender, nondistended.
+EXTREMITIES: Right lower extremity shortened and externally rotated. No open wounds. Left lower extremity normal. Dorsalis pedis pulses palpable bilaterally.
+NEUROLOGIC: Grossly intact.
+
+LABORATORY DATA (on admission):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 12.5 g/dL
+- Creatinine: 0.9 mg/dL
+- WBC: 7.2 x10^3/uL
+- Platelets: 220 x10^3/uL
+- Sodium: 140 mEq/L
+- Potassium: 4.1 mEq/L
+
+IMAGING: Right hip XR shows displaced intertrochanteric fracture (S72.141A).
+
+ASSESSMENT AND PLAN:
+1. Displaced right intertrochanteric femur fracture – Plan right hip hemiarthroplasty. Orthopedics (Dr. Mitchell) consulted. Surgery scheduled for tomorrow.
+2. Hypertension – Continue lisinopril.
+3. Osteoporosis – Continue calcium and vitamin D.
+4. Pain management – Acetaminophen and hydromorphone as needed.
+5. DVT prophylaxis – Enoxaparin 40 mg SC daily starting post-op.
+6. Fall prevention – Physical therapy consult.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+NPI: 1234567892
+2026-05-29T18:00:00-06:00

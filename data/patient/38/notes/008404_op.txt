@@ -1,0 +1,40 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+Patient: Mehta, Calvin V
+MRN: 10118
+DOB: 1945-03-12
+Sex: M
+Encounter FIN: 008404
+
+DATE OF SURGERY: 2026-07-21
+SURGEON: Mitchell, James MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: General endotracheal
+
+PREOPERATIVE DIAGNOSIS: Displaced left intertrochanteric femur fracture (S72.141A)
+
+POSTOPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left hip hemiarthroplasty (ICD-10-PCS 0SRB02A; CPT 27125)
+
+INDICATIONS: 81-year-old male with displaced left intertrochanteric femur fracture, s/p INR reversal. Surgery delayed due to elevated INR on warfarin.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia and placement of arterial line, the patient was positioned in the left lateral decubitus position. The left hip and proximal thigh were prepped and draped in sterile fashion. A standard posterior approach to the left hip was made. The gluteus maximus was split, and the short external rotators were identified and divided. The hip capsule was incised, and the femoral head was dislocated posteriorly. The femoral head was measured and removed. The acetabulum was inspected and found to be intact. The femoral canal was prepared with sequential reaming. A cemented femoral stem with a 46 mm bipolar head was placed. The hip was reduced and range of motion was stable. The wound was irrigated and closed in layers over a drain. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 300 mL
+FLUIDS: 1500 mL crystalloid
+URINE OUTPUT: 200 mL
+COMPLICATIONS: None
+DRAINS: One Hemovac drain, to bulb suction
+
+Specimens: None.
+
+Counts: Sponge, needle, and instrument counts correct x2.
+
+CONDITION: Stable, extubated, transferred to PACU.
+
+Mitchell, James MD
+NPI: 1234567890
+Electronically signed on 2026-07-21 23:30.

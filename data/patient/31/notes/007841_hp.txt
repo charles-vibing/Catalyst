@@ -1,0 +1,77 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+
+PATIENT: Kaminski, Thelma J
+MRN: 10111
+DOB: 1953-07-14
+SEX: F
+FIN: 007841
+
+ATTENDING: Okonkwo, Chukwudi MD
+
+DATE OF ADMISSION: 2026-07-01
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 72-year-old female who presents after a ground-level fall at home earlier today. She slipped on a rug and landed on her right side, immediately experiencing severe right hip pain and inability to bear weight. She was transported by family to the Emergency Department. Imaging revealed a displaced right femoral neck fracture. She is admitted for surgical management. She has no prior hip fractures or surgeries.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+1. Lisinopril 10 mg PO daily
+2. Calcium carbonate 500 mg PO BID
+3. Vitamin D3 800 IU PO daily
+
+ALLERGIES:
+Penicillin (rash)
+
+SOCIAL HISTORY:
+The patient lives with her daughter, Karen Kaminski, in a single-family home. She is independent with ambulation using a cane. No stairs in the home. She is a former smoker (quit 10 years ago), no alcohol use. Emergency contact is her daughter (phone: 555-0199).
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, weight loss. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea, cough. Gastrointestinal: No nausea, vomiting. Musculoskeletal: Right hip pain as above. Neurologic: No weakness, numbness, tingling.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+General: Well-appearing female in mild distress due to pain.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Right lower extremity shortened and externally rotated. Tenderness over right hip. No open wounds. Distal pulses intact, sensation intact.
+Neurologic: Alert and oriented x3.
+
+LABORATORY DATA (on admission):
+- Albumin: 4.0 g/dL (1751-7)
+- Hemoglobin: 13.5 g/dL (718-7)
+- Creatinine: 0.8 mg/dL (2160-0)
+- WBC: 6.5 K/uL (6690-2)
+- Platelets: 220 K/uL (777-3)
+- Sodium: 140 mEq/L (2951-2)
+- Potassium: 4.1 mEq/L (2823-3)
+
+ASSESSMENT AND PLAN:
+72-year-old female with displaced right femoral neck fracture (S72.031A) s/p ground-level fall. Comorbidities: HTN, osteoporosis.
+
+1. Surgery: Right hip hemiarthroplasty (CPT 27125) planned for tomorrow (2026-07-02). Orthopedic surgery: Dr. Mitchell.
+2. Pain management: Acetaminophen 650 mg PO q6h PRN; hydromorphone 0.5 mg IV q4h PRN breakthrough.
+3. DVT prophylaxis: Enoxaparin 40 mg SC daily starting post-op.
+4. Antibiotic prophylaxis: Cefazolin 2 g IV prior to incision (no penicillin allergy contraindication).
+5. HTN management: Continue lisinopril.
+6. Osteoporosis: Continue calcium and vitamin D.
+7. PT/OT evaluation post-op.
+8. Discharge planning: Likely home with daughter, anticipate LOS 3-4 days.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-07-01 17:00:00 CST

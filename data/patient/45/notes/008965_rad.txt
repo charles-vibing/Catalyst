@@ -1,0 +1,32 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+Patient Name: ESPINOZA, ROSA C
+MRN: 10125
+DOB: 1937-11-22
+Sex: F
+Encounter FIN: 008965
+
+Exam Date: 2026-08-07
+Accession: RAD-2026-008965-01
+
+EXAM: LEFT HIP X-RAY 2 VIEWS
+
+INDICATION: Ground-level fall, left hip pain, unable to bear weight.
+
+FINDINGS:
+There is a displaced left femoral neck fracture (midcervical).
+Minimal shortening and rotation of the femoral head.
+No other acute fractures or dislocations.
+Moderate osteopenia noted.
+
+IMPRESSION:
+Displaced left femoral neck fracture (S72.032A).
+
+Electronically signed:
+Hartman, Susan MD
+Radiology
+Memorial General Hospital
+Date/Time: 2026-08-07 15:45 CST

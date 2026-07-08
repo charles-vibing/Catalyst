@@ -1,0 +1,34 @@
+{
+  "patient_id": 37,
+  "mrn": "10117",
+  "name": {
+    "family": "Sokol",
+    "given": "Renata",
+    "middle": "K"
+  },
+  "birth_date": "1951-08-22",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "600 E Laurel Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "Anna Sokol",
+    "relationship": "Daughter",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "2345678901",
+    "name": "Patel, Ravi MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000117"
+  }
+}

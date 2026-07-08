@@ -1,0 +1,66 @@
+MEMORIAL GENERAL HOSPITAL
+History and Physical — Admission
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005395
+DOB: 05/15/1938
+Date of Service: 04/20/2026
+Admit Date: 04/20/2026 0730
+Attending: Okonkwo, James MD
+Service: Internal Medicine
+
+CHIEF COMPLAINT:
+Confusion and fever
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Kim is an 88-year-old female with dementia, osteoporosis, and hypertension who was discharged home with home health aide 8 days ago after left hip hemiarthroplasty for femoral neck fracture (FIN 005380). Home health nurse reports 2 days of worsening confusion beyond baseline, fever to 101.2 F, and foul-smelling urine. Patient unable to reliably describe symptoms. Son James Kim contacted by HHA and encouraged ED evaluation; neighbor brought patient to emergency department this morning.
+
+PAST MEDICAL HISTORY:
+- Dementia without behavioral disturbance
+- Osteoporosis
+- Hypertension
+- Recent left hip hemiarthroplasty 04/09/2026 with postoperative delirium during index stay
+
+HOME MEDICATIONS:
+Donepezil, memantine, amlodipine, alendronate, calcium/vitamin D, acetaminophen PRN, aspirin 81 mg daily
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+
+PHYSICAL EXAM:
+Vitals: T 101.4 F, HR 104, BP 132/72, RR 20, SpO2 94% RA
+General: Elderly female, acutely confused, not oriented to date
+Lungs: Clear to auscultation bilaterally
+Cardiac: Regular rate and rhythm, no murmur
+Abdomen: Soft, suprapubic tenderness, no guarding
+GU: No CVA tenderness
+MSK: Left hip surgical incision clean, dry, intact
+Neuro: Acute on chronic confusion; no focal motor deficit
+
+LABS / IMAGING:
+WBC 13.6, urinalysis positive for nitrites, leukocyte esterase, bacteria
+UA culture pending
+CT head without contrast: no acute intracranial abnormality; chronic microvascular changes
+
+ASSESSMENT AND PLAN:
+88-year-old female with urinary tract infection and delirium in setting of recent hip surgery and baseline dementia.
+
+1. Urinary tract infection (N39.0)
+   - Admit to medicine service
+   - IV ceftriaxone (no PCN allergy documented)
+   - Encourage oral hydration
+   - Repeat UA/culture
+
+2. Delirium (F05)
+   - Acute confusion likely multifactorial: UTI, baseline dementia, recent surgery
+   - Delirium precautions, treat underlying infection
+   - Avoid sedating medications
+   - Reorient frequently; son to visit by phone
+
+3. Recent left hip hemiarthroplasty — orthopedic incision stable; weight-bearing status unchanged
+4. Dementia (F03.90) — continue home donepezil and memantine
+
+Electronically signed by:
+Okonkwo, James MD
+04/20/2026 0915

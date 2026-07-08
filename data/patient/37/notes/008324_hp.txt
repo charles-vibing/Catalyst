@@ -1,0 +1,70 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+============================================================
+
+PATIENT: Sokol, Renata K
+MRN: 10117
+DOB: 1951-08-22
+SEX: F
+FIN: 008324
+
+DATE OF ADMISSION: 2026-07-17
+ATTENDING: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Left thigh pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 74-year-old female with history of Parkinson disease and hypertension who presents after a ground-level fall at home earlier today. She slipped on a rug and landed on her left side, immediately experiencing severe left thigh pain and inability to bear weight. EMS transported her to the ED. X-ray in the ED demonstrated a displaced left femoral shaft fracture. Orthopedics consulted and recommends surgical fixation. Patient is admitted for preoperative optimization and planned intramedullary nailing.
+
+PAST MEDICAL HISTORY:
+- Parkinson disease (diagnosed 2020)
+- Essential hypertension
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Carbidopa/Levodopa 25/100 mg TID
+- Lisinopril 10 mg daily
+
+ALLERGIES:
+- Sulfa (rash)
+
+SOCIAL HISTORY:
+Patient lives with her husband in a single-family home. Husband is primary caregiver. She is ambulatory with a walker at baseline. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: Negative for fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea, cough. Gastrointestinal: No nausea, vomiting. Musculoskeletal: Left thigh pain as above. Neurologic: Baseline tremor, no new deficits.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 97% on room air.
+GENERAL: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs.
+RESPIRATORY: Clear to auscultation bilaterally.
+ABDOMEN: Soft, non-tender.
+MUSCULOSKELETAL: Left thigh swollen, tender, with deformity. Neurovascularly intact distally.
+NEUROLOGIC: Mild resting tremor in upper extremities, normal strength in unaffected limbs.
+
+LABORATORY DATA (on admission):
+- Albumin: 3.8 g/dL
+- Hemoglobin: 12.5 g/dL
+- Creatinine: 0.9 mg/dL
+- WBC: 7.2 K/uL
+- Platelets: 220 K/uL
+
+ASSESSMENT AND PLAN:
+1. Left femoral shaft fracture – Plan for intramedullary nailing tomorrow morning.
+2. Parkinson disease – Continue home carbidopa/levodopa; coordinate with anesthesia.
+3. Hypertension – Continue lisinopril.
+
+Disposition planning: Patient is a good candidate for inpatient rehabilitation given her functional baseline and caregiver support at home. PT/OT will evaluate postoperatively.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+2026-07-17 16:00

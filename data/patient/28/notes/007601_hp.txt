@@ -1,0 +1,73 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Schmidt, Frieda L
+MRN: 10108
+DOB: 1954-03-12
+SEX: F
+FIN: 007601
+
+ATTENDING: Okonkwo, Chidi MD (Hospitalist)
+SURGEON: Mitchell, James MD (Orthopedic Surgery)
+
+DATE OF ADMISSION: 2026-06-14
+
+CHIEF COMPLAINT: Left hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+This is a 72-year-old female with history of hypertension and osteoporosis who presents after a ground-level fall at home today. She tripped on a rug and landed on her left side. She experienced immediate left hip pain and was unable to bear weight. EMS transported her to the emergency department. X-ray in the ED showed a displaced left femoral neck fracture. She is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg PO daily
+- Calcium carbonate 500 mg PO BID
+- Vitamin D3 800 IU PO daily
+
+ALLERGIES:
+- Penicillin (rash)
+
+SOCIAL HISTORY:
+The patient lives with her daughter, Martha Schmidt, in a single-family home. She is independent in activities of daily living with no assistive devices. She does not smoke or drink alcohol.
+
+FAMILY HISTORY:
+Noncontributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, or weight loss.
+Cardiovascular: No chest pain, palpitations, or edema.
+Respiratory: No dyspnea, cough, or wheezing.
+Gastrointestinal: No nausea, vomiting, or abdominal pain.
+Musculoskeletal: Left hip pain as described.
+Neurologic: No focal deficits.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 128/78, HR 76, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+General: Well-appearing, in no acute distress.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender, nondistended.
+Extremities: Left lower extremity shortened and externally rotated. Tender over left hip. No neurovascular deficits distally. Right lower extremity normal.
+
+ASSESSMENT:
+Displaced left femoral neck fracture (S72.032A) due to ground-level fall. The patient is a healthy 72-year-old with well-controlled hypertension and osteoporosis. She is a candidate for left hip hemiarthroplasty.
+
+PLAN:
+1. Admit to orthopedic service.
+2. Preoperative labs: CBC, CMP, PT/PTT, type and screen.
+3. Surgery: Left hip hemiarthroplasty (CPT 27125) planned for tomorrow morning.
+4. DVT prophylaxis: Enoxaparin 40 mg SC daily starting post-op.
+5. Pain management: Acetaminophen 650 mg PO q6h PRN, oxycodone 5 mg PO q4h PRN for breakthrough.
+6. PT/OT evaluation post-op day 1.
+7. Continue home medications: Lisinopril, calcium, vitamin D.
+8. PCP follow-up within 7 days of discharge.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+2026-06-14 16:00:00

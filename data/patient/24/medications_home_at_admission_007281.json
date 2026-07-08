@@ -1,0 +1,54 @@
+{
+  "patient_id": 24,
+  "mrn": "10104",
+  "fin": "007281",
+  "extracted_at": "2026-05-28T10:30:00-06:00",
+  "source": "EPIC_ADMISSION_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Patel, Sunita MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "atorvastatin",
+      "name_display": "Atorvastatin 20 mg tablet",
+      "rxnorm": "617318",
+      "sig": "Take 1 tablet (20 mg) by mouth nightly",
+      "route": "oral",
+      "frequency": "Nightly",
+      "status": "Continue",
+      "prescriber": "Patel, Sunita MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 600 mg tablet",
+      "rxnorm": "309885",
+      "sig": "Take 1 tablet (600 mg) by mouth twice daily with food",
+      "route": "oral",
+      "frequency": "BID with food",
+      "status": "Continue",
+      "prescriber": "Patel, Sunita MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "vitamin D3",
+      "name_display": "Vitamin D3 1000 unit capsule",
+      "rxnorm": "1116634",
+      "sig": "Take 1 capsule (1000 units) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Patel, Sunita MD"
+    }
+  ]
+}

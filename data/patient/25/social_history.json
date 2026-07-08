@@ -1,0 +1,18 @@
+{
+  "patient_id": 25,
+  "mrn": "10105",
+  "extracted_at": "2026-05-29T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives alone in single-story home; granddaughter Sarah Abernathy lives nearby and checks in daily",
+  "functional_baseline": "Independent with ambulation, no assistive device; manages own medications and meals",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

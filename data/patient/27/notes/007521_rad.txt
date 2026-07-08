@@ -1,0 +1,36 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Okoye, Dennis C.        MRN: 10107           FIN: 007521
+DOB: 1948-03-12                  SEX: M
+
+EXAM: XR RIGHT HIP 2 VIEWS
+ACCESSION: RAD-2026-007521-01
+ORDERING PROVIDER: Mitchell, James MD (Orthopedic Surgery)
+EXAM DATE/TIME: 2026-06-09 13:15
+REPORT DATE/TIME: 2026-06-09 14:00
+
+================================================================================
+HISTORY:
+78-year-old male with history of hypertension and osteoporosis, presented
+after ground-level fall at home. Right hip pain, unable to bear weight.
+
+TECHNIQUE:
+Anteroposterior and lateral views of the right hip.
+
+FINDINGS:
+Displaced intertrochanteric fracture of the right femur. There is
+trabecular disruption through the intertrochanteric region with mild
+varus angulation. No evidence of pathologic fracture. No dislocation.
+Joint spaces are preserved. Mild degenerative changes noted.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+================================================================================
+SIGNED:
+Hartman, Laura MD (Radiology)
+Electronically signed: 2026-06-09 14:00
+================================================================================

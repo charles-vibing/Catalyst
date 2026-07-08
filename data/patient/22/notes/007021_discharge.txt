@@ -1,0 +1,55 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Okafor, Teresa N
+MRN: 10102
+DOB: 1951-08-12
+SEX: F
+FIN: 007021
+
+ATTENDING: Okonkwo, Chuka MD (Hospitalist)
+SURGEON: Mitchell, James MD
+
+DATE OF ADMISSION: 2026-05-14
+DATE OF DISCHARGE: 2026-05-19
+
+ADMITTING DIAGNOSIS:
+Displaced left femoral shaft fracture (S72.301A)
+
+PRINCIPAL DIAGNOSIS:
+Displaced left femoral shaft fracture (S72.301A)
+
+SECONDARY DIAGNOSES:
+- Parkinson disease (G20)
+- Essential hypertension (I10)
+- Osteoporosis (M81.0)
+
+PROCEDURES PERFORMED:
+- Left femoral shaft intramedullary nailing (ICD-10-PCS 0QS806Z; CPT 27506) on 2026-05-15
+
+HOSPITAL COURSE:
+Patient admitted after ground-level fall resulting in left femoral shaft fracture. Underwent intramedullary nailing on hospital day 2 without complications. Postoperative course was unremarkable. Pain controlled with acetaminophen and ketorolac. Physical and occupational therapy evaluated and recommended discharge to inpatient rehabilitation facility given underlying Parkinson disease and need for further gait training. Patient and family agree with plan.
+
+DISCHARGE MEDICATIONS:
+- Carbidopa-levodopa 25-100 mg PO TID
+- Lisinopril 10 mg PO daily
+- Cholecalciferol 1000 IU PO daily
+- Calcium carbonate 500 mg PO BID
+- Acetaminophen 650 mg PO q6h PRN pain
+
+DISCHARGE DISPOSITION:
+Inpatient Rehabilitation Facility (Prairie View Rehabilitation Center)
+
+FOLLOW-UP:
+- Orthopedic clinic: 2 weeks post-discharge (Dr. Mitchell)
+- PCP: Dr. Williams, appointment scheduled 2026-05-26
+
+CONDITION ON DISCHARGE:
+Stable. Weight-bearing as tolerated on left lower extremity. Walker for ambulation.
+
+---
+
+Electronically signed:
+Okonkwo, Chuka MD
+Hospitalist
+2026-05-19 10:00:00

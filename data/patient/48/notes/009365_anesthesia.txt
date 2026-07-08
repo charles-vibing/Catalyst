@@ -1,0 +1,54 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+PRE-ANESTHESIA EVALUATION
+================================================================================
+
+PATIENT: Romano, Lorenzo P
+MRN: 10128
+DOB: 1948-06-15  SEX: M
+ENCOUNTER FIN: 009365
+DATE OF EVALUATION: 2026-08-16 06:30
+
+SURGEON: Mitchell, James MD (Orthopedic Surgery) NPI: 1234567892
+PROCEDURE: Right hip hemiarthroplasty (0SRB02A)
+
+ASA CLASS: III
+
+HISTORY:
+77-year-old male with atrial fibrillation (on warfarin, now held), hypertension, 
+osteoporosis. No prior surgeries. No known anesthetic complications.
+
+ALLERGIES: Sulfonamides (rash)
+
+MEDICATIONS:
+- Warfarin (held since admission)
+- Lisinopril 10 mg PO daily (given today)
+- Vitamin K 5 mg IV given yesterday
+
+PHYSICAL EXAMINATION:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY DATA:
+- INR (today): 1.4 (reversed from 2.8)
+- Hemoglobin: 11.8 g/dL (slight drop from 12.0)
+- Creatinine: 1.0 mg/dL
+- Albumin: 3.5 g/dL
+
+PLAN:
+- General anesthesia with endotracheal intubation.
+- Standard ASA monitors.
+- Consider arterial line for blood pressure monitoring.
+- Avoid sulfonamide antibiotics.
+- Post-op pain management: multimodal (acetaminophen, opioids as needed).
+
+RISK DISCUSSION:
+Discussed risks of anesthesia including bleeding, infection, myocardial 
+ischemia, stroke, and death. Patient understands and consents.
+
+ELECTRONICALLY SIGNED:
+Patel, Ravi MD (Anesthesiology)
+NPI: 1234567893
+2026-08-16 06:45
+================================================================================

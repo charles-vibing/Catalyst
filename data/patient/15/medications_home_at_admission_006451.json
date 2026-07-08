@@ -1,0 +1,21 @@
+{
+  "patient_id": 15,
+  "mrn": "10095",
+  "fin": "006451",
+  "extracted_at": "2026-04-11T10:30:00-06:00",
+  "source": "EPIC_ADMISSION_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Thompson, Laura MD"
+    }
+  ]
+}

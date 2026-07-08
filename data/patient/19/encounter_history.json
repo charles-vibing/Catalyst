@@ -1,0 +1,47 @@
+{
+  "patient_id": 19,
+  "extracted_at": "2026-05-03T11:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "298441",
+      "admit_datetime": "2025-03-15T09:30:00-05:00",
+      "discharge_datetime": "2025-03-18T14:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "J44.1",
+      "principal_diagnosis": "COPD with acute exacerbation",
+      "ms_drg": "190",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "006772",
+      "admit_datetime": "2026-04-29T14:30:00-06:00",
+      "discharge_datetime": "2026-05-03T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.141A",
+      "principal_diagnosis": "Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture",
+      "ms_drg": "481",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-04-30",
+          "description": "Open reduction and internal fixation of right femoral neck fracture",
+          "icd10_pcs": "0QS604Z",
+          "cpt": "27236"
+        }
+      ]
+    }
+  ]
+}

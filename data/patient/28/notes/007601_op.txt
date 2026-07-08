@@ -1,0 +1,51 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Schmidt, Frieda L
+MRN: 10108
+DOB: 1954-03-12
+SEX: F
+FIN: 007601
+
+DATE OF SURGERY: 2026-06-15
+
+SURGEON: Mitchell, James MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: Patel, Anita MD
+
+PREOPERATIVE DIAGNOSIS:
+Displaced left femoral neck fracture (S72.032A).
+
+POSTOPERATIVE DIAGNOSIS:
+Same.
+
+PROCEDURE PERFORMED:
+Left hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SR902A).
+
+ANESTHESIA:
+Spinal with sedation.
+
+ESTIMATED BLOOD LOSS:
+200 mL.
+
+COMPLICATIONS:
+None.
+
+INDICATIONS:
+72-year-old female with displaced left femoral neck fracture, unable to ambulate. Surgical management indicated.
+
+DESCRIPTION OF PROCEDURE:
+The patient was brought to the operating room and placed in the left lateral decubitus position. After adequate spinal anesthesia, the left hip was prepped and draped in sterile fashion. A standard posterior approach to the left hip was made. The fascia lata and gluteus maximus were split. The short external rotators were identified and divided. The hip was dislocated posteriorly. The femoral neck was osteotomized at the appropriate level. The femoral head was removed. The acetabulum was inspected and found to be intact. The femoral canal was sequentially broached to accept a size 4 cemented femoral stem. A trial reduction was performed with a 46 mm bipolar head; stability and range of motion were satisfactory. The final components were cemented in place. The hip was reduced. The wound was irrigated and closed in layers over a drain. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS:
+Correct.
+
+DRAIN:
+One Jackson-Pratt drain.
+
+CONDITION:
+Stable, transferred to PACU in satisfactory condition.
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+2026-06-15 10:30:00

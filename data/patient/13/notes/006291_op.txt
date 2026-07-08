@@ -1,0 +1,45 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+==============================
+
+PATIENT NAME: Deluca, Frank R
+MRN: 10093
+DOB: 1948-04-22
+SEX: M
+ENCOUNTER FIN: 006291
+DATE OF SURGERY: 2026-03-30
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+POSTOPERATIVE DIAGNOSIS:
+Same
+
+PROCEDURE PERFORMED:
+Right hip hemiarthroplasty
+
+SURGEON: Mitchell, John MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIOLOGIST: Patel, Priya MD
+
+ANESTHESIA: Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+78-year-old male with displaced right intertrochanteric femur fracture, requiring surgical management.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned in the left lateral decubitus position. The right hip was prepped and draped in sterile fashion. A standard posterior approach to the right hip was made. The fascia lata and gluteus maximus were divided. The short external rotators were identified and divided. The hip capsule was incised. The femoral head was dislocated and removed. The femoral canal was prepared with sequential reaming. A trial prosthesis was placed and found to be stable. The final cemented femoral stem and bipolar head were implanted. The hip was reduced and range of motion was satisfactory. The wound was irrigated and closed in layers over a drain. Sterile dressing applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct.
+
+---
+
+ELECTRONICALLY SIGNED:
+Mitchell, John MD
+Orthopedic Surgery
+2026-03-30 11:30

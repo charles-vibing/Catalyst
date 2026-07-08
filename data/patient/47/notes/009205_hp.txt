@@ -1,0 +1,102 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+================================================================================
+
+Patient Name: FELDMAN, MIRIAM G
+MRN: 10127
+DOB: 1939-11-02
+Sex: F
+
+Encounter FIN: 009205
+Admission Date: 2026-08-12
+Attending: Okonkwo, Chukwudi MD
+
+================================================================================
+CHIEF COMPLAINT: Left hip pain after fall.
+
+================================================================================
+HISTORY OF PRESENT ILLNESS:
+Mrs. Feldman is an 86-year-old female with history of type 2 diabetes, peripheral vascular disease, chronic kidney disease stage 3a, hypertension, and hyperlipidemia. She presents after a ground-level fall at home this morning. She slipped on a rug and landed on her left side. She experienced immediate left hip pain and was unable to stand. EMS transported her to the ED. X-ray shows a displaced left subtrochanteric femur fracture. She is admitted for surgical management.
+
+================================================================================
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease, unspecified (I73.9)
+- Chronic kidney disease, stage 3a (N18.31)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Prior hospitalization August 2025 for PVD exacerbation (FIN 295678)
+
+================================================================================
+PAST SURGICAL HISTORY:
+None.
+
+================================================================================
+HOME MEDICATIONS ON ADMISSION:
+- Metformin 500 mg PO BID
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Aspirin 81 mg PO daily
+- Cilostazol 100 mg PO BID
+
+================================================================================
+ALLERGIES:
+Sulfonamides (rash)
+
+================================================================================
+SOCIAL HISTORY:
+Lives with daughter Sarah Feldman in a single-family home. Independent with ADLs prior to fall. No tobacco or alcohol use.
+
+================================================================================
+FAMILY HISTORY:
+Noncontributory.
+
+================================================================================
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, weight loss.
+Cardiovascular: No chest pain, palpitations, dyspnea on exertion.
+Respiratory: No cough, wheezing.
+Gastrointestinal: No nausea, vomiting, diarrhea.
+Genitourinary: No dysuria, frequency.
+Musculoskeletal: Left hip pain, unable to bear weight.
+Neurological: No weakness, numbness, tingling.
+
+================================================================================
+PHYSICAL EXAMINATION:
+Vitals: BP 148/82, HR 88, RR 18, Temp 36.8 C, SpO2 96% on room air.
+General: Alert, oriented x3, in moderate distress.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Bilateral lower extremity pulses diminished but palpable.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender, nondistended.
+Extremities: Left lower extremity shortened and externally rotated. No open wounds. Right lower extremity normal.
+Neurological: Cranial nerves intact. Sensation intact. Strength 5/5 in upper extremities and right lower extremity; left lower extremity not tested due to pain.
+
+================================================================================
+PERTINENT LABORATORY DATA:
+- Albumin: 3.0 g/dL
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 1.8 mg/dL
+- BUN: 32 mg/dL
+- Glucose: 156 mg/dL
+- INR: 1.1
+
+================================================================================
+ASSESSMENT AND PLAN:
+
+1. Left subtrochanteric femur fracture (S72.212A) - Plan for left IM nail (cephalomedullary) on 2026-08-14. Ortho: Dr. Mitchell.
+2. Type 2 diabetes - Continue metformin; hold on day of surgery; monitor glucose.
+3. Peripheral vascular disease - Continue cilostazol; hold aspirin perioperatively per ortho.
+4. CKD stage 3a - Avoid nephrotoxins; monitor creatinine.
+5. Hypertension - Continue lisinopril.
+6. Hyperlipidemia - Continue atorvastatin.
+
+Disposition planning: Anticipate SNF placement given deconditioning and need for weight-bearing restrictions.
+
+================================================================================
+
+Electronically signed:
+Okonkwo, Chukwudi MD
+Hospitalist
+2026-08-12 17:30:00 -06:00

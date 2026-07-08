@@ -1,0 +1,47 @@
+{
+  "patient_id": 31,
+  "mrn": "10111",
+  "fin": "007841",
+  "extracted_at": "2026-07-05T12:00:00-06:00",
+  "source": "EPIC_FLOWSHEET_NURSING",
+  "assessments": [
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 25,
+      "risk_level": "Low",
+      "recorded_at": "2026-07-01T15:00:00-06:00",
+      "factors": [
+        "Age 72",
+        "Cane use at home"
+      ]
+    },
+    {
+      "assessment": "Morse Fall Scale",
+      "score": 25,
+      "risk_level": "Low",
+      "recorded_at": "2026-07-03T08:00:00-06:00"
+    },
+    {
+      "assessment": "Braden Scale",
+      "score": 22,
+      "risk_level": "Mild risk",
+      "recorded_at": "2026-07-01T15:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-07-01T15:00:00-06:00"
+    },
+    {
+      "assessment": "CAM (Confusion Assessment Method)",
+      "positive": false,
+      "recorded_at": "2026-07-03T08:00:00-06:00"
+    },
+    {
+      "assessment": "Incision / wound",
+      "site": "Right hip posterolateral",
+      "status": "Clean, dry, intact",
+      "recorded_at": "2026-07-03T08:00:00-06:00"
+    }
+  ]
+}

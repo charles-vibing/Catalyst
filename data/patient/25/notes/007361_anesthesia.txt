@@ -1,0 +1,39 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Abernathy, Clyde W
+MRN: 10105
+DOB: 1934-07-22
+SEX: M
+ENCOUNTER FIN: 007361
+SURGERY DATE: 2026-05-30
+
+ATTENDING ANESTHESIOLOGIST: Patel, Raj MD
+
+HISTORY: 91-year-old male with hypertension and osteoporosis presenting for right hip hemiarthroplasty. No prior surgeries. No known allergies.
+
+MEDICATIONS: Lisinopril 10 mg daily (held this morning), cholecalciferol, calcium carbonate.
+
+REVIEW OF SYSTEMS: As per H&P.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 136/76, HR 80, RR 14, Temp 36.7°C, O2 sat 98%.
+AIRWAY: Mallampati II, full range of motion.
+CARDIOVASCULAR: Regular rhythm, no murmurs.
+RESPIRATORY: Clear.
+
+LABORATORY DATA (pre-op):
+- Hemoglobin: 12.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.8 g/dL
+- INR: 1.1 (not on anticoagulation)
+
+ASA CLASS: III (patient with severe systemic disease due to age and hypertension)
+
+PLAN: Spinal anesthesia with sedation. Antibiotic prophylaxis: cefazolin 2 g IV prior to incision.
+
+ELECTRONICALLY SIGNED:
+Patel, Raj MD
+Anesthesiology
+NPI: 1234567893
+2026-05-30T07:00:00-06:00

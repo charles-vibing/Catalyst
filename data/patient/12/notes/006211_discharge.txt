@@ -1,0 +1,58 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+PATIENT: Johnson, Linda M
+MRN: 10092
+FIN: 006211
+DOB: 08/15/1955
+SEX: F
+
+ADMIT DATE: 03/20/2026
+DISCHARGE DATE: 03/24/2026
+
+ATTENDING: Okonkwo, Chuka MD
+PCP: Williams, Sarah MD
+
+PRINCIPAL DIAGNOSIS:
+Right femoral shaft fracture (S72.301A)
+
+SECONDARY DIAGNOSES:
+- Essential hypertension (I10)
+
+PROCEDURES:
+- Intramedullary nailing, right femur (0QS806Z) on 03/21/2026
+
+HOSPITAL COURSE:
+Patient admitted after ground-level fall with right femoral shaft fracture.
+Underwent intramedullary nailing on 03/21/2026 without complications.
+Post-operative course was unremarkable. Pain well-controlled with oral
+analgesics. Physical therapy evaluated on POD 1 and 2; patient ambulated
+with walker, weight-bearing as tolerated. Discharge planning initiated.
+
+DISCHARGE DISPOSITION:
+Home (01)
+
+DISCHARGE MEDICATIONS:
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+- Enoxaparin 40 mg SQ daily x 14 days (started 03/21)
+- Lisinopril 10 mg PO daily (resume at home)
+- Multivitamin daily
+
+FOLLOW-UP APPOINTMENTS:
+- PCP: Dr. Williams, 03/30/2026 at 10:00 AM (completed)
+- Orthopedic clinic: 2 weeks post-discharge (04/07/2026)
+
+CONDITION ON DISCHARGE:
+Stable. Incision clean, dry, intact. Neurovascularly intact. Ambulating with
+walker.
+
+TEAM BENEFICIARY NOTIFICATION:
+Provided to patient and spouse on 03/23/2026.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chuka MD
+03/24/2026 09:00
+================================================================================

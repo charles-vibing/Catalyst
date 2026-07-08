@@ -1,0 +1,40 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PRE-OPERATIVE EVALUATION
+
+Patient: Yamamoto, Grace H
+MRN: 10098
+DOB: 1937-11-20
+Sex: F
+FIN: 006691
+Surgery Date: 2026-04-25
+
+PROCEDURE: Right hip hemiarthroplasty
+
+HISTORY: 88-year-old female with dementia, osteoporosis, hypertension, hyperlipidemia. No known cardiac or pulmonary disease. No prior surgeries. No history of anesthesia complications.
+
+ALLERGIES: Sulfonamides (rash)
+
+MEDICATIONS: Donepezil, cholecalciferol, calcium carbonate, lisinopril, atorvastatin.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 136/74, HR 78, RR 14, Temp 36.7 C, O2 sat 98%.
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear.
+
+LABORATORY DATA:
+- Hemoglobin: 10.5 g/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.0 g/dL
+- INR: 1.0 (no anticoagulation)
+
+ASA CLASS: III
+
+ASSESSMENT: Patient with multiple comorbidities, but stable for planned procedure. Moderate risk for post-operative delirium given age and dementia.
+
+PLAN: General anesthesia with endotracheal intubation. Standard monitors. Consider regional block for post-operative pain management.
+
+Electronically signed:
+Patel, Anjali MD
+Anesthesiology
+2026-04-25 06:30:00 -06:00

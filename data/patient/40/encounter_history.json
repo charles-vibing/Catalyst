@@ -1,0 +1,31 @@
+{
+  "patient_id": 40,
+  "extracted_at": "2026-07-29T12:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "008565",
+      "admit_datetime": "2026-07-25T14:30:00-06:00",
+      "discharge_datetime": "2026-07-29T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "03",
+      "discharge_disposition": "Skilled Nursing Facility",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.141A",
+      "principal_diagnosis": "Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture",
+      "ms_drg": "482",
+      "length_of_stay_days": 4,
+      "procedures": [
+        {
+          "date": "2026-07-26",
+          "description": "Replacement of right hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SRB02A",
+          "cpt": "27125"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+
+PATIENT: Ruiz, Yolanda M
+MRN: 10106
+DOB: 1955-08-12
+SEX: F
+FIN: 007441
+
+ADMISSION DATE: 2026-06-04
+ATTENDING: Okonkwo, Chidi MD
+
+CHIEF COMPLAINT: Right thigh pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 70-year-old female who presents after a ground-level fall at home approximately 2 hours prior to arrival. She slipped on a rug and landed on her right side, experiencing immediate right thigh pain and inability to bear weight. She was brought to the ED by her husband. Imaging reveals a displaced right femoral shaft fracture. She is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS:
+- Lisinopril 10 mg daily
+
+ALLERGIES:
+Sulfa (rash)
+
+SOCIAL HISTORY:
+Lives with husband in a single-story home. Independent with activities of daily living. No tobacco or alcohol use.
+
+EMERGENCY CONTACT:
+David Ruiz (son), phone 555-0198.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+General: Alert, oriented, in mild distress.
+Right lower extremity: Tenderness and swelling over mid-thigh. No open wounds. Neurovascularly intact distally.
+
+LABORATORY DATA (on admission):
+Albumin 4.0 g/dL
+Hemoglobin 13.5 g/dL
+Creatinine 0.8 mg/dL
+
+ASSESSMENT/PLAN:
+1. Right femoral shaft fracture (S72.301A) – plan for intramedullary nail fixation tomorrow.
+2. Hypertension – continue lisinopril.
+3. DVT prophylaxis with enoxaparin.
+4. Pain control with acetaminophen and PRN opioids.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+2026-06-04 17:00

@@ -1,0 +1,38 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Nguyen, Patricia L
+MRN: 10087
+DOB: 1948-09-12
+SEX: F
+FIN: 005800
+
+DATE: 2026-02-28
+SURGERY DATE: 2026-02-28
+PROCEDURE: Right hip hemiarthroplasty
+
+HISTORY:
+77-year-old female with atrial fibrillation (on warfarin, held), hypertension, osteoporosis. Fall 03/20. INR reversed with vitamin K; current INR 1.3.
+
+MEDICATIONS:
+- Lisinopril 10 mg PO today
+- Warfarin held
+
+ALLERGIES:
+Sulfonamides
+
+PHYSICAL EXAM:
+Airway: Mallampati II, full range of motion.
+Cardiovascular: Irregularly irregular, no murmurs.
+Respiratory: Clear.
+
+ASA CLASS: III
+
+PLAN:
+General anesthesia with endotracheal intubation. Invasive arterial line for BP monitoring. Prepare for possible blood transfusion if significant blood loss.
+
+SIGNED:
+Patel, Anika MD
+Anesthesiologist
+NPI: 4567890123
+2026-02-28 07:00 CST

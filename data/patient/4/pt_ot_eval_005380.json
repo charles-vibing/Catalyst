@@ -1,0 +1,32 @@
+{
+  "patient_id": 4,
+  "mrn": "10073",
+  "fin": "005380",
+  "extracted_at": "2026-02-15T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-02-13",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated with single-point cane at home; lives alone",
+    "current_mobility": "Ambulated 25 feet with front-wheeled walker and contact guard assist; intermittent confusion noted",
+    "weight_bearing": "Weight bearing as tolerated left lower extremity",
+    "stairs": "Not attempted \u2014 patient resides on second floor; discharge planning requires HHA support",
+    "recommendation": "Discharge home with home health aide and skilled nursing for medication management and mobility; outpatient PT when HHA completes initial course",
+    "goals": [
+      "Ambulate 75 feet with walker and contact guard assist",
+      "Safe transfers with adaptive equipment"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-02-13",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires moderate assist for bathing and dressing; cognitive impairment limits independent medication management",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Shower chair",
+      "Reacher"
+    ],
+    "home_safety": "Lives alone on second floor of walk-up building; son visits weekly. Recommend HHA for ADL support, meal preparation, and medication reminders. Nightlights and removal of throw rugs."
+  }
+}

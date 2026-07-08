@@ -1,0 +1,52 @@
+{
+  "patient_id": 3,
+  "extracted_at": "2026-02-06T16:45:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 301,
+      "description": "Heart failure with reduced ejection fraction",
+      "icd10": "I50.20",
+      "snomed": "84114007",
+      "status": "Active",
+      "onset_date": "2018-06-10",
+      "last_reviewed": "2026-01-11"
+    },
+    {
+      "problem_id": 302,
+      "description": "Type 2 diabetes mellitus",
+      "icd10": "E11.9",
+      "snomed": "44054006",
+      "status": "Active",
+      "onset_date": "2009-11-15",
+      "last_reviewed": "2025-11-29"
+    },
+    {
+      "problem_id": 303,
+      "description": "Chronic kidney disease, stage 3b",
+      "icd10": "N18.32",
+      "snomed": "700378005",
+      "status": "Active",
+      "onset_date": "2020-03-22",
+      "last_reviewed": "2025-12-14"
+    },
+    {
+      "problem_id": 304,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2005-04-18",
+      "last_reviewed": "2025-11-22"
+    },
+    {
+      "problem_id": 305,
+      "description": "Osteoporosis",
+      "icd10": "M81.0",
+      "snomed": "64859006",
+      "status": "Active",
+      "onset_date": "2016-09-30",
+      "last_reviewed": "2025-10-05"
+    }
+  ]
+}

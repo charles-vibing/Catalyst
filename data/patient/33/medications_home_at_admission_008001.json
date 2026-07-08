@@ -1,0 +1,70 @@
+{
+  "patient_id": 33,
+  "mrn": "10113",
+  "fin": "008001",
+  "extracted_at": "2026-07-06T15:00:00-06:00",
+  "source": "EPIC_ADMISSION_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "donepezil",
+      "name_display": "Donepezil 5 mg tablet",
+      "rxnorm": "312961",
+      "sig": "Take 1 tablet (5 mg) by mouth daily at bedtime",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Dementia",
+      "prescriber": "Patel, Anjali MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Hypertension",
+      "prescriber": "Patel, Anjali MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "metformin",
+      "name_display": "Metformin 500 mg tablet",
+      "rxnorm": "861007",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "indication": "Diabetes",
+      "prescriber": "Patel, Anjali MD"
+    },
+    {
+      "med_id": "MED-H-004",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "979460",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily",
+      "route": "oral",
+      "frequency": "BID",
+      "status": "Continue",
+      "indication": "Osteoporosis",
+      "prescriber": "Patel, Anjali MD"
+    },
+    {
+      "med_id": "MED-H-005",
+      "name": "vitamin D3",
+      "name_display": "Vitamin D3 1000 IU capsule",
+      "rxnorm": "597793",
+      "sig": "Take 1 capsule (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "indication": "Osteoporosis",
+      "prescriber": "Patel, Anjali MD"
+    }
+  ]
+}

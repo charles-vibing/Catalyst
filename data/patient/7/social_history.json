@@ -1,0 +1,18 @@
+{
+  "patient_id": 7,
+  "mrn": "10087",
+  "extracted_at": "2026-02-27T17:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional \u2014 1-2 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with daughter (Susan Nguyen) in two-story home; bedroom and bathroom on first floor",
+  "functional_baseline": "Independent with ambulation, no assistive device; manages own medications with daughter's help",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

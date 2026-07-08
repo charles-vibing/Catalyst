@@ -1,0 +1,34 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+PATIENT NAME: Deluca, Frank R
+MRN: 10093
+DOB: 1948-04-22
+SEX: M
+ENCOUNTER FIN: 006291
+
+EXAM: XR RIGHT HIP 3 VIEWS
+ACCESSION: RAD-2026-006291-01
+EXAM DATE/TIME: 2026-03-29 14:45
+REPORT STATUS: FINAL
+
+HISTORY: 78-year-old male, ground-level fall at home, right hip pain, unable to bear weight.
+
+TECHNIQUE: Three views of the right hip including AP pelvis, AP right hip, and cross-table lateral.
+
+FINDINGS:
+Displaced intertrochanteric fracture of the right femur. There is comminution involving the greater and lesser trochanters. The femoral neck is intact. No evidence of pathologic lesion. Joint spaces are preserved. No other acute fracture or dislocation.
+
+IMPRESSION:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+RECOMMENDATION: Orthopedic consultation for surgical management.
+
+---
+
+ELECTRONICALLY SIGNED:
+Hartman, David MD
+Radiology
+2026-03-29 15:30

@@ -1,0 +1,59 @@
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+
+PATIENT: Fong, Alicia R
+MRN: 10110
+DOB: 1955-08-12
+SEX: F
+FIN: 007761
+
+ATTENDING: Okonkwo, Chuka MD (Hospitalist)
+
+DATE OF ADMISSION: 04/05/2026
+
+CHIEF COMPLAINT: Left leg pain after fall.
+
+HISTORY OF PRESENT ILLNESS: The patient is a 70-year-old female with a history of hypertension who presents after a ground-level fall at home earlier today. She slipped on a rug and landed on her left side, experiencing immediate left thigh pain and inability to bear weight. She was transported to the ED by her husband. Imaging reveals a displaced left femoral shaft fracture. She is admitted for surgical fixation.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+
+PAST SURGICAL HISTORY: None.
+
+HOME MEDICATIONS:
+- Lisinopril 10 mg daily
+
+ALLERGIES:
+- Penicillin (rash)
+
+SOCIAL HISTORY: Lives with husband in a single-story home. Independent with all activities of daily living. No tobacco or alcohol use.
+
+FAMILY HISTORY: Non-contributory.
+
+REVIEW OF SYSTEMS: Limited due to pain. No chest pain, shortness of breath, or fever.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS: BP 138/82, HR 88, RR 16, Temp 36.8 C, O2 sat 98% on room air.
+GENERAL: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs.
+RESPIRATORY: Clear to auscultation bilaterally.
+ABDOMEN: Soft, non-tender.
+MUSCULOSKELETAL: Left thigh swollen and tender to palpation. Neurovascularly intact distally.
+
+LABORATORY DATA (pre-op):
+- Albumin: 4.0 g/dL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 0.8 mg/dL
+
+ASSESSMENT AND PLAN:
+1. Left femoral shaft fracture (S72.301A) – Plan for intramedullary nail fixation tomorrow morning.
+2. Hypertension – Continue lisinopril.
+3. DVT prophylaxis with enoxaparin.
+4. Pain management with acetaminophen and opioids as needed.
+5. PT/OT evaluation post-operatively.
+6. Discharge planning: anticipate home with home health services if needed.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chuka MD
+04/05/2026 17:00

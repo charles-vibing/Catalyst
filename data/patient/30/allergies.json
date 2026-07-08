@@ -1,0 +1,13 @@
+{
+  "patient_id": 30,
+  "extracted_at": "2026-06-24T15:00:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Penicillin",
+      "reaction": "Rash",
+      "severity": "Moderate",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+============================================================
+
+PATIENT: Morales, Adele L
+MRN: 10119
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 008485
+
+EXAM: LEFT HIP X-RAY 2 VIEWS
+ACCESSION: RAD-2026-008485-01
+EXAM DATE: 2026-07-22 14:45:00
+
+CLINICAL INDICATION: Ground-level fall, left hip pain, unable to bear weight.
+
+TECHNIQUE: AP pelvis and left hip cross-table lateral.
+
+FINDINGS:
+Displaced left femoral neck fracture (midcervical). No comminution. No
+acetabular involvement. Mild osteopenia noted. Joint spaces are preserved.
+
+IMPRESSION:
+Displaced left femoral neck fracture (S72.032A).
+
+RECOMMENDATION:
+Orthopedic consultation for surgical management.
+
+REPORTING RADIOLOGIST: Hartman, David MD
+NPI: 1234567895
+SIGNED: 2026-07-22 15:30:00

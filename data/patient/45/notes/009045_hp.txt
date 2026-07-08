@@ -1,0 +1,69 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+==============================
+
+Patient Name: ESPINOZA, ROSA C
+MRN: 10125
+DOB: 1937-11-22
+Sex: F
+Encounter FIN: 009045
+Admission Date: 2026-08-19
+Attending: Okonkwo, Chidi MD (Hospitalist)
+
+CHIEF COMPLAINT: Confusion, fever, and urinary symptoms.
+
+HISTORY OF PRESENT ILLNESS:
+This is an 88-year-old female with history of dementia, osteoporosis, hypertension, and recent left hip hemiarthroplasty (discharged 04/14 from FIN 008965). She was at home with home health aide services. Over the past 2 days, she developed worsening confusion, fever (Tmax 38.5 C), dysuria, and foul-smelling urine. Daughter brought her to the ED. On exam, patient is delirious, CAM positive. Urinalysis shows pyuria and bacteriuria. Admitted for UTI with delirium.
+
+PAST MEDICAL HISTORY:
+- Dementia, Alzheimer's type (F02.80)
+- Age-related osteoporosis (M81.0)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Postoperative delirium (resolved)
+
+PAST SURGICAL HISTORY:
+- Left hip hemiarthroplasty (2026-08-08)
+
+HOME MEDICATIONS:
+- Donepezil 10 mg daily
+- Cholecalciferol 2000 IU daily
+- Calcium carbonate 500 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Acetaminophen 500 mg PRN
+- Oxycodone 5 mg PRN (rarely used)
+- Senna 8.6 mg BID PRN
+
+ALLERGIES:
+Penicillin (rash)
+
+SOCIAL HISTORY:
+Lives alone with home health aide support. Daughter Maria involved.
+
+REVIEW OF SYSTEMS:
+Positive for fever, confusion, dysuria. No cough, chest pain, or abdominal pain.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 130/80, HR 92, RR 18, Temp 38.2 C, O2 sat 96% RA.
+General: Elderly female, acutely confused.
+HEENT: Mucous membranes dry.
+Cardiovascular: Tachycardic, regular.
+Respiratory: Clear.
+Abdomen: Soft, non-tender.
+Extremities: Left hip incision well-healed, no erythema or drainage.
+Neurologic: Disoriented to place and time; CAM positive.
+
+ASSESSMENT/PLAN:
+1. Urinary tract infection (N39.0) - Start ceftriaxone (no PCN allergy).
+2. Delirium due to UTI - Non-pharmacologic measures; avoid antipsychotics if possible.
+3. Dementia - Continue donepezil.
+4. Hypertension - Continue lisinopril.
+5. Status post left hip hemiarthroplasty - No acute ortho issues.
+
+Electronically signed:
+Okonkwo, Chidi MD
+Hospitalist
+Memorial General Hospital
+Date/Time: 2026-08-19 17:30 CST

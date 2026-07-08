@@ -1,0 +1,22 @@
+{
+  "patient_id": 15,
+  "mrn": "10095",
+  "fin": "006451",
+  "extracted_at": "2026-04-11T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-006451-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Thompson, Laura MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Completed",
+      "ordered_at": "2026-04-10T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": "2026-04-13T09:00:00-06:00",
+      "completed_datetime": "2026-04-13T09:30:00-06:00"
+    }
+  ]
+}

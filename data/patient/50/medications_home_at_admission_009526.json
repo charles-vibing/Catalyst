@@ -1,0 +1,21 @@
+{
+  "patient_id": 50,
+  "mrn": "10130",
+  "fin": "009526",
+  "extracted_at": "2026-08-20T15:00:00-06:00",
+  "source": "EPIC_MEDICATION_HISTORY",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Williams, Sarah MD"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "patient_id": 43,
+  "mrn": "10123",
+  "fin": "008805",
+  "extracted_at": "2026-08-05T12:00:00-06:00",
+  "source": "EPIC_CARE_TEAM",
+  "members": [
+    {
+      "role": "Attending",
+      "name": "Mitchell, Sarah MD",
+      "npi": "1234567890",
+      "service": "Orthopedic Surgery"
+    },
+    {
+      "role": "Primary Care Provider",
+      "name": "Green, Patricia MD",
+      "npi": "1234567891",
+      "service": "Family Medicine"
+    },
+    {
+      "role": "Case Manager",
+      "name": "Nguyen, Patricia RN",
+      "npi": null,
+      "service": "Care Management"
+    }
+  ]
+}

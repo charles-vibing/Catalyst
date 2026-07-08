@@ -1,0 +1,76 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL
+==============================
+
+Patient Name: Tanaka, Stuart Y
+MRN: 10124
+DOB: 1940-06-15
+Sex: M
+FIN: 008885
+
+Attending: Okonkwo, Chidi MD (Hospitalist)
+
+Date of Admission: 2026-08-04
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Tanaka is an 85-year-old male with history of chronic systolic heart failure (HFrEF), type 2 diabetes, CKD stage 3a, hypertension, and hyperlipidemia who presents after a ground-level fall at home earlier today. He tripped on a rug and landed on his right side. He was unable to bear weight and was brought to the ED by his daughter. Imaging revealed a displaced right intertrochanteric femur fracture. Orthopedics consulted and plan for operative fixation. He is admitted for preoperative optimization and surgery.
+
+PAST MEDICAL HISTORY:
+- Chronic systolic heart failure (HFrEF) (I50.22)
+- Type 2 diabetes mellitus (E11.9)
+- Chronic kidney disease stage 3a (N18.30)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Osteoporosis (M81.0)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+- Lisinopril 10 mg daily
+- Metoprolol succinate 50 mg daily
+- Furosemide 40 mg daily
+- Metformin 500 mg BID
+- Atorvastatin 20 mg daily
+- Calcium carbonate 500 mg BID
+- Vitamin D 800 IU daily
+
+ALLERGIES:
+- Sulfonamides (rash)
+
+SOCIAL HISTORY:
+Lives with daughter Linda in a two-story home. Requires assistance with stairs. Retired teacher. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Noncontributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills. Cardiovascular: No chest pain, palpitations. Respiratory: No dyspnea. Gastrointestinal: No nausea, vomiting. Musculoskeletal: Right hip pain, unable to bear weight. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 82, RR 16, Temp 36.8 C, O2 sat 96% RA.
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender.
+Extremities: Right lower extremity shortened and externally rotated. Pain with any movement of right hip. Distal pulses intact. No edema.
+Neurologic: Grossly intact.
+
+ASSESSMENT/PLAN:
+1. Displaced right intertrochanteric femur fracture - Plan for cephalomedullary nail fixation. Orthopedics to perform surgery once medically optimized.
+2. Chronic systolic heart failure - Continue home medications. Monitor volume status.
+3. CKD stage 3a - Baseline creatinine 1.8. Avoid nephrotoxins. Monitor renal function.
+4. Diabetes - Continue metformin. Hold on day of surgery. Monitor glucose.
+5. Hypertension - Continue lisinopril and metoprolol.
+6. Osteoporosis - Continue calcium and vitamin D.
+
+Disposition: Anticipate discharge to skilled nursing facility given deconditioning and need for further rehabilitation.
+
+
+Electronically signed:
+Okonkwo, Chidi MD
+2026-08-04 16:00

@@ -1,0 +1,33 @@
+{
+  "patient_id": 49,
+  "mrn": "10129",
+  "fin": "009446",
+  "extracted_at": "2026-08-22T12:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-08-19",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently without assistive device; mild bradykinesia due to Parkinson's",
+    "current_mobility": "Ambulated 50 feet with front-wheeled walker and minimal assist; requires supervision for transfers",
+    "weight_bearing": "Weight bearing as tolerated right lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Patient is a good candidate for inpatient rehabilitation facility (IRF) given Parkinson's disease and deconditioning; recommend transfer to Prairie View Rehabilitation Center for intensive PT/OT",
+    "goals": [
+      "Ambulate 150 feet with walker and supervision",
+      "Independent transfers bed-chair-toilet",
+      "Ascend/descend 3-5 steps with rail and supervision"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-08-19",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires minimal assistance for bathing and dressing lower body due to balance and right leg precautions",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher",
+      "Long-handled sponge"
+    ],
+    "home_safety": "Lives with spouse in single-story home; recommend grab bars in shower and clear pathways"
+  }
+}

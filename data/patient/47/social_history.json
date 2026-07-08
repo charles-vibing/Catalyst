@@ -1,0 +1,18 @@
+{
+  "patient_id": 47,
+  "mrn": "10127",
+  "extracted_at": "2026-08-12T08:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "None",
+  "substance_use": "Denies",
+  "living_situation": "Lives with daughter (Sarah Feldman) in two-story home with stairs",
+  "functional_baseline": "Ambulated independently without assistive device prior to fall; able to climb stairs",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

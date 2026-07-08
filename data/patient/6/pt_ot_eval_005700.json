@@ -1,0 +1,32 @@
+{
+  "patient_id": 6,
+  "mrn": "10086",
+  "fin": "005700",
+  "extracted_at": "2026-02-27T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-02-25",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated independently with cane; independent ADLs",
+    "current_mobility": "Ambulated 20 feet with front-wheeled walker and moderate assist; requires assist for bed-to-chair transfers",
+    "weight_bearing": "Weight bearing as tolerated left lower extremity",
+    "stairs": "Not attempted",
+    "recommendation": "Discharge to skilled nursing facility for continued rehabilitation due to deconditioning and need for moderate assist with mobility",
+    "goals": [
+      "Ambulate 100 feet with walker and minimal assist",
+      "Safe transfers with contact guard"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-02-25",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires moderate assist for bathing and dressing lower body; independent with upper body dressing with adaptive equipment",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Elevated toilet seat",
+      "Reacher",
+      "Long-handled sponge"
+    ],
+    "home_safety": "Lives with wife in two-story home; stairs are a barrier; recommends SNF placement for safety"
+  }
+}

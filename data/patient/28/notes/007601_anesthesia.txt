@@ -1,0 +1,47 @@
+MEMORIAL GENERAL HOSPITAL
+ANESTHESIA PREOPERATIVE EVALUATION
+
+PATIENT: Schmidt, Frieda L
+MRN: 10108
+DOB: 1954-03-12
+SEX: F
+FIN: 007601
+
+DATE: 2026-06-15
+
+PROCEDURE: Left hip hemiarthroplasty (CPT 27125)
+SURGEON: Mitchell, James MD
+
+HISTORY:
+Hypertension, osteoporosis. No prior surgeries. No cardiac or pulmonary disease. No diabetes.
+
+MEDICATIONS:
+Lisinopril 10 mg daily, calcium carbonate 500 mg BID, vitamin D3 800 IU daily.
+
+ALLERGIES:
+Penicillin (rash).
+
+PHYSICAL EXAMINATION:
+Vitals: BP 126/76, HR 74, RR 14, Temp 36.7 C, O2 sat 99%.
+Airway: Mallampati class II, full range of motion.
+Cardiovascular: Regular rhythm, no murmurs.
+Lungs: Clear.
+
+LABORATORY (PRE-OP):
+Albumin: 4.0 g/dL (1751-7)
+Hemoglobin: 13.5 g/dL (718-7)
+Creatinine: 0.8 mg/dL (2160-0)
+INR: 1.0 (34714-6)
+
+ASA CLASS: II
+
+ASSESSMENT:
+Healthy 72-year-old with well-controlled hypertension. Low anesthetic risk.
+
+PLAN:
+Spinal anesthesia with sedation. Standard monitors. Antibiotic prophylaxis: cefazolin 2 g IV (no penicillin allergy to cephalosporin per chart).
+
+ELECTRONICALLY SIGNED:
+Patel, Anita MD
+Anesthesiology
+2026-06-15 06:30:00

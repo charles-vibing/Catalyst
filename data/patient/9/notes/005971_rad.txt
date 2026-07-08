@@ -1,0 +1,27 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Reeves, Harold J
+MRN: 10089
+DOB: 1945-03-22
+SEX: M
+ENCOUNTER FIN: 005971
+
+EXAM: CHEST X-RAY 2 VIEWS
+ACCESSION: RAD-2026-005971-01
+ORDERING PROVIDER: Okonkwo, Chidi MD
+EXAM DATE/TIME: 2026-04-11T10:30:00-06:00
+REPORT DATE/TIME: 2026-04-11T11:00:00-06:00
+
+TECHNIQUE: PA and lateral views of the chest.
+
+COMPARISON: None.
+
+FINDINGS: The heart is normal in size. Lungs are clear without infiltrates or effusions. No acute cardiopulmonary abnormality.
+
+IMPRESSION: No acute cardiopulmonary disease.
+
+REPORTING RADIOLOGIST: Hartman, Lisa MD
+NPI: 9876543210
+
+SIGNED: Hartman, Lisa MD 2026-04-11T11:00:00-06:00

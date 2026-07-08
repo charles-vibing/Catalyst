@@ -1,0 +1,27 @@
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+
+RADIOLOGY REPORT
+
+PATIENT: Finch, Horace E
+MRN: 10120
+DOB: 1934-06-14
+SEX: M
+FIN: 008565
+EXAM DATE: 2026-07-25
+ACCESSION: RAD-2026-008565-01
+
+EXAMINATION: X-ray right hip 2 views
+
+CLINICAL INDICATION: Ground-level fall, right hip pain, unable to bear weight.
+
+TECHNIQUE: Two views of the right hip.
+
+FINDINGS: Displaced intertrochanteric fracture of the right femur. There is shortening and external rotation of the right lower extremity. No additional fractures or dislocations identified. Joint spaces are preserved.
+
+IMPRESSION: Displaced right intertrochanteric femur fracture (S72.141A).
+
+ELECTRONICALLY SIGNED:
+Hartman, Lisa MD
+Radiology
+2026-07-25 11:30:00

@@ -1,0 +1,53 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+================================================================================
+
+PATIENT: Okoye, Dennis C.        MRN: 10107           FIN: 007521
+DOB: 1948-03-12                  SEX: M
+
+DATE OF SURGERY: 2026-06-10
+SURGEON: Mitchell, James MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: Patel, Ravi MD
+ANESTHESIA TYPE: Spinal with sedation
+
+================================================================================
+PREOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+POSTOPERATIVE DIAGNOSIS:
+Displaced right intertrochanteric femur fracture (S72.141A)
+
+PROCEDURE PERFORMED:
+Right hip hemiarthroplasty (CPT 27125, ICD-10-PCS 0SRB02A)
+
+INDICATIONS:
+78-year-old male with displaced right intertrochanteric femur fracture
+sustained in ground-level fall. After discussion of risks and benefits,
+patient elected for hemiarthroplasty.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned in the
+left lateral decubitus position. The right hip was prepped and draped
+in sterile fashion. A standard posterior approach to the right hip was
+performed. The fracture was identified and the femoral head was
+removed. The acetabulum was inspected and found to be intact. The
+femoral canal was reamed and broached. A size 4 cemented femoral stem
+was placed with a 28mm head. The hip was reduced and range of motion
+tested, demonstrating good stability. The wound was irrigated and
+closed in layers over a drain. Sterile dressing applied.
+
+ESTIMATED BLOOD LOSS: 200 mL
+FLUIDS: 1500 mL crystalloid
+URINE OUTPUT: 300 mL
+DRAIN: 1 Jackson-Pratt drain, output minimal
+COMPLICATIONS: None
+
+SPECIMENS: None
+
+================================================================================
+SIGNED:
+Mitchell, James MD (Orthopedic Surgery)
+Electronically signed: 2026-06-10 12:00
+================================================================================

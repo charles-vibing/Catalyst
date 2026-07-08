@@ -1,0 +1,58 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+================================================================================
+
+PATIENT: Martinez, Maria L
+MRN: 10090
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 006051
+ADMIT DATE: 2026-03-14
+DISCHARGE DATE: 2026-03-17
+ATTENDING: Okonkwo, Chukwudi MD
+
+ADMITTING DIAGNOSIS: Displaced left femoral neck fracture (S72.032A)
+PRINCIPAL PROCEDURE: Left hip hemiarthroplasty (0SR902A) on 2026-03-15
+
+HOSPITAL COURSE:
+The patient was admitted after a ground-level fall with left femoral neck fracture. She underwent left hip hemiarthroplasty on 2026-03-15 without complications. Post-operatively, she had stable vital signs and adequate pain control. She participated in physical therapy and occupational therapy, achieving safe transfers with a walker and demonstrating independence in basic activities of daily living with minimal assistance. She was cleared for discharge to home with home health services.
+
+DISCHARGE DIAGNOSES:
+1. Displaced left femoral neck fracture (S72.032A)
+2. Essential hypertension (I10)
+3. Age-related osteoporosis (M81.0)
+
+HOME MEDICATIONS ON ADMISSION:
+1. Lisinopril 10 mg PO daily
+2. Cholecalciferol 1000 IU PO daily
+3. Calcium carbonate 500 mg PO BID
+
+DISCHARGE MEDICATIONS:
+1. Lisinopril 10 mg PO daily (resume)
+2. Cholecalciferol 1000 IU PO daily
+3. Calcium carbonate 500 mg PO BID
+4. Acetaminophen 650 mg PO q6h PRN pain
+5. Enoxaparin 40 mg SQ daily for 21 days (DVT prophylaxis)
+6. Docusate 100 mg PO BID
+
+DISCHARGE DISPOSITION: Home with Home Health Agency (HomeCare of Springfield)
+
+FOLLOW-UP APPOINTMENTS:
+1. Orthopedic surgery follow-up with Dr. Mitchell: 2026-03-31
+2. PCP follow-up with Dr. Williams: 2026-03-22 (scheduled, but patient no-showed due to transportation barriers)
+
+ACTIVITY: Weight-bearing as tolerated with walker. No driving for 6 weeks.
+
+DIET: Regular.
+
+WOUND CARE: Keep incision clean and dry. Shower after 48 hours. No soaking.
+
+ALLERGIES: Sulfonamides (rash)
+
+CONDITION ON DISCHARGE: Stable.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+2026-03-17 09:00:00 -06:00
+================================================================================

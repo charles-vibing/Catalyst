@@ -1,0 +1,34 @@
+{
+  "patient_id": 23,
+  "mrn": "10103",
+  "name": {
+    "family": "Kaczmarek",
+    "given": "Walter",
+    "middle": "S"
+  },
+  "birth_date": "1944-09-12",
+  "sex": "M",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "3750 Sand Hill Road",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702"
+  },
+  "phone_home": "555-0112",
+  "phone_mobile": "555-0112",
+  "emergency_contact": {
+    "name": "Emily Kaczmarek",
+    "relationship": "Daughter",
+    "phone": "555-0198"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Harper, Linda MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000103"
+  }
+}

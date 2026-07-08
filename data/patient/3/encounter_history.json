@@ -1,0 +1,63 @@
+{
+  "patient_id": 3,
+  "extracted_at": "2026-02-14T07:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "286450",
+      "admit_datetime": "2024-09-12T19:45:00-05:00",
+      "discharge_datetime": "2024-09-17T13:20:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I50.20",
+      "principal_diagnosis": "Heart failure with reduced ejection fraction",
+      "ms_drg": "291",
+      "length_of_stay_days": 5
+    },
+    {
+      "fin": "298776",
+      "admit_datetime": "2025-06-03T14:10:00-05:00",
+      "discharge_datetime": "2025-06-06T11:00:00-05:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "N17.9",
+      "principal_diagnosis": "Acute kidney injury, unspecified",
+      "ms_drg": "683",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "005190",
+      "admit_datetime": "2026-02-06T16:30:00-06:00",
+      "discharge_datetime": "2026-02-13T10:45:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "03",
+      "discharge_disposition": "Skilled Nursing Facility",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.141A",
+      "principal_diagnosis": "Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture",
+      "ms_drg": "480",
+      "length_of_stay_days": 7,
+      "procedures": [
+        {
+          "date": "2026-02-08",
+          "description": "Reposition right upper femur with internal fixation device, open approach",
+          "icd10_pcs": "0QS606Z",
+          "cpt": "27245"
+        }
+      ]
+    }
+  ]
+}

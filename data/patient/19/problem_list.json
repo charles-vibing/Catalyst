@@ -1,0 +1,25 @@
+{
+  "patient_id": 19,
+  "extracted_at": "2026-04-29T14:45:00-06:00",
+  "source": "EHR_PROBLEM_LIST",
+  "problems": [
+    {
+      "problem_id": 201,
+      "description": "Chronic obstructive pulmonary disease, unspecified",
+      "icd10": "J44.9",
+      "snomed": "13645005",
+      "status": "Active",
+      "onset_date": "2018-05-12",
+      "last_reviewed": "2026-02-08"
+    },
+    {
+      "problem_id": 202,
+      "description": "Essential hypertension",
+      "icd10": "I10",
+      "snomed": "59621000",
+      "status": "Active",
+      "onset_date": "2010-09-03",
+      "last_reviewed": "2025-12-15"
+    }
+  ]
+}

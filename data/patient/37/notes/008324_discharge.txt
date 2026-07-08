@@ -1,0 +1,44 @@
+============================================================
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+============================================================
+
+PATIENT: Sokol, Renata K
+MRN: 10117
+DOB: 1951-08-22
+SEX: F
+FIN: 008324
+
+DATE OF ADMISSION: 2026-07-17
+DATE OF DISCHARGE: 2026-07-21
+ATTENDING: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS:
+Displaced left femoral shaft fracture (S72.301A)
+
+PRINCIPAL PROCEDURE:
+Left femoral shaft intramedullary nailing (0QS806Z) on 2026-07-18
+
+HOSPITAL COURSE:
+Patient admitted after ground-level fall with left femoral shaft fracture. Underwent intramedullary nailing on 2026-07-18 without complications. Postoperative course was unremarkable. Pain well controlled with oral analgesics. Physical therapy evaluated and recommended inpatient rehabilitation given patient's Parkinson disease and need for gait training. Occupational therapy evaluated and recommended ongoing assistance with activities of daily living. Patient's home medications for Parkinson disease and hypertension were resumed.
+
+DISCHARGE MEDICATIONS:
+- Carbidopa/Levodopa 25/100 mg TID
+- Lisinopril 10 mg daily
+- Acetaminophen 650 mg q6h PRN pain
+- Oxycodone 5 mg q4h PRN breakthrough pain
+
+DISCHARGE DISPOSITION:
+Inpatient Rehabilitation Facility (Prairie View Rehabilitation Hospital)
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Patel): 2026-07-27
+- Orthopedic clinic: 2 weeks post-discharge
+
+CONDITION ON DISCHARGE:
+Stable, afebrile, incision clean and dry, neurovascularly intact.
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chidi MD
+Hospitalist
+2026-07-21 10:00

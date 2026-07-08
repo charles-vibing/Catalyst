@@ -1,0 +1,43 @@
+{
+  "patient_id": 43,
+  "mrn": "10123",
+  "fin": "008805",
+  "extracted_at": "2026-08-02T16:00:00-06:00",
+  "source": "EPIC_ADMISSION_MED_LIST",
+  "context": "Home medications at admission",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Green, Patricia MD"
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "784601",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Continue",
+      "prescriber": "Green, Patricia MD"
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "vitamin D",
+      "name_display": "Vitamin D3 1000 IU capsule",
+      "rxnorm": "1370788",
+      "sig": "Take 1 capsule (1000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Continue",
+      "prescriber": "Green, Patricia MD"
+    }
+  ]
+}

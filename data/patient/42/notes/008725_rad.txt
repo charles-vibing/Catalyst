@@ -1,0 +1,34 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+==============================
+
+Patient Name: Pike, Garrett T
+MRN: 10122
+DOB: 1948-03-15
+Sex: M
+Encounter FIN: 008725
+
+Exam Date/Time: 2026-07-30 14:45
+Accession: RAD-2026-008725-01
+
+Exam: XR HIP RIGHT 2 VIEWS
+
+Indication: Ground-level fall, right hip pain, unable to bear weight.
+
+Technique: AP pelvis and cross-table lateral of the right hip.
+
+Comparison: None.
+
+Findings:
+Displaced intertrochanteric fracture of the right femur. There is
+shortening and external rotation of the right lower extremity. No
+intra-articular extension. No other acute fracture or dislocation.
+
+Impression:
+Displaced right intertrochanteric femur fracture (S72.141A).
+
+Electronically signed:
+Hartman, David MD
+Radiology
+2026-07-30 15:30

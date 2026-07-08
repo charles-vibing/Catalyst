@@ -1,0 +1,76 @@
+==============================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+==============================
+
+Patient Name: Calloway, Wyatt B
+MRN: 10126
+DOB: 1947-03-22
+Sex: M
+Encounter FIN: 009125
+
+Admission Date: 2026-08-09
+Attending: Okonkwo, Chidi MD (Hospitalist)
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Calloway is a 79-year-old male with history of COPD and hypertension who presented to the Emergency Department after a ground-level fall at home earlier today. He tripped on a rug and landed on his right side. He immediately experienced severe right hip pain and was unable to bear weight. He was transported by ambulance. Imaging confirms a displaced right intertrochanteric femur fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Chronic obstructive pulmonary disease (J44.9)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+
+PAST SURGICAL HISTORY:
+None.
+
+HOME MEDICATIONS ON ADMISSION:
+- Tiotropium 18 mcg inhalation capsule daily
+- Albuterol 90 mcg inhaler 2 puffs q4h PRN
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+
+ALLERGIES:
+- Sulfa drugs (rash)
+
+SOCIAL HISTORY:
+Lives with wife in Springfield, IL. Retired teacher. No tobacco use. Occasional alcohol. Functional baseline: independent in ADLs, ambulates without assistive device.
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, weight loss. Respiratory: Chronic cough, no hemoptysis. Cardiovascular: No chest pain, palpitations. Otherwise negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 88, RR 18, Temp 36.8 C, O2 sat 96% on room air.
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+Extremities: Right lower extremity shortened and externally rotated. No neurovascular deficit. Left leg normal.
+
+LABORATORY DATA (pre-op):
+- Albumin: 3.8 g/dL (1751-7)
+- Hemoglobin: 13.5 g/dL (718-7)
+- Creatinine: 1.0 mg/dL (2160-0)
+- WBC: 8.2 K/uL (6690-2)
+- Platelets: 220 K/uL (777-3)
+- Sodium: 140 mmol/L (2951-2)
+- Potassium: 4.2 mmol/L (2823-3)
+
+ASSESSMENT AND PLAN:
+79-year-old male with displaced right intertrochanteric femur fracture. Plan:
+1. Orthopedic consult for ORIF.
+2. Pre-operative clearance.
+3. Continue home medications.
+4. Fall precautions.
+5. Deep vein thrombosis prophylaxis.
+6. Pain management.
+
+
+Electronically signed:
+Okonkwo, Chidi MD
+2026-08-09 16:00:00 -06:00

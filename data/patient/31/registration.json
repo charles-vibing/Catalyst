@@ -1,0 +1,34 @@
+{
+  "patient_id": 31,
+  "mrn": "10111",
+  "name": {
+    "family": "Kaminski",
+    "given": "Thelma",
+    "middle": "J"
+  },
+  "birth_date": "1953-07-14",
+  "sex": "F",
+  "preferred_language": "eng",
+  "address": {
+    "line1": "1200 S Rutledge Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "phone_home": "555-0123",
+  "phone_mobile": "555-0123",
+  "emergency_contact": {
+    "name": "Karen Kaminski",
+    "relationship": "Daughter",
+    "phone": "555-0199"
+  },
+  "primary_care_provider": {
+    "npi": "9876543210",
+    "name": "Williams, Sarah MD"
+  },
+  "payer_primary": {
+    "type": "Medicare",
+    "plan": "Medicare Part A/B",
+    "subscriber_id": "SYN-MBI-000111"
+  }
+}

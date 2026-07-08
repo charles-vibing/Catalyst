@@ -1,0 +1,21 @@
+{
+  "patient_id": 23,
+  "mrn": "10103",
+  "fin": "007101",
+  "extracted_at": "2026-05-25T11:05:00-06:00",
+  "source": "EPIC_REFERRAL",
+  "referrals": [
+    {
+      "referral_id": "REF-007101-001",
+      "type": "Primary Care",
+      "referred_to_npi": "9876543210",
+      "referred_to": "Harper, Linda MD",
+      "reason": "Post-hospitalization follow-up within 7 days",
+      "priority": "Routine",
+      "status": "Ordered \u2014 not yet scheduled",
+      "ordered_at": "2026-05-25T11:00:00-06:00",
+      "ordered_by": "Mitchell, Sarah MD",
+      "appointment_datetime": null
+    }
+  ]
+}

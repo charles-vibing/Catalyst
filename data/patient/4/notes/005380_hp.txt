@@ -1,0 +1,113 @@
+MEMORIAL GENERAL HOSPITAL
+History and Physical — Admission
+
+Patient: Kim, Dorothy L
+MRN: 10073
+FIN: 005380
+DOB: 05/15/1938
+Date of Service: 04/08/2026
+Admit Date: 04/08/2026 1630
+Attending: Henderson, Michael MD
+Service: Orthopedic Surgery
+Author: Torres, David PA-C (cosigned by Henderson, Michael MD)
+
+CHIEF COMPLAINT:
+Left hip pain after fall
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Kim is an 88-year-old female with history of dementia, osteoporosis, and hypertension who presents via EMS after a mechanical fall at home this morning. She lives alone and reports she was walking from her kitchen to the living room with her cane when she tripped on a rug and fell onto her left side. She denies head strike or loss of consciousness. Neighbor heard her call for help and contacted EMS. She was unable to bear weight on the left leg due to severe groin and hip pain.
+
+In the emergency department she was hemodynamically stable. X-ray of the pelvis and left hip demonstrated a displaced left femoral neck fracture. Orthopedic surgery was consulted and recommended admission for operative management with hemiarthroplasty given fracture pattern, age, and functional status. Medical hospitalist consulted for preoperative optimization given dementia and frailty.
+
+PAST MEDICAL HISTORY:
+- Dementia without behavioral disturbance (diagnosed 2022)
+- Osteoporosis
+- Hypertension
+- Prior evaluation: cognitive assessment with PCP Nair, Priya MD 10/2025 (FIN 298441)
+
+PAST SURGICAL HISTORY:
+- Cataract surgery, left eye (remote)
+
+HOME MEDICATIONS:
+- Donepezil 10 mg PO qHS
+- Memantine 10 mg PO BID
+- Amlodipine 5 mg PO daily
+- Alendronate 70 mg PO weekly
+- Calcium carbonate with vitamin D3 600/400 PO BID
+
+ALLERGIES:
+Codeine (nausea/vomiting), Latex (contact dermatitis)
+
+FAMILY HISTORY:
+Non-contributory
+
+SOCIAL HISTORY:
+Former smoker, 15 pack-years, quit 1985. Denies alcohol use. Lives alone in second-floor apartment. Ambulated with single-point cane at baseline. Son James Kim (Chicago) is emergency contact and visits weekly by phone; neighbor assisted at time of fall.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills
+HEENT: Denies headache, vision change
+Cardiac: Denies chest pain, palpitations
+Respiratory: Denies shortness of breath at rest
+GI: Denies nausea, vomiting, abdominal pain
+GU: Denies dysuria
+MSK: Left hip pain as above
+Neuro: Baseline mild cognitive impairment; no new focal weakness aside from inability to bear weight LLE due to pain
+Skin: Denies rash
+
+PHYSICAL EXAM:
+Vitals: T 98.0 F, HR 92, BP 148/76, RR 18, SpO2 95% on room air, Pain 9/10 left hip
+General: Alert, oriented to person and place, intermittently confused about date, no acute respiratory distress
+HEENT: Normocephalic, atraumatic, mucous membranes moist
+Neck: Supple, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmur
+Pulmonary: Clear to auscultation bilaterally
+Abdomen: Soft, non-distended, non-tender
+MSK: Left lower extremity shortened and externally rotated. Tenderness to palpation over left hip and groin. No open wounds. 2+ dorsalis pedis and posterior tibial pulses bilaterally. Cap refill < 2 sec. Sensation intact to light touch distally. Unable to perform active ROM left hip due to pain
+Neuro: CN II-XII grossly intact, strength 5/5 right lower extremity, left lower extremity not formally tested due to fracture
+Skin: Warm, dry, thin skin consistent with age
+
+LABS / IMAGING REVIEWED:
+CBC: Hgb 10.2 (L)
+BMP: Albumin 2.9 (L), creatinine 1.1
+XR pelvis/left hip: Displaced left femoral neck fracture
+
+ASSESSMENT AND PLAN:
+Ms. Kim is an 88-year-old frail female with dementia and osteoporosis admitted with displaced left femoral neck fracture after mechanical fall at home.
+
+1. Left femoral neck hip fracture (S72.032A)
+   - Orthopedic surgery primary service
+   - Plan for left hip hemiarthroplasty when medically optimized
+   - NPO at midnight for OR tomorrow
+   - DVT prophylaxis per orthopedic protocol with enoxaparin
+   - Pain control: acetaminophen scheduled, opioid sparing given codeine allergy
+
+2. Dementia (F03.90)
+   - Continue home donepezil and memantine
+   - Delirium precautions; avoid benzodiazepines
+   - Hospitalist co-management
+
+3. Osteoporosis (M81.0)
+   - Hold alendronate perioperatively
+   - Continue calcium/vitamin D
+
+4. Hypertension (I10)
+   - Continue amlodipine if BP permits
+
+5. Fall / disposition planning
+   - Lives alone — anticipate need for home health aide at discharge
+   - PT/OT eval post-op
+   - Case management for DME and HHA referral
+   - PCP follow-up with Nair, Priya MD per discharge planning
+
+Prophylaxis: Pneumoboots, IS when appropriate post-op
+Code status: Full code (confirmed with patient and son by phone)
+VTE: Enoxaparin per orthopedic protocol
+
+Electronically signed by:
+Torres, David PA-C
+04/08/2026 2045
+
+Cosigned by:
+Henderson, Michael MD
+04/08/2026 2110

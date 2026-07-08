@@ -1,0 +1,49 @@
+DISCHARGE SUMMARY
+
+PATIENT: Ortiz, Raymond A
+MRN: 10086
+DOB: 1940-03-15
+SEX: M
+FIN: 005700
+
+ADMISSION DATE: 2026-02-22
+DISCHARGE DATE: 2026-02-27
+ATTENDING: Okonkwo, Chuka MD (Hospital Medicine)
+
+PRINCIPAL DIAGNOSIS:
+Displaced left subtrochanteric femur fracture (S72.212A).
+
+SECONDARY DIAGNOSES:
+- Type 2 diabetes mellitus (E11.9)
+- Peripheral vascular disease (I73.9)
+- Chronic kidney disease, stage 3b (N18.32)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Acute kidney injury (N17.9) – resolved (POA: N)
+
+PROCEDURES PERFORMED:
+- Left hip intramedullary nail (IM nail) on 2026-02-24 (ICD-10-PCS: 0QS706Z)
+
+HOSPITAL COURSE:
+Patient admitted after mechanical fall with left subtrochanteric fracture. Underwent IM nail on hospital day 2. Post-operative course complicated by acute kidney injury (creatinine peaked at 2.1 mg/dL on POD1, improved with hydration). Pain controlled with acetaminophen and hydromorphone. PT/OT evaluation on POD1: patient required moderate assistance for transfers, weight-bearing as tolerated on left lower extremity. Slow progress due to deconditioning. Social work consulted for discharge planning. Patient and family agreed to skilled nursing facility for continued rehabilitation.
+
+DISCHARGE MEDICATIONS:
+- Metformin 500 mg PO BID
+- Glipizide 5 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Enoxaparin 40 mg SC daily (for 21 days)
+- Acetaminophen 650 mg PO q6h PRN pain
+
+DISCHARGE DISPOSITION:
+Skilled Nursing Facility (Prairie View Skilled Nursing).
+
+FOLLOW-UP APPOINTMENTS:
+- PCP: Dr. Linda Harris, 2026-03-04 10:00
+- Orthopedic surgery follow-up: 2 weeks post-discharge at Memorial General Orthopedic Clinic.
+
+CONDITION ON DISCHARGE:
+Stable.
+
+SIGNED: Okonkwo, Chuka MD
+DATE/TIME: 2026-02-27 10:00

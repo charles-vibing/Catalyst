@@ -1,0 +1,64 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Dunbar, Philip R
+MRN: 10116
+DOB: 1948-06-22
+SEX: M
+
+ENCOUNTER FIN: 008243
+DATE OF ADMISSION: 2026-07-14
+DATE OF DISCHARGE: 2026-07-18
+
+ATTENDING: Okonkwo, Chukwudi MD
+
+ADMITTING DIAGNOSIS: Displaced right intertrochanteric femur fracture (S72.141A)
+
+PRINCIPAL PROCEDURE: Right hip hemiarthroplasty (0SRB02A) on 2026-07-15
+
+COMPLICATIONS: None
+
+HOSPITAL COURSE:
+Mr. Dunbar was admitted after a mechanical fall with a displaced right intertrochanteric femur fracture. His warfarin was reversed with vitamin K and held. On hospital day 2, he underwent right hip hemiarthroplasty without complication. Post-operatively, he was started on enoxaparin for DVT prophylaxis. He had stable vital signs and adequate pain control. Physical therapy evaluated him on post-op day 1 and he progressed to ambulation with a walker. He was independent with transfers. Wound was clean, dry, and intact. He was discharged home with home health services for continued PT and wound care.
+
+DISCHARGE DIAGNOSES:
+1. Displaced right intertrochanteric femur fracture (S72.141A)
+2. Atrial fibrillation (I48.91)
+3. Essential hypertension (I10)
+4. Osteoporosis (M81.0)
+5. Hyperlipidemia (E78.5)
+
+DISCHARGE DISPOSITION: Home (01)
+
+DISCHARGE MEDICATIONS:
+- Warfarin 5 mg daily (resume, INR 1.8 on discharge)
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Calcium + Vitamin D 500/400 IU twice daily
+- Enoxaparin 40 mg subcutaneously daily for 14 days
+- Acetaminophen 650 mg every 6 hours as needed for pain
+- Oxycodone 5 mg every 4 hours as needed for breakthrough pain
+
+FOLLOW-UP APPOINTMENTS:
+- PCP (Dr. Harper): 2026-07-24
+- Orthopedic surgery (Dr. Mitchell): 2026-07-29
+
+HOME HEALTH SERVICES:
+- Home health nursing for wound care and PT evaluation
+- DME: Walker, shower chair
+
+DIET: Regular
+
+ACTIVITY: Weight-bearing as tolerated with walker. No driving. No heavy lifting.
+
+HOME MEDICATIONS ON ADMISSION:
+- Warfarin 5 mg daily
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Calcium + Vitamin D 500/400 IU twice daily
+
+ALLERGIES: Sulfonamides (rash)
+
+ELECTRONICALLY SIGNED:
+Okonkwo, Chukwudi MD
+2026-07-18 09:30

@@ -1,0 +1,18 @@
+{
+  "patient_id": 31,
+  "mrn": "10111",
+  "extracted_at": "2026-07-01T08:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional - 1-2 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with daughter (Karen Kaminski) in single-family home; independent ambulation with cane; no stairs.",
+  "functional_baseline": "Independent with ambulation using cane; able to perform all ADLs.",
+  "advance_directive": "On file - full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

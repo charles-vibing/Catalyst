@@ -1,0 +1,50 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+================================================================================
+
+PATIENT: Johnson, Linda M
+MRN: 10092
+FIN: 006211
+DOB: 08/15/1955
+SEX: F
+
+DATE OF SURGERY: 03/21/2026
+
+PREOPERATIVE DIAGNOSIS:
+Right femoral shaft fracture (S72.301A)
+
+POSTOPERATIVE DIAGNOSIS:
+Same
+
+PROCEDURE PERFORMED:
+Intramedullary nailing, right femur (ICD-10-PCS: 0QS806Z; CPT: 27506)
+
+SURGEON: Mitchell, James MD
+ANESTHESIA: General endotracheal
+ASA CLASS: II
+
+ESTIMATED BLOOD LOSS: 150 mL
+
+INDICATIONS:
+70-year-old female with displaced right femoral shaft fracture after ground-level
+fall. No contraindications to surgery.
+
+DESCRIPTION OF PROCEDURE:
+After induction of general anesthesia, the patient was positioned supine on a
+fracture table. The right leg was prepped and draped in sterile fashion. A
+longitudinal incision was made over the greater trochanter. The entry point was
+identified under fluoroscopic guidance. A guidewire was advanced across the
+fracture site. The medullary canal was reamed sequentially. A 10 mm x 38 cm
+intramedullary nail was inserted and locked proximally and distally with
+interlocking screws. Reduction and alignment were confirmed fluoroscopically.
+The wound was irrigated and closed in layers. Sterile dressing applied.
+
+COMPLICATIONS: None
+
+SPONGE AND INSTRUMENT COUNTS: Correct x2
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+03/21/2026 11:30
+================================================================================

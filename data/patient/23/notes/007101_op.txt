@@ -1,0 +1,34 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Kaczmarek, Walter S
+MRN: 10103
+FIN: 007101
+DOB: 1944-09-12
+SEX: M
+
+DATE OF SURGERY: 2026-05-22
+
+PREOPERATIVE DIAGNOSIS: Displaced left intertrochanteric femur fracture (S72.141A)
+
+POSTOPERATIVE DIAGNOSIS: Same
+
+PROCEDURE PERFORMED: Left hip intramedullary nail (cephalomedullary) (ICD-10-PCS 0QS606Z, CPT 27245)
+
+SURGEON: Mitchell, James MD
+ANESTHESIA: General endotracheal
+
+INDICATIONS: 81-year-old male with displaced left intertrochanteric femur fracture. Surgery delayed 3 days for warfarin reversal (INR 2.8 on admission, reversed to 1.4).
+
+DESCRIPTION OF PROCEDURE: After induction of general anesthesia and administration of preoperative antibiotics, the patient was positioned supine on a fracture table. Traction was applied to the left leg. Closed reduction was performed. A guidewire was placed into the femoral head. A cephalomedullary nail was inserted and locked proximally and distally. Fluoroscopy confirmed satisfactory position and alignment. Wound was irrigated and closed in layers. Sterile dressing applied. Estimated blood loss: 200 mL. No complications.
+
+FLUOROSCOPY: Confirmed good reduction and implant position.
+
+COMPLICATIONS: None.
+
+DISPOSITION: To PACU in stable condition.
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+Orthopedic Surgery
+2026-05-22 10:30

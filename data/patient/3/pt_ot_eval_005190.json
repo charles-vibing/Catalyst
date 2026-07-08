@@ -1,0 +1,31 @@
+{
+  "patient_id": 3,
+  "mrn": "10061",
+  "fin": "005190",
+  "extracted_at": "2026-02-13T09:00:00-06:00",
+  "source": "EPIC_REHAB_DOCUMENTATION",
+  "physical_therapy": {
+    "eval_date": "2026-02-10",
+    "therapist": "Walsh, Erin PT",
+    "prior_function": "Ambulated with rolling walker in apartment; needed standby assist for bathing and stairs",
+    "current_mobility": "Ambulated 25 feet with front-wheeled walker and moderate assist; slow cadence, requires rest breaks",
+    "weight_bearing": "Partial weight bearing right lower extremity per orthopedic protocol",
+    "stairs": "Not attempted",
+    "recommendation": "Skilled nursing facility for continued PT; not safe for home discharge given slow progress, limited caregiver availability, and medical complexity",
+    "goals": [
+      "Ambulate 75 feet with walker and minimal assist",
+      "Safe transfers bed-chair-toilet with assistive device"
+    ]
+  },
+  "occupational_therapy": {
+    "eval_date": "2026-02-10",
+    "therapist": "Kim, Laura OT",
+    "adl_status": "Requires moderate assist for toileting and lower-body dressing; setup for upper-body ADLs",
+    "equipment_recommended": [
+      "Front-wheeled walker",
+      "Raised toilet seat",
+      "Shower chair"
+    ],
+    "home_safety": "Lives alone on second floor without elevator; son unable to provide daily caregiving. SNF recommended for safe recovery environment."
+  }
+}

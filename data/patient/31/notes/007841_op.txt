@@ -1,0 +1,50 @@
+MEMORIAL GENERAL HOSPITAL
+OPERATIVE REPORT
+
+PATIENT: Kaminski, Thelma J
+MRN: 10111
+DOB: 1953-07-14
+SEX: F
+FIN: 007841
+
+DATE OF SURGERY: 2026-07-02
+
+SURGEON: Mitchell, James MD
+ASSISTANT: Torres, Maria PA-C
+ANESTHESIA: Patel, Priya MD
+
+PREOPERATIVE DIAGNOSIS:
+Displaced right femoral neck fracture (S72.031A)
+
+POSTOPERATIVE DIAGNOSIS:
+Same
+
+PROCEDURE PERFORMED:
+Right hip hemiarthroplasty (CPT 27125)
+
+ANESTHESIA: Spinal with sedation
+
+ESTIMATED BLOOD LOSS: 200 mL
+
+FLUIDS: 1500 mL crystalloid
+
+URINE OUTPUT: 400 mL
+
+COMPLICATIONS: None
+
+INDICATIONS:
+72-year-old female with displaced right femoral neck fracture after ground-level fall. Active, community ambulator with cane. Good bone quality. Hemiarthroplasty indicated.
+
+DESCRIPTION OF PROCEDURE:
+After induction of spinal anesthesia, the patient was positioned in the left lateral decubitus position. The right hip was prepped and draped in standard sterile fashion. A posterior approach to the right hip was made. The fascia lata and gluteus maximus were divided. The short external rotators were identified and divided. The hip was dislocated posteriorly. The femoral neck was osteotomized at the appropriate level. The femoral head was removed. The acetabulum was inspected and found to be intact. The femoral canal was sequentially broached. A trial component was placed and found to have excellent stability and range of motion. A cemented femoral stem with a 32 mm head was implanted. The hip was reduced and range of motion confirmed to be stable. The wound was irrigated copiously. The short external rotators were repaired. The fascia and skin were closed in layers. A sterile dressing was applied.
+
+SPONGE AND INSTRUMENT COUNTS: Correct x2
+
+DRAINS: None
+
+CONDITION AT END OF PROCEDURE: Stable, extubated, transferred to PACU.
+
+ELECTRONICALLY SIGNED:
+Mitchell, James MD
+Orthopedic Surgery
+2026-07-02 11:30:00 CST

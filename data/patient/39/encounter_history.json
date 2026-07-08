@@ -1,0 +1,47 @@
+{
+  "patient_id": 39,
+  "extracted_at": "2026-07-22T12:00:00-06:00",
+  "source": "EHR_ENCOUNTER_EXTRACT",
+  "encounters": [
+    {
+      "fin": "298441",
+      "admit_datetime": "2025-03-15T09:30:00-06:00",
+      "discharge_datetime": "2025-03-18T14:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Internal Medicine",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "01",
+      "discharge_disposition": "Home",
+      "attending_npi": "1098765432",
+      "attending": "Okonkwo, James MD",
+      "principal_diagnosis_icd10": "I10",
+      "principal_diagnosis": "Essential hypertension",
+      "ms_drg": "305",
+      "length_of_stay_days": 3
+    },
+    {
+      "fin": "008485",
+      "admit_datetime": "2026-07-22T14:30:00-06:00",
+      "discharge_datetime": "2026-07-25T11:00:00-06:00",
+      "patient_class": "Inpatient",
+      "hospital_service": "Orthopedic Surgery",
+      "admit_source": "Emergency Department",
+      "discharge_disposition_code": "06",
+      "discharge_disposition": "Home with Home Health Agency",
+      "attending_npi": "1234567890",
+      "attending": "Mitchell, Sarah MD",
+      "principal_diagnosis_icd10": "S72.032A",
+      "principal_diagnosis": "Displaced fracture of left femoral neck, initial encounter for closed fracture",
+      "ms_drg": "482",
+      "length_of_stay_days": 3,
+      "procedures": [
+        {
+          "date": "2026-07-23",
+          "description": "Replacement of left hip joint with synthetic substitute, open approach",
+          "icd10_pcs": "0SR902A",
+          "cpt": "27125"
+        }
+      ]
+    }
+  ]
+}

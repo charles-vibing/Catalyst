@@ -1,0 +1,70 @@
+==============================================================================
+MEMORIAL GENERAL HOSPITAL
+SPRINGFIELD, IL
+==============================================================================
+
+HISTORY AND PHYSICAL EXAMINATION
+
+PATIENT: Voss, Loretta N
+MRN: 10123
+DOB: 1954-03-22
+SEX: F
+ENCOUNTER FIN: 008805
+DATE OF ADMISSION: 2026-08-02
+
+ATTENDING: Okonkwo, Chukwudi MD (Hospitalist)
+
+CHIEF COMPLAINT: Right hip pain after fall.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Voss is a 72-year-old female with history of hypertension and osteopenia who presents after a mechanical ground-level fall at home earlier today. She slipped on a rug and landed on her right side. She immediately experienced severe right hip pain and was unable to bear weight. She was transported to the Emergency Department by her daughter. Imaging revealed a displaced right femoral neck fracture. She is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Essential hypertension (I10)
+- Age-related osteoporosis without current pathological fracture (M81.0)
+
+PAST SURGICAL HISTORY:
+- None
+
+HOME MEDICATIONS ON ADMISSION:
+1. Lisinopril 10 mg PO daily
+2. Calcium carbonate 500 mg PO daily
+3. Vitamin D 800 IU PO daily
+
+ALLERGIES:
+- Penicillins (rash)
+
+SOCIAL HISTORY:
+Lives with spouse in a single-family home (no stairs). Independent with ambulation using a cane. No tobacco or alcohol use. Emergency contact: daughter Diane Voss (555-0198).
+
+FAMILY HISTORY:
+Non-contributory.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills. Cardiovascular: Denies chest pain, palpitations. Respiratory: Denies dyspnea, cough. Gastrointestinal: Denies nausea, vomiting. Musculoskeletal: Right hip pain as above. Neurologic: Denies head injury, loss of consciousness.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 78, RR 16, Temp 36.8°C, O2 sat 98% on room air.
+General: Well-appearing female in mild distress.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Right lower extremity shortened and externally rotated. Tenderness to palpation over right hip. No open wounds. Distal pulses intact. Left lower extremity normal.
+Neurologic: Alert and oriented x3. Cranial nerves intact. Strength 5/5 in bilateral upper and left lower extremities; unable to test right lower extremity due to pain.
+
+ASSESSMENT/PLAN:
+1. Displaced right femoral neck fracture (S72.031A) - Plan for right hip hemiarthroplasty (0SR902A) tomorrow morning. Orthopedic surgery (Dr. Mitchell) consulted.
+2. Hypertension - Continue lisinopril. Monitor blood pressure.
+3. Osteopenia - Continue calcium and vitamin D.
+4. Pain management - Acetaminophen and hydromorphone as needed.
+5. DVT prophylaxis - Enoxaparin 40 mg SC daily starting post-op.
+6. Fall prevention - Physical therapy evaluation post-op.
+
+
+
+Electronically signed:
+Okonkwo, Chukwudi MD
+2026-08-02 16:00:00
+
+==============================================================================

@@ -1,0 +1,46 @@
+MEMORIAL GENERAL HOSPITAL
+DISCHARGE SUMMARY
+
+PATIENT: Brennan, Arthur A.
+MRN: 10088
+FIN: 005890
+DOB: 1951-09-12
+SEX: M
+ADMIT DATE: 04/10/2026
+DISCHARGE DATE: 04/14/2026
+ATTENDING: Okonkwo, Chidi MD
+
+ADMITTING DIAGNOSIS:
+Displaced left femoral shaft fracture (S72.301A)
+
+PRINCIPAL PROCEDURE:
+Left femoral shaft intramedullary nailing (0QS806Z) on 04/11/2026
+
+HOSPITAL COURSE:
+Mr. Brennan is a 74-year-old male with Parkinson disease and hypertension who presented after a ground-level fall with left femoral shaft fracture. He underwent uncomplicated intramedullary nailing on 04/11/2026. Postoperatively, he was monitored on the orthopedic unit. Pain was well-controlled with acetaminophen and oxycodone as needed. He was started on enoxaparin for DVT prophylaxis. PT/OT evaluated him on POD 1 and he made good progress with transfer training and ambulation with a walker. He is able to bear weight as tolerated. His carbidopa-levodopa and lisinopril were resumed. Labs on POD 1 showed hemoglobin 12.8 g/dL (stable). He has been afebrile with normal vitals. He is deemed medically stable for discharge.
+
+DISCHARGE DIAGNOSES:
+1. Left femoral shaft fracture, s/p IM nailing
+2. Parkinson disease
+3. Essential hypertension
+
+DISCHARGE MEDICATIONS:
+- Carbidopa-levodopa 25-100 mg PO TID
+- Lisinopril 10 mg PO daily
+- Enoxaparin 40 mg SC daily for 14 days (for DVT prophylaxis)
+- Acetaminophen 650 mg PO q6h PRN pain
+- Oxycodone 5 mg PO q4h PRN breakthrough pain
+
+ALLERGIES: Sulfa drugs (hives)
+
+DISCHARGE DISPOSITION:
+Discharged to inpatient rehabilitation facility (Springfield Rehabilitation Institute) for continued physical therapy and rehabilitation.
+
+FOLLOW-UP APPOINTMENTS:
+- Orthopedic surgery follow-up with Dr. Mitchell in 2 weeks (04/28/2026)
+- PCP follow-up with Dr. Williams on 04/20/2026 (scheduled)
+
+CONDITION ON DISCHARGE: Stable.
+
+ATTENDING: Okonkwo, Chidi MD
+ELECTRONICALLY SIGNED: 04/14/2026 09:30

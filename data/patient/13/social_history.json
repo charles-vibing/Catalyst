@@ -1,0 +1,18 @@
+{
+  "patient_id": 13,
+  "mrn": "10093",
+  "extracted_at": "2026-03-29T15:00:00-06:00",
+  "source": "EPIC_SOCIAL_HISTORY",
+  "tobacco": {
+    "status": "Never smoker",
+    "pack_years": 0,
+    "quit_date": null
+  },
+  "alcohol": "Occasional \u2014 1-2 drinks per week",
+  "substance_use": "Denies",
+  "living_situation": "Lives with spouse in single-family home; spouse is primary caregiver",
+  "functional_baseline": "Independent with ambulation, no assistive device; manages all ADLs",
+  "advance_directive": "On file \u2014 full code",
+  "primary_language": "English",
+  "interpreter_needed": false
+}

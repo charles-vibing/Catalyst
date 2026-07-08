@@ -1,0 +1,23 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+Patient: Mehta, Calvin V
+MRN: 10118
+DOB: 1945-03-12
+Sex: M
+Encounter FIN: 008405
+
+Exam: CHEST XR PA AND LATERAL
+Accession: RAD-2026-008405-01
+Exam Date: 2026-08-13 10:30
+Report Signed: 2026-08-13 11:00
+
+INDICATION: Weakness, rule out aspiration.
+
+FINDINGS: The cardiomediastinal silhouette is normal. No focal consolidation, pleural effusion, or pneumothorax. Mild degenerative changes of the thoracic spine.
+
+IMPRESSION: No acute cardiopulmonary abnormality.
+
+Radiologist: Hartman, Laura MD
+NPI: 1122334455
+Electronically signed by Laura Hartman, MD on 2026-08-13 11:00.

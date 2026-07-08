@@ -1,0 +1,47 @@
+{
+  "patient_id": 2,
+  "mrn": "10052",
+  "fin": "004960",
+  "extracted_at": "2026-02-01T18:30:00-06:00",
+  "source": "EPIC_MAR_HOME_MED_REC",
+  "context": "Admission medication reconciliation",
+  "medications": [
+    {
+      "med_id": "MED-H-001",
+      "name": "lisinopril",
+      "name_display": "Lisinopril 10 mg tablet",
+      "rxnorm": "314076",
+      "sig": "Take 1 tablet (10 mg) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-002",
+      "name": "calcium carbonate",
+      "name_display": "Calcium carbonate 500 mg tablet",
+      "rxnorm": "198014",
+      "sig": "Take 1 tablet (500 mg) by mouth 2 times daily with meals",
+      "route": "oral",
+      "frequency": "BID with meals",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    },
+    {
+      "med_id": "MED-H-003",
+      "name": "cholecalciferol",
+      "name_display": "Cholecalciferol (Vitamin D3) 2000 IU capsule",
+      "rxnorm": "1367410",
+      "sig": "Take 1 capsule (2000 IU) by mouth daily",
+      "route": "oral",
+      "frequency": "Daily",
+      "status": "Active at home",
+      "patient_reported": true,
+      "verified": true
+    }
+  ],
+  "reconciliation_notes": "All home medications reviewed with patient. Lisinopril held morning of surgery per protocol."
+}

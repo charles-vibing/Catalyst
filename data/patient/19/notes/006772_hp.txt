@@ -1,0 +1,85 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+HISTORY AND PHYSICAL EXAMINATION
+================================================================================
+
+PATIENT: Hassan, Omar K
+MRN: 10099
+DOB: 1947-03-22
+SEX: M
+ENCOUNTER FIN: 006772
+ADMIT DATE: 04/10/2026
+ADMIT TIME: 14:30
+ATTENDING: Okonkwo, Chukwudi MD (NPI: 1234567892)
+
+CHIEF COMPLAINT: Right hip pain after fall
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Hassan is a 79-year-old male with a history of COPD and hypertension who presents after a ground-level fall at home earlier today. He tripped on a rug and landed on his right side, experiencing immediate pain in the right hip and inability to bear weight. He was brought to the ED by his wife. Imaging confirms a displaced right intertrochanteric femur fracture. He is admitted for surgical management.
+
+PAST MEDICAL HISTORY:
+- Chronic obstructive pulmonary disease (J44.9) - diagnosed 2018, uses tiotropium daily
+- Essential hypertension (I10) - diagnosed 2010, well-controlled on lisinopril
+- Hospitalized March 2025 for COPD exacerbation (FIN 298441)
+
+PAST SURGICAL HISTORY:
+None
+
+HOME MEDICATIONS ON ADMISSION:
+- Tiotropium 18 mcg inhalation capsule daily
+- Lisinopril 10 mg PO daily
+
+ALLERGIES:
+Sulfa (rash)
+
+SOCIAL HISTORY:
+Lives with spouse (Fatima) in single-story home. Retired teacher. No tobacco or alcohol use.
+
+FAMILY HISTORY:
+Non-contributory
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, or weight loss.
+Respiratory: Chronic cough with clear sputum, baseline dyspnea on exertion.
+Cardiovascular: No chest pain, palpitations, or edema.
+Musculoskeletal: Right hip pain, unable to move leg.
+Other systems reviewed and negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 82, RR 18, Temp 36.8°C, O2 sat 96% on room air
+General: Alert, oriented, in mild distress.
+HEENT: Normocephalic, atraumatic.
+Neck: Supple, no JVD.
+Lungs: Clear to auscultation bilaterally, no wheezes.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Right lower extremity shortened and externally rotated. Tender over right hip. Neurovascularly intact distally. Left leg normal.
+
+LABORATORY DATA (on admission):
+- Albumin: 3.5 g/dL (04/10/2026)
+- Hemoglobin: 13.0 g/dL (04/10/2026)
+- Creatinine: 1.0 mg/dL (04/10/2026)
+- WBC: 7.2 K/uL (04/10/2026)
+- INR: 1.1 (04/10/2026)
+
+IMAGING:
+XR right hip: Displaced right intertrochanteric femur fracture (see radiology report)
+
+ASSESSMENT AND PLAN:
+79-year-old male with displaced right intertrochanteric femur fracture, admitted for open reduction and internal fixation (ORIF).
+
+1. ORIF right hip scheduled for tomorrow 04/11/2026.
+2. Pre-operative evaluation by anesthesia.
+3. Pain management: acetaminophen and opioids as needed.
+4. DVT prophylaxis: enoxaparin 40 mg SQ daily starting post-op.
+5. COPD management: continue tiotropium, monitor for exacerbation.
+6. Hypertension: continue lisinopril.
+7. Discharge planning: anticipate home with spouse, PT/OT evaluation.
+8. TEAM beneficiary notification to be completed.
+
+HOSPITALIST:
+Okonkwo, Chukwudi MD
+NPI: 1234567892
+
+ELECTRONICALLY SIGNED: 04/10/2026 16:00
+================================================================================

@@ -1,0 +1,28 @@
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+
+PATIENT: Fong, Alicia R
+MRN: 10110
+DOB: 1955-08-12
+SEX: F
+FIN: 007761
+
+EXAM: LEFT FEMUR X-RAY
+ACCESSION: RAD-2026-007761-01
+EXAM DATE: 04/05/2026 15:00
+REPORT DATE: 04/05/2026 15:45
+
+INDICATION: Ground-level fall, left thigh pain, inability to bear weight.
+
+TECHNIQUE: AP and lateral views of the left femur.
+
+FINDINGS: There is a comminuted, displaced fracture of the mid-femoral shaft with moderate angulation and shortening. No intra-articular extension. No other acute abnormalities.
+
+IMPRESSION: Comminuted, displaced left femoral shaft fracture (S72.301A).
+
+RECOMMENDATION: Orthopedic consultation for surgical fixation.
+
+ELECTRONICALLY SIGNED:
+Hartman, James MD
+Radiology
+04/05/2026 15:45

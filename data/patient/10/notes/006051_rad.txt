@@ -1,0 +1,33 @@
+================================================================================
+MEMORIAL GENERAL HOSPITAL
+RADIOLOGY REPORT
+================================================================================
+
+PATIENT: Martinez, Maria L
+MRN: 10090
+DOB: 1949-08-22
+SEX: F
+ENCOUNTER FIN: 006051
+
+EXAM: LEFT HIP X-RAY 3 VIEWS
+ACCESSION: RAD-2026-006051-01
+DATE OF SERVICE: 2026-03-14
+ORDERING PROVIDER: Mitchell, David MD (Orthopedic Surgery)
+
+HISTORY: 76-year-old female with history of hypertension and osteoporosis, ground-level fall at home, left hip pain, unable to bear weight.
+
+TECHNIQUE: AP pelvis, AP and lateral views of the left hip.
+
+FINDINGS:
+Displaced left femoral neck fracture, midcervical, with mild impaction. There is approximately 5 mm of shortening and 10 degrees of varus angulation. No comminution. The acetabulum appears intact. No evidence of dislocation. Degenerative changes of the left hip joint with mild joint space narrowing and osteophyte formation. No lytic or blastic lesions.
+
+IMPRESSION:
+1. Displaced left femoral neck fracture (S72.032A).
+2. Mild degenerative joint disease left hip.
+
+RECOMMENDATION: Orthopedic surgery consultation for possible hemiarthroplasty.
+
+ELECTRONICALLY SIGNED:
+Hartman, Susan MD (Radiology)
+2026-03-14 15:15:00 -06:00
+================================================================================

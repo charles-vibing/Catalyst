@@ -1,0 +1,13 @@
+{
+  "patient_id": 21,
+  "extracted_at": "2026-05-09T14:45:00-06:00",
+  "source": "EHR_ALLERGY_LIST",
+  "allergies": [
+    {
+      "allergen": "Sulfonamides",
+      "reaction": "Hives",
+      "severity": "Moderate",
+      "verified": true
+    }
+  ]
+}
