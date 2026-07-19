@@ -585,6 +585,47 @@ def load_patient(conn: sqlite3.Connection, patient_dir: Path) -> None:
                         ),
                     )
 
+        hie_path = feeds_dir / "hie_adt_alerts.json"
+        if hie_path.exists():
+            hie = json.loads(hie_path.read_text(encoding="utf-8"))
+            conn.execute("DELETE FROM hie_adt_alert WHERE patient_id = ?", (pid,))
+            for a in hie.get("alerts", []):
+                facility = a.get("sending_facility", {})
+                conn.execute(
+                    """
+                    INSERT INTO hie_adt_alert (
+                        patient_id, alert_id, event_type, event_label,
+                        event_datetime, received_at,
+                        sending_facility_name, sending_facility_ccn,
+                        patient_class, visit_number, hospital_service,
+                        chief_complaint, discharge_disposition, admit_source,
+                        matched_on_json, anchor_episode_fin,
+                        days_after_anchor_discharge, hie_name, source_file
+                    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                    """,
+                    (
+                        pid,
+                        a["alert_id"],
+                        a["event_type"],
+                        a.get("event_label"),
+                        a["event_datetime"],
+                        a["received_at"],
+                        facility.get("name"),
+                        facility.get("ccn"),
+                        a.get("patient_class"),
+                        a.get("visit_number"),
+                        a.get("hospital_service"),
+                        a.get("chief_complaint"),
+                        a.get("discharge_disposition"),
+                        a.get("admit_source"),
+                        json.dumps(a.get("matched_on")) if a.get("matched_on") else None,
+                        a.get("anchor_episode_fin"),
+                        a.get("days_after_anchor_discharge"),
+                        hie.get("hie_name"),
+                        rel_source(hie_path),
+                    ),
+                )
+
     notes_dir = patient_dir / "notes"
     if notes_dir.exists():
         for path in sorted(notes_dir.glob("*.txt")):
@@ -676,6 +717,7 @@ def load_cohort(db_path: Path = DEFAULT_DB) -> None:
                 UNION ALL SELECT 'lab_results', COUNT(*) FROM lab_result
                 UNION ALL SELECT 'documents', COUNT(*) FROM clinical_document
                 UNION ALL SELECT 'medicare_lines', COUNT(*) FROM medicare_claim_line
+                UNION ALL SELECT 'hie_adt_alerts', COUNT(*) FROM hie_adt_alert
                 """
             )
         }

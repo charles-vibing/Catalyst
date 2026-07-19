@@ -1,0 +1,50 @@
+{
+  "patient_id": 34,
+  "mrn": "10114",
+  "mbi": "SYN-MBI-000114",
+  "source": "REGIONAL_HIE_ADT",
+  "hie_name": "Central Illinois Health Exchange",
+  "extracted_at": "2026-07-31T16:00:00-05:00",
+  "notes": "ADT notifications only — no outside clinical notes. Claims feed confirms institutional stay weeks later.",
+  "alerts": [
+    {
+      "alert_id": "HIE-ADT-20260728-1620",
+      "event_type": "A01",
+      "event_label": "Admit",
+      "event_datetime": "2026-07-28T16:20:00-05:00",
+      "received_at": "2026-07-28T16:41:55-05:00",
+      "sending_facility": {
+        "name": "Mercy General Hospital",
+        "ccn": "140010",
+        "city": "Springfield",
+        "state": "IL"
+      },
+      "patient_class": "Inpatient",
+      "visit_number": "008083",
+      "hospital_service": "Internal Medicine",
+      "chief_complaint": "Dyspnea and leg swelling",
+      "matched_on": ["MBI", "name_dob"],
+      "anchor_episode_fin": "008082",
+      "days_after_anchor_discharge": 15
+    },
+    {
+      "alert_id": "HIE-ADT-20260731-1045",
+      "event_type": "A03",
+      "event_label": "Discharge",
+      "event_datetime": "2026-07-31T10:45:00-05:00",
+      "received_at": "2026-07-31T11:02:18-05:00",
+      "sending_facility": {
+        "name": "Mercy General Hospital",
+        "ccn": "140010",
+        "city": "Springfield",
+        "state": "IL"
+      },
+      "patient_class": "Inpatient",
+      "visit_number": "008083",
+      "discharge_disposition": "Home",
+      "matched_on": ["MBI", "name_dob"],
+      "anchor_episode_fin": "008082",
+      "days_after_anchor_discharge": 18
+    }
+  ]
+}

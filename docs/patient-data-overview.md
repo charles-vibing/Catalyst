@@ -136,12 +136,13 @@ Notes reference **MRN and FIN in the header** but not `patient_id`. Body text sh
 |---|---|
 | `billing/{fin}_837I.json` | Institutional claim shape: DRG, principal dx, secondary dx with POA, procedures, charges |
 | `feeds/medicare_claims_*.csv` | **Lagged payer feed** — can include claims from other hospitals (outside readmits). Join on `BENE_ID` / `FIN`. |
+| `feeds/hie_adt_alerts.json` | **Regional HIE ADT notifications** (optional) — thin outside admit/discharge alerts. No clinical notes. Present for some outside-readmit patients only. |
 
 ### Interface messages
 
 | File | Contents |
 |---|---|
-| `interfaces/hl7/*.hl7` | HL7 v2 ADT (admit/discharge) and ORU (results) messages. FIN is in the `PV1` segment. |
+| `interfaces/hl7/*.hl7` | HL7 v2 ADT (admit/discharge) and ORU (results) messages **from Memorial General**. FIN is in the `PV1` segment. |
 
 ---
 
@@ -182,7 +183,7 @@ Not every patient has every file. Archetype drives what's present:
 | No readmit | Only one FIN's clinical files; single 837I |
 | SNF bounce-back | Second FIN + readmit notes/claim; admit source = SNF |
 | ED-only bounce | Second FIN in encounter history; professional claim line in CSV (`CLM_TYPE = P`) |
-| Outside readmit | **No** local readmit files — only a row in `feeds/medicare_claims_*.csv` with a competitor CCN (`140010`) |
+| Outside readmit | **No** local chart files. Always a row in `feeds/medicare_claims_*.csv` (competitor CCN `140010`). **Some** patients also have `feeds/hie_adt_alerts.json` (near–real-time ADT ping before claims arrive). Patient 29 is claims-only (no HIE). |
 | Active episode | Anchor discharge near the demo date; episode still inside the 30-day window |
 
 See `docs/cohort-tracker.md` (private registry) for the full patient list with archetypes, FINs, and dates.
@@ -210,7 +211,9 @@ Structured data (labs, meds, encounters, claims) lands in tables. Notes and HL7 
 
 | Doc | When to use it |
 |---|---|
-| [team-shfft-prototype-features.md](./team-shfft-prototype-features.md) | What the dashboard should do with this data |
+| [design/core-functionality.md](../design/core-functionality.md) | Build checklist for dashboard + patient app |
+| [design/mockups/](../design/mockups/) | UI mockups (hospital dashboard) |
+| [team-shfft-prototype-features.md](./team-shfft-prototype-features.md) | Full product concept and rationale |
 | [shfft-patient-simulation-instructions.md](./shfft-patient-simulation-instructions.md) | Full rules for generating more patients |
 | [cohort-tracker.md](./cohort-tracker.md) | Master list of all 50 patients (MRN, FIN, dates, archetypes) |
 

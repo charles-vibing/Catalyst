@@ -1,0 +1,1226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catalyst — SHFFT Episode Command (MVP mockup)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1a2421;
+      --muted: #5a6a64;
+      --line: #c9d0cc;
+      --surface: #f7f8f6;
+      --surface-2: #eef1ee;
+      --white: #fcfdfb;
+      --forest: #1b4d3e;
+      --forest-deep: #12352b;
+      --forest-soft: #e2efe9;
+      --clay: #8b4a2b;
+      --clay-soft: #f3e6dc;
+      --alert: #8f2f2f;
+      --alert-soft: #f5e4e4;
+      --ok: #2d6a4f;
+      --ok-soft: #e0efe7;
+      --info: #2c5f7a;
+      --info-soft: #e0ebf1;
+      --font: "Figtree", system-ui, sans-serif;
+      --serif: "Source Serif 4", Georgia, serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font);
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, #e8efe9 0%, transparent 220px),
+        repeating-linear-gradient(
+          -12deg,
+          transparent,
+          transparent 11px,
+          rgba(27, 77, 62, 0.02) 11px,
+          rgba(27, 77, 62, 0.02) 12px
+        ),
+        var(--surface);
+      min-height: 100vh;
+      line-height: 1.4;
+    }
+
+    .wrap {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: 18px 22px 48px;
+    }
+
+    /* Header */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 20px;
+      padding-bottom: 16px;
+      border-bottom: 2px solid var(--forest);
+      margin-bottom: 18px;
+    }
+
+    .brand h1 {
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--forest-deep);
+      letter-spacing: -0.02em;
+      line-height: 1;
+    }
+
+    .brand p {
+      margin-top: 6px;
+      font-size: 0.88rem;
+      color: var(--muted);
+      max-width: 34rem;
+    }
+
+    .header-meta {
+      text-align: right;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .header-meta strong { color: var(--ink); }
+
+    .mvp-tag {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--forest);
+      border: 1px solid var(--forest);
+      padding: 3px 8px;
+      background: var(--forest-soft);
+    }
+
+    /* Capability legend */
+    .cap-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+
+    .cap {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      padding: 3px 7px;
+      border: 1px solid var(--line);
+      background: var(--white);
+      color: var(--muted);
+    }
+
+    .cap.on {
+      border-color: var(--forest);
+      color: var(--forest-deep);
+      background: var(--forest-soft);
+    }
+
+    /* Layout */
+    .grid-main {
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .panel {
+      background: var(--white);
+      border: 1px solid var(--line);
+    }
+
+    .panel-h {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      background: var(--surface-2);
+    }
+
+    .panel-h h2 {
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--forest-deep);
+    }
+
+    .panel-h .dtag {
+      font-size: 0.65rem;
+      font-weight: 700;
+      color: var(--forest);
+      letter-spacing: 0.04em;
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .filters button {
+      font: inherit;
+      font-size: 0.75rem;
+      font-weight: 500;
+      padding: 5px 10px;
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+    }
+
+    .filters button:hover { border-color: var(--forest); color: var(--forest); }
+    .filters button.active {
+      background: var(--forest);
+      border-color: var(--forest);
+      color: #fff;
+    }
+
+    /* Roster */
+    .roster-scroll { max-height: 420px; overflow: auto; }
+
+    table.roster {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+    }
+
+    table.roster th {
+      position: sticky;
+      top: 0;
+      background: var(--surface-2);
+      text-align: left;
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      padding: 8px 10px;
+      border-bottom: 1px solid var(--line);
+      font-weight: 600;
+    }
+
+    table.roster td {
+      padding: 10px;
+      border-bottom: 1px solid var(--line);
+      vertical-align: middle;
+    }
+
+    table.roster tr { cursor: pointer; }
+    table.roster tbody tr:hover { background: #f0f5f2; }
+    table.roster tbody tr.selected { background: var(--forest-soft); }
+
+    .pt-name { font-weight: 600; }
+    .pt-meta { font-size: 0.72rem; color: var(--muted); margin-top: 2px; }
+
+    .tier {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      padding: 2px 7px;
+      border: 1px solid;
+    }
+    .tier.high { color: var(--alert); background: var(--alert-soft); border-color: #d4a8a8; }
+    .tier.med { color: var(--clay); background: var(--clay-soft); border-color: #d9b89a; }
+    .tier.low { color: var(--ok); background: var(--ok-soft); border-color: #a8c9b8; }
+
+    .days {
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+    }
+    .days.tight { color: var(--alert); }
+    .days.mid { color: var(--clay); }
+
+    .pcp.gap { color: var(--alert); font-weight: 600; }
+    .pcp.open { color: var(--clay); font-weight: 500; }
+    .pcp.ok { color: var(--ok); }
+
+    .bounce {
+      display: inline-block;
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      margin-top: 3px;
+      border: 1px solid;
+    }
+    .bounce.local { color: var(--alert); background: var(--alert-soft); border-color: #d4a8a8; }
+    .bounce.hie { color: var(--info); background: var(--info-soft); border-color: #a8c0d0; }
+    .bounce.claims { color: var(--clay); background: var(--clay-soft); border-color: #d9b89a; }
+    .bounce.ed { color: var(--clay); background: var(--clay-soft); border-color: #d9b89a; }
+
+    /* Queue */
+    .queue-item {
+      display: grid;
+      grid-template-columns: 42px 1fr auto;
+      gap: 10px;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      cursor: pointer;
+    }
+    .queue-item:hover { background: #f0f5f2; }
+    .queue-item.selected { background: var(--forest-soft); }
+    .queue-item:last-child { border-bottom: none; }
+
+    .sev {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      font-size: 0.58rem;
+      font-weight: 800;
+      letter-spacing: 0.03em;
+      border: 1px solid;
+      text-align: center;
+      line-height: 1.1;
+    }
+    .sev.red { background: var(--alert-soft); color: var(--alert); border-color: #d4a8a8; }
+    .sev.yel { background: var(--clay-soft); color: var(--clay); border-color: #d9b89a; }
+
+    .q-title { font-size: 0.86rem; font-weight: 600; }
+    .q-sub { font-size: 0.74rem; color: var(--muted); margin-top: 2px; }
+    .q-meta { font-size: 0.7rem; color: var(--muted); text-align: right; white-space: nowrap; }
+
+    /* Detail */
+    .detail .panel-h { background: var(--white); }
+
+    .detail-body {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr 0.9fr;
+      gap: 0;
+      min-height: 360px;
+    }
+
+    .col {
+      padding: 16px 18px;
+      border-right: 1px solid var(--line);
+    }
+    .col:last-child { border-right: none; }
+
+    .patient-head {
+      margin-bottom: 14px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .patient-head h3 {
+      font-family: var(--serif);
+      font-size: 1.45rem;
+      font-weight: 600;
+      color: var(--forest-deep);
+      letter-spacing: -0.02em;
+    }
+
+    .patient-head .sub {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
+    .stat-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .stat {
+      border: 1px solid var(--line);
+      background: var(--surface);
+      padding: 6px 10px;
+      min-width: 72px;
+    }
+    .stat span {
+      display: block;
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+    }
+    .stat strong {
+      font-family: var(--serif);
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    .lbl {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 14px 0 7px;
+    }
+    .lbl:first-child { margin-top: 0; }
+
+    .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+    .chip {
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      border: 1px solid var(--line);
+      background: var(--surface-2);
+    }
+    .chip.warn { background: var(--clay-soft); border-color: #d9b89a; color: var(--clay); }
+    .chip.bad { background: var(--alert-soft); border-color: #d4a8a8; color: var(--alert); }
+
+    .driver {
+      font-size: 0.8rem;
+      padding: 8px 10px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+      margin-bottom: 6px;
+    }
+    .driver .why { font-weight: 600; margin-bottom: 2px; }
+    .driver .act { color: var(--forest); font-size: 0.75rem; }
+
+    .setting-card {
+      border: 1px solid var(--forest);
+      background: var(--forest-soft);
+      padding: 10px 12px;
+      font-size: 0.8rem;
+    }
+    .setting-card strong { display: block; margin-bottom: 4px; color: var(--forest-deep); }
+    .setting-card ul { margin: 6px 0 0 16px; color: var(--ink); }
+    .setting-card li { margin-bottom: 3px; }
+
+    .readmit-card {
+      border: 1px solid var(--line);
+      padding: 8px 10px;
+      margin-bottom: 6px;
+      font-size: 0.78rem;
+      background: var(--surface);
+    }
+    .readmit-card .src {
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 3px;
+    }
+    .readmit-card .src.hie { color: var(--info); }
+    .readmit-card .src.claims { color: var(--clay); }
+    .readmit-card .src.local { color: var(--alert); }
+    .readmit-card .src.ed { color: var(--clay); }
+
+    .pcp-box {
+      border: 1px solid var(--line);
+      padding: 10px;
+      background: var(--surface);
+      font-size: 0.8rem;
+    }
+    .pcp-box.gap { border-color: var(--alert); background: var(--alert-soft); }
+
+    .timeline { list-style: none; border-left: 2px solid var(--line); margin-left: 5px; padding-left: 14px; }
+    .timeline li {
+      position: relative;
+      padding-bottom: 12px;
+      font-size: 0.78rem;
+    }
+    .timeline li::before {
+      content: "";
+      position: absolute;
+      left: -19px;
+      top: 4px;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--forest);
+      border: 2px solid var(--white);
+    }
+    .timeline li.red::before { background: var(--alert); }
+    .timeline li.yel::before { background: var(--clay); }
+    .timeline time {
+      display: block;
+      font-size: 0.65rem;
+      color: var(--muted);
+      margin-bottom: 1px;
+    }
+
+    .actions { display: flex; flex-direction: column; gap: 6px; margin-top: 10px; }
+    .actions button {
+      font: inherit;
+      font-size: 0.8rem;
+      font-weight: 600;
+      padding: 9px 12px;
+      border: 1px solid var(--forest);
+      cursor: pointer;
+      text-align: left;
+      background: transparent;
+      color: var(--forest);
+    }
+    .actions button.primary {
+      background: var(--forest);
+      color: #fff;
+    }
+    .actions button:hover { background: var(--forest-deep); color: #fff; }
+
+    .foot {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
+
+    @media (max-width: 1100px) {
+      .grid-main, .detail-body { grid-template-columns: 1fr; }
+      .col { border-right: none; border-bottom: 1px solid var(--line); }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <h1>Catalyst</h1>
+        <p>Hospital SHFFT episode command — Memorial General · TEAM 30-day window. MVP mockup for D1–D10.</p>
+      </div>
+      <div class="header-meta">
+        <div id="asof-line">As-of <strong>—</strong></div>
+        <div>Ortho navigator · Case management · CCN 260001</div>
+        <div class="mvp-tag">MVP · D1–D10 only</div>
+      </div>
+    </header>
+
+    <div class="cap-legend" aria-label="MVP capabilities shown">
+      <span class="cap on">D1 Roster</span>
+      <span class="cap on">D2 Risk tier</span>
+      <span class="cap on">D3 Filter &amp; sort</span>
+      <span class="cap on">D4 Episode view</span>
+      <span class="cap on">D5 Drivers + actions</span>
+      <span class="cap on">D6 Signal timeline</span>
+      <span class="cap on">D7 Triage queue</span>
+      <span class="cap on">D8 PCP tracker</span>
+      <span class="cap on">D9 Disposition context</span>
+      <span class="cap on">D10 Readmit / bounce</span>
+      <span class="cap">D11–D14 deferred</span>
+    </div>
+
+    <div class="grid-main">
+      <section class="panel" aria-labelledby="roster-title">
+        <div class="panel-h">
+          <h2 id="roster-title">Episode roster</h2>
+          <span class="dtag">D1 · D2 · D3 · D8 · D10</span>
+        </div>
+        <div class="filters" id="filters">
+          <button type="button" class="active" data-f="all">All</button>
+          <button type="button" data-f="high">High risk</button>
+          <button type="button" data-f="signal">Open signal</button>
+          <button type="button" data-f="pcp">PCP gap</button>
+          <button type="button" data-f="home">Home / HHA</button>
+          <button type="button" data-f="facility">SNF / IRF</button>
+          <button type="button" data-f="bounce">Bounce / outside</button>
+        </div>
+        <div class="roster-scroll">
+          <table class="roster">
+            <thead>
+              <tr>
+                <th>Patient</th>
+                <th>Risk</th>
+                <th>Days left</th>
+                <th>Disposition</th>
+                <th>PCP</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="roster"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel" aria-labelledby="queue-title">
+        <div class="panel-h">
+          <h2 id="queue-title">Triage queue</h2>
+          <span class="dtag">D7 · risk × severity</span>
+        </div>
+        <div id="queue"></div>
+      </section>
+    </div>
+
+    <section class="panel detail" aria-labelledby="detail-title">
+      <div class="panel-h">
+        <h2 id="detail-title">Patient episode view</h2>
+        <span class="dtag" id="detail-tags">D4 · D5 · D6 · D8 · D9 · D10</span>
+      </div>
+      <div class="detail-body" id="detail"></div>
+    </section>
+
+    <p class="foot">
+      New mockup aligned to <code>design/core-functionality.md</code> MVP (D1–D10).
+      Clock: set <code>USE_REAL_TODAY</code> / <code>DEMO_AS_OF</code> at top of script
+      (see <code>design/as-of-date.md</code>). Illustrative data — not wired to SQLite.
+    </p>
+  </div>
+
+  <script>
+    // -------------------------------------------------------------------------
+    // Clock: single switch for demo freeze vs real today()
+    //   USE_REAL_TODAY = false → freeze DEMO_AS_OF (stable demos)
+    //   USE_REAL_TODAY = true  → use the browser's local calendar date
+    // In the real app this becomes app_setting.as_of_date or env CATALYST_AS_OF;
+    // leave unset / null to mean today().
+    // -------------------------------------------------------------------------
+    const USE_REAL_TODAY = false;
+    const DEMO_AS_OF = "2026-06-28";
+
+    function todayISO() {
+      const d = new Date();
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, "0");
+      const day = String(d.getDate()).padStart(2, "0");
+      return `${y}-${m}-${day}`;
+    }
+
+    function getAsOfDate() {
+      return USE_REAL_TODAY ? todayISO() : DEMO_AS_OF;
+    }
+
+    function parseISO(s) {
+      const [y, m, d] = s.split("-").map(Number);
+      return new Date(y, m - 1, d);
+    }
+
+    function daysBetween(aISO, bISO) {
+      const ms = parseISO(bISO) - parseISO(aISO);
+      return Math.round(ms / 86400000);
+    }
+
+    /** Episode status relative to as-of (admit → discharge+30). */
+    function episodeStatus(admit, discharge, asOf) {
+      if (admit > asOf) return "upcoming";
+      const windowEnd = new Date(parseISO(discharge));
+      windowEnd.setDate(windowEnd.getDate() + 30);
+      const endISO = [
+        windowEnd.getFullYear(),
+        String(windowEnd.getMonth() + 1).padStart(2, "0"),
+        String(windowEnd.getDate()).padStart(2, "0"),
+      ].join("-");
+      if (asOf > endISO) return "completed";
+      return "active";
+    }
+
+    function daysRemaining(discharge, asOf) {
+      const windowEnd = new Date(parseISO(discharge));
+      windowEnd.setDate(windowEnd.getDate() + 30);
+      const endISO = [
+        windowEnd.getFullYear(),
+        String(windowEnd.getMonth() + 1).padStart(2, "0"),
+        String(windowEnd.getDate()).padStart(2, "0"),
+      ].join("-");
+      return Math.max(0, daysBetween(asOf, endISO));
+    }
+
+    const PATIENTS = [
+      {
+        id: 1,
+        name: "Chen, Robert",
+        age: 82, sex: "M", mrn: "10048", fin: "004821",
+        risk: "high", days: 12, status: "active",
+        disposition: "Home", dispCode: "01", setting: "home",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-01-28", drg: "481", los: 4,
+        admit: "2026-01-27", discharge: "2026-01-31",
+        surgeon: "Mitchell, S.",
+        pcp: "gap", pcpLabel: "No-show", pcpDate: "2026-02-06",
+        openSignal: true, bounce: "local",
+        filters: ["high", "signal", "pcp", "home", "bounce"],
+        comorbidities: ["HFrEF", "COPD", "CKD 3a", "Afib / apixaban", "T2DM"],
+        labs: [
+          { k: "Albumin", v: "3.2", flag: "L" },
+          { k: "Hgb", v: "10.8", flag: "L" },
+          { k: "Creatinine", v: "1.3", flag: "H" },
+        ],
+        wb: "WBAT right LE", dme: "Front-wheeled walker",
+        drivers: [
+          { why: "Age ≥80 + multimorbidity (CHF, COPD, CKD)", act: "Closer check-in cadence · case-management touch" },
+          { why: "Low albumin / anemia on index stay", act: "Nutrition consult · respiratory symptom watch" },
+          { why: "PCP no-show day 6 (TEAM gap)", act: "Reschedule PCP within 48h" },
+        ],
+        settingCard: {
+          title: "Home — contact patient / caregiver",
+          bullets: [
+            "Primary outreach: Lisa Chen (daughter)",
+            "Expected: daily app check-in",
+            "Missed check-in = yellow within 24h",
+          ],
+        },
+        pcpDetail: { status: "Scheduled → no-show", gap: true, note: "TEAM referral ordered at discharge; appointment 2026-02-06 (day 6) missed." },
+        readmits: [
+          { src: "local", label: "Anchor readmit", text: "FIN 005102 · pneumonia · DRG 193 · day 12 · Memorial General" },
+        ],
+        timeline: [
+          { t: "Today 07:12", text: "Caregiver check-in: SOB, pain 5/10", cls: "red" },
+          { t: "Yesterday", text: "Missed daily check-in (patient)", cls: "yel" },
+          { t: "Day 12", text: "Readmitted Memorial General — pneumonia", cls: "red" },
+          { t: "Day 6", text: "PCP appointment — no-show", cls: "yel" },
+          { t: "Day 0", text: "Discharged home · DRG 481", cls: "" },
+        ],
+        queue: { sev: "red", title: "SOB after pneumonia readmit", sub: "Chen · High · Home · day 18", age: "41 min", role: "Ortho navigator" },
+      },
+      {
+        id: 5,
+        name: "Porter, James",
+        age: 76, sex: "M", mrn: "10085", fin: "005620",
+        risk: "med", days: 2, status: "active",
+        disposition: "Home", dispCode: "01", setting: "home",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-02-17", drg: "481", los: 4,
+        admit: "2026-02-16", discharge: "2026-02-20",
+        surgeon: "Lee, J.",
+        pcp: "ok", pcpLabel: "Completed", pcpDate: "2026-02-25",
+        openSignal: true, bounce: "hie",
+        filters: ["signal", "home", "bounce"],
+        comorbidities: ["CHF", "HTN", "COPD"],
+        labs: [
+          { k: "Albumin", v: "3.4", flag: "" },
+          { k: "Hgb", v: "11.6", flag: "" },
+          { k: "Creatinine", v: "1.2", flag: "" },
+        ],
+        wb: "WBAT", dme: "Walker",
+        drivers: [
+          { why: "Outside admit at Mercy General (HIE ADT)", act: "Confirm status with caregiver · watch for claims spend" },
+          { why: "CHF on problem list", act: "Respiratory / volume symptom monitoring" },
+          { why: "≤5 days left in episode window", act: "Close-out review before window ends" },
+        ],
+        settingCard: {
+          title: "Home — contact patient / caregiver",
+          bullets: [
+            "Primary outreach: spouse",
+            "Outside facility owns current stay — no Memorial notes",
+            "HIE gave early visibility; claims lag for $ / DRG",
+          ],
+        },
+        pcpDetail: { status: "Completed", gap: false, note: "PCP visit completed 2026-02-25 (day 5), before outside bounce." },
+        readmits: [
+          { src: "hie", label: "HIE ADT · near real-time", text: "Mercy General (CCN 140010) · A01 admit · visit 018472 · day 15 · SOB" },
+          { src: "hie", label: "HIE ADT · discharge", text: "Mercy General · A03 · day 18 · Home" },
+          { src: "claims", label: "Medicare claims · lagged", text: "CCN 140010 · DRG 291 · received ~45d after service" },
+        ],
+        timeline: [
+          { t: "Claims feed", text: "Outside IP claim arrived · DRG 291 · Mercy", cls: "yel" },
+          { t: "Day 18", text: "HIE A03 — discharged from Mercy", cls: "" },
+          { t: "Day 15 14:35", text: "HIE A01 — admitted Mercy General", cls: "red" },
+          { t: "Day 0", text: "Discharged home Memorial · DRG 481", cls: "" },
+        ],
+        queue: { sev: "yel", title: "Outside bounce (HIE + claims)", sub: "Porter · Med · Home · day 28", age: "Yesterday", role: "Case management" },
+      },
+      {
+        id: 29,
+        name: "Baptiste, Jerome",
+        age: 78, sex: "M", mrn: "10109", fin: "007681",
+        risk: "med", days: 0, status: "completed",
+        disposition: "Home", dispCode: "01", setting: "home",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-06-20", drg: "481", los: 4,
+        admit: "2026-06-19", discharge: "2026-06-23",
+        surgeon: "Mitchell, S.",
+        pcp: "ok", pcpLabel: "Completed", pcpDate: "2026-06-28",
+        openSignal: false, bounce: "claims",
+        filters: ["home", "bounce"],
+        comorbidities: ["CHF", "HTN"],
+        labs: [
+          { k: "Albumin", v: "3.5", flag: "" },
+          { k: "Hgb", v: "12.1", flag: "" },
+          { k: "Creatinine", v: "1.1", flag: "" },
+        ],
+        wb: "WBAT", dme: "Walker",
+        drivers: [
+          { why: "Outside readmit invisible until claims", act: "Document claims-only event in episode file" },
+          { why: "CHF comorbidity", act: "Post-episode debrief with care management" },
+        ],
+        settingCard: {
+          title: "Home — contact patient / caregiver",
+          bullets: [
+            "No HIE alert on this patient",
+            "Competitor stay only visible via lagged Medicare feed",
+            "Demo contrast vs Porter (HIE + claims)",
+          ],
+        },
+        pcpDetail: { status: "Completed", gap: false, note: "PCP follow-up completed 2026-06-28 during episode window." },
+        readmits: [
+          { src: "claims", label: "Medicare claims · lagged only", text: "Mercy General CCN 140010 · DRG 291 · no HIE ADT · no local chart" },
+        ],
+        timeline: [
+          { t: "Claims received", text: "Outside IP claim · first visibility of bounce", cls: "yel" },
+          { t: "Day 15–19", text: "Competitor stay — no ADT to Memorial", cls: "red" },
+          { t: "Day 0", text: "Discharged home · DRG 481", cls: "" },
+        ],
+        queue: null,
+      },
+      {
+        id: 4,
+        name: "Kim, Dorothy",
+        age: 88, sex: "F", mrn: "10073", fin: "005380",
+        risk: "high", days: 8, status: "active",
+        disposition: "Home w/ HHA", dispCode: "06", setting: "hha",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-04-09", drg: "481", los: 4,
+        admit: "2026-04-08", discharge: "2026-04-12",
+        surgeon: "Nair, R.",
+        pcp: "open", pcpLabel: "Scheduled", pcpDate: "2026-04-17",
+        openSignal: true, bounce: null,
+        filters: ["high", "signal", "home"],
+        comorbidities: ["Mild dementia", "Osteoporosis", "HTN"],
+        labs: [
+          { k: "Albumin", v: "3.0", flag: "L" },
+          { k: "Hgb", v: "11.1", flag: "L" },
+          { k: "Creatinine", v: "0.9", flag: "" },
+        ],
+        wb: "WBAT", dme: "Walker · elevated toilet seat",
+        drivers: [
+          { why: "Post-op delirium (CAM+) on index stay", act: "Delirium safety screen with caregiver" },
+          { why: "Lives alone · HHA support only", act: "HHA nurse outreach today" },
+          { why: "Age 88 · high Morse fall risk", act: "Fall prevention pathway" },
+        ],
+        settingCard: {
+          title: "Home w/ HHA — contact agency + caregiver",
+          bullets: [
+            "Agency: Prairie Home Health",
+            "Caregiver proxy: neighbor",
+            "Expected: agency + caregiver check-ins (not patient alone)",
+          ],
+        },
+        pcpDetail: { status: "Scheduled", gap: false, note: "Appointment 2026-04-17 (day 5) — upcoming, not yet a gap." },
+        readmits: [],
+        timeline: [
+          { t: "Today 09:40", text: "HHA: intermittent confusion, oriented ×2", cls: "red" },
+          { t: "Day 3", text: "Check-in yellow — fall denied", cls: "yel" },
+          { t: "Day 0", text: "Discharged home with HHA · DRG 481", cls: "" },
+        ],
+        queue: { sev: "red", title: "Confusion reported by HHA", sub: "Kim · High · HHA · day 22", age: "2 hr", role: "Case management" },
+      },
+      {
+        id: 6,
+        name: "Ortiz, Raymond",
+        age: 79, sex: "M", mrn: "10086", fin: "005700",
+        risk: "high", days: 4, status: "active",
+        disposition: "SNF", dispCode: "03", setting: "facility",
+        procedure: "IM nail", procedureDate: "2026-02-21", drg: "480", los: 5,
+        admit: "2026-02-20", discharge: "2026-02-25",
+        surgeon: "Mitchell, S.",
+        pcp: "ok", pcpLabel: "Completed", pcpDate: "2026-03-01",
+        openSignal: true, bounce: "local",
+        filters: ["high", "signal", "facility", "bounce"],
+        comorbidities: ["Aspiration risk", "CHF", "Prior CVA"],
+        labs: [
+          { k: "Albumin", v: "2.9", flag: "L" },
+          { k: "Hgb", v: "10.2", flag: "L" },
+          { k: "Creatinine", v: "1.5", flag: "H" },
+        ],
+        wb: "WBAT", dme: "— (facility)",
+        drivers: [
+          { why: "SNF + aspiration / respiratory history", act: "SNF liaison — swallow & respiratory status" },
+          { why: "MCC on index (DRG 480)", act: "Higher acuity pathway" },
+          { why: "Prior SNF bounce-back pattern", act: "Hold SNF DC until clear" },
+        ],
+        settingCard: {
+          title: "SNF — contact facility nurse / liaison",
+          bullets: [
+            "Partner: Prairie View SNF",
+            "Patient app engagement expected sparse",
+            "Facility nurse is primary signal source",
+          ],
+        },
+        pcpDetail: { status: "Completed", gap: false, note: "PCP completed 2026-03-01 (day 4); facility owns daily care." },
+        readmits: [
+          { src: "local", label: "SNF bounce-back", text: "FIN 005720 · aspiration pneumonia · from SNF · Memorial" },
+        ],
+        timeline: [
+          { t: "Today", text: "SNF liaison: productive cough, afebrile", cls: "yel" },
+          { t: "Day 6", text: "Readmitted from SNF — aspiration", cls: "red" },
+          { t: "Day 0", text: "Discharged to SNF · DRG 480", cls: "" },
+        ],
+        queue: { sev: "yel", title: "SNF respiratory watch", sub: "Ortiz · High · SNF · day 26", age: "3 hr", role: "SNF liaison" },
+      },
+      {
+        id: 7,
+        name: "Nguyen, Patricia",
+        age: 74, sex: "F", mrn: "10087", fin: "005800",
+        risk: "med", days: 14, status: "active",
+        disposition: "Home", dispCode: "01", setting: "home",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-03-21", drg: "481", los: 4,
+        admit: "2026-03-20", discharge: "2026-03-24",
+        surgeon: "Vasquez, M.",
+        pcp: "open", pcpLabel: "Scheduled", pcpDate: "2026-03-31",
+        openSignal: true, bounce: "ed",
+        filters: ["signal", "home", "bounce"],
+        comorbidities: ["HTN", "Osteopenia"],
+        labs: [
+          { k: "Albumin", v: "3.7", flag: "" },
+          { k: "Hgb", v: "12.0", flag: "" },
+          { k: "Creatinine", v: "0.9", flag: "" },
+        ],
+        wb: "WBAT", dme: "Walker",
+        drivers: [
+          { why: "ED-only return day 10 (wound scare)", act: "Wound photo / telehealth vs ED education" },
+          { why: "Anxiety about drainage", act: "Reinforce wound when-to-call guidance" },
+        ],
+        settingCard: {
+          title: "Home — contact patient / caregiver",
+          bullets: [
+            "ED visit only — not an inpatient readmit",
+            "Professional claim line in Medicare feed",
+            "Expected: resume daily check-ins",
+          ],
+        },
+        pcpDetail: { status: "Scheduled", gap: false, note: "PCP follow-up scheduled for 2026-03-31." },
+        readmits: [
+          { src: "ed", label: "ED-only bounce", text: "FIN 005810 · same-day ED · wound drainage · professional claim" },
+        ],
+        timeline: [
+          { t: "Day 10", text: "ED visit — wound drainage scare, discharged home", cls: "yel" },
+          { t: "Day 2", text: "Green check-in · pain 3/10", cls: "" },
+          { t: "Day 0", text: "Discharged home · DRG 481", cls: "" },
+        ],
+        queue: { sev: "yel", title: "ED-only return — wound concern", sub: "Nguyen · Med · Home · day 16", age: "5 hr", role: "Ortho navigator" },
+      },
+      {
+        id: 8,
+        name: "Brennan, Arthur",
+        age: 81, sex: "M", mrn: "10088", fin: "005890",
+        risk: "med", days: 14, status: "active",
+        disposition: "IRF", dispCode: "62", setting: "facility",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-04-11", drg: "481", los: 4,
+        admit: "2026-04-10", discharge: "2026-04-14",
+        surgeon: "Mitchell, S.",
+        pcp: "open", pcpLabel: "Scheduled", pcpDate: "2026-05-05",
+        openSignal: false, bounce: null,
+        filters: ["facility"],
+        comorbidities: ["Parkinson's", "HTN", "Osteoporosis"],
+        labs: [
+          { k: "Albumin", v: "3.5", flag: "" },
+          { k: "Hgb", v: "12.0", flag: "" },
+          { k: "Creatinine", v: "1.0", flag: "" },
+        ],
+        wb: "WBAT", dme: "— (IRF)",
+        drivers: [
+          { why: "Parkinson's · mobility complexity", act: "Weekly IRF liaison touch" },
+          { why: "IRF owns daily therapy", act: "Confirm carbidopa-levodopa timing with facility" },
+        ],
+        settingCard: {
+          title: "IRF — contact facility rehab team",
+          bullets: [
+            "Partner: Memorial Rehab",
+            "App check-ins optional / proxy",
+            "Expected: weekly liaison, not daily patient app",
+          ],
+        },
+        pcpDetail: { status: "Scheduled", gap: false, note: "PCP visit scheduled 2026-05-05 after IRF stay." },
+        readmits: [],
+        timeline: [
+          { t: "Day 8", text: "IRF progress: ambulating 80 ft with RW", cls: "" },
+          { t: "Day 0", text: "Discharged to IRF · DRG 481", cls: "" },
+        ],
+        queue: null,
+      },
+      {
+        id: 2,
+        name: "Walsh, Helen",
+        age: 72, sex: "F", mrn: "10052", fin: "004960",
+        risk: "low", days: 22, status: "active",
+        disposition: "Home", dispCode: "01", setting: "home",
+        procedure: "Hemiarthroplasty", procedureDate: "2026-02-06", drg: "482", los: 4,
+        admit: "2026-02-05", discharge: "2026-02-09",
+        surgeon: "Vasquez, M.",
+        pcp: "ok", pcpLabel: "Completed", pcpDate: "2026-02-15",
+        openSignal: false, bounce: null,
+        filters: ["home"],
+        comorbidities: ["HTN", "Osteopenia"],
+        labs: [
+          { k: "Albumin", v: "3.9", flag: "" },
+          { k: "Hgb", v: "13.1", flag: "" },
+          { k: "Creatinine", v: "0.9", flag: "" },
+        ],
+        wb: "WBAT", dme: "Walker",
+        drivers: [
+          { why: "Low comorbidity · ASA II · normal labs", act: "Standard check-in cadence" },
+          { why: "PCP completed day 6", act: "Continue green pathway" },
+        ],
+        settingCard: {
+          title: "Home — contact patient / caregiver",
+          bullets: [
+            "Caregiver: husband",
+            "Expected: daily green check-ins",
+            "Low priority for triage queue",
+          ],
+        },
+        pcpDetail: { status: "Completed", gap: false, note: "PCP completed 2026-02-15 (day 6). TEAM referral satisfied." },
+        readmits: [],
+        timeline: [
+          { t: "Today 08:00", text: "Green check-in · pain 2/10 · walked with walker", cls: "" },
+          { t: "Day 6", text: "PCP visit completed", cls: "" },
+          { t: "Day 0", text: "Discharged home · DRG 482", cls: "" },
+        ],
+        queue: null,
+      },
+      {
+        id: 10,
+        name: "Martinez, Maria",
+        age: 74, sex: "F", mrn: "10090", fin: "006051",
+        risk: "med", days: 16, status: "active",
+        disposition: "Home w/ HHA", dispCode: "06", setting: "hha",
+        procedure: "ORIF", procedureDate: "2026-04-21", drg: "482", los: 3,
+        admit: "2026-04-20", discharge: "2026-04-23",
+        surgeon: "Lee, J.",
+        pcp: "gap", pcpLabel: "Never scheduled", pcpDate: null,
+        openSignal: true, bounce: null,
+        filters: ["signal", "pcp", "home"],
+        comorbidities: ["Dual-eligible", "Osteopenia", "HTN"],
+        labs: [
+          { k: "Albumin", v: "3.6", flag: "" },
+          { k: "Hgb", v: "12.4", flag: "" },
+          { k: "Creatinine", v: "0.8", flag: "" },
+        ],
+        wb: "WBAT", dme: "Walker",
+        drivers: [
+          { why: "PCP referral never scheduled (TEAM gap)", act: "Navigator call — schedule PCP + transport" },
+          { why: "Social risk · dual-eligible", act: "Social work brief consult" },
+          { why: "3 missed check-ins this week", act: "Enable caregiver SMS check-ins" },
+        ],
+        settingCard: {
+          title: "Home w/ HHA — agency + caregiver",
+          bullets: [
+            "Transportation barriers likely",
+            "Son linked as caregiver",
+            "Engagement low — treat misses as yellow",
+          ],
+        },
+        pcpDetail: { status: "Not referred / never scheduled", gap: true, note: "No follow-up date on file — hard TEAM compliance gap." },
+        readmits: [],
+        timeline: [
+          { t: "Today", text: "3rd missed check-in this week", cls: "yel" },
+          { t: "Day 2", text: "Discharge quiz 40% — reteach due", cls: "yel" },
+          { t: "Day 0", text: "Discharged home with HHA · DRG 482", cls: "" },
+        ],
+        queue: { sev: "yel", title: "PCP gap + low engagement", sub: "Martinez · Med · HHA · day 14", age: "6 hr", role: "Case management" },
+      },
+    ];
+
+    let selectedId = 1;
+    let filter = "all";
+
+    function syncHeaderClock() {
+      const asOf = getAsOfDate();
+      const mode = USE_REAL_TODAY ? "live today()" : "frozen demo";
+      document.getElementById("asof-line").innerHTML =
+        `As-of <strong>${asOf}</strong> · <span title="Toggle USE_REAL_TODAY in mockup script">${mode}</span>`;
+    }
+
+    function withClock(p) {
+      const asOf = getAsOfDate();
+      const status = episodeStatus(p.admit, p.discharge, asOf);
+      const days = status === "upcoming" ? null : daysRemaining(p.discharge, asOf);
+      return { ...p, status, days: days === null ? "—" : days, _asOf: asOf };
+    }
+
+    function daysClass(d) {
+      if (d === "—" || d === null) return "";
+      if (d <= 5) return "tight";
+      if (d <= 10) return "mid";
+      return "";
+    }
+
+    function bounceBadge(b) {
+      if (!b) return "";
+      const map = {
+        local: ["local", "Local readmit"],
+        hie: ["hie", "HIE outside"],
+        claims: ["claims", "Claims only"],
+        ed: ["ed", "ED-only"],
+      };
+      const [cls, label] = map[b];
+      return `<div class="bounce ${cls}">${label}</div>`;
+    }
+
+    function filtered() {
+      const rows = PATIENTS.map(withClock);
+      if (filter === "all") return rows;
+      if (filter === "high") return rows.filter((p) => p.risk === "high");
+      return rows.filter((p) => p.filters.includes(filter));
+    }
+
+    function renderRoster() {
+      const rows = filtered();
+      document.getElementById("roster").innerHTML = rows
+        .map((p) => `
+        <tr class="${p.id === selectedId ? "selected" : ""}" data-id="${p.id}">
+          <td>
+            <div class="pt-name">${p.name}</div>
+            <div class="pt-meta">${p.age}${p.sex} · ${p.procedure} · ${p.procedureDate} · DRG ${p.drg}</div>
+            ${bounceBadge(p.bounce)}
+          </td>
+          <td><span class="tier ${p.risk}">${p.risk}</span></td>
+          <td><span class="days ${daysClass(p.days)}">${p.days === "—" ? "—" : p.days + "d"}</span>
+            <div class="pt-meta">${p.status}</div></td>
+          <td>
+            <div title="CMS discharge disposition code">${p.disposition}</div>
+            <div class="pt-meta">code ${p.dispCode}</div>
+          </td>
+          <td>
+            <span class="pcp ${p.pcp === "gap" ? "gap" : p.pcp === "open" ? "open" : "ok"}">${p.pcpLabel}</span>
+            <div class="pt-meta">${p.pcpDate ? p.pcpDate : "No date"}</div>
+          </td>
+          <td>${p.openSignal ? '<span class="tier med">Signal</span>' : '<span class="pt-meta">—</span>'}</td>
+        </tr>`)
+        .join("");
+
+      document.querySelectorAll("#roster tr").forEach((tr) => {
+        tr.addEventListener("click", () => {
+          selectedId = Number(tr.dataset.id);
+          renderAll();
+        });
+      });
+    }
+
+    function renderQueue() {
+      const items = PATIENTS.map(withClock).filter((p) => p.queue);
+      document.getElementById("queue").innerHTML = items
+        .map((p) => `
+        <div class="queue-item ${p.id === selectedId ? "selected" : ""}" data-id="${p.id}">
+          <div class="sev ${p.queue.sev}">${p.queue.sev === "red" ? "NOW" : "WATCH"}</div>
+          <div>
+            <div class="q-title">${p.queue.title}</div>
+            <div class="q-sub">${p.queue.sub}</div>
+            <div class="q-sub">Assign: ${p.queue.role}</div>
+          </div>
+          <div class="q-meta">${p.queue.age}</div>
+        </div>`)
+        .join("");
+
+      document.querySelectorAll("#queue .queue-item").forEach((el) => {
+        el.addEventListener("click", () => {
+          selectedId = Number(el.dataset.id);
+          renderAll();
+        });
+      });
+    }
+
+    function renderDetail() {
+      const p = withClock(PATIENTS.find((x) => x.id === selectedId) || PATIENTS[0]);
+      const daysLabel = p.days === "—" ? "—" : String(p.days);
+      document.getElementById("detail").innerHTML = `
+        <div class="col">
+          <div class="patient-head">
+            <h3>${p.name}</h3>
+            <div class="sub">MRN ${p.mrn} · FIN ${p.fin} · ${p.surgeon} · Admit ${p.admit} · Proc ${p.procedureDate} · DC ${p.discharge}</div>
+            <div class="stat-row">
+              <div class="stat"><span>Risk</span><strong class="tier ${p.risk}" style="border:0;background:transparent;padding:0">${p.risk}</strong></div>
+              <div class="stat"><span>Days left</span><strong>${daysLabel}</strong></div>
+              <div class="stat"><span>Status</span><strong style="font-size:0.95rem">${p.status}</strong></div>
+              <div class="stat"><span>MS-DRG</span><strong>${p.drg}</strong></div>
+              <div class="stat"><span>LOS</span><strong>${p.los}d</strong></div>
+              <div class="stat"><span>Disposition</span><strong style="font-size:0.9rem">${p.disposition}</strong><div class="pt-meta">CMS ${p.dispCode}</div></div>
+            </div>
+          </div>
+
+          <div class="lbl">D4 · Index stay</div>
+          <div class="chips" style="margin-bottom:8px">
+            ${p.comorbidities.map((c) => `<span class="chip">${c}</span>`).join("")}
+          </div>
+          <div class="chips">
+            ${p.labs
+              .map(
+                (l) =>
+                  `<span class="chip ${l.flag === "L" || l.flag === "H" ? "warn" : ""}">${l.k} ${l.v}${l.flag ? " " + l.flag : ""}</span>`
+              )
+              .join("")}
+          </div>
+          <div class="pt-meta" style="margin-top:8px">${p.procedure} on ${p.procedureDate} · ${p.wb} · DME: ${p.dme}</div>
+
+          <div class="lbl">D5 · Risk drivers → actions</div>
+          ${p.drivers
+            .map(
+              (d) => `
+            <div class="driver">
+              <div class="why">${d.why}</div>
+              <div class="act">→ ${d.act}</div>
+            </div>`
+            )
+            .join("")}
+        </div>
+
+        <div class="col">
+          <div class="lbl">D9 · Disposition context</div>
+          <div class="setting-card">
+            <strong>${p.settingCard.title}</strong>
+            <ul>${p.settingCard.bullets.map((b) => `<li>${b}</li>`).join("")}</ul>
+          </div>
+
+          <div class="lbl">D8 · PCP referral (TEAM)</div>
+          <div class="pcp-box ${p.pcpDetail.gap ? "gap" : ""}">
+            <strong>${p.pcpDetail.status}</strong>
+            <div style="margin-top:4px;font-weight:600">${p.pcpDate ? "Follow-up: " + p.pcpDate : "Follow-up: not scheduled"}</div>
+            <div class="pt-meta" style="margin-top:4px">${p.pcpDetail.note}</div>
+          </div>
+
+          <div class="lbl">D10 · Readmit / bounce</div>
+          ${
+            p.readmits.length
+              ? p.readmits
+                  .map(
+                    (r) => `
+            <div class="readmit-card">
+              <div class="src ${r.src}">${r.label}</div>
+              <div>${r.text}</div>
+            </div>`
+                  )
+                  .join("")
+              : `<div class="pt-meta">No bounce events in window.</div>`
+          }
+        </div>
+
+        <div class="col">
+          <div class="lbl">D6 · Live signal timeline</div>
+          <ul class="timeline">
+            ${p.timeline
+              .map(
+                (ev) => `
+              <li class="${ev.cls || ""}">
+                <time>${ev.t}</time>
+                ${ev.text}
+              </li>`
+              )
+              .join("")}
+          </ul>
+
+          <div class="lbl">D7 · Triage actions</div>
+          <div class="actions">
+            <button type="button" class="primary">Call patient / caregiver</button>
+            <button type="button">Assign to ${p.queue ? p.queue.role : "case management"}</button>
+            <button type="button">Notify PCP</button>
+            <button type="button">Resolve with note…</button>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderAll() {
+      syncHeaderClock();
+      renderRoster();
+      renderQueue();
+      renderDetail();
+    }
+
+    document.getElementById("filters").addEventListener("click", (e) => {
+      const btn = e.target.closest("button");
+      if (!btn) return;
+      filter = btn.dataset.f;
+      document.querySelectorAll("#filters button").forEach((b) => b.classList.toggle("active", b === btn));
+      renderAll();
+    });
+
+    renderAll();
+  </script>
+</body>
+</html>

@@ -6,6 +6,8 @@ Product concept for hospital and patient-facing tools supporting **Surgical Hip 
 
 **Scope:** SHFFT only (prototype wedge).
 
+**Design checklist:** [core functionality — dashboard & app](../design/core-functionality.md) · [mockups](../design/mockups/)
+
 **References:**
 - [TEAM model overview (CMS)](https://www.cms.gov/priorities/innovation/innovation-models/team-model)
 - [TEAM fact sheet (PDF)](https://www.cms.gov/files/document/team-model-fs.pdf)

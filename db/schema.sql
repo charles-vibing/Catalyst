@@ -23,6 +23,7 @@
 --   pt_ot_eval_{fin}.json            → therapy_evaluation
 --   billing/{fin}_837I.json          → institutional_claim, claim_diagnosis, claim_procedure
 --   feeds/medicare_claims_*.csv      → medicare_claim_line
+--   feeds/hie_adt_alerts.json        → hie_adt_alert (outside ADT notifications)
 --   notes/{fin}_{type}.txt           → clinical_document (file_path pointer)
 --   interfaces/hl7/*.hl7             → hl7_message (file_path pointer)
 
@@ -397,6 +398,34 @@ CREATE INDEX idx_nursing_fin_assessment ON nursing_assessment(fin, assessment);
 CREATE INDEX idx_medicare_bene ON medicare_claim_line(bene_id);
 CREATE INDEX idx_medicare_fin ON medicare_claim_line(fin);
 CREATE INDEX idx_medicare_ccn ON medicare_claim_line(prvdr_ccn);
+
+-- Regional HIE ADT notifications (outside facilities; thin payload)
+CREATE TABLE hie_adt_alert (
+    id                          INTEGER PRIMARY KEY AUTOINCREMENT,
+    patient_id                  INTEGER NOT NULL REFERENCES patient(patient_id),
+    alert_id                    TEXT NOT NULL UNIQUE,
+    event_type                  TEXT NOT NULL,            -- A01, A03, ...
+    event_label                 TEXT,
+    event_datetime              TEXT NOT NULL,
+    received_at                 TEXT NOT NULL,
+    sending_facility_name       TEXT,
+    sending_facility_ccn        TEXT,
+    patient_class               TEXT,
+    visit_number                TEXT,                     -- outside FIN / visit #
+    hospital_service            TEXT,
+    chief_complaint             TEXT,
+    discharge_disposition       TEXT,
+    admit_source                TEXT,
+    matched_on_json             TEXT,
+    anchor_episode_fin          TEXT,
+    days_after_anchor_discharge INTEGER,
+    hie_name                    TEXT,
+    source_file                 TEXT
+);
+
+CREATE INDEX idx_hie_patient ON hie_adt_alert(patient_id);
+CREATE INDEX idx_hie_ccn ON hie_adt_alert(sending_facility_ccn);
+CREATE INDEX idx_hie_anchor ON hie_adt_alert(anchor_episode_fin);
 
 CREATE INDEX idx_document_fin_type ON clinical_document(fin, document_type);
 

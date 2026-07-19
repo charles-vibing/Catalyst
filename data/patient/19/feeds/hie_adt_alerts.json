@@ -1,0 +1,31 @@
+{
+  "patient_id": 19,
+  "mrn": "10099",
+  "mbi": "SYN-MBI-000099",
+  "source": "REGIONAL_HIE_ADT",
+  "hie_name": "Central Illinois Health Exchange",
+  "extracted_at": "2026-05-14T18:00:00-05:00",
+  "notes": "Admit alert only — discharge notification not received (common HIE gap). No outside clinical notes. Claims later confirm DRG 291.",
+  "alerts": [
+    {
+      "alert_id": "HIE-ADT-20260514-0910",
+      "event_type": "A01",
+      "event_label": "Admit",
+      "event_datetime": "2026-05-14T09:10:00-05:00",
+      "received_at": "2026-05-14T09:28:03-05:00",
+      "sending_facility": {
+        "name": "Mercy General Hospital",
+        "ccn": "140010",
+        "city": "Springfield",
+        "state": "IL"
+      },
+      "patient_class": "Inpatient",
+      "visit_number": "006773",
+      "hospital_service": "Cardiology",
+      "chief_complaint": "CHF exacerbation",
+      "matched_on": ["MBI", "name_dob"],
+      "anchor_episode_fin": "006772",
+      "days_after_anchor_discharge": 11
+    }
+  ]
+}

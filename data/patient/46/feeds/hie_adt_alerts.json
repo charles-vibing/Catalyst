@@ -1,0 +1,32 @@
+{
+  "patient_id": 46,
+  "mrn": "10126",
+  "mbi": "SYN-MBI-000126",
+  "source": "REGIONAL_HIE_ADT",
+  "hie_name": "Central Illinois Health Exchange",
+  "extracted_at": "2026-08-24T20:00:00-05:00",
+  "notes": "ED-to-IP admit alert. Thin payload typical of regional HIE ADT — facility, class, visit number, chief complaint only.",
+  "alerts": [
+    {
+      "alert_id": "HIE-ADT-20260824-1935",
+      "event_type": "A01",
+      "event_label": "Admit",
+      "event_datetime": "2026-08-24T19:35:00-05:00",
+      "received_at": "2026-08-24T19:52:40-05:00",
+      "sending_facility": {
+        "name": "Mercy General Hospital",
+        "ccn": "140010",
+        "city": "Springfield",
+        "state": "IL"
+      },
+      "patient_class": "Inpatient",
+      "admit_source": "Emergency Department",
+      "visit_number": "009126",
+      "hospital_service": "Internal Medicine",
+      "chief_complaint": "Acute heart failure symptoms",
+      "matched_on": ["MBI", "name_dob"],
+      "anchor_episode_fin": "009125",
+      "days_after_anchor_discharge": 11
+    }
+  ]
+}

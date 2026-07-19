@@ -1,0 +1,50 @@
+{
+  "patient_id": 5,
+  "mrn": "10085",
+  "mbi": "SYN-MBI-000085",
+  "source": "REGIONAL_HIE_ADT",
+  "hie_name": "Central Illinois Health Exchange",
+  "extracted_at": "2026-03-10T08:00:00-05:00",
+  "notes": "ADT notifications only — no outside clinical notes, labs, or claims. Matched to Memorial General attributed patient via MBI + name/DOB.",
+  "alerts": [
+    {
+      "alert_id": "HIE-ADT-20260307-01422",
+      "event_type": "A01",
+      "event_label": "Admit",
+      "event_datetime": "2026-03-07T14:22:00-06:00",
+      "received_at": "2026-03-07T14:35:12-06:00",
+      "sending_facility": {
+        "name": "Mercy General Hospital",
+        "ccn": "140010",
+        "city": "Springfield",
+        "state": "IL"
+      },
+      "patient_class": "Inpatient",
+      "visit_number": "018472",
+      "hospital_service": "Internal Medicine",
+      "chief_complaint": "Shortness of breath",
+      "matched_on": ["MBI", "name_dob"],
+      "anchor_episode_fin": "005620",
+      "days_after_anchor_discharge": 15
+    },
+    {
+      "alert_id": "HIE-ADT-20260310-1105",
+      "event_type": "A03",
+      "event_label": "Discharge",
+      "event_datetime": "2026-03-10T11:05:00-05:00",
+      "received_at": "2026-03-10T11:18:44-05:00",
+      "sending_facility": {
+        "name": "Mercy General Hospital",
+        "ccn": "140010",
+        "city": "Springfield",
+        "state": "IL"
+      },
+      "patient_class": "Inpatient",
+      "visit_number": "018472",
+      "discharge_disposition": "Home",
+      "matched_on": ["MBI", "name_dob"],
+      "anchor_episode_fin": "005620",
+      "days_after_anchor_discharge": 18
+    }
+  ]
+}
