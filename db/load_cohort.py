@@ -7,7 +7,11 @@ import csv
 import json
 import re
 import sqlite3
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from migrate_app import apply_app_tables  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_ROOT = REPO_ROOT / "data" / "patient"
@@ -726,6 +730,12 @@ def load_cohort(db_path: Path = DEFAULT_DB) -> None:
             print(f"  {k}: {v}")
     finally:
         conn.close()
+
+    # Re-apply app-owned tables + views so one command restores everything.
+    # (The full-DB rebuild above wipes app tables; migrate_app recreates them.
+    # M6 will revisit preserving triage/audit writes across cohort reloads.)
+    apply_app_tables(db_path)
+    print(f"Applied app tables/views (db/app_tables.sql) to {db_path}")
 
 
 if __name__ == "__main__":
