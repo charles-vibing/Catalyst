@@ -17,6 +17,11 @@ export interface Episode {
   disposition_code: string | null;
   status: EpisodeStatus;
   days_remaining: number | null;
+  /** Patient-app engagement (additive fields; false/null when not enrolled). */
+  enrolled: boolean;
+  last_checkin_date: string | null;
+  checkin_adherence: number | null;
+  open_redflags: number;
 }
 
 export interface RosterMeta {
@@ -205,5 +210,195 @@ export async function resolveQueueItem(
   if (!res.ok) {
     throw new Error(`resolve failed: ${res.status}`);
   }
+  return res.json();
+}
+
+// ---------------------------------------------------------------------------
+// Patient-app data (companion app writes; see patient/ and
+// backend/app/routers/patient_signals.py)
+// ---------------------------------------------------------------------------
+
+export interface PatientSignal {
+  id: number;
+  occurred_at: string;
+  kind: string;
+  label: string;
+  severity: string | null;
+  detail: Record<string, unknown>;
+  headline: string;
+}
+
+export interface SignalsResponse {
+  meta: {
+    as_of: string;
+    as_of_mode: "frozen" | "live";
+    fin: string;
+    patient_id: number;
+    patient_name: string;
+    total: number;
+  };
+  signals: PatientSignal[];
+  counts: Record<string, number>;
+}
+
+export interface AdherenceBlock {
+  checkin: { days_completed: number; days_expected: number; pct: number | null };
+  pt: {
+    days_logged: number;
+    days_expected: number;
+    sessions_logged: number;
+    pct: number | null;
+  };
+  medication: {
+    taken: number;
+    missed: number;
+    pct: number | null;
+    anticoagulant_taken: number;
+    anticoagulant_missed: number;
+    anticoagulant_pct: number | null;
+  };
+}
+
+export interface PatientMilestone {
+  code: string;
+  phase: string;
+  label: string;
+  target_date: string | null;
+  status: "pending" | "met" | "missed";
+  met_at: string | null;
+}
+
+export interface PatientChecklist {
+  checklist_code: string;
+  title: string;
+  answered: number;
+  total: number;
+  blockers: { item_code: string; label: string; note: string | null }[];
+  last_answered_at: string | null;
+}
+
+export interface PatientRedFlag {
+  id: number;
+  category: string;
+  severity: string;
+  guidance_code: string | null;
+  reported_at: string;
+  reasons: string[];
+  queue_item_id: number | null;
+}
+
+export interface PatientSummaryResponse {
+  meta: { as_of: string; fin: string; patient_name: string };
+  enrolled: boolean;
+  enrollment: {
+    relationship: string;
+    confirmed_procedure_type: string | null;
+    confirmed_surgeon: string | null;
+    confirmed_discharge_destination: string | null;
+    enrolled_at: string;
+  } | null;
+  phase: string | null;
+  phase_label: string | null;
+  milestones: PatientMilestone[];
+  adherence: AdherenceBlock;
+  latest_checkin: {
+    checkin_date: string;
+    pain_score: number | null;
+    mood: string | null;
+    sleep_quality: string | null;
+    mobility_status: string | null;
+    weight_bearing_status: string | null;
+    pt_completed: number | null;
+  } | null;
+  checkin_trend: {
+    checkin_date: string;
+    pain_score: number | null;
+    mobility_status: string | null;
+    pt_completed: number | null;
+    weight_bearing_status: string | null;
+    mood: string | null;
+  }[];
+  red_flags: PatientRedFlag[];
+  checklists: PatientChecklist[];
+  open_alerts: number;
+}
+
+export async function fetchPatientSignals(fin: string): Promise<SignalsResponse> {
+  const res = await fetch(`/api/episodes/${encodeURIComponent(fin)}/signals`);
+  if (!res.ok) throw new Error(`signals request failed: ${res.status}`);
+  return res.json();
+}
+
+export async function fetchPatientSummary(fin: string): Promise<PatientSummaryResponse> {
+  const res = await fetch(`/api/episodes/${encodeURIComponent(fin)}/patient-summary`);
+  if (!res.ok) throw new Error(`patient summary request failed: ${res.status}`);
+  return res.json();
+}
+
+// ---------------------------------------------------------------------------
+// Care-team messaging (provider side)
+// ---------------------------------------------------------------------------
+
+export interface CareMessage {
+  id: number;
+  sender_role: string;
+  sender_name: string | null;
+  body: string;
+  sent_at: string;
+  read_at: string | null;
+}
+
+export interface CareThread {
+  id: number;
+  patient_id: number;
+  patient_name: string | null;
+  fin: string;
+  subject: string;
+  status: string;
+  last_message_at: string | null;
+  unread_provider: number;
+  message_count: number;
+  last_preview: string | null;
+  messages: CareMessage[];
+}
+
+export interface InboxResponse {
+  meta: { status: string; total: number; unread_threads: number };
+  threads: CareThread[];
+}
+
+export async function fetchInbox(status = "open"): Promise<InboxResponse> {
+  const res = await fetch(`/api/messages?status=${encodeURIComponent(status)}`);
+  if (!res.ok) throw new Error(`inbox request failed: ${res.status}`);
+  return res.json();
+}
+
+export async function replyToThread(threadId: number, body: string): Promise<unknown> {
+  const res = await fetch(`/api/messages/${threadId}/reply`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ body }),
+  });
+  if (!res.ok) throw new Error(`reply failed: ${res.status}`);
+  return res.json();
+}
+
+export async function closeThread(threadId: number): Promise<unknown> {
+  const res = await fetch(`/api/messages/${threadId}/close`, { method: "POST" });
+  if (!res.ok) throw new Error(`close failed: ${res.status}`);
+  return res.json();
+}
+
+/**
+ * Assign a queue item to a role. The endpoint existed from M6 but had no client
+ * function, so the UI could never call it.
+ */
+export async function assignQueueItem(id: number, role: string): Promise<QueueItem> {
+  const res = await fetch(`/api/queue/${id}/assign`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ role }),
+  });
+  if (!res.ok) throw new Error(`assign failed: ${res.status}`);
   return res.json();
 }

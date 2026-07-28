@@ -864,3 +864,475 @@ table.roster tbody tr.selected td:first-child {
     border-bottom: none;
   }
 }
+
+/* ==========================================================================
+   Patient-app data on the dashboard (PatientSignals, CareMessages)
+   Companion app: patient/ · endpoints in backend/app/routers/patient_signals.py
+   ========================================================================== */
+
+.panel-h.subhead {
+  margin-top: 26px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.panel-h.subhead h3 {
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 600;
+}
+
+/* Roster engagement column ------------------------------------------------ */
+
+.engagement {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.eng-pct {
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  font-size: 13px;
+  padding: 2px 7px;
+  border-radius: 5px;
+}
+
+.eng-pct.good {
+  background: var(--ok-soft);
+  color: var(--ok);
+}
+
+.eng-pct.fair {
+  background: var(--clay-soft);
+  color: var(--clay);
+}
+
+.eng-pct.poor {
+  background: var(--alert-soft);
+  color: var(--alert);
+}
+
+.eng-flag {
+  background: var(--alert);
+  color: var(--white);
+  font-size: 11px;
+  font-weight: 700;
+  min-width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  display: inline-grid;
+  place-items: center;
+  padding: 0 5px;
+}
+
+.eng-none {
+  color: var(--line);
+  font-weight: 600;
+}
+
+/* Signals panel ----------------------------------------------------------- */
+
+.patient-signals {
+  font-size: 14px;
+}
+
+.ps-empty {
+  padding: 22px;
+  background: var(--surface);
+  border-radius: 8px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.ps-empty strong {
+  color: var(--ink);
+  display: block;
+  margin-bottom: 4px;
+}
+
+.ps-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.ps-phase {
+  font-weight: 700;
+  color: var(--forest);
+  margin-right: 10px;
+}
+
+.ps-by {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.ps-alerts {
+  background: var(--alert-soft);
+  color: var(--alert);
+  font-weight: 700;
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.ps-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(112px, 1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.ps-metric {
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.ps-metric.warn {
+  background: var(--alert-soft);
+}
+
+.ps-value {
+  font-family: var(--serif);
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.ps-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-top: 3px;
+}
+
+.ps-label span {
+  display: block;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.ps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 22px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 900px) {
+  .ps-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.patient-signals h4 {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.patient-signals h4.ps-subhead {
+  margin-top: 18px;
+}
+
+.ps-count {
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.ps-latest-date {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.ps-latest ul {
+  list-style: none;
+  display: grid;
+  gap: 3px;
+}
+
+.ps-latest li {
+  color: var(--muted);
+}
+
+.ps-latest li strong {
+  color: var(--ink);
+}
+
+.ps-flagged {
+  color: var(--alert);
+}
+
+.ps-none {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.ps-trend-label {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 12px 0 4px;
+}
+
+.ps-trend {
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+  height: 40px;
+}
+
+.ps-bar {
+  flex: 1;
+  background: var(--forest);
+  opacity: 0.7;
+  border-radius: 2px 2px 0 0;
+  min-height: 3px;
+}
+
+.ps-flag,
+.ps-blocker {
+  display: flex;
+  gap: 9px;
+  align-items: flex-start;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--surface-2);
+}
+
+.ps-blocker {
+  display: block;
+  padding-left: 0;
+}
+
+.ps-flag:last-child,
+.ps-blocker:last-child {
+  border-bottom: 0;
+}
+
+.ps-flag-cat {
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.03em;
+}
+
+.ps-flag-reason {
+  color: var(--ink);
+}
+
+.ps-flag-guidance {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.ps-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--line);
+  flex: 0 0 9px;
+  margin-top: 5px;
+}
+
+.ps-dot.sev-red {
+  background: var(--alert);
+}
+
+.ps-dot.sev-yellow {
+  background: var(--clay);
+}
+
+.ps-dot.sev-green {
+  background: var(--ok);
+}
+
+.ps-timeline {
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+}
+
+.ps-signal {
+  display: grid;
+  grid-template-columns: 12px 108px 130px 1fr;
+  gap: 10px;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--surface-2);
+}
+
+@media (max-width: 760px) {
+  .ps-signal {
+    grid-template-columns: 12px 1fr;
+  }
+  .ps-signal .ps-kind {
+    display: none;
+  }
+}
+
+.ps-when {
+  color: var(--muted);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.ps-kind {
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.ps-headline {
+  color: var(--ink);
+}
+
+.ps-more {
+  margin-top: 12px;
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 8px 14px;
+  font-weight: 600;
+  color: var(--forest);
+  cursor: pointer;
+}
+
+.ps-more:hover {
+  background: var(--surface-2);
+}
+
+/* Message inbox ----------------------------------------------------------- */
+
+.panel.messages {
+  grid-column: 1 / -1;
+}
+
+.msg-list {
+  display: grid;
+  gap: 8px;
+}
+
+.msg-thread {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.msg-thread.open {
+  border-color: var(--forest);
+}
+
+.msg-head {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 180px 1fr 90px;
+  gap: 12px;
+  align-items: baseline;
+  text-align: left;
+  background: var(--surface);
+  border: 0;
+  padding: 11px 14px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 14px;
+}
+
+.msg-head:hover {
+  background: var(--surface-2);
+}
+
+@media (max-width: 760px) {
+  .msg-head {
+    grid-template-columns: 1fr;
+  }
+}
+
+.msg-who {
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.msg-unread {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--alert);
+  flex: 0 0 8px;
+}
+
+.msg-subject {
+  color: var(--ink);
+}
+
+.msg-when {
+  color: var(--muted);
+  font-size: 12px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.msg-preview {
+  padding: 8px 14px 11px;
+  color: var(--muted);
+  font-size: 13px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.msg-body {
+  padding: 14px;
+  background: var(--white);
+}
+
+.msg-bubble {
+  padding: 9px 12px;
+  border-radius: 10px;
+  margin-bottom: 8px;
+  max-width: 80%;
+  font-size: 14px;
+}
+
+.msg-bubble.theirs {
+  background: var(--surface-2);
+  border-bottom-left-radius: 3px;
+}
+
+.msg-bubble.ours {
+  background: var(--forest-soft);
+  margin-left: auto;
+  border-bottom-right-radius: 3px;
+}
+
+.msg-meta {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted);
+  margin-bottom: 3px;
+}
+
+.msg-input {
+  width: 100%;
+  font-family: inherit;
+  font-size: 14px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  resize: vertical;
+  margin-bottom: 10px;
+}
+
+.msg-input:focus {
+  outline: 2px solid var(--forest);
+  outline-offset: 1px;
+}

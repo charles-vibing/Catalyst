@@ -9,11 +9,13 @@ import {
   fetchQueue,
   fetchRoster,
 } from "./api";
+import CareMessages from "./CareMessages";
 import EpisodeDetail from "./EpisodeDetail";
+import PatientSignals from "./PatientSignals";
 import TriageQueue from "./TriageQueue";
 
 type StatusFilter = "all" | "active" | "completed";
-type SortKey = "status" | "days" | "patient" | "disposition";
+type SortKey = "status" | "days" | "patient" | "disposition" | "engagement";
 type SortDir = "asc" | "desc";
 
 const STATUS_FILTERS: { id: StatusFilter; label: string }[] = [
@@ -25,6 +27,7 @@ const STATUS_FILTERS: { id: StatusFilter; label: string }[] = [
 const COLUMNS: { key: SortKey; label: string }[] = [
   { key: "patient", label: "Patient" },
   { key: "disposition", label: "Disposition" },
+  { key: "engagement", label: "App" },
   { key: "days", label: "Days left" },
   { key: "status", label: "Status" },
 ];
@@ -79,6 +82,12 @@ function sortEpisodes(list: Episode[], key: SortKey, dir: SortDir): Episode[] {
           (b.disposition ?? "").toLowerCase(),
         );
         break;
+      case "engagement":
+        // Open red flags first, then worst check-in adherence: the two things
+        // that decide who a navigator calls next.
+        c = (b.open_redflags ?? 0) - (a.open_redflags ?? 0);
+        if (c === 0) c = cmpNullable(a.checkin_adherence, b.checkin_adherence);
+        break;
     }
     if (c === 0) {
       c = cmpNullable(a.patient_name.toLowerCase(), b.patient_name.toLowerCase());
@@ -124,6 +133,33 @@ function EpisodeRow({
         <span className={dispositionClass(e.disposition)}>
           {e.disposition ?? "Unknown"}
         </span>
+      </td>
+      <td>
+        {e.enrolled ? (
+          <span className="engagement">
+            {e.open_redflags > 0 && (
+              <span className="eng-flag" title={`${e.open_redflags} open app alert(s)`}>
+                {e.open_redflags}
+              </span>
+            )}
+            <span
+              className={
+                (e.checkin_adherence ?? 0) >= 70
+                  ? "eng-pct good"
+                  : (e.checkin_adherence ?? 0) >= 40
+                    ? "eng-pct fair"
+                    : "eng-pct poor"
+              }
+              title={`Last check-in ${e.last_checkin_date ?? "never"}`}
+            >
+              {e.checkin_adherence ?? 0}%
+            </span>
+          </span>
+        ) : (
+          <span className="eng-none" title="Not enrolled in the patient app">
+            —
+          </span>
+        )}
       </td>
       <td className="days">{e.days_remaining ?? "—"}</td>
       <td>
@@ -324,7 +360,7 @@ export default function App() {
                 ))}
                 {data && rows.length === 0 && (
                   <tr>
-                    <td colSpan={4} className="empty">
+                    <td colSpan={5} className="empty">
                       No episodes match this filter.
                     </td>
                   </tr>
@@ -344,12 +380,22 @@ export default function App() {
         />
       </div>
 
+      <div className="grid-main">
+        <CareMessages onSelectEpisode={(fin) => setSelectedFin(fin)} />
+      </div>
+
       <section className="panel detail" aria-labelledby="detail-title">
         <div className="panel-h">
           <h2 id="detail-title">Patient episode view</h2>
           <span className="dtag">D4 · D9 (M2)</span>
         </div>
         <EpisodeDetail detail={detail} loading={detailLoading} error={detailError} />
+
+        <div className="panel-h subhead">
+          <h3>Patient app engagement</h3>
+          <span className="dtag">D6 · signals, adherence, red flags</span>
+        </div>
+        <PatientSignals fin={selectedFin} />
       </section>
     </div>
   );
