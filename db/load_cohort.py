@@ -731,11 +731,13 @@ def load_cohort(db_path: Path = DEFAULT_DB) -> None:
     finally:
         conn.close()
 
-    # Re-apply app-owned tables + views so one command restores everything.
-    # (The full-DB rebuild above wipes app tables; migrate_app recreates them.
-    # M6 will revisit preserving triage/audit writes across cohort reloads.)
+    # Re-apply cohort views (destroyed with the rebuild above) and ensure the
+    # app-owned database exists. App state lives in db/app.db, a separate file
+    # this loader never touches — so triage work, audit rows, and patient-app
+    # data survive a cohort reload by construction.
     apply_app_tables(db_path)
-    print(f"Applied app tables/views (db/app_tables.sql) to {db_path}")
+    print(f"Applied cohort views (db/cohort_views.sql) to {db_path}")
+    print(f"App-owned tables (db/app_tables.sql) ready in {db_path.parent / 'app.db'}")
 
 
 if __name__ == "__main__":

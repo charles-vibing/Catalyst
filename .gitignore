@@ -1,6 +1,9 @@
 scripts/
 .DS_Store
 db/catalyst.db
+db/app.db
+patient/node_modules/
+patient/dist/
 .env
 __pycache__/
 backend/.venv/
