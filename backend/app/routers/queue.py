@@ -64,7 +64,7 @@ def _write_audit(
 ) -> None:
     conn.execute(
         """
-        INSERT INTO audit_event (
+        INSERT INTO app.audit_event (
             actor_id, actor_role, action, entity_type, entity_id,
             patient_id, org_id, detail_json
         ) VALUES (?, ?, ?, 'queue_item', ?, ?, ?, ?)
@@ -113,7 +113,7 @@ def list_queue(
                 """
                 SELECT q.*,
                        p.family_name || ', ' || p.given_name AS patient_name
-                FROM queue_item q
+                FROM app.queue_item q
                 JOIN patient p ON p.patient_id = q.patient_id
                 WHERE q.org_id = ?
                 ORDER BY
@@ -128,7 +128,7 @@ def list_queue(
                 """
                 SELECT q.*,
                        p.family_name || ', ' || p.given_name AS patient_name
-                FROM queue_item q
+                FROM app.queue_item q
                 JOIN patient p ON p.patient_id = q.patient_id
                 WHERE q.org_id = ? AND q.status = ?
                 ORDER BY COALESCE(q.priority, 999), q.created_at DESC
@@ -160,7 +160,7 @@ def resolve_queue_item(
     conn = get_connection()
     try:
         row = conn.execute(
-            "SELECT * FROM queue_item WHERE id = ? AND org_id = ?",
+            "SELECT * FROM app.queue_item WHERE id = ? AND org_id = ?",
             (item_id, user["org_id"]),
         ).fetchone()
         if row is None:
@@ -180,7 +180,7 @@ def resolve_queue_item(
         now = _now_iso()
         conn.execute(
             """
-            UPDATE queue_item
+            UPDATE app.queue_item
             SET status = 'resolved',
                 resolution_action = ?,
                 resolution_note = ?,
@@ -207,7 +207,7 @@ def resolve_queue_item(
             """
             SELECT q.*,
                    p.family_name || ', ' || p.given_name AS patient_name
-            FROM queue_item q
+            FROM app.queue_item q
             JOIN patient p ON p.patient_id = q.patient_id
             WHERE q.id = ?
             """,
@@ -232,7 +232,7 @@ def assign_queue_item(
     conn = get_connection()
     try:
         row = conn.execute(
-            "SELECT * FROM queue_item WHERE id = ? AND org_id = ?",
+            "SELECT * FROM app.queue_item WHERE id = ? AND org_id = ?",
             (item_id, user["org_id"]),
         ).fetchone()
         if row is None:
@@ -240,7 +240,7 @@ def assign_queue_item(
 
         conn.execute(
             """
-            UPDATE queue_item
+            UPDATE app.queue_item
             SET assigned_role = ?,
                 status = CASE WHEN status = 'open' THEN 'in_progress' ELSE status END
             WHERE id = ?
@@ -260,7 +260,7 @@ def assign_queue_item(
             """
             SELECT q.*,
                    p.family_name || ', ' || p.given_name AS patient_name
-            FROM queue_item q
+            FROM app.queue_item q
             JOIN patient p ON p.patient_id = q.patient_id
             WHERE q.id = ?
             """,

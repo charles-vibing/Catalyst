@@ -300,7 +300,7 @@ def _playbook(code: Optional[str], label: Optional[str]) -> Dict[str, Any]:
 
 def _org_name(conn, org_id: str) -> str:
     row = conn.execute(
-        "SELECT name FROM organization WHERE org_id = ?", (org_id,)
+        "SELECT name FROM app.organization WHERE org_id = ?", (org_id,)
     ).fetchone()
     return row["name"] if row else org_id
 

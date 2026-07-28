@@ -34,6 +34,11 @@ class Episode(BaseModel):
     disposition_code: Optional[str]
     status: str
     days_remaining: Optional[int]
+    # Patient-app engagement (additive; null/0 for episodes not enrolled).
+    enrolled: bool = False
+    last_checkin_date: Optional[str] = None
+    checkin_adherence: Optional[int] = None
+    open_redflags: int = 0
 
 
 class RosterResponse(BaseModel):
@@ -75,19 +80,30 @@ def get_roster(user: Dict[str, str] = Depends(get_current_user)) -> RosterRespon
         org = conn.execute(
             """
             SELECT org_id, name, short_name, city, state, is_anchor
-            FROM organization
+            FROM app.organization
             WHERE org_id = ?
             """,
             (user["org_id"],),
         ).fetchone()
+        # Patient-app engagement joins in from app.db. LEFT JOINs keep every
+        # episode on the roster whether or not it is enrolled.
         rows = conn.execute(
             """
-            SELECT patient_id, mrn, patient_name, birth_date, sex, fin,
-                   admit_date, discharge_date, window_end,
-                   ms_drg, procedure_summary, procedure_date,
-                   discharge_disposition, discharge_disposition_code
-            FROM v_roster
-            ORDER BY admit_date, fin
+            SELECT r.patient_id, r.mrn, r.patient_name, r.birth_date, r.sex, r.fin,
+                   r.admit_date, r.discharge_date, r.window_end,
+                   r.ms_drg, r.procedure_summary, r.procedure_date,
+                   r.discharge_disposition, r.discharge_disposition_code,
+                   e.id AS enrollment_id,
+                   (SELECT MAX(c.checkin_date) FROM app.daily_checkin c
+                     WHERE c.fin = r.fin)                        AS last_checkin_date,
+                   (SELECT COUNT(DISTINCT c.checkin_date) FROM app.daily_checkin c
+                     WHERE c.fin = r.fin)                        AS checkin_days,
+                   (SELECT COUNT(*) FROM app.queue_item q
+                     WHERE q.fin = r.fin AND q.status IN ('open', 'in_progress')
+                       AND q.kind LIKE 'app_%')                  AS open_redflags
+            FROM v_roster r
+            LEFT JOIN app.patient_enrollment e ON e.fin = r.fin
+            ORDER BY r.admit_date, r.fin
             """
         ).fetchall()
     finally:
@@ -104,6 +120,16 @@ def get_roster(user: Dict[str, str] = Depends(get_current_user)) -> RosterRespon
         # admits (admit > as_of) stay in the DB/views but are hidden from UI.
         if status == "upcoming":
             continue
+
+        # Check-in adherence denominator: days from discharge through as-of,
+        # matching patient_ctx._eligible_days so both surfaces agree.
+        discharge = _parse_date(r["discharge_date"])
+        eligible = 0
+        if discharge:
+            eligible = max(0, min((as_of - discharge).days + 1, EPISODE_WINDOW_DAYS + 1))
+        checkin_days = r["checkin_days"] or 0
+        adherence = round(100 * checkin_days / eligible) if eligible else None
+
         episodes.append(
             Episode(
                 patient_id=r["patient_id"],
@@ -122,6 +148,10 @@ def get_roster(user: Dict[str, str] = Depends(get_current_user)) -> RosterRespon
                 disposition_code=r["discharge_disposition_code"],
                 status=status,
                 days_remaining=days_remaining,
+                enrolled=r["enrollment_id"] is not None,
+                last_checkin_date=r["last_checkin_date"],
+                checkin_adherence=adherence,
+                open_redflags=r["open_redflags"] or 0,
             )
         )
 
