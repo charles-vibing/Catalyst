@@ -1,0 +1,980 @@
+/*
+ * Catalyst patient companion app styles.
+ *
+ * Same styling system as the dashboard (frontend/src/styles.css): hand-written
+ * CSS, no framework, design tokens as custom properties on :root. The token
+ * block below is duplicated from the dashboard rather than shared — the repo has
+ * no shared package and adding a build step would break "match the stack
+ * exactly". If a design-token package ever lands, both apps import it instead.
+ *
+ * Differences from the dashboard, all driven by the audience (post-op hip
+ * fracture patients, median age ~80, often on a phone held by a caregiver):
+ * larger base type, single column, generous tap targets, no dense tables.
+ */
+
+:root {
+  --ink: #1a2421;
+  --muted: #5a6a64;
+  --line: #c9d0cc;
+  --surface: #f7f8f6;
+  --surface-2: #eef1ee;
+  --white: #fcfdfb;
+  --forest: #1b4d3e;
+  --forest-deep: #12352b;
+  --forest-soft: #e2efe9;
+  --clay: #8b4a2b;
+  --clay-soft: #f3e6dc;
+  --alert: #8f2f2f;
+  --alert-soft: #f5e4e4;
+  --ok: #2d6a4f;
+  --ok-soft: #e0efe7;
+  --info: #2c5f7a;
+  --info-soft: #e0ebf1;
+  --font: "Figtree", system-ui, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+
+  /* Patient-app scale: one step up from the dashboard. */
+  --tap: 48px;
+  --radius: 12px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font);
+  color: var(--ink);
+  background: var(--surface);
+  font-size: 17px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+/* --------------------------------------------------------------------------
+   Shell
+   -------------------------------------------------------------------------- */
+
+.app {
+  max-width: 560px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: var(--white);
+  padding-bottom: 96px;
+  box-shadow: 0 0 40px rgba(26, 36, 33, 0.06);
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--forest);
+  color: var(--white);
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.topbar h1 {
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.topbar .who {
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+.topbar button {
+  background: rgba(252, 253, 251, 0.16);
+  color: var(--white);
+  border: 0;
+  border-radius: 8px;
+  padding: 7px 12px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.topbar button:hover {
+  background: rgba(252, 253, 251, 0.26);
+}
+
+.synthetic-banner {
+  background: var(--clay-soft);
+  color: var(--clay);
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  padding: 6px 16px;
+  letter-spacing: 0.02em;
+}
+
+.screen {
+  padding: 20px;
+}
+
+.screen > h2 {
+  font-family: var(--serif);
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin-bottom: 6px;
+}
+
+.screen > .lede {
+  color: var(--muted);
+  margin-bottom: 20px;
+}
+
+/* --------------------------------------------------------------------------
+   Bottom navigation
+   -------------------------------------------------------------------------- */
+
+.tabbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 560px;
+  margin: 0 auto;
+  background: var(--white);
+  border-top: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  z-index: 20;
+}
+
+.tabbar button {
+  background: none;
+  border: 0;
+  padding: 10px 4px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  min-height: var(--tap);
+  position: relative;
+}
+
+.tabbar button .glyph {
+  font-size: 19px;
+  line-height: 1;
+}
+
+.tabbar button.active {
+  color: var(--forest);
+}
+
+.tabbar button.active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 22%;
+  right: 22%;
+  height: 3px;
+  background: var(--forest);
+  border-radius: 0 0 3px 3px;
+}
+
+.tabbar .badge {
+  position: absolute;
+  top: 6px;
+  right: 50%;
+  transform: translateX(18px);
+  background: var(--alert);
+  color: var(--white);
+  font-size: 10px;
+  font-weight: 700;
+  min-width: 17px;
+  height: 17px;
+  border-radius: 9px;
+  display: grid;
+  place-items: center;
+  padding: 0 4px;
+}
+
+/* --------------------------------------------------------------------------
+   Cards
+   -------------------------------------------------------------------------- */
+
+.card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 18px;
+  margin-bottom: 14px;
+}
+
+.card.tinted {
+  background: var(--forest-soft);
+  border-color: transparent;
+}
+
+.card h3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.card .sub {
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.hero {
+  background: linear-gradient(155deg, var(--forest) 0%, var(--forest-deep) 100%);
+  color: var(--white);
+  border-radius: var(--radius);
+  padding: 22px;
+  margin-bottom: 16px;
+}
+
+.hero .phase {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.75;
+  margin-bottom: 10px;
+}
+
+.hero h2 {
+  font-family: var(--serif);
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.015em;
+  margin-bottom: 8px;
+}
+
+.hero p {
+  opacity: 0.88;
+  font-size: 15px;
+}
+
+/* --------------------------------------------------------------------------
+   Buttons
+   -------------------------------------------------------------------------- */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: var(--tap);
+  padding: 12px 20px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--white);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.btn:hover {
+  background: var(--surface-2);
+}
+
+.btn.primary {
+  background: var(--forest);
+  border-color: var(--forest);
+  color: var(--white);
+}
+
+.btn.primary:hover {
+  background: var(--forest-deep);
+}
+
+.btn.danger {
+  background: var(--alert);
+  border-color: var(--alert);
+  color: var(--white);
+}
+
+.btn.block {
+  width: 100%;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* --------------------------------------------------------------------------
+   Form controls — choice chips, scale, toggles
+   -------------------------------------------------------------------------- */
+
+.field {
+  margin-bottom: 22px;
+}
+
+.field > label,
+.field > .field-label {
+  display: block;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.field .hint {
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.choices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.choice {
+  min-height: var(--tap);
+  padding: 10px 16px;
+  border: 1.5px solid var(--line);
+  border-radius: 10px;
+  background: var(--white);
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.choice:hover {
+  border-color: var(--forest);
+}
+
+.choice.selected {
+  background: var(--forest);
+  border-color: var(--forest);
+  color: var(--white);
+}
+
+.choices.stacked {
+  flex-direction: column;
+}
+
+.choices.stacked .choice {
+  width: 100%;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.scale {
+  display: grid;
+  grid-template-columns: repeat(11, 1fr);
+  gap: 4px;
+}
+
+.scale button {
+  aspect-ratio: 1;
+  min-height: 40px;
+  border: 1.5px solid var(--line);
+  border-radius: 8px;
+  background: var(--white);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--ink);
+  padding: 0;
+}
+
+.scale button.selected {
+  background: var(--forest);
+  border-color: var(--forest);
+  color: var(--white);
+}
+
+.scale-ends {
+  display: flex;
+  justify-content: space-between;
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+textarea,
+input[type="text"],
+input[type="tel"],
+input[type="number"],
+select {
+  width: 100%;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 12px;
+  border: 1.5px solid var(--line);
+  border-radius: 10px;
+  background: var(--white);
+  color: var(--ink);
+}
+
+textarea {
+  min-height: 88px;
+  resize: vertical;
+}
+
+textarea:focus,
+input:focus,
+select:focus {
+  outline: 2px solid var(--forest);
+  outline-offset: 1px;
+  border-color: var(--forest);
+}
+
+/* --------------------------------------------------------------------------
+   Timeline / milestones
+   -------------------------------------------------------------------------- */
+
+.phase-track {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 18px;
+}
+
+.phase-step {
+  flex: 1;
+  text-align: center;
+}
+
+.phase-step .bar {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--surface-2);
+  margin-bottom: 7px;
+}
+
+.phase-step.done .bar {
+  background: var(--ok);
+}
+
+.phase-step.current .bar {
+  background: var(--forest);
+}
+
+.phase-step .name {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  line-height: 1.25;
+}
+
+.phase-step.current .name {
+  color: var(--forest);
+}
+
+.milestone {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--surface-2);
+}
+
+.milestone:last-child {
+  border-bottom: 0;
+}
+
+.milestone .mark {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  flex: 0 0 26px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 2px solid var(--line);
+  color: var(--muted);
+  background: var(--white);
+}
+
+.milestone.met .mark {
+  background: var(--ok);
+  border-color: var(--ok);
+  color: var(--white);
+}
+
+.milestone.missed .mark {
+  background: var(--clay-soft);
+  border-color: var(--clay);
+  color: var(--clay);
+}
+
+.milestone .m-label {
+  font-weight: 600;
+}
+
+.milestone.met .m-label {
+  color: var(--muted);
+}
+
+.milestone .m-meta {
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+/* --------------------------------------------------------------------------
+   Stat tiles
+   -------------------------------------------------------------------------- */
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.stat {
+  background: var(--surface);
+  border-radius: 10px;
+  padding: 13px 10px;
+  text-align: center;
+}
+
+.stat .value {
+  font-family: var(--serif);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.stat .label {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+/* --------------------------------------------------------------------------
+   Guidance / alerts
+   -------------------------------------------------------------------------- */
+
+.guidance {
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 16px;
+  border-left: 5px solid;
+}
+
+.guidance h3 {
+  font-family: var(--serif);
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.guidance p {
+  font-size: 15px;
+}
+
+.guidance.emergency {
+  background: var(--alert-soft);
+  border-color: var(--alert);
+  color: var(--alert);
+}
+
+.guidance.emergency h3 {
+  color: var(--alert);
+}
+
+.guidance.urgent {
+  background: var(--clay-soft);
+  border-color: var(--clay);
+  color: var(--clay);
+}
+
+.guidance.same_day {
+  background: var(--info-soft);
+  border-color: var(--info);
+  color: var(--info);
+}
+
+.guidance.routine {
+  background: var(--ok-soft);
+  border-color: var(--ok);
+  color: var(--ok);
+}
+
+.guidance .contact {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid currentColor;
+  opacity: 0.85;
+  font-size: 14px;
+}
+
+.notice {
+  background: var(--ok-soft);
+  color: var(--ok);
+  border-radius: 10px;
+  padding: 13px 16px;
+  margin-bottom: 14px;
+  font-weight: 600;
+}
+
+.notice.warn {
+  background: var(--clay-soft);
+  color: var(--clay);
+}
+
+.notice.error {
+  background: var(--alert-soft);
+  color: var(--alert);
+}
+
+.notice .met-list {
+  font-weight: 500;
+  margin-top: 6px;
+  font-size: 14px;
+}
+
+/* --------------------------------------------------------------------------
+   Chips / pills
+   -------------------------------------------------------------------------- */
+
+.chip {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  background: var(--surface-2);
+  color: var(--muted);
+}
+
+.chip.anticoagulant {
+  background: var(--alert-soft);
+  color: var(--alert);
+}
+
+.chip.analgesic {
+  background: var(--info-soft);
+  color: var(--info);
+}
+
+.chip.ok {
+  background: var(--ok-soft);
+  color: var(--ok);
+}
+
+.chip.due {
+  background: var(--clay-soft);
+  color: var(--clay);
+}
+
+/* --------------------------------------------------------------------------
+   Lists — meds, exercises, appointments
+   -------------------------------------------------------------------------- */
+
+.row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--surface-2);
+}
+
+.row:last-child {
+  border-bottom: 0;
+}
+
+.row .grow {
+  flex: 1;
+  min-width: 0;
+}
+
+.row .name {
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.row .meta {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.dose-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.dose-slot {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.dose-slot .time {
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 600;
+  min-width: 42px;
+}
+
+.mini {
+  min-height: 38px;
+  padding: 8px 13px;
+  border-radius: 8px;
+  border: 1.5px solid var(--line);
+  background: var(--white);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.mini.taken {
+  background: var(--ok);
+  border-color: var(--ok);
+  color: var(--white);
+}
+
+.mini.missed {
+  background: var(--alert);
+  border-color: var(--alert);
+  color: var(--white);
+}
+
+.video-placeholder {
+  background: var(--surface-2);
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  height: 120px;
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+  margin: 12px 0;
+  text-align: center;
+  padding: 0 16px;
+}
+
+/* --------------------------------------------------------------------------
+   Messages
+   -------------------------------------------------------------------------- */
+
+.thread {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  margin-bottom: 14px;
+  overflow: hidden;
+}
+
+.thread-head {
+  background: var(--surface);
+  padding: 13px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  border: 0;
+  width: 100%;
+  text-align: left;
+  font-weight: 700;
+}
+
+.thread-body {
+  padding: 14px 16px;
+}
+
+.bubble {
+  padding: 11px 14px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  max-width: 88%;
+  font-size: 15px;
+}
+
+.bubble.mine {
+  background: var(--forest-soft);
+  margin-left: auto;
+  border-bottom-right-radius: 3px;
+}
+
+.bubble.theirs {
+  background: var(--surface-2);
+  border-bottom-left-radius: 3px;
+}
+
+.bubble .who {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--muted);
+  margin-bottom: 3px;
+}
+
+/* --------------------------------------------------------------------------
+   Checklist
+   -------------------------------------------------------------------------- */
+
+.check-item {
+  padding: 15px 0;
+  border-bottom: 1px solid var(--surface-2);
+}
+
+.check-item:last-of-type {
+  border-bottom: 0;
+}
+
+.check-item .q {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.check-item .help {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+.check-item .req {
+  color: var(--clay);
+  font-size: 12px;
+  font-weight: 700;
+  margin-left: 6px;
+}
+
+.progress-bar {
+  height: 8px;
+  background: var(--surface-2);
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 10px 0 4px;
+}
+
+.progress-bar span {
+  display: block;
+  height: 100%;
+  background: var(--forest);
+  border-radius: 4px;
+}
+
+/* --------------------------------------------------------------------------
+   Login / onboarding
+   -------------------------------------------------------------------------- */
+
+.login {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 40px 22px;
+}
+
+.login .brand {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.login .brand h1 {
+  font-family: var(--serif);
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-bottom: 6px;
+}
+
+.login .brand p {
+  color: var(--muted);
+}
+
+.patient-pick {
+  width: 100%;
+  text-align: left;
+  border: 1.5px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+  padding: 15px 17px;
+  margin-bottom: 10px;
+  min-height: var(--tap);
+}
+
+.patient-pick:hover {
+  border-color: var(--forest);
+  background: var(--forest-soft);
+}
+
+.patient-pick .pname {
+  font-weight: 700;
+  font-size: 17px;
+  margin-bottom: 3px;
+}
+
+.patient-pick .pmeta {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.steps {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 22px;
+}
+
+.steps .dot {
+  flex: 1;
+  height: 5px;
+  border-radius: 3px;
+  background: var(--surface-2);
+}
+
+.steps .dot.on {
+  background: var(--forest);
+}
+
+/* --------------------------------------------------------------------------
+   Utility
+   -------------------------------------------------------------------------- */
+
+.loading,
+.empty {
+  padding: 36px 20px;
+  text-align: center;
+  color: var(--muted);
+}
+
+.trend {
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+  height: 46px;
+  margin-top: 10px;
+}
+
+.trend .bar {
+  flex: 1;
+  background: var(--forest);
+  border-radius: 2px 2px 0 0;
+  min-height: 3px;
+  opacity: 0.75;
+}
+
+.spacer {
+  height: 10px;
+}
+
+.sticky-submit {
+  position: sticky;
+  bottom: 78px;
+  background: linear-gradient(transparent, var(--white) 28%);
+  padding-top: 18px;
+}
