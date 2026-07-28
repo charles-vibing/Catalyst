@@ -124,17 +124,26 @@ DEMO_ITEMS = [
 ]
 
 
-def seed_queue_demo(db_path: Path = DEFAULT_DB) -> int:
-    conn = sqlite3.connect(db_path)
+def seed_queue_demo(
+    db_path: Path = DEFAULT_DB, app_db_path: Path | None = None
+) -> int:
+    """Insert demo queue rows into app.db, validating FINs against the cohort.
+
+    queue_item lives in app.db; v_episode lives in catalyst.db, so the cohort is
+    ATTACHed read-only for the patient_id lookup.
+    """
+    app_db_path = app_db_path or (db_path.parent / "app.db")
+    conn = sqlite3.connect(app_db_path)
     conn.row_factory = sqlite3.Row
     inserted = 0
     try:
+        conn.execute("ATTACH DATABASE ? AS cohort", (str(db_path),))
         for item in DEMO_ITEMS:
             patient_id = item["patient_id"]
             fin = item["fin"]
             if patient_id is None and fin:
                 row = conn.execute(
-                    "SELECT patient_id FROM v_episode WHERE fin = ?", (fin,)
+                    "SELECT patient_id FROM cohort.v_episode WHERE fin = ?", (fin,)
                 ).fetchone()
                 if row is None:
                     continue
@@ -174,6 +183,8 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Seed demo triage queue items")
     parser.add_argument("--db", type=Path, default=DEFAULT_DB)
+    parser.add_argument("--app-db", type=Path, default=None)
     args = parser.parse_args()
-    n = seed_queue_demo(args.db)
-    print(f"Seeded {n} new demo queue item(s) into {args.db}")
+    n = seed_queue_demo(args.db, args.app_db)
+    target = args.app_db or (args.db.parent / "app.db")
+    print(f"Seeded {n} new demo queue item(s) into {target}")
