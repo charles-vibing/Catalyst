@@ -102,6 +102,7 @@ class SubmitResponse(BaseModel):
     checkin: CheckinOut
     acknowledgement: str
     alerts: List[Dict[str, Any]]
+    superseded_alerts: List[int]
     milestones_met: List[str]
 
 
@@ -256,7 +257,10 @@ def submit_checkin(
         by = submitted_by(ctx)
 
         previous = conn.execute(
-            "SELECT id FROM app.daily_checkin WHERE fin = ? AND checkin_date = ?",
+            """
+            SELECT id, pain_score, weight_bearing_status
+            FROM app.daily_checkin WHERE fin = ? AND checkin_date = ?
+            """,
             (ctx["fin"], today),
         ).fetchone()
 
@@ -332,6 +336,70 @@ def submit_checkin(
             occurred_at=f"{today}T12:00:00+00:00",
         )
 
+        # Today's check-in is an upsert, so a resubmission rewrites the row an
+        # earlier alert was raised from. Retract those alerts before raising a
+        # new one, or the queue keeps asserting a pain score the chart no longer
+        # holds. Scoped by signal kind so red-flag intake (routers/redflag.py,
+        # same queue kind but kind='symptom') is never touched.
+        #
+        # Two deliberate limits: only 'open' items are cleared — once a
+        # navigator has picked one up it is theirs to close, not ours to
+        # vanish — and this resolves rather than deletes, so the original red
+        # signal_event stays on the timeline and the audit trail records the
+        # retraction. The severe report is still visible history; it just stops
+        # being an open action item.
+        superseded: List[int] = []
+        if previous is not None:
+            stale = conn.execute(
+                """
+                SELECT q.id FROM app.queue_item q
+                JOIN app.signal_event se ON se.id = q.signal_event_id
+                WHERE q.fin = ?
+                  AND q.kind = 'app_symptom'
+                  AND q.status = 'open'
+                  AND se.kind = 'checkin_done'
+                  AND substr(se.occurred_at, 1, 10) = ?
+                """,
+                (ctx["fin"], today),
+            ).fetchall()
+
+            if stale:
+                old_pain = previous["pain_score"]
+                if old_pain is not None and body.pain_score is not None:
+                    change = f"pain {old_pain}/10 → {body.pain_score}/10"
+                else:
+                    change = "answers revised"
+                note = (
+                    f"Superseded — patient amended today's check-in ({change}). "
+                    "The original report remains on the signal timeline."
+                )
+                for r in stale:
+                    conn.execute(
+                        """
+                        UPDATE app.queue_item
+                           SET status = 'resolved',
+                               resolution_action = 'superseded',
+                               resolution_note = ?,
+                               resolved_at = ?
+                         WHERE id = ?
+                        """,
+                        (note, now_iso(), int(r["id"])),
+                    )
+                    superseded.append(int(r["id"]))
+                write_audit(
+                    conn,
+                    ctx,
+                    action="queue.supersede",
+                    entity_type="queue_item",
+                    entity_id=",".join(str(i) for i in superseded),
+                    detail={
+                        "reason": "checkin_amended",
+                        "previous_pain_score": old_pain,
+                        "new_pain_score": body.pain_score,
+                        "new_severity": severity,
+                    },
+                )
+
         alerts: List[Dict[str, Any]] = []
         if severity == "red":
             qid = enqueue(
@@ -392,5 +460,6 @@ def submit_checkin(
         checkin=_row_to_out(row),
         acknowledgement=ack,
         alerts=alerts,
+        superseded_alerts=superseded,
         milestones_met=newly_met,
     )

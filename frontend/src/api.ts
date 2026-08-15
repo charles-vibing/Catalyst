@@ -402,3 +402,187 @@ export async function assignQueueItem(id: number, role: string): Promise<QueueIt
   if (!res.ok) throw new Error(`assign failed: ${res.status}`);
   return res.json();
 }
+
+// ---------------------------------------------------------------------------
+// Executive view (D13 / D15) — episode economics by post-acute destination
+// ---------------------------------------------------------------------------
+
+/** Shared caveats every exec response carries; the UI renders them, not hides them. */
+export interface ExecMeta {
+  as_of: string;
+  as_of_mode: "frozen" | "live";
+  org_name: string;
+  episodes: number;
+  closed_episodes: number;
+  in_flight_episodes: number;
+  min_n_for_delta: number;
+  basis: string;
+  window_days: number;
+  claims_lag_note: string;
+}
+
+export interface ExecKpis {
+  episodes: number;
+  closed_episodes: number;
+  in_flight_episodes: number;
+  total_spend: number;
+  spend_to_date: number;
+  avg_spend_closed: number | null;
+  avg_target_closed: number | null;
+  /** Positive = under target across closed episodes. */
+  net_savings_closed: number | null;
+  savings_rate_closed: number | null;
+  episodes_over_target: number;
+  avg_ip_los: number | null;
+  readmit_rate_closed: number | null;
+  pct_discharged_home: number | null;
+  post_acute_share: number | null;
+}
+
+export interface ExecOpportunity {
+  facility_key: string;
+  facility_name: string;
+  setting_label: string;
+  episodes: number;
+  post_acute_days: number;
+  cost_per_day: number;
+  peer_cost_per_day: number;
+  price_ratio: number;
+  avoidable_spend: number;
+  avoidable_per_episode: number;
+  headline: string;
+  action: string;
+}
+
+export interface ExecSummaryResponse {
+  meta: ExecMeta;
+  kpis: ExecKpis;
+  opportunity: ExecOpportunity | null;
+}
+
+export interface FacilityRow {
+  facility_key: string;
+  facility_name: string;
+  setting: string;
+  setting_label: string;
+  ownership: string;
+  episodes: number;
+  closed_episodes: number;
+  total_spend: number;
+  avg_spend: number | null;
+  avg_target: number | null;
+  /** Positive = over target. Null until the facility has enough closed episodes. */
+  avg_variance: number | null;
+  post_acute_spend: number;
+  post_acute_days: number;
+  cost_per_post_acute_day: number | null;
+  peer_cost_per_day: number | null;
+  price_ratio: number | null;
+  avg_ip_los: number | null;
+  readmit_rate: number | null;
+  delta_suppressed: boolean;
+  is_price_outlier: boolean;
+}
+
+export interface CostDriver {
+  category: string;
+  label: string;
+  amount: number;
+  excess: number;
+  share: number;
+}
+
+export interface EpisodeCostRow {
+  fin: string;
+  patient_id: number;
+  mrn: string;
+  patient_name: string;
+  age: number | null;
+  ms_drg: string | null;
+  discharge_date: string | null;
+  window_end: string | null;
+  status: "closed" | "in_flight" | "predischarge" | "unknown";
+  setting: string;
+  facility_key: string;
+  facility_name: string;
+  comorbidity_count: number | null;
+  length_of_stay_days: number | null;
+  post_acute_days: number | null;
+  target_price: number | null;
+  actual_spend: number;
+  /** Closed episodes only — a partial episode has no meaningful variance. */
+  variance: number | null;
+  variance_pct: number | null;
+  target_consumed_pct: number | null;
+  peer_median: number | null;
+  is_outlier: boolean;
+  had_readmission: boolean;
+  drivers: CostDriver[];
+}
+
+export interface FacilityListResponse {
+  meta: ExecMeta;
+  facilities: FacilityRow[];
+}
+
+export interface FacilityDetailResponse {
+  meta: ExecMeta;
+  facility: FacilityRow;
+  episodes: EpisodeCostRow[];
+}
+
+export interface OutlierResponse {
+  meta: ExecMeta;
+  episodes: EpisodeCostRow[];
+}
+
+export interface CostCategoryRow {
+  category: string;
+  label: string;
+  cohort_per_episode: number;
+  selected_per_episode: number;
+}
+
+export interface CostCategoryResponse {
+  meta: ExecMeta;
+  selected_key: string;
+  selected_label: string;
+  categories: CostCategoryRow[];
+}
+
+export async function fetchExecSummary(): Promise<ExecSummaryResponse> {
+  const res = await fetch("/api/exec/summary");
+  if (!res.ok) throw new Error(`exec summary failed: ${res.status}`);
+  return res.json();
+}
+
+export async function fetchFacilities(): Promise<FacilityListResponse> {
+  const res = await fetch("/api/exec/facilities");
+  if (!res.ok) throw new Error(`facilities request failed: ${res.status}`);
+  return res.json();
+}
+
+export async function fetchFacilityEpisodes(
+  facilityKey: string,
+): Promise<FacilityDetailResponse> {
+  const res = await fetch(
+    `/api/exec/facilities/${encodeURIComponent(facilityKey)}/episodes`,
+  );
+  if (!res.ok) throw new Error(`facility drill-down failed: ${res.status}`);
+  return res.json();
+}
+
+export async function fetchOutliers(limit = 8): Promise<OutlierResponse> {
+  const res = await fetch(`/api/exec/outliers?limit=${limit}`);
+  if (!res.ok) throw new Error(`outliers request failed: ${res.status}`);
+  return res.json();
+}
+
+export async function fetchCostCategories(
+  facilityKey?: string,
+): Promise<CostCategoryResponse> {
+  const qs = facilityKey ? `?facility=${encodeURIComponent(facilityKey)}` : "";
+  const res = await fetch(`/api/exec/cost-categories${qs}`);
+  if (!res.ok) throw new Error(`cost categories failed: ${res.status}`);
+  return res.json();
+}

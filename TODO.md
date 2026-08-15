@@ -75,16 +75,48 @@ check-in submitted twice from two devices.
 
 ### Not built on the dashboard side
 D6 (patient signal timeline) was built because the patient app needed somewhere
-to write. Still unimplemented from `design/hospital-dashboard-mvp-plan.md`:
+to write. D13/D15 (executive view) landed after the MVP. Still unimplemented
+from `design/hospital-dashboard-mvp-plan.md`:
 
 - **D2 / D5** risk engine — `risk_score` exists and is empty; no rule module
 - **D3** filter/sort by risk tier and PCP gap (status and engagement sort work)
 - **D8** PCP tracker UI — `referral_status_event` is now *written* by the patient
   app, but no dashboard screen reads or edits it
-- **D10** readmission visibility — `v_readmit_events` is a view with no endpoint
-- **D11–D14** compliance strip, outreach audit trail, population KPIs
+- **D10** readmission visibility — `v_readmit_events` still has no endpoint, but
+  the exec view computes readmission rates off `v_episode_claim` instead
+- **D11 / D12 / D14** compliance strip, outreach audit trail, care-setting
+  handoff status
 - `POST /api/queue/{id}/assign` now has a client function
   (`assignQueueItem`) but still no UI control that calls it
+
+### Executive view (D13 / D15) — what is deliberately missing
+
+- **No risk adjustment.** The single biggest objection to any facility cost
+  comparison is "that facility takes sicker patients", and the exec view
+  currently answers it only by argument: the cost-category panel shows the
+  flagged SNF's *anchor inpatient* spend sitting at or below cohort average
+  while its SNF line runs ~8x, which is hard to explain with case mix. A real
+  answer is an observed/expected ratio. `episode_target_price` already carries
+  `age` and `comorbidity_count`, and `claim_diagnosis` has POA flags, so the
+  inputs for a simple expected-cost model are present. CMS-HCC is out of scope.
+- **Small n is real, not a rendering problem.** 50 episodes across nine
+  destinations leaves most facilities at 1–3 closed episodes. Deltas below
+  `MIN_N_FOR_DELTA` (5) render de-emphasised with their n attached rather than
+  suppressed, but no amount of UI fixes a denominator of 2. A 150–200 patient
+  cohort is the actual fix.
+- **Claims lag is reported, not applied.** Spend counts a line once its service
+  period closes (`clm_thru_dt <= as_of`), ignoring `file_received_dt`, which in
+  this cohort trails by 30-60 days. A real deployment would always trail the
+  finance system; the meta carries a note saying so, but no toggle models it.
+- **The target price is generated, not negotiated.** `db/gen_post_acute.py`
+  derives it from DRG + age + comorbidity count with constants chosen so the
+  blend behaves like a real regional benchmark (home under, freestanding SNF
+  near, hospital-based SNF and readmits well over). It is not a CMS methodology.
+- **One hospital.** Rows are post-acute destinations, which is the TEAM lever,
+  but the reference deck this came from also groups by *inpatient* facility for
+  multi-hospital systems. That needs sibling hospitals in the cohort.
+- **No export.** No CSV/PDF out of the exec view, which is the first thing
+  anyone taking this to a board meeting will ask for.
 
 ### Testing
 **There are no tests anywhere in this repo** — no pytest, no vitest, no fixtures.

@@ -15,6 +15,7 @@ from migrate_app import apply_app_tables  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_ROOT = REPO_ROOT / "data" / "patient"
+FEEDS_ROOT = REPO_ROOT / "data" / "feeds"
 SCHEMA_PATH = Path(__file__).resolve().parent / "schema.sql"
 DEFAULT_DB = REPO_ROOT / "db" / "catalyst.db"
 
@@ -701,6 +702,103 @@ def load_patient(conn: sqlite3.Connection, patient_dir: Path) -> None:
             )
 
 
+def load_cohort_feeds(conn: sqlite3.Connection) -> None:
+    """Load the cohort-wide feeds under data/feeds/ (executive view, D13/D15).
+
+    Written by db/gen_post_acute.py. All three files are optional: the cohort
+    predates them, and the dashboard's care-team view does not need them, so a
+    missing file degrades the exec view rather than breaking the load.
+
+    Post-acute claim lines land in medicare_claim_line beside the per-patient
+    feed rows. patient_id resolves through the anchor FIN, which every generated
+    line carries.
+    """
+    if not FEEDS_ROOT.exists():
+        return
+
+    provider_path = FEEDS_ROOT / "provider_facility.csv"
+    if provider_path.exists():
+        with provider_path.open(encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                conn.execute(
+                    """
+                    INSERT OR REPLACE INTO provider_facility (
+                        ccn, name, setting, ownership, source_file
+                    ) VALUES (?,?,?,?,?)
+                    """,
+                    (
+                        row["CCN"],
+                        row["NAME"],
+                        row["SETTING"],
+                        row.get("OWNERSHIP") or None,
+                        rel_source(provider_path),
+                    ),
+                )
+
+    claims_path = FEEDS_ROOT / "post_acute_claims.csv"
+    if claims_path.exists():
+        with claims_path.open(encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                fin = row.get("FIN") or None
+                pid_row = conn.execute(
+                    "SELECT patient_id FROM encounter WHERE fin = ?", (fin,)
+                ).fetchone()
+                conn.execute(
+                    """
+                    INSERT OR REPLACE INTO medicare_claim_line (
+                        patient_id, bene_id, clm_id, fin, clm_from_dt, clm_thru_dt,
+                        prvdr_ccn, prvdr_npi, clm_type, drg_cd, hcpcs_cd,
+                        line_pmt_amt, pos_cd, file_received_dt, source_file
+                    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                    """,
+                    (
+                        pid_row["patient_id"] if pid_row else None,
+                        row["BENE_ID"],
+                        row["CLM_ID"],
+                        fin,
+                        row.get("CLM_FROM_DT"),
+                        row.get("CLM_THRU_DT"),
+                        row.get("PRVDR_CCN") or None,
+                        row.get("PRVDR_NPI") or None,
+                        row.get("CLM_TYPE"),
+                        row.get("DRG_CD") or None,
+                        row.get("HCPCS_CD") or None,
+                        float(row["LINE_PMT_AMT"]) if row.get("LINE_PMT_AMT") else None,
+                        row.get("POS_CD") or None,
+                        row.get("FILE_RECEIVED_DT"),
+                        rel_source(claims_path),
+                    ),
+                )
+
+    target_path = FEEDS_ROOT / "episode_target_price.csv"
+    if target_path.exists():
+        with target_path.open(encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                conn.execute(
+                    """
+                    INSERT OR REPLACE INTO episode_target_price (
+                        fin, patient_id, ms_drg, target_price, age,
+                        comorbidity_count, post_acute_ccn, post_acute_setting,
+                        post_acute_days, source_file
+                    ) VALUES (?,?,?,?,?,?,?,?,?,?)
+                    """,
+                    (
+                        row["FIN"],
+                        int(row["PATIENT_ID"]) if row.get("PATIENT_ID") else None,
+                        row.get("MS_DRG") or None,
+                        float(row["TARGET_PRICE"]),
+                        int(row["AGE"]) if row.get("AGE") else None,
+                        int(row["COMORBIDITY_COUNT"])
+                        if row.get("COMORBIDITY_COUNT")
+                        else None,
+                        row.get("POST_ACUTE_CCN") or None,
+                        row.get("POST_ACUTE_SETTING") or None,
+                        int(row["POST_ACUTE_DAYS"]) if row.get("POST_ACUTE_DAYS") else 0,
+                        rel_source(target_path),
+                    ),
+                )
+
+
 def load_cohort(db_path: Path = DEFAULT_DB) -> None:
     if db_path.exists():
         db_path.unlink()
@@ -711,6 +809,7 @@ def load_cohort(db_path: Path = DEFAULT_DB) -> None:
             key=lambda p: int(p.name),
         ):
             load_patient(conn, patient_dir)
+        load_cohort_feeds(conn)
         conn.commit()
         counts = {
             row[0]: row[1]
@@ -722,6 +821,8 @@ def load_cohort(db_path: Path = DEFAULT_DB) -> None:
                 UNION ALL SELECT 'documents', COUNT(*) FROM clinical_document
                 UNION ALL SELECT 'medicare_lines', COUNT(*) FROM medicare_claim_line
                 UNION ALL SELECT 'hie_adt_alerts', COUNT(*) FROM hie_adt_alert
+                UNION ALL SELECT 'providers', COUNT(*) FROM provider_facility
+                UNION ALL SELECT 'target_prices', COUNT(*) FROM episode_target_price
                 """
             )
         }

@@ -16,6 +16,7 @@ from .routers import (
     checklist,
     enrollment,
     episode,
+    exec_view,
     exercise,
     medications,
     message,
@@ -53,6 +54,7 @@ app.include_router(roster.router)
 app.include_router(episode.router)
 app.include_router(queue.router)
 app.include_router(patient_signals.router)
+app.include_router(exec_view.router)
 
 # Patient companion surface
 app.include_router(enrollment.router)

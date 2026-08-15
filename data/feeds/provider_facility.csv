@@ -1,0 +1,11 @@
+CCN,NAME,SETTING,OWNERSHIP
+260001,Memorial General Hospital,inpatient,system
+140010,St. Anne's Regional Medical Center,inpatient,competitor
+265001,Memorial General Transitional Care Unit,snf,hospital_based
+265101,Springfield Health & Rehabilitation Center,snf,freestanding
+265102,Prairie Meadows Care Center,snf,freestanding
+265103,Cedar Ridge Nursing & Rehabilitation,snf,freestanding
+263025,Prairie View Rehabilitation Hospital,irf,freestanding
+267012,Memorial Home Health Services,hha,system
+267045,HomeCare of Springfield,hha,freestanding
+261500,Hope Hospice Services,hospice,freestanding
