@@ -5,8 +5,13 @@ SHFFT 30-day post-discharge monitoring. Not a PHI production deployment.
 
 | Surface | Port | Who uses it | What it does |
 |---|---|---|---|
-| **Hospital dashboard** (`frontend/`) | 5173 | Ortho navigator, case management, SNF liaison | Episode roster, patient episode view, triage queue, patient-app engagement, message inbox |
+| **Hospital dashboard** (`frontend/`) | 5173 | Executive **and** care team — two views, one switcher | **Executive:** cost and outcomes by discharge destination, savings vs TEAM target, drill-down to the outlier patients driving spend. **Care team:** episode roster, patient episode view, triage queue, patient-app engagement, message inbox |
 | **Patient companion** (`patient/`) | 5174 | Patient **or** caregiver (one login, either can use it) | Onboarding, recovery timeline, daily check-in, red-flag triage, PT library, medication tracker, appointments, secure messaging, checklists |
+
+The dashboard opens on the **executive view** (`?view=exec`) and switches to the
+care-team view in the header. They link both ways: an exec drilling into an
+expensive facility clicks a patient and lands on that patient's episode in the
+care-team view. Dollars → cause → intervention, in three clicks.
 
 Both read and write the same source of truth, so a check-in submitted in the app
 appears on the navigator's screen, and a red flag becomes a triage queue item.
@@ -17,6 +22,7 @@ Design docs live in [design/](design/); post-MVP scope is in [TODO.md](TODO.md).
 
 ```bash
 # 1. Build the databases (cohort + app-owned tables + demo history)
+python3 db/gen_post_acute.py              # → data/feeds/*.csv (executive view)
 python3 db/load_cohort.py                 # → db/catalyst.db and db/app.db
 python3 db/seed_patient_demo.py           # → 30 days of patient-app history
 
@@ -83,9 +89,11 @@ Two SQLite files, deliberately separated:
 
 - **`db/catalyst.db`** — cohort tables (`patient`, `encounter`, `lab_result`,
   `medication`, `referral`, `therapy_evaluation`, …) loaded from `data/patient/`
-  by `db/load_cohort.py`, plus cohort-derived views from `db/cohort_views.sql`
-  (`v_episode`, `v_roster`, `v_readmit_events`, `v_pcp_gap`).
-  **The loader deletes and rebuilds this file on every run.**
+  by `db/load_cohort.py`, plus the cohort-wide economics feeds from `data/feeds/`
+  (`provider_facility`, `episode_target_price`, and post-acute rows appended to
+  `medicare_claim_line`), plus cohort-derived views from `db/cohort_views.sql`
+  (`v_episode`, `v_roster`, `v_readmit_events`, `v_pcp_gap`, `v_episode_claim`,
+  `v_episode_econ`). **The loader deletes and rebuilds this file on every run.**
 - **`db/app.db`** — app-owned state from `db/app_tables.sql`: triage queue,
   audit trail, and everything the patient app writes. The loader never touches
   it, so **user and patient data survive a cohort reload by construction**.
@@ -119,6 +127,15 @@ New tables: `patient_enrollment`, `episode_milestone`, `daily_checkin`,
 `checklist_item` + `checklist_response`.
 
 ## API
+
+Executive routes (`/api/exec/*`, staff):
+
+- `GET /api/exec/summary` — KPI strip plus the single largest savings opportunity
+- `GET /api/exec/facilities` — one row per discharge destination: spend, cost per
+  post-acute day vs freestanding peers, IP LOS, readmit rate, variance vs target
+- `GET /api/exec/facilities/{key}/episodes` — the episodes behind one facility
+- `GET /api/exec/outliers` — episodes furthest over target, with cost drivers
+- `GET /api/exec/cost-categories` — per-episode spend by category vs the cohort
 
 Dashboard routes (`Depends(get_current_user)` — staff):
 
